@@ -1,2 +1,2 @@
-# lm_embeddings_4_species
+# Language Model Embeddings for Species in Biodiversity
 Similarity between legacy and current names
