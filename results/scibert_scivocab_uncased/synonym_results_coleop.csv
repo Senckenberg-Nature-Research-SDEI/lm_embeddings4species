@@ -1,274 +1,547 @@
-species,oldSpeciesCanonicalName,similarity,prediction,model,threshold
-Archaeophylax worthyi,Waitomophylax worthyi,0.8476,synonym,allenai/scibert_scivocab_uncased,0.7
-Mycterus curculioides,Mycterus curculionides,0.9601,synonym,allenai/scibert_scivocab_uncased,0.7
-Mycterus curculioides,Mycterus curculionoides,0.9409,synonym,allenai/scibert_scivocab_uncased,0.7
-Mycterus quadricollis,Mycterus depressus,0.9424,synonym,allenai/scibert_scivocab_uncased,0.7
-Megatoma atypica,Cretomegatoma atypica,0.9287,synonym,allenai/scibert_scivocab_uncased,0.7
-Trogoderma glabrum,Anthrenus niger,0.7869,synonym,allenai/scibert_scivocab_uncased,0.7
-Trogoderma glabrum,Trogoderma fuscicornis,0.9188,synonym,allenai/scibert_scivocab_uncased,0.7
-Trogoderma glabrum,Trogoderma niger,0.8948,synonym,allenai/scibert_scivocab_uncased,0.7
-Trogoderma glabrum,Trogoderma nigrum,0.934,synonym,allenai/scibert_scivocab_uncased,0.7
-Trogoderma grassmani,Trogoderma grassmani,1.0,synonym,allenai/scibert_scivocab_uncased,0.7
-Trogoderma megatomoides,Entomotrogus megatomoides,0.8374,synonym,allenai/scibert_scivocab_uncased,0.7
-Ctesias serra,Tiresias serra,0.9146,synonym,allenai/scibert_scivocab_uncased,0.7
-Sefrania bleusei,Fohrer bleusei,0.8399,synonym,allenai/scibert_scivocab_uncased,0.7
-Phradonoma tricolor,Trogoderma tricolor,0.8922,synonym,allenai/scibert_scivocab_uncased,0.7
-Labrocerus concolor,Labrocerus simplex,0.9204,synonym,allenai/scibert_scivocab_uncased,0.7
-Labrocerus depressus,Eocerus depressus,0.9439,synonym,allenai/scibert_scivocab_uncased,0.7
-Labrocerus setosus,Labrocerus affinis,0.8645,synonym,allenai/scibert_scivocab_uncased,0.7
-Labrocerus setosus,Labrocerus pallipes,0.8973,synonym,allenai/scibert_scivocab_uncased,0.7
-Labrocerus similaris,Argocerus similaris,0.921,synonym,allenai/scibert_scivocab_uncased,0.7
-Labrocerus similaris,Argocerus subguttatus,0.8587,synonym,allenai/scibert_scivocab_uncased,0.7
-Labrocerus vestitus,Labrocerus flavicornis,0.9073,synonym,allenai/scibert_scivocab_uncased,0.7
-Attagenus australis,Trinodes australis,0.9252,synonym,allenai/scibert_scivocab_uncased,0.7
-Attagenus brunneus,Attagenus elongatulus,0.8641,synonym,allenai/scibert_scivocab_uncased,0.7
-Attagenus brunneus,Attagenus elongatus,0.9155,synonym,allenai/scibert_scivocab_uncased,0.7
-Attagenus brunneus,Attagenus marginicollis,0.9125,synonym,allenai/scibert_scivocab_uncased,0.7
-Attagenus fasciatus,Attagenus anulifer,0.9058,synonym,allenai/scibert_scivocab_uncased,0.7
-Attagenus fasciatus,Attagenus gloriosae,0.9408,synonym,allenai/scibert_scivocab_uncased,0.7
-Attagenus fasciatus,Attagenus gloriosus,0.8927,synonym,allenai/scibert_scivocab_uncased,0.7
-Attagenus quadrimaculatus,Attagenus 4-maculatus,0.9059,synonym,allenai/scibert_scivocab_uncased,0.7
-Attagenus trifasciatus,Attagenus 3-fasciatus,0.9167,synonym,allenai/scibert_scivocab_uncased,0.7
-Attagenus undulatus,Aethriostoma undulata,0.8764,synonym,allenai/scibert_scivocab_uncased,0.7
-Attagenus unicolor,Attagenus megatoma,0.8405,synonym,allenai/scibert_scivocab_uncased,0.7
-Attagenus unicolor,Attagenus piceus,0.8943,synonym,allenai/scibert_scivocab_uncased,0.7
-Thaumaglossa anthrenoides,Pseudothaumaglossa anthrenoides,0.9739,synonym,allenai/scibert_scivocab_uncased,0.7
-Orphinus fulvipes,Cryptorhopalum brevicorne,0.8632,synonym,allenai/scibert_scivocab_uncased,0.7
-Orphinus fulvipes,Orphinus brevicorne,0.9361,synonym,allenai/scibert_scivocab_uncased,0.7
-Orphinus fulvipes,Orphinus brevicornis,0.9377,synonym,allenai/scibert_scivocab_uncased,0.7
-Orphinus fulvipes,Trogoderma fulvipes,0.8891,synonym,allenai/scibert_scivocab_uncased,0.7
-Thorictodes heydeni,Thaumaphrastus heydeni,0.6823,not synonym,allenai/scibert_scivocab_uncased,0.7
-Thorictodes heydeni,Thorictodes karanisensis,0.6871,not synonym,allenai/scibert_scivocab_uncased,0.7
-Megatoma alpina,Globicornis alpina,0.8071,synonym,allenai/scibert_scivocab_uncased,0.7
-Heterocerus crinitus,Augyles crinitus,0.8778,synonym,allenai/scibert_scivocab_uncased,0.7
-Heterocerus fenestratus,Heterocerus pulchellus,0.9308,synonym,allenai/scibert_scivocab_uncased,0.7
-Heterocerus flindersi,Heterocerus caledoniae,0.8998,synonym,allenai/scibert_scivocab_uncased,0.7
-Heterocerus maritimus,Augyles britannicus,0.7715,synonym,allenai/scibert_scivocab_uncased,0.7
-Heterocerus maritimus,Heterocerus basalis,0.9112,synonym,allenai/scibert_scivocab_uncased,0.7
-Heterocerus maritimus,Heterocerus britannicus,0.9077,synonym,allenai/scibert_scivocab_uncased,0.7
-Heterocerus maritimus,Heterocerus burchanensis,0.8694,synonym,allenai/scibert_scivocab_uncased,0.7
-Augyles aureolus,Heterocerus aureolus,0.8725,synonym,allenai/scibert_scivocab_uncased,0.7
-Pastillodes areolatus,Cybocephalus areolatus,0.8562,synonym,allenai/scibert_scivocab_uncased,0.7
-Cybocephalus binotatus,Cybocephalus aeneonittens,0.9379,synonym,allenai/scibert_scivocab_uncased,0.7
-Cybocephalus membranaceus,Dissia membranaceus,0.7786,synonym,allenai/scibert_scivocab_uncased,0.7
-Cybocephalus politissimus,Cybocephalus flavicapitus,0.932,synonym,allenai/scibert_scivocab_uncased,0.7
-Cybocephalus politissimus,Cybocephalus flavocapitis,0.9445,synonym,allenai/scibert_scivocab_uncased,0.7
-Cybocephalus amplus,Dissia ampla,0.5884,not synonym,allenai/scibert_scivocab_uncased,0.7
-Cybocephalus sublucidus,Brachypterus sublucidus,0.9215,synonym,allenai/scibert_scivocab_uncased,0.7
-Pacicephalus gressitti,Cybocephalus gressitti,0.8626,synonym,allenai/scibert_scivocab_uncased,0.7
-Amedissia argentinus,Pycnocephalus argentinus,0.777,synonym,allenai/scibert_scivocab_uncased,0.7
-Theticephalus aurocupreus,Cybocephalus aurocupreus,0.9021,synonym,allenai/scibert_scivocab_uncased,0.7
-Theticephalus decamerus,Cybocephalus decamerus,0.894,synonym,allenai/scibert_scivocab_uncased,0.7
-Theticephalus mesopotamicus,Cybocephalus mesopatamicus,0.9026,synonym,allenai/scibert_scivocab_uncased,0.7
-Theticephalus mesopotamicus,Cybocephalus mesopotamicus,0.9209,synonym,allenai/scibert_scivocab_uncased,0.7
-Theticephalus mesopotamicus,Theticephalus mesopatamicus,0.9677,synonym,allenai/scibert_scivocab_uncased,0.7
-Theticephalus nigriceps,Dissia nigriceps,0.8642,synonym,allenai/scibert_scivocab_uncased,0.7
-Theticephalus salsus,Cybocephalus salsus,0.897,synonym,allenai/scibert_scivocab_uncased,0.7
-Cycloderma deplanatum,Critoderma deplanatum,0.8919,synonym,allenai/scibert_scivocab_uncased,0.7
-Micromalthus debilis,Micromalthus anansi,0.7942,synonym,allenai/scibert_scivocab_uncased,0.7
-Eurymeloe baudueri,Meloe baudueri,0.8978,synonym,allenai/scibert_scivocab_uncased,0.7
-Eurymeloe ganglbaueri,Meloe ganglbaueri,0.811,synonym,allenai/scibert_scivocab_uncased,0.7
-Eurymeloe mediterraneus,Meloe mediterraneus,0.7645,synonym,allenai/scibert_scivocab_uncased,0.7
-Eurymeloe murinus,Meloe murinus,0.8092,synonym,allenai/scibert_scivocab_uncased,0.7
-Eurymeloe scabriusculus,Meloe scabriusculus,0.8744,synonym,allenai/scibert_scivocab_uncased,0.7
-Palaestra guerini,Telephorus guerinii,0.6214,not synonym,allenai/scibert_scivocab_uncased,0.7
-Palaestra guerini,Zonitis guerini,0.8755,synonym,allenai/scibert_scivocab_uncased,0.7
-Hycleus polymorphus,Mylabris polymorpha,0.853,synonym,allenai/scibert_scivocab_uncased,0.7
-Hycleus phaleratus,Meloe phalerata,0.7941,synonym,allenai/scibert_scivocab_uncased,0.7
-Hycleus phaleratus,Mylabris phalerata,0.8526,synonym,allenai/scibert_scivocab_uncased,0.7
-Hycleus brevetarsalis,Mylabris brevetarsalis,0.913,synonym,allenai/scibert_scivocab_uncased,0.7
-Cantharis lithophilus,Lytta lithophila,0.8061,synonym,allenai/scibert_scivocab_uncased,0.7
-Zonitis chrysomeloides,Cantharis chrysomeloides,0.9393,synonym,allenai/scibert_scivocab_uncased,0.7
-Zonitis melanoptera,Zonitis nigripennis,0.8855,synonym,allenai/scibert_scivocab_uncased,0.7
-Cerocoma schaefferi,Cerocoma viridis,0.8667,synonym,allenai/scibert_scivocab_uncased,0.7
-Meloe brevicollis,Meloe cephalotes,0.6867,not synonym,allenai/scibert_scivocab_uncased,0.7
-Meloe brevicollis,Meloe laticollis,0.9021,synonym,allenai/scibert_scivocab_uncased,0.7
-Meloe brevicollis,Meloe puncticollis,0.8884,synonym,allenai/scibert_scivocab_uncased,0.7
-Meloe brevicollis,Meloe splendens,0.8752,synonym,allenai/scibert_scivocab_uncased,0.7
-Meloe cicatricosus,Meloe cicatricosus,1.0,synonym,allenai/scibert_scivocab_uncased,0.7
-Meloe cicatricosus,Meloe punctatoradiatus,0.9162,synonym,allenai/scibert_scivocab_uncased,0.7
-Meloe rugosus,Meloe autumnalis,0.9346,synonym,allenai/scibert_scivocab_uncased,0.7
-Meloe rugosus,Meloe punctatus,0.8927,synonym,allenai/scibert_scivocab_uncased,0.7
-Meloe rugosus,Meloe rugulosus,0.9583,synonym,allenai/scibert_scivocab_uncased,0.7
-Strongylites stygius,Strongulites stygicus,0.8874,synonym,allenai/scibert_scivocab_uncased,0.7
-Trachypachus gibbsii,Trachypachus alticola,0.9244,synonym,allenai/scibert_scivocab_uncased,0.7
-Trachypachus gibbsii,Trachypachus californicus,0.907,synonym,allenai/scibert_scivocab_uncased,0.7
-Trachypachus inermis,Trachypachus holmbergi,0.8828,synonym,allenai/scibert_scivocab_uncased,0.7
-Trachypachus inermis,Trachypachus oregonus,0.9439,synonym,allenai/scibert_scivocab_uncased,0.7
-Trachypachus inermis,Trachypachus specularis,0.8766,synonym,allenai/scibert_scivocab_uncased,0.7
-Trachypachus zetterstedtii,Trachypachus laticollis,0.8022,synonym,allenai/scibert_scivocab_uncased,0.7
-Trachypachus zetterstedtii,Trachypachus transversicollis,0.7911,synonym,allenai/scibert_scivocab_uncased,0.7
-Systolosoma breve,Notioxenus bilunulatus,0.732,synonym,allenai/scibert_scivocab_uncased,0.7
-Systolosoma breve,Systolosoma bilunulatum,0.8318,synonym,allenai/scibert_scivocab_uncased,0.7
-Necronectulus avus,Necronetulus avus,0.8778,synonym,allenai/scibert_scivocab_uncased,0.7
-Ademosynoides asiatica,Petrodromeus asiaticus,0.7648,synonym,allenai/scibert_scivocab_uncased,0.7
-Ademosynoides chinatica,Toksunius chinaticus,0.8408,synonym,allenai/scibert_scivocab_uncased,0.7
-Ademosynoides juxta,Dzeregia juxta,0.8314,synonym,allenai/scibert_scivocab_uncased,0.7
-Gyrinites minimus,Phaulogyrinus minimus,0.8567,synonym,allenai/scibert_scivocab_uncased,0.7
-Epicerastes exstans,Epicerastes extans,0.9045,synonym,allenai/scibert_scivocab_uncased,0.7
-Epicerastes viridescens,Epicerastes viridanus,0.9286,synonym,allenai/scibert_scivocab_uncased,0.7
-Protaedus butoniensis,Protaedus butoniense,0.9687,synonym,allenai/scibert_scivocab_uncased,0.7
-Protaedus frontaltus,Protaedus fontaltus,0.8904,synonym,allenai/scibert_scivocab_uncased,0.7
-Protaedus matertera,Protaedus materta,0.9365,synonym,allenai/scibert_scivocab_uncased,0.7
-Protaedus robusticornis,Protaedus robusticorne,0.9873,synonym,allenai/scibert_scivocab_uncased,0.7
-Bothrus taiwanus,Physopterus taiwanus,0.9105,synonym,allenai/scibert_scivocab_uncased,0.7
-Hucus numatus,Hucus numatus,1.0,synonym,allenai/scibert_scivocab_uncased,0.7
-Exillis aeruginosus,Exillis aeroginosus,0.9018,synonym,allenai/scibert_scivocab_uncased,0.7
-Dolichocera harmandi,Dolichocera hermandi,0.9803,synonym,allenai/scibert_scivocab_uncased,0.7
-Dolichocera schanus,Dolichocera schanus,1.0,synonym,allenai/scibert_scivocab_uncased,0.7
-Dolichocera tessellata,Dolichocera tessellatus,0.9571,synonym,allenai/scibert_scivocab_uncased,0.7
-Tophoderes depontanus,Syntophoderes depontanus,0.7644,synonym,allenai/scibert_scivocab_uncased,0.7
-Tophoderes sinuatocollis,Tophoderes sinuaticollis,0.9883,synonym,allenai/scibert_scivocab_uncased,0.7
-Anthribus moussonii,Anthribus moussoni,0.9732,synonym,allenai/scibert_scivocab_uncased,0.7
-Anthribus nebulosus,Anthribus minimus,0.9357,synonym,allenai/scibert_scivocab_uncased,0.7
-Anthribus nebulosus,Anthribus tesselatus,0.9022,synonym,allenai/scibert_scivocab_uncased,0.7
-Anthribus nebulosus,Anthribus variegatus,0.9005,synonym,allenai/scibert_scivocab_uncased,0.7
-Anthribus nebulosus,Brachytarsus kusteri,0.7362,synonym,allenai/scibert_scivocab_uncased,0.7
-Anthribus scapularis,Brachytarsus rosae,0.8034,synonym,allenai/scibert_scivocab_uncased,0.7
-Deropygus chaerilus,Deropygus cherilus,0.9441,synonym,allenai/scibert_scivocab_uncased,0.7
-Electranthribus zherikhini,Glaesotropis zherikhini,0.93,synonym,allenai/scibert_scivocab_uncased,0.7
-Sympaector revocans,Sympaector revocanus,0.9605,synonym,allenai/scibert_scivocab_uncased,0.7
-Phytocerum cayennense,Cerophytum cayennense,0.9103,synonym,allenai/scibert_scivocab_uncased,0.7
-Idiomerus brevicornis,Necromera brevicornis,0.8794,synonym,allenai/scibert_scivocab_uncased,0.7
-Idiomerus inflatus,Necromera inflata,0.7736,synonym,allenai/scibert_scivocab_uncased,0.7
-Idiomerus intermedius,Necromera intermedia,0.8347,synonym,allenai/scibert_scivocab_uncased,0.7
-Idiomerus latissimus,Necromera latissima,0.8052,synonym,allenai/scibert_scivocab_uncased,0.7
-Idiomerus longicornis,Necromera longicornis,0.9012,synonym,allenai/scibert_scivocab_uncased,0.7
-Idiomerus musculus,Necromera muscula,0.7799,synonym,allenai/scibert_scivocab_uncased,0.7
-Leptocnemus longus,Necromera longa,0.8254,synonym,allenai/scibert_scivocab_uncased,0.7
-Baissophytum amplus,Baissopsis amplus,0.9457,synonym,allenai/scibert_scivocab_uncased,0.7
-Dolichocis laricinus,Ennearthron laricinum,0.8616,synonym,allenai/scibert_scivocab_uncased,0.7
-Sulcacis bidentulus,Cis alpinus,0.7084,synonym,allenai/scibert_scivocab_uncased,0.7
-Sulcacis curtulus,Cis criddlei,0.6338,not synonym,allenai/scibert_scivocab_uncased,0.7
-Sulcacis curtulus,Cis cylindricus,0.8289,synonym,allenai/scibert_scivocab_uncased,0.7
-Sulcacis curtulus,Cis montana,0.6697,not synonym,allenai/scibert_scivocab_uncased,0.7
-Sulcacis curtulus,Cis sorror,0.6332,not synonym,allenai/scibert_scivocab_uncased,0.7
-Sulcacis curtulus,Sulcacis criddlei,0.8917,synonym,allenai/scibert_scivocab_uncased,0.7
-Sulcacis curtulus,Sulcacis cylindricus,0.9249,synonym,allenai/scibert_scivocab_uncased,0.7
-Sulcacis curtulus,Sulcacis montana,0.901,synonym,allenai/scibert_scivocab_uncased,0.7
-Sulcacis curtulus,Sulcacis niger,0.8854,synonym,allenai/scibert_scivocab_uncased,0.7
-Sulcacis curtulus,Sulcacis sorror,0.8755,synonym,allenai/scibert_scivocab_uncased,0.7
-Sulcacis fronticornis,Cis fronticornis,0.8382,synonym,allenai/scibert_scivocab_uncased,0.7
-Sulcacis fronticornis,Rhopalodontus fronticornis,0.7643,synonym,allenai/scibert_scivocab_uncased,0.7
-Sulcacis nitidus,Cis nitidus,0.8918,synonym,allenai/scibert_scivocab_uncased,0.7
-Sulcacis nitidus,Ennearthron affine,0.6531,not synonym,allenai/scibert_scivocab_uncased,0.7
-Sulcacis nitidus,Ennearthron affinis,0.8179,synonym,allenai/scibert_scivocab_uncased,0.7
-Sulcacis nitidus,Entypus affinis,0.8778,synonym,allenai/scibert_scivocab_uncased,0.7
-Sulcacis nitidus,Sulcacis affinis,0.9154,synonym,allenai/scibert_scivocab_uncased,0.7
-Strigocis bicornis,Entypus bicornis,0.8756,synonym,allenai/scibert_scivocab_uncased,0.7
-Strigocis bicornis,Strigocis fronticornis,0.842,synonym,allenai/scibert_scivocab_uncased,0.7
-Strigocis bilimeki,Cis bilimeka,0.8978,synonym,allenai/scibert_scivocab_uncased,0.7
-Strigocis opalescens,Strigocis davisi,0.8647,synonym,allenai/scibert_scivocab_uncased,0.7
-Strigocis opalescens,Xestocis davisi,0.8618,synonym,allenai/scibert_scivocab_uncased,0.7
-Strigocis opalescens,Xestocis opalescens,0.9195,synonym,allenai/scibert_scivocab_uncased,0.7
-Wagaicis wagae,Wagaicis wagai,0.9713,synonym,allenai/scibert_scivocab_uncased,0.7
-Malacocis brevicollis,Brachycis brevicollis,0.8857,synonym,allenai/scibert_scivocab_uncased,0.7
-Cis miles,Xestocis miles,0.696,not synonym,allenai/scibert_scivocab_uncased,0.7
-Cis krausi,Cis bicolor,0.7506,synonym,allenai/scibert_scivocab_uncased,0.7
-Cis krausi,Cis bimaculatus,0.6235,not synonym,allenai/scibert_scivocab_uncased,0.7
-Cis krausi,Cis duryi,0.8474,synonym,allenai/scibert_scivocab_uncased,0.7
-Cis striatulus,Hadraule striatulus,0.8938,synonym,allenai/scibert_scivocab_uncased,0.7
-Cis tetracentrum,Cis arizonae,0.7878,synonym,allenai/scibert_scivocab_uncased,0.7
-Cis maritimus,Xestocis maritimus,0.9017,synonym,allenai/scibert_scivocab_uncased,0.7
-Cis ephippiatus,Cis ephippium,0.832,synonym,allenai/scibert_scivocab_uncased,0.7
-Cis ephippiatus,Cis moznettei,0.6895,not synonym,allenai/scibert_scivocab_uncased,0.7
-Cis ephippiatus,Xestocis moznettei,0.7012,synonym,allenai/scibert_scivocab_uncased,0.7
-Cis castaneus,Cis alter,0.764,synonym,allenai/scibert_scivocab_uncased,0.7
-Cis castaneus,Kateretes castaneus,0.8778,synonym,allenai/scibert_scivocab_uncased,0.7
-Cis tristis,Cis falli,0.8329,synonym,allenai/scibert_scivocab_uncased,0.7
-Cis tristis,Cis setulosus,0.8496,synonym,allenai/scibert_scivocab_uncased,0.7
-Cis festivus,Orthocis festivus,0.8205,synonym,allenai/scibert_scivocab_uncased,0.7
-Cis levettei,Cis levellei,0.8756,synonym,allenai/scibert_scivocab_uncased,0.7
-Cis levettei,Xestocis levettei,0.7269,synonym,allenai/scibert_scivocab_uncased,0.7
-Cis castlei,Xestocis castlei,0.6764,not synonym,allenai/scibert_scivocab_uncased,0.7
-Octotemnus laevis,Octotemnus denudatus,0.9138,synonym,allenai/scibert_scivocab_uncased,0.7
-Hadraule elongatula,Ennearthron striata,0.7353,synonym,allenai/scibert_scivocab_uncased,0.7
-Hadraule elongatula,Hadraule coarctata,0.8497,synonym,allenai/scibert_scivocab_uncased,0.7
-Hadraule elongatula,Hadraule striata,0.8766,synonym,allenai/scibert_scivocab_uncased,0.7
-Hadraule elongatula,Pityocis coarctata,0.6738,not synonym,allenai/scibert_scivocab_uncased,0.7
-Porculus dufaui,Cis dufaui,0.7939,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis bicornis,Ennearthron bicornis,0.8491,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis californicus,Ceracis coloradensis,0.8873,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis californicus,Ceracis convergens,0.8356,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis californicus,Ceracis discolor,0.8348,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis californicus,Ceracis grossulus,0.9005,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis californicus,Ceracis oregonus,0.9248,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis californicus,Ennearthron californicus,0.8504,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis californicus,Ennearthron coloradensis,0.7828,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis californicus,Ennearthron convergens,0.5703,not synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis californicus,Ennearthron discolor,0.7106,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis californicus,Ennearthron grossulus,0.7519,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis californicus,Ennearthron oregonus,0.7995,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis castaneipennis,Ceracis ater,0.4542,not synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis castaneipennis,Ceracis rufipes,0.5451,not synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis cornifer,Ceracis cylindricus,0.9306,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis cornifer,Ceracis simplicicornis,0.8996,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis cornifer,Ennearthron corniferum,0.8382,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis cornifer,Ennearthron cylindricum,0.8058,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis cornifer,Ennearthron simplicicorne,0.7622,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis cucullatus,Ennearthron cucullatum,0.8627,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis curtus,Ceracis compactus,0.944,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis curtus,Ceracis obesus,0.9062,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis curtus,Cis obesus,0.6359,not synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis curtus,Ennearthron compactus,0.7715,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis curtus,Ennearthron curtus,0.859,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis dixiensis,Octotemnus dixiensis,0.8809,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis furcifer,Ennearthron furcifer,0.8759,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis militaris,Ennearthron militaris,0.8407,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis minutissimus,Cis minutissimus,0.8605,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis monocerus,Ceracis unicorne,0.7193,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis monocerus,Ceracis unicornis,0.9384,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis monocerus,Ennearthron unicorne,0.7877,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis monocerus,Ennearthron unicornis,0.8427,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis multipunctatus,Ennearthron multipunctatus,0.868,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis nigricans,Ennearthron nigricans,0.8177,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis pullulus,Ennearthron pullulus,0.7533,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis sallei,Ceracis sellei,0.8838,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis sallei,Ennearthron sallei,0.7479,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis singularis,Xestocis singularis,0.8911,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis thoracicornis,Ceracis bifoveatus,0.9406,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis thoracicornis,Ceracis laminifrons,0.7719,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis thoracicornis,Ceracis mellyi,0.8899,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis thoracicornis,Ceracis oblongus,0.8837,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis thoracicornis,Ceracis piceus,0.8875,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis thoracicornis,Ceracis pumicatus,0.9412,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis thoracicornis,Ceracis thoracicinus,0.9437,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis thoracicornis,Ceracis thoracicus,0.9621,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis thoracicornis,Ceracis unicolor,0.9059,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis thoracicornis,Cis thoracicornis,0.8485,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis thoracicornis,Ennearthron laminifrons,0.7633,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis thoracicornis,Ennearthron mellyi,0.7823,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis thoracicornis,Ennearthron oblongus,0.7348,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis thoracicornis,Ennearthron piceus,0.8012,synonym,allenai/scibert_scivocab_uncased,0.7
-Ceracis thoracicornis,Ennearthron unicolor,0.811,synonym,allenai/scibert_scivocab_uncased,0.7
-Rhopalodontus baudueri,Ropalodontus baudueri,0.9187,synonym,allenai/scibert_scivocab_uncased,0.7
-Rhopalodontus perforatus,Ropalodontus perforatus,0.9093,synonym,allenai/scibert_scivocab_uncased,0.7
-Rhopalodontus strandi,Ropalodontus strandi,0.7862,synonym,allenai/scibert_scivocab_uncased,0.7
-Orthocis coluber,Orthocis latifrons,0.8557,synonym,allenai/scibert_scivocab_uncased,0.7
-Orthocis linearis,Cis perrisi,0.7206,synonym,allenai/scibert_scivocab_uncased,0.7
-Orthocis linearis,Orthocis perrisi,0.8499,synonym,allenai/scibert_scivocab_uncased,0.7
-Orthocis punctatus,Cis punctatus,0.829,synonym,allenai/scibert_scivocab_uncased,0.7
-Orthocis punctatus,Orthocis aterrimus,0.8409,synonym,allenai/scibert_scivocab_uncased,0.7
-Orthocis testaceofasciatus,Cis testaceofasciatus,0.8555,synonym,allenai/scibert_scivocab_uncased,0.7
-Orthocis transversatus,Ennearthron pallidus,0.7699,synonym,allenai/scibert_scivocab_uncased,0.7
-Orthocis transversatus,Ennearthron transversatus,0.8568,synonym,allenai/scibert_scivocab_uncased,0.7
-Orthocis transversatus,Orthocis pallidus,0.8629,synonym,allenai/scibert_scivocab_uncased,0.7
-Ennearthron cornutum,Cis cornutus,0.7771,synonym,allenai/scibert_scivocab_uncased,0.7
-Ennearthron cornutum,Ennearthron concinnum,0.9394,synonym,allenai/scibert_scivocab_uncased,0.7
-Ennearthron palmi,Cis filum,0.6445,not synonym,allenai/scibert_scivocab_uncased,0.7
-Ennearthron palmi,Ennearthron filum,0.9226,synonym,allenai/scibert_scivocab_uncased,0.7
-Ennearthron spenceri,Plesiocis spenceri,0.8361,synonym,allenai/scibert_scivocab_uncased,0.7
-Xylographus corpulentus,Xylographus lemoulti,0.8985,synonym,allenai/scibert_scivocab_uncased,0.7
-Xylographus corpulentus,Xylographus richardi,0.9349,synonym,allenai/scibert_scivocab_uncased,0.7
-Xylographus subsinuatus,Xylographus rufescens,0.9025,synonym,allenai/scibert_scivocab_uncased,0.7
-Ooides denudatus,Ooidellus denudatus,0.9729,synonym,allenai/scibert_scivocab_uncased,0.7
-Zherikhinia distylia,Nanophyes formosensis,0.6709,not synonym,allenai/scibert_scivocab_uncased,0.7
-Zherikhinia distylia,Zherikhinia formosensis,0.9173,synonym,allenai/scibert_scivocab_uncased,0.7
-Pseudorobitis axeli,Temnalysis axeli,0.7627,synonym,allenai/scibert_scivocab_uncased,0.7
-Pseudorobitis miwai,Nanophyes miwai,0.8453,synonym,allenai/scibert_scivocab_uncased,0.7
-Nanomimus hemisphaericus,Nanophyes hemisphaericus,0.9171,synonym,allenai/scibert_scivocab_uncased,0.7
-Kantohia taiwana,Shiva taiwanus,0.7923,synonym,allenai/scibert_scivocab_uncased,0.7
-Dieckmanniellus chevrieri,Dieckmanniellus helveticus,0.8588,synonym,allenai/scibert_scivocab_uncased,0.7
-Dieckmanniellus gracilis,Dieckmaniellus gracilis,0.9791,synonym,allenai/scibert_scivocab_uncased,0.7
-Dieckmanniellus gracilis,Nanodes gracilis,0.6654,not synonym,allenai/scibert_scivocab_uncased,0.7
-Chibizo formosensis,Nanophyes basilineatus,0.7793,synonym,allenai/scibert_scivocab_uncased,0.7
+species,oldSpeciesCanonicalName,similarity,prediction,model,threshold,label
+Orphinus fulvipes,Heterocerus caledoniae,0.8234,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Hycleus brevetarsalis,Mylabris brevetarsalis,0.913,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis californicus,Meloe punctatoradiatus,0.8226,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Meloe rugosus,Meloe rugulosus,0.9583,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Heterocerus crinitus,Ennearthron nigricans,0.8156,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis curtus,Ceracis obesus,0.9062,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Cis tristis,Cis falli,0.8329,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Orthocis punctatus,Orthocis aterrimus,0.8409,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis curtus,Ropalodontus strandi,0.8769,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis californicus,Cis minutissimus,0.7606,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Trogoderma glabrum,Trogoderma fuscicornis,0.9188,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Trogoderma grassmani,Xestocis singularis,0.794,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Labrocerus similaris,Rhopalodontus fronticornis,0.7278,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis californicus,Ennearthron affine,0.5935,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis thoracicornis,Ennearthron filum,0.7885,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Meloe rugosus,Ceracis laminifrons,0.7336,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis californicus,Ceracis bifoveatus,0.8981,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Cybocephalus sublucidus,Brachypterus sublucidus,0.9215,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Xylographus subsinuatus,Ennearthron cylindricum,0.8194,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Cis ephippiatus,Ennearthron militaris,0.7854,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Palaestra guerini,Telephorus guerinii,0.6214,not synonym,allenai/scibert_scivocab_uncased,0.7,1
+Malacocis brevicollis,Brachycis brevicollis,0.8857,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Cycloderma deplanatum,Nanophyes miwai,0.6461,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Cis castaneus,Cis alter,0.764,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Cis festivus,Attagenus megatoma,0.7913,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Mycterus curculioides,Mycterus curculionoides,0.9409,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Zherikhinia distylia,Ceracis grossulus,0.8338,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Hadraule elongatula,Hadraule coarctata,0.8497,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Trogoderma megatomoides,Entomotrogus megatomoides,0.8374,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis cornifer,Ennearthron piceus,0.752,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Eurymeloe murinus,Meloe murinus,0.8092,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Theticephalus mesopotamicus,Brachytarsus rosae,0.7728,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Zonitis chrysomeloides,Cantharis chrysomeloides,0.9393,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Protaedus robusticornis,Ennearthron curtus,0.857,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Sulcacis curtulus,Ennearthron furcifer,0.8124,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Attagenus australis,Attagenus elongatus,0.9332,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis curtus,Cis obesus,0.6359,not synonym,allenai/scibert_scivocab_uncased,0.7,1
+Zonitis chrysomeloides,Strigocis davisi,0.7537,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Cybocephalus politissimus,Anthribus minimus,0.7789,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Orphinus fulvipes,Ennearthron pallidus,0.7276,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Strigocis bilimeki,Cis bilimeka,0.8978,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Octotemnus laevis,Trachypachus holmbergi,0.7939,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Hycleus phaleratus,Mylabris phalerata,0.8526,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis californicus,Ennearthron oregonus,0.7995,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Cis striatulus,Cis levellei,0.7029,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ennearthron cornutum,Ennearthron concinnum,0.9394,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Meloe brevicollis,Meloe laticollis,0.9021,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Baissophytum amplus,Baissopsis amplus,0.9457,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Tophoderes depontanus,Ropalodontus baudueri,0.7365,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Meloe brevicollis,Shiva taiwanus,0.7768,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Attagenus undulatus,Aethriostoma undulata,0.8764,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Cis castlei,Ceracis simplicicornis,0.6131,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Orthocis linearis,Tiresias serra,0.736,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Attagenus fasciatus,Dissia membranaceus,0.7705,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Mycterus curculioides,Hadraule striatulus,0.7251,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis nigricans,Brachycis brevicollis,0.8977,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Trogoderma grassmani,Trogoderma grassmani,1.0,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Dolichocis laricinus,Xylographus rufescens,0.8401,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Cantharis lithophilus,Mycterus curculionides,0.7477,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Heterocerus fenestratus,Xestocis moznettei,0.6858,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Pastillodes areolatus,Meloe ganglbaueri,0.8241,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Hadraule elongatula,Dolichocera tessellatus,0.6733,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis sallei,Ennearthron sallei,0.7479,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Attagenus fasciatus,Ceracis convergens,0.839,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Orthocis coluber,Orthocis latifrons,0.8557,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Meloe brevicollis,Meloe puncticollis,0.8884,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Palaestra guerini,Zonitis guerini,0.8755,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Hadraule elongatula,Hadraule striata,0.8766,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Orthocis linearis,Orthocis perrisi,0.8499,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Cantharis lithophilus,Lytta lithophila,0.8061,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Hadraule elongatula,Dzeregia juxta,0.7913,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Sulcacis curtulus,Sulcacis sorror,0.8755,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Cis striatulus,Cerocoma viridis,0.707,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Meloe brevicollis,Meloe cephalotes,0.6867,not synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis californicus,Ennearthron concinnum,0.7541,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Hycleus phaleratus,Meloe phalerata,0.7941,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis thoracicornis,Ceracis laminifrons,0.7719,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis monocerus,Ceracis unicornis,0.9384,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Eurymeloe ganglbaueri,Meloe ganglbaueri,0.811,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Dolichocera tessellata,Xylographus lemoulti,0.7579,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Theticephalus nigriceps,Dissia nigriceps,0.8642,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis thoracicornis,Cryptorhopalum brevicorne,0.8913,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ademosynoides juxta,Dzeregia juxta,0.8314,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Meloe cicatricosus,Meloe cicatricosus,1.0,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Malacocis brevicollis,Ennearthron coloradensis,0.8295,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Thaumaglossa anthrenoides,Pseudothaumaglossa anthrenoides,0.9739,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Zherikhinia distylia,Ceracis mellyi,0.8347,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Rhopalodontus strandi,Attagenus piceus,0.7139,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Archaeophylax worthyi,Waitomophylax worthyi,0.8476,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ctesias serra,Tiresias serra,0.9146,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Dieckmanniellus gracilis,Nanodes gracilis,0.6654,not synonym,allenai/scibert_scivocab_uncased,0.7,1
+Attagenus brunneus,Attagenus elongatulus,0.8641,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Xylographus corpulentus,Trachypachus alticola,0.8219,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Octotemnus laevis,Octotemnus denudatus,0.9138,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Meloe rugosus,Meloe punctatus,0.8927,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Dolichocera tessellata,Dolichocera tessellatus,0.9571,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Idiomerus inflatus,Necromera inflata,0.7736,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Sulcacis curtulus,Cis criddlei,0.6338,not synonym,allenai/scibert_scivocab_uncased,0.7,1
+Necronectulus avus,Necronetulus avus,0.8778,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Sulcacis fronticornis,Cis fronticornis,0.8382,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Attagenus brunneus,Ennearthron convergens,0.6009,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Labrocerus similaris,Argocerus similaris,0.921,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis curtus,Ceracis compactus,0.944,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Sulcacis nitidus,Ennearthron affinis,0.8179,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Labrocerus depressus,Eocerus depressus,0.9439,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Systolosoma breve,Meloe puncticollis,0.7369,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Thorictodes heydeni,Thorictodes karanisensis,0.6871,not synonym,allenai/scibert_scivocab_uncased,0.7,1
+Cybocephalus amplus,Dissia ampla,0.5884,not synonym,allenai/scibert_scivocab_uncased,0.7,1
+Sulcacis nitidus,Sulcacis affinis,0.9154,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Heterocerus maritimus,Heterocerus britannicus,0.9077,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Trachypachus gibbsii,Trachypachus californicus,0.907,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Heterocerus crinitus,Theticephalus mesopatamicus,0.8925,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Sulcacis curtulus,Cis alpinus,0.7623,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis thoracicornis,Ceracis ater,0.578,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis thoracicornis,Ennearthron laminifrons,0.7633,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis minutissimus,Nanophyes basilineatus,0.8252,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Idiomerus intermedius,Ennearthron oregonus,0.729,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Sefrania bleusei,Heterocerus britannicus,0.7028,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Mycterus quadricollis,Meloe autumnalis,0.8248,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Cis krausi,Strongulites stygicus,0.7192,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Octotemnus laevis,Cis punctatus,0.8167,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis californicus,Attagenus gloriosae,0.8411,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis californicus,Trachypachus transversicollis,0.7677,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Attagenus australis,Systolosoma bilunulatum,0.7843,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Cis krausi,Cis bicolor,0.7506,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis monocerus,Dieckmanniellus helveticus,0.8336,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Cis ephippiatus,Xestocis moznettei,0.7012,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Orthocis transversatus,Anthribus moussoni,0.7539,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Eurymeloe mediterraneus,Meloe mediterraneus,0.7645,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Theticephalus mesopotamicus,Cybocephalus aurocupreus,0.8725,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Attagenus fasciatus,Cybocephalus mesopatamicus,0.8303,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Idiomerus intermedius,Necromera intermedia,0.8347,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Cis ephippiatus,Cis moznettei,0.6895,not synonym,allenai/scibert_scivocab_uncased,0.7,1
+Anthribus nebulosus,Brachytarsus kusteri,0.7362,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ennearthron palmi,Dolichocera hermandi,0.8369,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis californicus,Cis dufaui,0.547,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Sulcacis curtulus,Ceracis pumicatus,0.8823,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Cis krausi,Cis duryi,0.8474,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Epicerastes exstans,Trachypachus oregonus,0.8299,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Thorictodes heydeni,Attagenus 4-maculatus,0.6892,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Systolosoma breve,Ennearthron unicornis,0.8011,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Leptocnemus longus,Protaedus fontaltus,0.8818,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis thoracicornis,Ceracis unicolor,0.9059,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Baissophytum amplus,Attagenus 3-fasciatus,0.7927,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Labrocerus similaris,Ennearthron striata,0.8129,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Sulcacis nitidus,Cis duryi,0.6882,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Labrocerus similaris,Argocerus subguttatus,0.8587,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis monocerus,Toksunius chinaticus,0.8733,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Pacicephalus gressitti,Cybocephalus gressitti,0.8626,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis thoracicornis,Ceracis mellyi,0.8899,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Orthocis linearis,Cretomegatoma atypica,0.739,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Hycleus phaleratus,Petrodromeus asiaticus,0.8663,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Pseudorobitis axeli,Temnalysis axeli,0.7627,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Sulcacis nitidus,Trogoderma niger,0.8141,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Strongylites stygius,Ceracis obesus,0.7844,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis monocerus,Ennearthron unicornis,0.8427,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Attagenus fasciatus,Attagenus anulifer,0.9058,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis furcifer,Trogoderma tricolor,0.8066,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Heterocerus fenestratus,Heterocerus pulchellus,0.9308,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Octotemnus laevis,Anthribus tesselatus,0.8306,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Heterocerus fenestratus,Ennearthron affinis,0.7861,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis californicus,Ennearthron coloradensis,0.7828,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis sallei,Xestocis levettei,0.7168,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Sulcacis nitidus,Entypus affinis,0.8778,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Deropygus chaerilus,Deropygus cherilus,0.9441,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Attagenus fasciatus,Meloe rugulosus,0.8524,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Cis krausi,Trachypachus laticollis,0.6892,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Attagenus unicolor,Attagenus megatoma,0.8405,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Hucus numatus,Hucus numatus,1.0,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis nigricans,Ennearthron nigricans,0.8177,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Orthocis testaceofasciatus,Ceracis discolor,0.8408,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Cis tristis,Cis setulosus,0.8496,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Amedissia argentinus,Pycnocephalus argentinus,0.777,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Rhopalodontus strandi,Ropalodontus strandi,0.7862,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Attagenus brunneus,Attagenus marginicollis,0.9125,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Labrocerus setosus,Labrocerus pallipes,0.8973,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Thaumaglossa anthrenoides,Cerophytum cayennense,0.698,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Micromalthus debilis,Micromalthus anansi,0.7942,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis thoracicornis,Ennearthron mellyi,0.7823,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Chibizo formosensis,Nanophyes basilineatus,0.7793,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Xylographus subsinuatus,Xylographus rufescens,0.9025,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Sefrania bleusei,Zonitis nigripennis,0.6743,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Trachypachus inermis,Trachypachus holmbergi,0.8828,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Cis levettei,Xestocis levettei,0.7269,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis californicus,Ceracis grossulus,0.9005,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Orthocis testaceofasciatus,Cis testaceofasciatus,0.8555,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Attagenus brunneus,Attagenus elongatus,0.9155,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Trachypachus gibbsii,Ennearthron oblongus,0.774,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis thoracicornis,Hadraule coarctata,0.8059,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Hadraule elongatula,Cis perrisi,0.6557,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Trogoderma glabrum,Anthrenus niger,0.7869,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Dolichocera schanus,Dolichocera schanus,1.0,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Heterocerus maritimus,Heterocerus basalis,0.9112,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Orthocis linearis,Thaumaphrastus heydeni,0.6252,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Eurymeloe baudueri,Thorictodes karanisensis,0.6599,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Labrocerus setosus,Labrocerus affinis,0.8645,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Augyles aureolus,Heterocerus aureolus,0.8725,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis cornifer,Ennearthron corniferum,0.8382,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Theticephalus decamerus,Cis cylindricus,0.8384,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Mycterus quadricollis,Mycterus depressus,0.9424,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Kantohia taiwana,Shiva taiwanus,0.7923,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis cornifer,Meloe baudueri,0.6344,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Theticephalus mesopotamicus,Cybocephalus mesopatamicus,0.9026,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis californicus,Ennearthron convergens,0.5703,not synonym,allenai/scibert_scivocab_uncased,0.7,1
+Strigocis bilimeki,Ennearthron transversatus,0.6394,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Protaedus matertera,Protaedus materta,0.9365,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis thoracicornis,Meloe punctatus,0.8247,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Labrocerus similaris,Attagenus marginicollis,0.875,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Attagenus trifasciatus,Attagenus 3-fasciatus,0.9167,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis thoracicornis,Ceracis thoracicus,0.9621,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis curtus,Ennearthron compactus,0.7715,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Attagenus fasciatus,Attagenus gloriosae,0.9408,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Trogoderma glabrum,Trogoderma niger,0.8948,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Cis castlei,Xestocis castlei,0.6764,not synonym,allenai/scibert_scivocab_uncased,0.7,1
+Cybocephalus binotatus,Cybocephalus aeneonittens,0.9379,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Protaedus butoniensis,Protaedus butoniense,0.9687,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Orphinus fulvipes,Trogoderma fulvipes,0.8891,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Strigocis bicornis,Strigocis fronticornis,0.842,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Hadraule elongatula,Orthocis perrisi,0.7247,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Tophoderes depontanus,Syntophoderes depontanus,0.7644,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Porculus dufaui,Necromera longicornis,0.8436,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Exillis aeruginosus,Exillis aeroginosus,0.9018,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Electranthribus zherikhini,Ceracis thoracicinus,0.8428,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis cornifer,Ceracis simplicicornis,0.8996,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Cis castaneus,Kateretes castaneus,0.8778,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ctesias serra,Epicerastes viridanus,0.581,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis thoracicornis,Ceracis piceus,0.8875,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Sulcacis curtulus,Sulcacis criddlei,0.8917,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis californicus,Ennearthron californicus,0.8504,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Theticephalus mesopotamicus,Sulcacis sorror,0.7035,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Sulcacis curtulus,Xestocis opalescens,0.8199,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Orthocis punctatus,Cis punctatus,0.829,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis minutissimus,Labrocerus affinis,0.8175,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis thoracicornis,Cis montana,0.5694,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Sulcacis curtulus,Ceracis thoracicus,0.8878,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Sulcacis curtulus,Cis cylindricus,0.8289,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Nanomimus hemisphaericus,Cis sorror,0.7255,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Eurymeloe baudueri,Meloe baudueri,0.8978,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Trachypachus gibbsii,Trogoderma nigrum,0.8027,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis thoracicornis,Ceracis bifoveatus,0.9406,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Cis striatulus,Hadraule striatulus,0.8938,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis bicornis,Ennearthron bicornis,0.8491,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Cis krausi,Cybocephalus gressitti,0.6009,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Heterocerus crinitus,Entypus bicornis,0.883,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Labrocerus vestitus,Ennearthron sallei,0.83,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis californicus,Ceracis oregonus,0.9248,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Cerocoma schaefferi,Cerocoma viridis,0.8667,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Protaedus frontaltus,Protaedus fontaltus,0.8904,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Labrocerus similaris,Labrocerus simplex,0.9471,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Sulcacis curtulus,Sulcacis cylindricus,0.9249,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Trachypachus gibbsii,Trachypachus alticola,0.9244,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Sulcacis nitidus,Ennearthron affine,0.6531,not synonym,allenai/scibert_scivocab_uncased,0.7,1
+Sulcacis curtulus,Temnalysis axeli,0.5937,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Pacicephalus gressitti,Kateretes castaneus,0.8013,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ennearthron palmi,Ennearthron filum,0.9226,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Baissophytum amplus,Anthrenus niger,0.8313,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Sulcacis fronticornis,Necromera intermedia,0.7735,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Cis krausi,Mycterus curculionoides,0.6653,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ademosynoides chinatica,Toksunius chinaticus,0.8408,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Idiomerus musculus,Cybocephalus areolatus,0.6876,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Hycleus polymorphus,Mylabris polymorpha,0.853,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Theticephalus mesopotamicus,Mylabris phalerata,0.7615,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Theticephalus aurocupreus,Cis testaceofasciatus,0.748,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Tophoderes sinuatocollis,Tophoderes sinuaticollis,0.9883,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Strigocis opalescens,Heterocerus basalis,0.8179,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Sulcacis nitidus,Critoderma deplanatum,0.8425,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Hadraule elongatula,Necromera brevicornis,0.6965,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Strongylites stygius,Ceracis coloradensis,0.7616,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Orthocis coluber,Labrocerus pallipes,0.7219,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Mycterus quadricollis,Ennearthron cucullatum,0.8543,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis californicus,Cybocephalus mesopotamicus,0.7872,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Cybocephalus politissimus,Xestocis miles,0.698,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Electranthribus zherikhini,Trogoderma fulvipes,0.7839,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Orphinus fulvipes,Orphinus brevicornis,0.9377,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Sulcacis bidentulus,Cis alpinus,0.7084,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Orthocis transversatus,Orthocis pallidus,0.8629,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Malacocis brevicollis,Heterocerus aureolus,0.8203,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Theticephalus decamerus,Cybocephalus decamerus,0.894,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Protaedus robusticornis,Protaedus robusticorne,0.9873,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Orthocis punctatus,Attagenus anulifer,0.8682,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Sulcacis nitidus,Argocerus similaris,0.8825,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ooides denudatus,Ooidellus denudatus,0.9729,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Labrocerus similaris,Baissopsis amplus,0.8508,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Sulcacis fronticornis,Rhopalodontus fronticornis,0.7643,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Pseudorobitis miwai,Nanophyes miwai,0.8453,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Trachypachus gibbsii,Nanodes gracilis,0.6024,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Thorictodes heydeni,Thaumaphrastus heydeni,0.6823,not synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis curtus,Meloe laticollis,0.8281,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis californicus,Ennearthron grossulus,0.7519,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Orthocis transversatus,Ennearthron laricinum,0.7335,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Sulcacis curtulus,Sulcacis montana,0.901,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Cis krausi,Cis alter,0.7906,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Sulcacis curtulus,Sulcacis niger,0.8854,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Orphinus fulvipes,Meloe cephalotes,0.6168,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Cis krausi,Cybocephalus aeneonittens,0.5635,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Anthribus nebulosus,Anthribus variegatus,0.9005,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Protaedus robusticornis,Sulcacis niger,0.8189,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Trachypachus inermis,Trachypachus specularis,0.8766,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Sulcacis curtulus,Cis sorror,0.6332,not synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis thoracicornis,Ennearthron oblongus,0.7348,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Rhopalodontus strandi,Orthocis latifrons,0.7113,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Trachypachus zetterstedtii,Trachypachus laticollis,0.8022,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Attagenus fasciatus,Cis setulosus,0.753,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis curtus,Labrocerus flavicornis,0.8665,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Eurymeloe ganglbaueri,Deropygus cherilus,0.7912,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Anthribus nebulosus,Anthribus tesselatus,0.9022,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Hadraule elongatula,Ennearthron striata,0.7353,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis cornifer,Ceracis cylindricus,0.9306,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Orthocis linearis,Cis perrisi,0.7206,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Micromalthus debilis,Zonitis guerini,0.7168,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Eurymeloe murinus,Dissia nigriceps,0.7222,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ennearthron palmi,Glaesotropis zherikhini,0.8353,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Sulcacis nitidus,Necromera muscula,0.85,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ennearthron cornutum,Orthocis festivus,0.8296,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Sympaector revocans,Heterocerus burchanensis,0.8236,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Anthribus scapularis,Brachytarsus rosae,0.8034,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Wagaicis wagae,Meloe mediterraneus,0.595,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis pullulus,Ennearthron pullulus,0.7533,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis thoracicornis,Ennearthron corniferum,0.8271,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis monocerus,Ennearthron unicorne,0.7877,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Phytocerum cayennense,Cerophytum cayennense,0.9103,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Meloe brevicollis,Ennearthron simplicicorne,0.7246,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Attagenus quadrimaculatus,Cybocephalus flavicapitus,0.8964,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Eurymeloe ganglbaueri,Xylographus richardi,0.7539,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Micromalthus debilis,Cis bilimeka,0.7151,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis singularis,Cis obesus,0.7444,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Systolosoma breve,Necromera inflata,0.7125,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Thaumaglossa anthrenoides,Cybocephalus decamerus,0.7662,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Trachypachus zetterstedtii,Trinodes australis,0.7023,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis cornifer,Sulcacis affinis,0.9021,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Anthribus moussonii,Protaedus robusticorne,0.8214,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis thoracicornis,Cis bimaculatus,0.8795,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Bothrus taiwanus,Physopterus taiwanus,0.9105,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Cis levettei,Cis levellei,0.8756,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis thoracicornis,Meloe phalerata,0.8345,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Cybocephalus politissimus,Protaedus materta,0.7509,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis monocerus,Necronetulus avus,0.8106,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Cybocephalus membranaceus,Augyles crinitus,0.8023,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Sulcacis nitidus,Cis nitidus,0.8918,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Labrocerus concolor,Cis falli,0.6466,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis thoracicornis,Ceracis thoracicinus,0.9437,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis minutissimus,Cis thoracicornis,0.7845,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Cantharis lithophilus,Cantharis chrysomeloides,0.7892,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Cis miles,Xestocis miles,0.696,not synonym,allenai/scibert_scivocab_uncased,0.7,1
+Baissophytum amplus,Augyles britannicus,0.6631,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Leptocnemus longus,Necromera longa,0.8254,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis californicus,Ennearthron discolor,0.7106,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ennearthron spenceri,Plesiocis spenceri,0.8361,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis thoracicornis,Ceracis pumicatus,0.9412,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Dolichocera harmandi,Dolichocera hermandi,0.9803,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Anthribus moussonii,Anthribus moussoni,0.9732,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis curtus,Anthribus variegatus,0.8523,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis sallei,Ceracis sellei,0.8838,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Dieckmanniellus gracilis,Ooidellus denudatus,0.8727,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Hadraule elongatula,Protaedus butoniense,0.7436,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis monocerus,Mylabris polymorpha,0.8958,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Electranthribus zherikhini,Glaesotropis zherikhini,0.93,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis monocerus,Nanophyes formosensis,0.6548,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Cantharis lithophilus,Fohrer bleusei,0.6549,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis curtus,Ennearthron multipunctatus,0.8364,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Protaedus matertera,Ennearthron discolor,0.7528,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Epicerastes viridescens,Epicerastes viridanus,0.9286,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Attagenus trifasciatus,Cis fronticornis,0.6332,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis californicus,Trachypachus specularis,0.7646,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Idiomerus latissimus,Necromera latissima,0.8052,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Octotemnus laevis,Cis cornutus,0.8333,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Heterocerus maritimus,Augyles britannicus,0.7715,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Cis tetracentrum,Cis arizonae,0.7878,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Cycloderma deplanatum,Critoderma deplanatum,0.8919,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Nanomimus hemisphaericus,Entomotrogus megatomoides,0.8555,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Meloe brevicollis,Meloe splendens,0.8752,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Rhopalodontus baudueri,Ropalodontus baudueri,0.9187,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Hadraule elongatula,Pityocis coarctata,0.6738,not synonym,allenai/scibert_scivocab_uncased,0.7,1
+Attagenus brunneus,Cis bicolor,0.6442,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Strigocis opalescens,Strigocis davisi,0.8647,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Sefrania bleusei,Fohrer bleusei,0.8399,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Orphinus fulvipes,Orphinus brevicorne,0.9361,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Attagenus quadrimaculatus,Attagenus 4-maculatus,0.9059,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Cis maritimus,Xestocis maritimus,0.9017,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Sulcacis curtulus,Cis montana,0.6697,not synonym,allenai/scibert_scivocab_uncased,0.7,1
+Strigocis opalescens,Ceracis unicorne,0.633,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ademosynoides juxta,Hucus numatus,0.6719,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis multipunctatus,Ennearthron multipunctatus,0.868,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Trachypachus inermis,Trachypachus oregonus,0.9439,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Cybocephalus membranaceus,Dissia membranaceus,0.7786,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis thoracicornis,Ennearthron piceus,0.8012,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Dieckmanniellus gracilis,Cis nitidus,0.774,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Idiomerus longicornis,Lytta lithophila,0.7995,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Meloe brevicollis,Xestocis davisi,0.8463,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Cis festivus,Orthocis festivus,0.8205,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Labrocerus vestitus,Ennearthron californicus,0.8156,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Heterocerus crinitus,Augyles crinitus,0.8778,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Dieckmanniellus gracilis,Ceracis sellei,0.7482,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Meloe brevicollis,Cis arizonae,0.5005,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis cornifer,Ennearthron simplicicorne,0.7622,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Protaedus matertera,Tophoderes sinuaticollis,0.8135,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis californicus,Trogoderma grassmani,0.7918,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Strigocis opalescens,Meloe splendens,0.8153,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis thoracicornis,Brachytarsus kusteri,0.8649,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ennearthron cornutum,Cis cornutus,0.7771,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Megatoma atypica,Ennearthron grossulus,0.7294,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Megatoma atypica,Cretomegatoma atypica,0.9287,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ennearthron palmi,Cis filum,0.6445,not synonym,allenai/scibert_scivocab_uncased,0.7,1
+Sulcacis nitidus,Ennearthron mellyi,0.8157,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Systolosoma breve,Systolosoma bilunulatum,0.8318,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis singularis,Xestocis singularis,0.8911,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ademosynoides chinatica,Octotemnus dixiensis,0.8311,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis dixiensis,Octotemnus dixiensis,0.8809,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis thoracicornis,Ceracis compactus,0.9405,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Cis ephippiatus,Cis ephippium,0.832,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Trachypachus zetterstedtii,Trachypachus transversicollis,0.7911,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis californicus,Argocerus subguttatus,0.8316,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis militaris,Ennearthron militaris,0.8407,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Theticephalus mesopotamicus,Cybocephalus mesopotamicus,0.9209,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Heterocerus maritimus,Necromera latissima,0.8023,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Heterocerus maritimus,Heterocerus burchanensis,0.8694,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Attagenus unicolor,Attagenus piceus,0.8943,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Attagenus fasciatus,Sulcacis criddlei,0.8449,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Nanomimus hemisphaericus,Nanophyes hemisphaericus,0.9171,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Sulcacis curtulus,Dissia ampla,0.5841,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis castaneipennis,Ceracis ater,0.4542,not synonym,allenai/scibert_scivocab_uncased,0.7,1
+Cis krausi,Ceracis unicolor,0.5359,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Attagenus fasciatus,Attagenus gloriosus,0.8927,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Idiomerus brevicornis,Cis ephippium,0.7861,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis thoracicornis,Ceracis oblongus,0.8837,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Xylographus corpulentus,Xylographus richardi,0.9349,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ademosynoides juxta,Phaulogyrinus minimus,0.7268,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Strongylites stygius,Eocerus depressus,0.8231,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Palaestra guerini,Sulcacis cylindricus,0.5656,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Wagaicis wagae,Wagaicis wagai,0.9713,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Nanomimus hemisphaericus,Syntophoderes depontanus,0.8086,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Hadraule elongatula,Ropalodontus perforatus,0.692,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Dolichocis laricinus,Ennearthron laricinum,0.8616,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Theticephalus mesopotamicus,Theticephalus mesopatamicus,0.9677,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Idiomerus musculus,Necromera muscula,0.7799,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Sympaector revocans,Sympaector revocanus,0.9605,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis cornifer,Cis filum,0.6324,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Trogoderma glabrum,Trogoderma nigrum,0.934,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Heterocerus maritimus,Cybocephalus flavocapitis,0.8352,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Attagenus brunneus,Meloe scabriusculus,0.7161,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Theticephalus salsus,Cybocephalus salsus,0.897,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Cis miles,Attagenus gloriosus,0.704,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Labrocerus concolor,Labrocerus simplex,0.9204,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Strigocis bicornis,Entypus bicornis,0.8756,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Megatoma alpina,Globicornis alpina,0.8071,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Dieckmanniellus chevrieri,Epicerastes extans,0.7602,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Porculus dufaui,Cis dufaui,0.7939,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis cornifer,Orthocis aterrimus,0.7557,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis minutissimus,Cis minutissimus,0.8605,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis californicus,Necromera longa,0.8136,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Dolichocera harmandi,Trogoderma fuscicornis,0.8039,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis monocerus,Ennearthron pullulus,0.7408,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Cis levettei,Ennearthron unicorne,0.6875,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Hycleus polymorphus,Cybocephalus salsus,0.8388,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis thoracicornis,Cis thoracicornis,0.8485,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis cucullatus,Ennearthron cucullatum,0.8627,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis curtus,Ennearthron curtus,0.859,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Cis krausi,Attagenus elongatulus,0.7021,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Cybocephalus binotatus,Ennearthron unicolor,0.7959,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Orthocis transversatus,Ennearthron pallidus,0.7699,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis thoracicornis,Zherikhinia formosensis,0.808,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Dolichocera tessellata,Ennearthron bicornis,0.7713,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Sulcacis curtulus,Octotemnus denudatus,0.8733,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Trachypachus zetterstedtii,Dieckmaniellus gracilis,0.8031,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Pacicephalus gressitti,Aethriostoma undulata,0.7771,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Thorictodes heydeni,Mylabris brevetarsalis,0.6109,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Dieckmanniellus chevrieri,Dieckmanniellus helveticus,0.8588,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Theticephalus aurocupreus,Cis moznettei,0.6894,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis castaneipennis,Ceracis rufipes,0.5451,not synonym,allenai/scibert_scivocab_uncased,0.7,1
+Strigocis opalescens,Xestocis opalescens,0.9195,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Heterocerus flindersi,Heterocerus caledoniae,0.8998,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis monocerus,Ceracis unicorne,0.7193,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis singularis,Sympaector revocanus,0.8457,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis californicus,Ceracis convergens,0.8356,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Zonitis chrysomeloides,Orphinus brevicornis,0.8572,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Xylographus corpulentus,Xylographus lemoulti,0.8985,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Gyrinites minimus,Phaulogyrinus minimus,0.8567,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Cybocephalus politissimus,Cybocephalus flavocapitis,0.9445,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Cis striatulus,Dolichocera schanus,0.655,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Mycterus curculioides,Mycterus curculionides,0.9601,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ooides denudatus,Ceracis oblongus,0.864,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Cybocephalus binotatus,Meloe cicatricosus,0.7828,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Pastillodes areolatus,Cybocephalus areolatus,0.8562,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Anthribus moussonii,Sulcacis montana,0.7629,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Zonitis melanoptera,Zonitis nigripennis,0.8855,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis cornifer,Ennearthron cylindricum,0.8058,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Orphinus fulvipes,Cryptorhopalum brevicorne,0.8632,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Labrocerus vestitus,Strigocis fronticornis,0.7503,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Zherikhinia distylia,Nanophyes formosensis,0.6709,not synonym,allenai/scibert_scivocab_uncased,0.7,1
+Strigocis bicornis,Entypus affinis,0.8385,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis thoracicornis,Xestocis castlei,0.8567,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis thoracicornis,Xestocis maritimus,0.7905,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Cis tristis,Trachypachus californicus,0.7258,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Strongylites stygius,Strongulites stygicus,0.8874,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Sulcacis nitidus,Micromalthus anansi,0.8722,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Gyrinites minimus,Orthocis pallidus,0.8693,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Cybocephalus politissimus,Cybocephalus flavicapitus,0.932,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Strigocis opalescens,Telephorus guerinii,0.787,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Zherikhinia distylia,Zherikhinia formosensis,0.9173,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis thoracicornis,Ennearthron unicolor,0.811,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Phradonoma tricolor,Trogoderma tricolor,0.8922,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Malacocis brevicollis,Heterocerus pulchellus,0.8224,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Meloe rugosus,Meloe autumnalis,0.9346,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Sulcacis nitidus,Exillis aeroginosus,0.8001,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Attagenus unicolor,Waitomophylax worthyi,0.8634,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Cis krausi,Cis bimaculatus,0.6235,not synonym,allenai/scibert_scivocab_uncased,0.7,1
+Systolosoma breve,Brachypterus sublucidus,0.8088,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Orthocis transversatus,Nanophyes hemisphaericus,0.774,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Idiomerus longicornis,Necromera longicornis,0.9012,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Idiomerus latissimus,Pseudothaumaglossa anthrenoides,0.7752,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Attagenus fasciatus,Ennearthron compactus,0.8274,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis monocerus,Plesiocis spenceri,0.6894,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Cis krausi,Ceracis piceus,0.7042,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Rhopalodontus perforatus,Ropalodontus perforatus,0.9093,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Ceracis californicus,Ceracis coloradensis,0.8873,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Bothrus taiwanus,Ceracis cylindricus,0.8302,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Theticephalus mesopotamicus,Ennearthron laminifrons,0.7785,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Theticephalus aurocupreus,Cybocephalus aurocupreus,0.9021,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Anthribus nebulosus,Ceracis rufipes,0.7444,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Orthocis transversatus,Ennearthron transversatus,0.8568,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Attagenus australis,Trinodes australis,0.9252,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Cis levettei,Globicornis alpina,0.6401,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ooides denudatus,Pityocis coarctata,0.8736,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Strigocis opalescens,Xestocis davisi,0.8618,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Trachypachus gibbsii,Mycterus depressus,0.8422,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis californicus,Ceracis discolor,0.8348,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Dolichocera schanus,Physopterus taiwanus,0.787,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Kantohia taiwana,Cis criddlei,0.686,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ademosynoides asiatica,Ceracis unicornis,0.7906,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis thoracicornis,Meloe murinus,0.7645,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis californicus,Orphinus brevicorne,0.8683,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Idiomerus brevicornis,Necromera brevicornis,0.8794,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Systolosoma breve,Notioxenus bilunulatus,0.732,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Sulcacis curtulus,Notioxenus bilunulatus,0.8812,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Meloe cicatricosus,Meloe punctatoradiatus,0.9162,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Pacicephalus gressitti,Hadraule striata,0.7365,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Protaedus robusticornis,Pycnocephalus argentinus,0.8299,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ceracis furcifer,Ennearthron furcifer,0.8759,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Dieckmanniellus chevrieri,Ceracis oregonus,0.736,synonym,allenai/scibert_scivocab_uncased,0.7,0
+Anthribus nebulosus,Anthribus minimus,0.9357,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Labrocerus vestitus,Labrocerus flavicornis,0.9073,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Eurymeloe scabriusculus,Meloe scabriusculus,0.8744,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Epicerastes exstans,Epicerastes extans,0.9045,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Dieckmanniellus gracilis,Dieckmaniellus gracilis,0.9791,synonym,allenai/scibert_scivocab_uncased,0.7,1
+Orthocis testaceofasciatus,Wagaicis wagai,0.6952,not synonym,allenai/scibert_scivocab_uncased,0.7,0
+Ademosynoides asiatica,Petrodromeus asiaticus,0.7648,synonym,allenai/scibert_scivocab_uncased,0.7,1

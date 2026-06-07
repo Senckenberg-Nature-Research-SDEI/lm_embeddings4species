@@ -144,7 +144,8 @@ def main():
             "prediction": prediction,
             "model": args.model_name,
             "threshold": args.threshold,
-            "pooling": "last_token"
+            "pooling": "last_token",
+            "label": row['label']
         })
 
     if os.path.dirname(args.output):

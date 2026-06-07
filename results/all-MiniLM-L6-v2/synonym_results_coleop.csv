@@ -1,274 +1,547 @@
-species,oldSpeciesCanonicalName,similarity,prediction,model,threshold
-Archaeophylax worthyi,Waitomophylax worthyi,0.545,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Mycterus curculioides,Mycterus curculionides,0.9505,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Mycterus curculioides,Mycterus curculionoides,0.9838,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Mycterus quadricollis,Mycterus depressus,0.5778,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Megatoma atypica,Cretomegatoma atypica,0.6206,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Trogoderma glabrum,Anthrenus niger,0.352,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Trogoderma glabrum,Trogoderma fuscicornis,0.684,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Trogoderma glabrum,Trogoderma niger,0.6963,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Trogoderma glabrum,Trogoderma nigrum,0.768,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Trogoderma grassmani,Trogoderma grassmani,1.0,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Trogoderma megatomoides,Entomotrogus megatomoides,0.7363,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ctesias serra,Tiresias serra,0.7859,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Sefrania bleusei,Fohrer bleusei,0.6499,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Phradonoma tricolor,Trogoderma tricolor,0.5748,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Labrocerus concolor,Labrocerus simplex,0.6085,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Labrocerus depressus,Eocerus depressus,0.548,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Labrocerus setosus,Labrocerus affinis,0.7804,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Labrocerus setosus,Labrocerus pallipes,0.615,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Labrocerus similaris,Argocerus similaris,0.5963,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Labrocerus similaris,Argocerus subguttatus,0.3101,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Labrocerus vestitus,Labrocerus flavicornis,0.6638,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Attagenus australis,Trinodes australis,0.457,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Attagenus brunneus,Attagenus elongatulus,0.7627,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Attagenus brunneus,Attagenus elongatus,0.7513,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Attagenus brunneus,Attagenus marginicollis,0.6075,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Attagenus fasciatus,Attagenus anulifer,0.7206,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Attagenus fasciatus,Attagenus gloriosae,0.6796,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Attagenus fasciatus,Attagenus gloriosus,0.7184,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Attagenus quadrimaculatus,Attagenus 4-maculatus,0.7681,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Attagenus trifasciatus,Attagenus 3-fasciatus,0.8299,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Attagenus undulatus,Aethriostoma undulata,0.443,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Attagenus unicolor,Attagenus megatoma,0.6095,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Attagenus unicolor,Attagenus piceus,0.5788,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Thaumaglossa anthrenoides,Pseudothaumaglossa anthrenoides,0.849,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Orphinus fulvipes,Cryptorhopalum brevicorne,0.2206,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Orphinus fulvipes,Orphinus brevicorne,0.7312,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Orphinus fulvipes,Orphinus brevicornis,0.7756,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Orphinus fulvipes,Trogoderma fulvipes,0.5349,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Thorictodes heydeni,Thaumaphrastus heydeni,0.6384,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Thorictodes heydeni,Thorictodes karanisensis,0.554,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Megatoma alpina,Globicornis alpina,0.5177,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Heterocerus crinitus,Augyles crinitus,0.5535,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Heterocerus fenestratus,Heterocerus pulchellus,0.6344,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Heterocerus flindersi,Heterocerus caledoniae,0.5285,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Heterocerus maritimus,Augyles britannicus,0.3136,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Heterocerus maritimus,Heterocerus basalis,0.6942,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Heterocerus maritimus,Heterocerus britannicus,0.6386,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Heterocerus maritimus,Heterocerus burchanensis,0.6424,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Augyles aureolus,Heterocerus aureolus,0.5901,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Pastillodes areolatus,Cybocephalus areolatus,0.5352,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Cybocephalus binotatus,Cybocephalus aeneonittens,0.7764,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Cybocephalus membranaceus,Dissia membranaceus,0.5887,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Cybocephalus politissimus,Cybocephalus flavicapitus,0.7369,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Cybocephalus politissimus,Cybocephalus flavocapitis,0.6421,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Cybocephalus amplus,Dissia ampla,0.1874,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Cybocephalus sublucidus,Brachypterus sublucidus,0.543,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Pacicephalus gressitti,Cybocephalus gressitti,0.7394,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Amedissia argentinus,Pycnocephalus argentinus,0.5661,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Theticephalus aurocupreus,Cybocephalus aurocupreus,0.7071,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Theticephalus decamerus,Cybocephalus decamerus,0.6846,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Theticephalus mesopotamicus,Cybocephalus mesopatamicus,0.6702,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Theticephalus mesopotamicus,Cybocephalus mesopotamicus,0.7318,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Theticephalus mesopotamicus,Theticephalus mesopatamicus,0.9475,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Theticephalus nigriceps,Dissia nigriceps,0.5207,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Theticephalus salsus,Cybocephalus salsus,0.6889,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Cycloderma deplanatum,Critoderma deplanatum,0.4487,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Micromalthus debilis,Micromalthus anansi,0.7122,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Eurymeloe baudueri,Meloe baudueri,0.766,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Eurymeloe ganglbaueri,Meloe ganglbaueri,0.7961,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Eurymeloe mediterraneus,Meloe mediterraneus,0.6979,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Eurymeloe murinus,Meloe murinus,0.7429,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Eurymeloe scabriusculus,Meloe scabriusculus,0.7886,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Palaestra guerini,Telephorus guerinii,0.6253,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Palaestra guerini,Zonitis guerini,0.3838,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Hycleus polymorphus,Mylabris polymorpha,0.4717,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Hycleus phaleratus,Meloe phalerata,0.3756,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Hycleus phaleratus,Mylabris phalerata,0.4206,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Hycleus brevetarsalis,Mylabris brevetarsalis,0.7,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Cantharis lithophilus,Lytta lithophila,0.5194,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Zonitis chrysomeloides,Cantharis chrysomeloides,0.5515,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Zonitis melanoptera,Zonitis nigripennis,0.6733,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Cerocoma schaefferi,Cerocoma viridis,0.7184,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Meloe brevicollis,Meloe cephalotes,0.7168,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Meloe brevicollis,Meloe laticollis,0.8065,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Meloe brevicollis,Meloe puncticollis,0.7791,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Meloe brevicollis,Meloe splendens,0.7672,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Meloe cicatricosus,Meloe cicatricosus,1.0,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Meloe cicatricosus,Meloe punctatoradiatus,0.7544,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Meloe rugosus,Meloe autumnalis,0.7004,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Meloe rugosus,Meloe punctatus,0.769,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Meloe rugosus,Meloe rugulosus,0.8921,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Strongylites stygius,Strongulites stygicus,0.746,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Trachypachus gibbsii,Trachypachus alticola,0.5913,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Trachypachus gibbsii,Trachypachus californicus,0.6586,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Trachypachus inermis,Trachypachus holmbergi,0.6364,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Trachypachus inermis,Trachypachus oregonus,0.6845,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Trachypachus inermis,Trachypachus specularis,0.7433,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Trachypachus zetterstedtii,Trachypachus laticollis,0.7432,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Trachypachus zetterstedtii,Trachypachus transversicollis,0.6989,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Systolosoma breve,Notioxenus bilunulatus,0.3554,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Systolosoma breve,Systolosoma bilunulatum,0.7744,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Necronectulus avus,Necronetulus avus,0.8775,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ademosynoides asiatica,Petrodromeus asiaticus,0.5938,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ademosynoides chinatica,Toksunius chinaticus,0.4738,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ademosynoides juxta,Dzeregia juxta,0.5655,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Gyrinites minimus,Phaulogyrinus minimus,0.5668,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Epicerastes exstans,Epicerastes extans,0.9241,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Epicerastes viridescens,Epicerastes viridanus,0.7556,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Protaedus butoniensis,Protaedus butoniense,0.852,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Protaedus frontaltus,Protaedus fontaltus,0.7389,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Protaedus matertera,Protaedus materta,0.9442,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Protaedus robusticornis,Protaedus robusticorne,0.7977,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Bothrus taiwanus,Physopterus taiwanus,0.6065,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Hucus numatus,Hucus numatus,1.0,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Exillis aeruginosus,Exillis aeroginosus,0.6269,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Dolichocera harmandi,Dolichocera hermandi,0.7631,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Dolichocera schanus,Dolichocera schanus,1.0,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Dolichocera tessellata,Dolichocera tessellatus,0.9715,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Tophoderes depontanus,Syntophoderes depontanus,0.7132,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Tophoderes sinuatocollis,Tophoderes sinuaticollis,0.8304,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Anthribus moussonii,Anthribus moussoni,0.9703,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Anthribus nebulosus,Anthribus minimus,0.7277,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Anthribus nebulosus,Anthribus tesselatus,0.7308,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Anthribus nebulosus,Anthribus variegatus,0.7614,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Anthribus nebulosus,Brachytarsus kusteri,0.2794,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Anthribus scapularis,Brachytarsus rosae,0.2651,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Deropygus chaerilus,Deropygus cherilus,0.7918,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Electranthribus zherikhini,Glaesotropis zherikhini,0.5101,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Sympaector revocans,Sympaector revocanus,0.8746,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Phytocerum cayennense,Cerophytum cayennense,0.6256,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Idiomerus brevicornis,Necromera brevicornis,0.567,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Idiomerus inflatus,Necromera inflata,0.4555,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Idiomerus intermedius,Necromera intermedia,0.301,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Idiomerus latissimus,Necromera latissima,0.4606,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Idiomerus longicornis,Necromera longicornis,0.6003,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Idiomerus musculus,Necromera muscula,0.5398,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Leptocnemus longus,Necromera longa,0.5002,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Baissophytum amplus,Baissopsis amplus,0.9171,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Dolichocis laricinus,Ennearthron laricinum,0.3961,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Sulcacis bidentulus,Cis alpinus,0.3689,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Sulcacis curtulus,Cis criddlei,0.2108,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Sulcacis curtulus,Cis cylindricus,0.3163,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Sulcacis curtulus,Cis montana,0.2031,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Sulcacis curtulus,Cis sorror,0.2554,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Sulcacis curtulus,Sulcacis criddlei,0.5859,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Sulcacis curtulus,Sulcacis cylindricus,0.6843,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Sulcacis curtulus,Sulcacis montana,0.6473,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Sulcacis curtulus,Sulcacis niger,0.6432,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Sulcacis curtulus,Sulcacis sorror,0.6713,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Sulcacis fronticornis,Cis fronticornis,0.6774,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Sulcacis fronticornis,Rhopalodontus fronticornis,0.6714,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Sulcacis nitidus,Cis nitidus,0.6978,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Sulcacis nitidus,Ennearthron affine,0.1439,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Sulcacis nitidus,Ennearthron affinis,0.2901,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Sulcacis nitidus,Entypus affinis,0.3243,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Sulcacis nitidus,Sulcacis affinis,0.7436,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Strigocis bicornis,Entypus bicornis,0.647,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Strigocis bicornis,Strigocis fronticornis,0.6445,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Strigocis bilimeki,Cis bilimeka,0.5005,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Strigocis opalescens,Strigocis davisi,0.5359,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Strigocis opalescens,Xestocis davisi,0.2475,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Strigocis opalescens,Xestocis opalescens,0.6546,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Wagaicis wagae,Wagaicis wagai,0.9072,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Malacocis brevicollis,Brachycis brevicollis,0.6782,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Cis miles,Xestocis miles,0.5491,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Cis krausi,Cis bicolor,0.4946,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Cis krausi,Cis bimaculatus,0.5359,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Cis krausi,Cis duryi,0.5806,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Cis striatulus,Hadraule striatulus,0.5949,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Cis tetracentrum,Cis arizonae,0.5519,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Cis maritimus,Xestocis maritimus,0.5928,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Cis ephippiatus,Cis ephippium,0.876,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Cis ephippiatus,Cis moznettei,0.3896,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Cis ephippiatus,Xestocis moznettei,0.203,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Cis castaneus,Cis alter,0.6202,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Cis castaneus,Kateretes castaneus,0.5364,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Cis tristis,Cis falli,0.5653,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Cis tristis,Cis setulosus,0.5946,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Cis festivus,Orthocis festivus,0.5962,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Cis levettei,Cis levellei,0.598,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Cis levettei,Xestocis levettei,0.5703,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Cis castlei,Xestocis castlei,0.5772,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Octotemnus laevis,Octotemnus denudatus,0.7945,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Hadraule elongatula,Ennearthron striata,0.4183,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Hadraule elongatula,Hadraule coarctata,0.6125,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Hadraule elongatula,Hadraule striata,0.7003,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Hadraule elongatula,Pityocis coarctata,0.2795,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Porculus dufaui,Cis dufaui,0.5397,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis bicornis,Ennearthron bicornis,0.6157,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis californicus,Ceracis coloradensis,0.7566,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis californicus,Ceracis convergens,0.4257,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis californicus,Ceracis discolor,0.5623,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis californicus,Ceracis grossulus,0.7229,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis californicus,Ceracis oregonus,0.6743,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis californicus,Ennearthron californicus,0.6488,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis californicus,Ennearthron coloradensis,0.4165,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis californicus,Ennearthron convergens,0.0454,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis californicus,Ennearthron discolor,0.1925,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis californicus,Ennearthron grossulus,0.4129,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis californicus,Ennearthron oregonus,0.3344,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis castaneipennis,Ceracis ater,0.5464,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis castaneipennis,Ceracis rufipes,0.5544,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis cornifer,Ceracis cylindricus,0.6463,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis cornifer,Ceracis simplicicornis,0.6479,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis cornifer,Ennearthron corniferum,0.6132,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis cornifer,Ennearthron cylindricum,0.319,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis cornifer,Ennearthron simplicicorne,0.2116,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis cucullatus,Ennearthron cucullatum,0.5659,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis curtus,Ceracis compactus,0.6578,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis curtus,Ceracis obesus,0.7252,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis curtus,Cis obesus,0.3436,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis curtus,Ennearthron compactus,0.3689,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis curtus,Ennearthron curtus,0.5693,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis dixiensis,Octotemnus dixiensis,0.6231,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis furcifer,Ennearthron furcifer,0.4905,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis militaris,Ennearthron militaris,0.5895,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis minutissimus,Cis minutissimus,0.683,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis monocerus,Ceracis unicorne,0.6038,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis monocerus,Ceracis unicornis,0.6557,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis monocerus,Ennearthron unicorne,0.2997,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis monocerus,Ennearthron unicornis,0.3806,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis multipunctatus,Ennearthron multipunctatus,0.5429,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis nigricans,Ennearthron nigricans,0.6158,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis pullulus,Ennearthron pullulus,0.6214,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis sallei,Ceracis sellei,0.6889,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis sallei,Ennearthron sallei,0.7216,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis singularis,Xestocis singularis,0.6974,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis thoracicornis,Ceracis bifoveatus,0.6714,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis thoracicornis,Ceracis laminifrons,0.6772,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis thoracicornis,Ceracis mellyi,0.6242,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis thoracicornis,Ceracis oblongus,0.6702,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis thoracicornis,Ceracis piceus,0.6109,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis thoracicornis,Ceracis pumicatus,0.6865,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis thoracicornis,Ceracis thoracicinus,0.866,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis thoracicornis,Ceracis thoracicus,0.8504,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis thoracicornis,Ceracis unicolor,0.6996,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis thoracicornis,Cis thoracicornis,0.765,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis thoracicornis,Ennearthron laminifrons,0.3873,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis thoracicornis,Ennearthron mellyi,0.3187,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis thoracicornis,Ennearthron oblongus,0.3656,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis thoracicornis,Ennearthron piceus,0.3241,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ceracis thoracicornis,Ennearthron unicolor,0.39,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Rhopalodontus baudueri,Ropalodontus baudueri,0.6931,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Rhopalodontus perforatus,Ropalodontus perforatus,0.7697,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Rhopalodontus strandi,Ropalodontus strandi,0.7082,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Orthocis coluber,Orthocis latifrons,0.5967,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Orthocis linearis,Cis perrisi,0.3268,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Orthocis linearis,Orthocis perrisi,0.7315,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Orthocis punctatus,Cis punctatus,0.6358,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Orthocis punctatus,Orthocis aterrimus,0.7434,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Orthocis testaceofasciatus,Cis testaceofasciatus,0.6328,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Orthocis transversatus,Ennearthron pallidus,0.4335,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Orthocis transversatus,Ennearthron transversatus,0.6285,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Orthocis transversatus,Orthocis pallidus,0.7312,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ennearthron cornutum,Cis cornutus,0.4341,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ennearthron cornutum,Ennearthron concinnum,0.7414,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ennearthron palmi,Cis filum,0.2163,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ennearthron palmi,Ennearthron filum,0.6525,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ennearthron spenceri,Plesiocis spenceri,0.5148,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Xylographus corpulentus,Xylographus lemoulti,0.8059,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Xylographus corpulentus,Xylographus richardi,0.8005,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Xylographus subsinuatus,Xylographus rufescens,0.7313,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Ooides denudatus,Ooidellus denudatus,0.7974,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Zherikhinia distylia,Nanophyes formosensis,0.329,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Zherikhinia distylia,Zherikhinia formosensis,0.7952,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Pseudorobitis axeli,Temnalysis axeli,0.5592,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Pseudorobitis miwai,Nanophyes miwai,0.3865,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Nanomimus hemisphaericus,Nanophyes hemisphaericus,0.7956,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Kantohia taiwana,Shiva taiwanus,0.5427,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Dieckmanniellus chevrieri,Dieckmanniellus helveticus,0.5398,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Dieckmanniellus gracilis,Dieckmaniellus gracilis,0.8769,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Dieckmanniellus gracilis,Nanodes gracilis,0.4303,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
-Chibizo formosensis,Nanophyes basilineatus,0.3256,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7
+species,oldSpeciesCanonicalName,similarity,prediction,model,threshold,label
+Orphinus fulvipes,Heterocerus caledoniae,0.34,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Hycleus brevetarsalis,Mylabris brevetarsalis,0.7,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis californicus,Meloe punctatoradiatus,0.4292,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Meloe rugosus,Meloe rugulosus,0.8921,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Heterocerus crinitus,Ennearthron nigricans,0.2913,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis curtus,Ceracis obesus,0.7252,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Cis tristis,Cis falli,0.5653,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Orthocis punctatus,Orthocis aterrimus,0.7434,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis curtus,Ropalodontus strandi,0.3904,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis californicus,Cis minutissimus,0.3348,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Trogoderma glabrum,Trogoderma fuscicornis,0.684,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Trogoderma grassmani,Xestocis singularis,0.2641,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Labrocerus similaris,Rhopalodontus fronticornis,0.3835,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis californicus,Ennearthron affine,0.1007,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis thoracicornis,Ennearthron filum,0.2972,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Meloe rugosus,Ceracis laminifrons,0.3338,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis californicus,Ceracis bifoveatus,0.7599,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Cybocephalus sublucidus,Brachypterus sublucidus,0.543,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Xylographus subsinuatus,Ennearthron cylindricum,0.2775,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Cis ephippiatus,Ennearthron militaris,0.2222,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Palaestra guerini,Telephorus guerinii,0.6253,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Malacocis brevicollis,Brachycis brevicollis,0.6782,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Cycloderma deplanatum,Nanophyes miwai,0.1626,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Cis castaneus,Cis alter,0.6202,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Cis festivus,Attagenus megatoma,0.2327,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Mycterus curculioides,Mycterus curculionoides,0.9838,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Zherikhinia distylia,Ceracis grossulus,0.339,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Hadraule elongatula,Hadraule coarctata,0.6125,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Trogoderma megatomoides,Entomotrogus megatomoides,0.7363,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis cornifer,Ennearthron piceus,0.2761,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Eurymeloe murinus,Meloe murinus,0.7429,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Theticephalus mesopotamicus,Brachytarsus rosae,0.3314,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Zonitis chrysomeloides,Cantharis chrysomeloides,0.5515,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Protaedus robusticornis,Ennearthron curtus,0.2822,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Sulcacis curtulus,Ennearthron furcifer,0.3692,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Attagenus australis,Attagenus elongatus,0.8069,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis curtus,Cis obesus,0.3436,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Zonitis chrysomeloides,Strigocis davisi,0.0877,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Cybocephalus politissimus,Anthribus minimus,0.3892,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Orphinus fulvipes,Ennearthron pallidus,0.3887,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Strigocis bilimeki,Cis bilimeka,0.5005,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Octotemnus laevis,Trachypachus holmbergi,0.2877,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Hycleus phaleratus,Mylabris phalerata,0.4206,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis californicus,Ennearthron oregonus,0.3344,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Cis striatulus,Cis levellei,0.6209,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ennearthron cornutum,Ennearthron concinnum,0.7414,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Meloe brevicollis,Meloe laticollis,0.8065,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Baissophytum amplus,Baissopsis amplus,0.9171,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Tophoderes depontanus,Ropalodontus baudueri,0.2334,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Meloe brevicollis,Shiva taiwanus,0.1539,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Attagenus undulatus,Aethriostoma undulata,0.443,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Cis castlei,Ceracis simplicicornis,0.2585,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Orthocis linearis,Tiresias serra,0.336,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Attagenus fasciatus,Dissia membranaceus,0.2631,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Mycterus curculioides,Hadraule striatulus,0.2706,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis nigricans,Brachycis brevicollis,0.4088,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Trogoderma grassmani,Trogoderma grassmani,1.0,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Dolichocis laricinus,Xylographus rufescens,0.3885,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Cantharis lithophilus,Mycterus curculionides,0.3342,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Heterocerus fenestratus,Xestocis moznettei,0.2315,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Pastillodes areolatus,Meloe ganglbaueri,0.2467,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Hadraule elongatula,Dolichocera tessellatus,0.4149,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis sallei,Ennearthron sallei,0.7216,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Attagenus fasciatus,Ceracis convergens,0.082,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Orthocis coluber,Orthocis latifrons,0.5967,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Meloe brevicollis,Meloe puncticollis,0.7791,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Palaestra guerini,Zonitis guerini,0.3838,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Hadraule elongatula,Hadraule striata,0.7003,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Orthocis linearis,Orthocis perrisi,0.7315,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Cantharis lithophilus,Lytta lithophila,0.5194,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Hadraule elongatula,Dzeregia juxta,0.4844,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Sulcacis curtulus,Sulcacis sorror,0.6713,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Cis striatulus,Cerocoma viridis,0.3206,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Meloe brevicollis,Meloe cephalotes,0.7168,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis californicus,Ennearthron concinnum,0.2898,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Hycleus phaleratus,Meloe phalerata,0.3756,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis thoracicornis,Ceracis laminifrons,0.6772,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis monocerus,Ceracis unicornis,0.6557,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Eurymeloe ganglbaueri,Meloe ganglbaueri,0.7961,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Dolichocera tessellata,Xylographus lemoulti,0.3386,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Theticephalus nigriceps,Dissia nigriceps,0.5207,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis thoracicornis,Cryptorhopalum brevicorne,0.2879,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ademosynoides juxta,Dzeregia juxta,0.5655,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Meloe cicatricosus,Meloe cicatricosus,1.0,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Malacocis brevicollis,Ennearthron coloradensis,0.3322,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Thaumaglossa anthrenoides,Pseudothaumaglossa anthrenoides,0.849,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Zherikhinia distylia,Ceracis mellyi,0.3599,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Rhopalodontus strandi,Attagenus piceus,0.3672,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Archaeophylax worthyi,Waitomophylax worthyi,0.545,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ctesias serra,Tiresias serra,0.7859,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Dieckmanniellus gracilis,Nanodes gracilis,0.4303,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Attagenus brunneus,Attagenus elongatulus,0.7627,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Xylographus corpulentus,Trachypachus alticola,0.324,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Octotemnus laevis,Octotemnus denudatus,0.7945,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Meloe rugosus,Meloe punctatus,0.769,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Dolichocera tessellata,Dolichocera tessellatus,0.9715,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Idiomerus inflatus,Necromera inflata,0.4555,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Sulcacis curtulus,Cis criddlei,0.2108,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Necronectulus avus,Necronetulus avus,0.8775,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Sulcacis fronticornis,Cis fronticornis,0.6774,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Attagenus brunneus,Ennearthron convergens,0.1827,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Labrocerus similaris,Argocerus similaris,0.5963,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis curtus,Ceracis compactus,0.6578,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Sulcacis nitidus,Ennearthron affinis,0.2901,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Labrocerus depressus,Eocerus depressus,0.548,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Systolosoma breve,Meloe puncticollis,0.3008,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Thorictodes heydeni,Thorictodes karanisensis,0.554,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Cybocephalus amplus,Dissia ampla,0.1874,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Sulcacis nitidus,Sulcacis affinis,0.7436,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Heterocerus maritimus,Heterocerus britannicus,0.6386,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Trachypachus gibbsii,Trachypachus californicus,0.6586,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Heterocerus crinitus,Theticephalus mesopatamicus,0.4908,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Sulcacis curtulus,Cis alpinus,0.4132,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis thoracicornis,Ceracis ater,0.6061,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis thoracicornis,Ennearthron laminifrons,0.3873,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis minutissimus,Nanophyes basilineatus,0.2282,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Idiomerus intermedius,Ennearthron oregonus,0.2813,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Sefrania bleusei,Heterocerus britannicus,0.1444,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Mycterus quadricollis,Meloe autumnalis,0.1498,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Cis krausi,Strongulites stygicus,0.0914,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Octotemnus laevis,Cis punctatus,0.3499,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis californicus,Attagenus gloriosae,0.3319,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis californicus,Trachypachus transversicollis,0.1735,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Attagenus australis,Systolosoma bilunulatum,0.2565,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Cis krausi,Cis bicolor,0.4946,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis monocerus,Dieckmanniellus helveticus,0.451,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Cis ephippiatus,Xestocis moznettei,0.203,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Orthocis transversatus,Anthribus moussoni,0.2621,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Eurymeloe mediterraneus,Meloe mediterraneus,0.6979,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Theticephalus mesopotamicus,Cybocephalus aurocupreus,0.3769,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Attagenus fasciatus,Cybocephalus mesopatamicus,0.3854,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Idiomerus intermedius,Necromera intermedia,0.301,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Cis ephippiatus,Cis moznettei,0.3896,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Anthribus nebulosus,Brachytarsus kusteri,0.2794,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ennearthron palmi,Dolichocera hermandi,0.3429,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis californicus,Cis dufaui,0.2762,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Sulcacis curtulus,Ceracis pumicatus,0.4333,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Cis krausi,Cis duryi,0.5806,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Epicerastes exstans,Trachypachus oregonus,0.2051,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Thorictodes heydeni,Attagenus 4-maculatus,0.2257,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Systolosoma breve,Ennearthron unicornis,0.3799,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Leptocnemus longus,Protaedus fontaltus,0.3944,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis thoracicornis,Ceracis unicolor,0.6996,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Baissophytum amplus,Attagenus 3-fasciatus,0.2606,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Labrocerus similaris,Ennearthron striata,0.3006,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Sulcacis nitidus,Cis duryi,0.3004,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Labrocerus similaris,Argocerus subguttatus,0.3101,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis monocerus,Toksunius chinaticus,0.3863,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Pacicephalus gressitti,Cybocephalus gressitti,0.7394,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis thoracicornis,Ceracis mellyi,0.6242,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Orthocis linearis,Cretomegatoma atypica,0.2036,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Hycleus phaleratus,Petrodromeus asiaticus,0.3264,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Pseudorobitis axeli,Temnalysis axeli,0.5592,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Sulcacis nitidus,Trogoderma niger,0.3376,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Strongylites stygius,Ceracis obesus,0.2801,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis monocerus,Ennearthron unicornis,0.3806,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Attagenus fasciatus,Attagenus anulifer,0.7206,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis furcifer,Trogoderma tricolor,0.3043,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Heterocerus fenestratus,Heterocerus pulchellus,0.6344,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Octotemnus laevis,Anthribus tesselatus,0.4758,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Heterocerus fenestratus,Ennearthron affinis,0.264,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis californicus,Ennearthron coloradensis,0.4165,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis sallei,Xestocis levettei,0.3879,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Sulcacis nitidus,Entypus affinis,0.3243,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Deropygus chaerilus,Deropygus cherilus,0.7918,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Attagenus fasciatus,Meloe rugulosus,0.2076,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Cis krausi,Trachypachus laticollis,0.0851,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Attagenus unicolor,Attagenus megatoma,0.6095,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Hucus numatus,Hucus numatus,1.0,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis nigricans,Ennearthron nigricans,0.6158,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Orthocis testaceofasciatus,Ceracis discolor,0.2916,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Cis tristis,Cis setulosus,0.5946,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Amedissia argentinus,Pycnocephalus argentinus,0.5661,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Rhopalodontus strandi,Ropalodontus strandi,0.7082,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Attagenus brunneus,Attagenus marginicollis,0.6075,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Labrocerus setosus,Labrocerus pallipes,0.615,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Thaumaglossa anthrenoides,Cerophytum cayennense,0.2309,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Micromalthus debilis,Micromalthus anansi,0.7122,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis thoracicornis,Ennearthron mellyi,0.3187,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Chibizo formosensis,Nanophyes basilineatus,0.3256,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Xylographus subsinuatus,Xylographus rufescens,0.7313,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Sefrania bleusei,Zonitis nigripennis,0.1696,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Trachypachus inermis,Trachypachus holmbergi,0.6364,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Cis levettei,Xestocis levettei,0.5703,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis californicus,Ceracis grossulus,0.7229,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Orthocis testaceofasciatus,Cis testaceofasciatus,0.6328,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Attagenus brunneus,Attagenus elongatus,0.7513,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Trachypachus gibbsii,Ennearthron oblongus,0.2439,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis thoracicornis,Hadraule coarctata,0.4272,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Hadraule elongatula,Cis perrisi,0.2103,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Trogoderma glabrum,Anthrenus niger,0.352,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Dolichocera schanus,Dolichocera schanus,1.0,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Heterocerus maritimus,Heterocerus basalis,0.6942,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Orthocis linearis,Thaumaphrastus heydeni,0.3362,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Eurymeloe baudueri,Thorictodes karanisensis,0.1919,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Labrocerus setosus,Labrocerus affinis,0.7804,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Augyles aureolus,Heterocerus aureolus,0.5901,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis cornifer,Ennearthron corniferum,0.6132,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Theticephalus decamerus,Cis cylindricus,0.3748,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Mycterus quadricollis,Mycterus depressus,0.5778,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Kantohia taiwana,Shiva taiwanus,0.5427,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis cornifer,Meloe baudueri,0.2964,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Theticephalus mesopotamicus,Cybocephalus mesopatamicus,0.6702,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis californicus,Ennearthron convergens,0.0454,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Strigocis bilimeki,Ennearthron transversatus,0.2117,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Protaedus matertera,Protaedus materta,0.9442,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis thoracicornis,Meloe punctatus,0.3207,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Labrocerus similaris,Attagenus marginicollis,0.3338,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Attagenus trifasciatus,Attagenus 3-fasciatus,0.8299,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis thoracicornis,Ceracis thoracicus,0.8504,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis curtus,Ennearthron compactus,0.3689,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Attagenus fasciatus,Attagenus gloriosae,0.6796,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Trogoderma glabrum,Trogoderma niger,0.6963,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Cis castlei,Xestocis castlei,0.5772,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Cybocephalus binotatus,Cybocephalus aeneonittens,0.7764,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Protaedus butoniensis,Protaedus butoniense,0.852,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Orphinus fulvipes,Trogoderma fulvipes,0.5349,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Strigocis bicornis,Strigocis fronticornis,0.6445,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Hadraule elongatula,Orthocis perrisi,0.3669,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Tophoderes depontanus,Syntophoderes depontanus,0.7132,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Porculus dufaui,Necromera longicornis,0.2343,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Exillis aeruginosus,Exillis aeroginosus,0.6269,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Electranthribus zherikhini,Ceracis thoracicinus,0.1912,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis cornifer,Ceracis simplicicornis,0.6479,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Cis castaneus,Kateretes castaneus,0.5364,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ctesias serra,Epicerastes viridanus,0.2451,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis thoracicornis,Ceracis piceus,0.6109,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Sulcacis curtulus,Sulcacis criddlei,0.5859,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis californicus,Ennearthron californicus,0.6488,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Theticephalus mesopotamicus,Sulcacis sorror,0.2379,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Sulcacis curtulus,Xestocis opalescens,0.4162,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Orthocis punctatus,Cis punctatus,0.6358,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis minutissimus,Labrocerus affinis,0.4311,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis thoracicornis,Cis montana,0.2038,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Sulcacis curtulus,Ceracis thoracicus,0.3974,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Sulcacis curtulus,Cis cylindricus,0.3163,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Nanomimus hemisphaericus,Cis sorror,0.0212,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Eurymeloe baudueri,Meloe baudueri,0.766,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Trachypachus gibbsii,Trogoderma nigrum,0.4977,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis thoracicornis,Ceracis bifoveatus,0.6714,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Cis striatulus,Hadraule striatulus,0.5949,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis bicornis,Ennearthron bicornis,0.6157,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Cis krausi,Cybocephalus gressitti,0.2082,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Heterocerus crinitus,Entypus bicornis,0.3684,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Labrocerus vestitus,Ennearthron sallei,0.2224,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis californicus,Ceracis oregonus,0.6743,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Cerocoma schaefferi,Cerocoma viridis,0.7184,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Protaedus frontaltus,Protaedus fontaltus,0.7389,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Labrocerus similaris,Labrocerus simplex,0.6588,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Sulcacis curtulus,Sulcacis cylindricus,0.6843,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Trachypachus gibbsii,Trachypachus alticola,0.5913,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Sulcacis nitidus,Ennearthron affine,0.1439,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Sulcacis curtulus,Temnalysis axeli,0.2308,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Pacicephalus gressitti,Kateretes castaneus,0.3708,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ennearthron palmi,Ennearthron filum,0.6525,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Baissophytum amplus,Anthrenus niger,0.2946,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Sulcacis fronticornis,Necromera intermedia,0.1948,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Cis krausi,Mycterus curculionoides,0.2187,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ademosynoides chinatica,Toksunius chinaticus,0.4738,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Idiomerus musculus,Cybocephalus areolatus,0.2937,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Hycleus polymorphus,Mylabris polymorpha,0.4717,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Theticephalus mesopotamicus,Mylabris phalerata,0.353,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Theticephalus aurocupreus,Cis testaceofasciatus,0.3737,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Tophoderes sinuatocollis,Tophoderes sinuaticollis,0.8304,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Strigocis opalescens,Heterocerus basalis,0.3684,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Sulcacis nitidus,Critoderma deplanatum,0.2891,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Hadraule elongatula,Necromera brevicornis,0.3465,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Strongylites stygius,Ceracis coloradensis,0.2717,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Orthocis coluber,Labrocerus pallipes,0.1778,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Mycterus quadricollis,Ennearthron cucullatum,0.2411,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis californicus,Cybocephalus mesopotamicus,0.3706,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Cybocephalus politissimus,Xestocis miles,0.159,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Electranthribus zherikhini,Trogoderma fulvipes,0.1855,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Orphinus fulvipes,Orphinus brevicornis,0.7756,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Sulcacis bidentulus,Cis alpinus,0.3689,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Orthocis transversatus,Orthocis pallidus,0.7312,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Malacocis brevicollis,Heterocerus aureolus,0.366,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Theticephalus decamerus,Cybocephalus decamerus,0.6846,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Protaedus robusticornis,Protaedus robusticorne,0.7977,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Orthocis punctatus,Attagenus anulifer,0.4562,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Sulcacis nitidus,Argocerus similaris,0.2709,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ooides denudatus,Ooidellus denudatus,0.7974,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Labrocerus similaris,Baissopsis amplus,0.1973,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Sulcacis fronticornis,Rhopalodontus fronticornis,0.6714,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Pseudorobitis miwai,Nanophyes miwai,0.3865,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Trachypachus gibbsii,Nanodes gracilis,0.2037,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Thorictodes heydeni,Thaumaphrastus heydeni,0.6384,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis curtus,Meloe laticollis,0.3394,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis californicus,Ennearthron grossulus,0.4129,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Orthocis transversatus,Ennearthron laricinum,0.371,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Sulcacis curtulus,Sulcacis montana,0.6473,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Cis krausi,Cis alter,0.5176,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Sulcacis curtulus,Sulcacis niger,0.6432,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Orphinus fulvipes,Meloe cephalotes,0.3308,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Cis krausi,Cybocephalus aeneonittens,0.0934,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Anthribus nebulosus,Anthribus variegatus,0.7614,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Protaedus robusticornis,Sulcacis niger,0.2164,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Trachypachus inermis,Trachypachus specularis,0.7433,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Sulcacis curtulus,Cis sorror,0.2554,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis thoracicornis,Ennearthron oblongus,0.3656,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Rhopalodontus strandi,Orthocis latifrons,0.3373,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Trachypachus zetterstedtii,Trachypachus laticollis,0.7432,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Attagenus fasciatus,Cis setulosus,0.3031,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis curtus,Labrocerus flavicornis,0.2997,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Eurymeloe ganglbaueri,Deropygus cherilus,0.2205,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Anthribus nebulosus,Anthribus tesselatus,0.7308,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Hadraule elongatula,Ennearthron striata,0.4183,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis cornifer,Ceracis cylindricus,0.6463,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Orthocis linearis,Cis perrisi,0.3268,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Micromalthus debilis,Zonitis guerini,-0.0037,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Eurymeloe murinus,Dissia nigriceps,0.2683,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ennearthron palmi,Glaesotropis zherikhini,0.2888,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Sulcacis nitidus,Necromera muscula,0.3859,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ennearthron cornutum,Orthocis festivus,0.3907,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Sympaector revocans,Heterocerus burchanensis,0.114,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Anthribus scapularis,Brachytarsus rosae,0.2651,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Wagaicis wagae,Meloe mediterraneus,0.24,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis pullulus,Ennearthron pullulus,0.6214,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis thoracicornis,Ennearthron corniferum,0.2872,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis monocerus,Ennearthron unicorne,0.2997,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Phytocerum cayennense,Cerophytum cayennense,0.6256,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Meloe brevicollis,Ennearthron simplicicorne,0.1691,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Attagenus quadrimaculatus,Cybocephalus flavicapitus,0.3297,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Eurymeloe ganglbaueri,Xylographus richardi,0.3131,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Micromalthus debilis,Cis bilimeka,0.002,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis singularis,Cis obesus,0.2611,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Systolosoma breve,Necromera inflata,0.1889,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Thaumaglossa anthrenoides,Cybocephalus decamerus,0.3631,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Trachypachus zetterstedtii,Trinodes australis,0.3375,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis cornifer,Sulcacis affinis,0.355,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Anthribus moussonii,Protaedus robusticorne,0.1092,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis thoracicornis,Cis bimaculatus,0.3821,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Bothrus taiwanus,Physopterus taiwanus,0.6065,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Cis levettei,Cis levellei,0.598,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis thoracicornis,Meloe phalerata,0.2703,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Cybocephalus politissimus,Protaedus materta,0.2843,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis monocerus,Necronetulus avus,0.3502,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Cybocephalus membranaceus,Augyles crinitus,0.339,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Sulcacis nitidus,Cis nitidus,0.6978,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Labrocerus concolor,Cis falli,0.1184,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis thoracicornis,Ceracis thoracicinus,0.866,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis minutissimus,Cis thoracicornis,0.4346,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Cantharis lithophilus,Cantharis chrysomeloides,0.5948,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Cis miles,Xestocis miles,0.5491,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Baissophytum amplus,Augyles britannicus,0.2829,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Leptocnemus longus,Necromera longa,0.5002,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis californicus,Ennearthron discolor,0.1925,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ennearthron spenceri,Plesiocis spenceri,0.5148,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis thoracicornis,Ceracis pumicatus,0.6865,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Dolichocera harmandi,Dolichocera hermandi,0.7631,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Anthribus moussonii,Anthribus moussoni,0.9703,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis curtus,Anthribus variegatus,0.3618,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis sallei,Ceracis sellei,0.6889,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Dieckmanniellus gracilis,Ooidellus denudatus,0.3894,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Hadraule elongatula,Protaedus butoniense,0.4783,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis monocerus,Mylabris polymorpha,0.3585,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Electranthribus zherikhini,Glaesotropis zherikhini,0.5101,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis monocerus,Nanophyes formosensis,0.2322,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Cantharis lithophilus,Fohrer bleusei,0.1883,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis curtus,Ennearthron multipunctatus,0.1593,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Protaedus matertera,Ennearthron discolor,0.3049,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Epicerastes viridescens,Epicerastes viridanus,0.7556,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Attagenus trifasciatus,Cis fronticornis,0.2184,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis californicus,Trachypachus specularis,0.3675,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Idiomerus latissimus,Necromera latissima,0.4606,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Octotemnus laevis,Cis cornutus,0.2689,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Heterocerus maritimus,Augyles britannicus,0.3136,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Cis tetracentrum,Cis arizonae,0.5519,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Cycloderma deplanatum,Critoderma deplanatum,0.4487,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Nanomimus hemisphaericus,Entomotrogus megatomoides,0.3444,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Meloe brevicollis,Meloe splendens,0.7672,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Rhopalodontus baudueri,Ropalodontus baudueri,0.6931,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Hadraule elongatula,Pityocis coarctata,0.2795,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Attagenus brunneus,Cis bicolor,0.114,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Strigocis opalescens,Strigocis davisi,0.5359,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Sefrania bleusei,Fohrer bleusei,0.6499,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Orphinus fulvipes,Orphinus brevicorne,0.7312,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Attagenus quadrimaculatus,Attagenus 4-maculatus,0.7681,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Cis maritimus,Xestocis maritimus,0.5928,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Sulcacis curtulus,Cis montana,0.2031,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Strigocis opalescens,Ceracis unicorne,0.2952,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ademosynoides juxta,Hucus numatus,0.255,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis multipunctatus,Ennearthron multipunctatus,0.5429,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Trachypachus inermis,Trachypachus oregonus,0.6845,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Cybocephalus membranaceus,Dissia membranaceus,0.5887,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis thoracicornis,Ennearthron piceus,0.3241,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Dieckmanniellus gracilis,Cis nitidus,0.3408,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Idiomerus longicornis,Lytta lithophila,0.2591,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Meloe brevicollis,Xestocis davisi,0.3809,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Cis festivus,Orthocis festivus,0.5962,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Labrocerus vestitus,Ennearthron californicus,0.3448,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Heterocerus crinitus,Augyles crinitus,0.5535,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Dieckmanniellus gracilis,Ceracis sellei,0.3124,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Meloe brevicollis,Cis arizonae,0.2727,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis cornifer,Ennearthron simplicicorne,0.2116,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Protaedus matertera,Tophoderes sinuaticollis,0.3628,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis californicus,Trogoderma grassmani,0.1971,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Strigocis opalescens,Meloe splendens,0.3175,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis thoracicornis,Brachytarsus kusteri,0.3299,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ennearthron cornutum,Cis cornutus,0.4341,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Megatoma atypica,Ennearthron grossulus,0.3209,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Megatoma atypica,Cretomegatoma atypica,0.6206,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ennearthron palmi,Cis filum,0.2163,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Sulcacis nitidus,Ennearthron mellyi,0.3358,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Systolosoma breve,Systolosoma bilunulatum,0.7744,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis singularis,Xestocis singularis,0.6974,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ademosynoides chinatica,Octotemnus dixiensis,0.2642,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis dixiensis,Octotemnus dixiensis,0.6231,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis thoracicornis,Ceracis compactus,0.583,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Cis ephippiatus,Cis ephippium,0.876,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Trachypachus zetterstedtii,Trachypachus transversicollis,0.6989,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis californicus,Argocerus subguttatus,0.2759,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis militaris,Ennearthron militaris,0.5895,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Theticephalus mesopotamicus,Cybocephalus mesopotamicus,0.7318,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Heterocerus maritimus,Necromera latissima,0.2631,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Heterocerus maritimus,Heterocerus burchanensis,0.6424,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Attagenus unicolor,Attagenus piceus,0.5788,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Attagenus fasciatus,Sulcacis criddlei,0.2401,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Nanomimus hemisphaericus,Nanophyes hemisphaericus,0.7956,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Sulcacis curtulus,Dissia ampla,0.3824,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis castaneipennis,Ceracis ater,0.5464,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Cis krausi,Ceracis unicolor,0.3141,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Attagenus fasciatus,Attagenus gloriosus,0.7184,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Idiomerus brevicornis,Cis ephippium,0.3123,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis thoracicornis,Ceracis oblongus,0.6702,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Xylographus corpulentus,Xylographus richardi,0.8005,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ademosynoides juxta,Phaulogyrinus minimus,0.3913,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Strongylites stygius,Eocerus depressus,0.1644,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Palaestra guerini,Sulcacis cylindricus,0.2434,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Wagaicis wagae,Wagaicis wagai,0.9072,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Nanomimus hemisphaericus,Syntophoderes depontanus,0.2604,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Hadraule elongatula,Ropalodontus perforatus,0.3694,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Dolichocis laricinus,Ennearthron laricinum,0.3961,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Theticephalus mesopotamicus,Theticephalus mesopatamicus,0.9475,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Idiomerus musculus,Necromera muscula,0.5398,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Sympaector revocans,Sympaector revocanus,0.8746,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis cornifer,Cis filum,0.2476,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Trogoderma glabrum,Trogoderma nigrum,0.768,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Heterocerus maritimus,Cybocephalus flavocapitis,0.2947,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Attagenus brunneus,Meloe scabriusculus,0.3398,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Theticephalus salsus,Cybocephalus salsus,0.6889,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Cis miles,Attagenus gloriosus,0.0082,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Labrocerus concolor,Labrocerus simplex,0.6085,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Strigocis bicornis,Entypus bicornis,0.647,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Megatoma alpina,Globicornis alpina,0.5177,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Dieckmanniellus chevrieri,Epicerastes extans,0.2242,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Porculus dufaui,Cis dufaui,0.5397,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis cornifer,Orthocis aterrimus,0.3914,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis minutissimus,Cis minutissimus,0.683,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis californicus,Necromera longa,0.2591,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Dolichocera harmandi,Trogoderma fuscicornis,0.286,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis monocerus,Ennearthron pullulus,0.3017,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Cis levettei,Ennearthron unicorne,0.314,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Hycleus polymorphus,Cybocephalus salsus,0.3896,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis thoracicornis,Cis thoracicornis,0.765,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis cucullatus,Ennearthron cucullatum,0.5659,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis curtus,Ennearthron curtus,0.5693,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Cis krausi,Attagenus elongatulus,0.0743,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Cybocephalus binotatus,Ennearthron unicolor,0.0936,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Orthocis transversatus,Ennearthron pallidus,0.4335,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis thoracicornis,Zherikhinia formosensis,0.255,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Dolichocera tessellata,Ennearthron bicornis,0.2077,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Sulcacis curtulus,Octotemnus denudatus,0.3431,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Trachypachus zetterstedtii,Dieckmaniellus gracilis,0.383,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Pacicephalus gressitti,Aethriostoma undulata,0.3457,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Thorictodes heydeni,Mylabris brevetarsalis,0.3878,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Dieckmanniellus chevrieri,Dieckmanniellus helveticus,0.5398,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Theticephalus aurocupreus,Cis moznettei,0.1305,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis castaneipennis,Ceracis rufipes,0.5544,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Strigocis opalescens,Xestocis opalescens,0.6546,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Heterocerus flindersi,Heterocerus caledoniae,0.5285,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis monocerus,Ceracis unicorne,0.6038,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis singularis,Sympaector revocanus,0.2193,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis californicus,Ceracis convergens,0.4257,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Zonitis chrysomeloides,Orphinus brevicornis,0.2009,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Xylographus corpulentus,Xylographus lemoulti,0.8059,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Gyrinites minimus,Phaulogyrinus minimus,0.5668,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Cybocephalus politissimus,Cybocephalus flavocapitis,0.6421,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Cis striatulus,Dolichocera schanus,0.2692,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Mycterus curculioides,Mycterus curculionides,0.9505,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ooides denudatus,Ceracis oblongus,0.5276,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Cybocephalus binotatus,Meloe cicatricosus,0.4388,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Pastillodes areolatus,Cybocephalus areolatus,0.5352,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Anthribus moussonii,Sulcacis montana,0.2689,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Zonitis melanoptera,Zonitis nigripennis,0.6733,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis cornifer,Ennearthron cylindricum,0.319,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Orphinus fulvipes,Cryptorhopalum brevicorne,0.2206,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Labrocerus vestitus,Strigocis fronticornis,0.3212,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Zherikhinia distylia,Nanophyes formosensis,0.329,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Strigocis bicornis,Entypus affinis,0.3867,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis thoracicornis,Xestocis castlei,0.3861,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis thoracicornis,Xestocis maritimus,0.4904,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Cis tristis,Trachypachus californicus,0.272,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Strongylites stygius,Strongulites stygicus,0.746,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Sulcacis nitidus,Micromalthus anansi,0.3934,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Gyrinites minimus,Orthocis pallidus,0.2928,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Cybocephalus politissimus,Cybocephalus flavicapitus,0.7369,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Strigocis opalescens,Telephorus guerinii,0.3565,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Zherikhinia distylia,Zherikhinia formosensis,0.7952,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis thoracicornis,Ennearthron unicolor,0.39,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Phradonoma tricolor,Trogoderma tricolor,0.5748,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Malacocis brevicollis,Heterocerus pulchellus,0.4361,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Meloe rugosus,Meloe autumnalis,0.7004,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Sulcacis nitidus,Exillis aeroginosus,0.2438,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Attagenus unicolor,Waitomophylax worthyi,0.2949,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Cis krausi,Cis bimaculatus,0.5359,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Systolosoma breve,Brachypterus sublucidus,0.3961,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Orthocis transversatus,Nanophyes hemisphaericus,0.2732,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Idiomerus longicornis,Necromera longicornis,0.6003,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Idiomerus latissimus,Pseudothaumaglossa anthrenoides,0.2693,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Attagenus fasciatus,Ennearthron compactus,0.2385,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis monocerus,Plesiocis spenceri,0.3037,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Cis krausi,Ceracis piceus,0.2746,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Rhopalodontus perforatus,Ropalodontus perforatus,0.7697,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Ceracis californicus,Ceracis coloradensis,0.7566,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Bothrus taiwanus,Ceracis cylindricus,0.2232,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Theticephalus mesopotamicus,Ennearthron laminifrons,0.2121,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Theticephalus aurocupreus,Cybocephalus aurocupreus,0.7071,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Anthribus nebulosus,Ceracis rufipes,0.268,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Orthocis transversatus,Ennearthron transversatus,0.6285,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Attagenus australis,Trinodes australis,0.457,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Cis levettei,Globicornis alpina,0.1068,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ooides denudatus,Pityocis coarctata,0.4532,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Strigocis opalescens,Xestocis davisi,0.2475,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Trachypachus gibbsii,Mycterus depressus,0.1954,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis californicus,Ceracis discolor,0.5623,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Dolichocera schanus,Physopterus taiwanus,0.2697,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Kantohia taiwana,Cis criddlei,0.2327,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ademosynoides asiatica,Ceracis unicornis,0.1876,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis thoracicornis,Meloe murinus,0.375,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis californicus,Orphinus brevicorne,0.3998,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Idiomerus brevicornis,Necromera brevicornis,0.567,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Systolosoma breve,Notioxenus bilunulatus,0.3554,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Sulcacis curtulus,Notioxenus bilunulatus,0.4006,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Meloe cicatricosus,Meloe punctatoradiatus,0.7544,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Pacicephalus gressitti,Hadraule striata,0.408,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Protaedus robusticornis,Pycnocephalus argentinus,0.4538,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ceracis furcifer,Ennearthron furcifer,0.4905,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Dieckmanniellus chevrieri,Ceracis oregonus,0.3771,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Anthribus nebulosus,Anthribus minimus,0.7277,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Labrocerus vestitus,Labrocerus flavicornis,0.6638,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Eurymeloe scabriusculus,Meloe scabriusculus,0.7886,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Epicerastes exstans,Epicerastes extans,0.9241,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Dieckmanniellus gracilis,Dieckmaniellus gracilis,0.8769,synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1
+Orthocis testaceofasciatus,Wagaicis wagai,0.1883,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,0
+Ademosynoides asiatica,Petrodromeus asiaticus,0.5938,not synonym,sentence-transformers/all-MiniLM-L6-v2,0.7,1

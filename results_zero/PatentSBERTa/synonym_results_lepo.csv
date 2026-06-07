@@ -1,0 +1,1483 @@
+species,oldSpeciesCanonicalName,similarity,prediction,model,threshold
+Xylorycta castanea,Lichenaula castanea,0.6724,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Xylorycta luteotactella,Cryptolechia cognatella,0.5368,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Xylorycta luteotactella,Cryptolechia luteotactella,0.7389,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Xylorycta nivella,Cryptolechia nivella,0.6717,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Xylorycta stereodesma,Xylorycta prospicua,0.7779,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Xylorycta polysticha,Lichenaula polysticha,0.7288,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Xylorycta heliomacula,Telecrates heliomacula,0.7075,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Xylorycta assimilis,Xylorycta terenopis,0.8194,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Xylorycta haplochroa,Lichenaula haplochroa,0.6494,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Xylorycta haplochroa,Lichenaula umbrosa,0.4732,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Xylorycta cygnella,Cryptolechia cygnella,0.7393,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Xylorycta calligramma,Telecrates calligramma,0.6942,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Xylorycta streptogramma,Telecrates streptogramma,0.7345,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Xylorycta ovata,Antaeotricha ovata,0.627,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Xylorycta candescens,Lichenaula dissimilis,0.5624,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Xylorycta strigata,Cryptophasa strigata,0.6483,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Xylorycta apheles,Neodrepta apheles,0.6381,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Xylorycta apheles,Xylorycta lychnobii,0.8174,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Xylorycta argentella,Cryptolechia argentella,0.7178,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Synchalara rhombota,Agriophara rhombota,0.7611,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Paralecta tinctoria,Xylorycta tinctoria,0.7488,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Sphalerostola epierana,Exapateter epierana,0.6968,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Metathrinca ancistrias,Ptochoryctis ancistrias,0.7119,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Metathrinca ceromorpha,Ptochoryctis ceromorpha,0.7579,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Metathrinca illuvialis,Ptochoryctis illuvialis,0.704,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Metathrinca intacta,Ptochoryctis intacta,0.6233,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Metathrinca loranthivora,Ptochoryctis loranthivora,0.7276,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Metathrinca parabola,Ptochoryctis parabola,0.7161,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Metathrinca rosaria,Ptochoryctis rosaria,0.7148,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Metathrinca tsugensis,Ptochoryctis tsugensis,0.7302,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Liparistis monosema,Lichenaula monosema,0.7035,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Athrypsiastis candidella,Topiris candidella,0.7158,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Bida radiosella,Bida crambella,0.7343,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Bida radiosella,Psecadia radiosella,0.722,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Perixestis rhizophaga,Xylorycta rhizophaga,0.701,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Phthonerodes scotarcha,Psilosceles dichochroa,0.5194,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Iulactis insignis,Dectobathra insignis,0.6906,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Xylodryadella cryeranthes,Xylodryas cryeranthes,0.9465,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Neospastis encryphias,Agriophara encryphias,0.7514,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Neospastis ichnaea,Stenoma ichnaea,0.7516,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Philarista porphyrinella,Brunia intersecta,0.3662,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Philarista porphyrinella,Cryptolechia porphyrinella,0.7703,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyanocrates grandis,Cyanocrates signata,0.8067,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyanocrates grandis,Ommatothelxis grandis,0.6752,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Lichenaula afflictella,Cryptolechia afflictella,0.7163,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Lichenaula lichenea,Lichenaula lichenaea,0.972,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Lichenaula cryptoleuca,Phthonerodes cryptoleuca,0.7051,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Lichenaula laniata,Lichenaula sternoides,0.7681,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Lichenaula comparella,Lichenaula callisema,0.7862,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Lichenaula comparella,Oecophora comparella,0.6523,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Lichenaula anthracopsara,Phthonerodes anthracopsara,0.7223,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Lichenaula phloeochroa,Lichenaula provisa,0.7257,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Lichenaula maculosa,Polynesa maculosa,0.7366,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Heterochyta aprepta,Heterochyta abrepta,0.8447,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Heterochyta aprepta,Macrobela aprepta,0.6715,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Heterochyta infesta,Heterobathra infesta,0.9315,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Catoryctis leucomerata,Phthonerodes leucomerata,0.6927,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Catoryctis sciastis,Xylorycta sciastis,0.8063,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Catoryctis subnexella,Oecophora subnexella,0.7427,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Catoryctis subparallela,Oecophora fissulella,0.4606,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Catoryctis subparallela,Oecophora nexella,0.4751,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Catoryctis subparallela,Oecophora subparallela,0.749,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Brachybelistis blackburnii,Cryptophaga blackburnii,0.7195,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Brachybelistis pentachroa,Xylorycta pentachroa,0.6556,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Telecrates desmochrysa,Telecrates nigricansella,0.7159,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Telecrates laetiorella,Oecophora laetiorella,0.6469,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Telecrates melanochrysa,Xylorycta melanochrysa,0.7374,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Gomphoscopa catoryctopsis,Pachycera catoryctopsis,0.6778,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Thymiatris allocrossa,Lichenaula allocrossa,0.675,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Thymiatris cephalochra,Xylorycta cephalochra,0.764,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Leptobelistis isthmodes,Oegoconia isthmodes,0.6845,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Plectophila acrochroa,Xylorycta acrochroa,0.7539,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Plectophila discalis,Acontia discalis,0.6685,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Plectophila discalis,Lichenaula inscripta,0.4231,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Plectophila discalis,Lichenaula ombralota,0.4601,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Plectophila discalis,Lichenaula oxygona,0.3981,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Plectophila electella,Oecophora electella,0.8018,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Plectophila eucrines,Lichenaula eucrines,0.6876,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Plectophila micradelpha,Lichenaula micradelpha,0.686,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Plectophila pyrgodes,Plectophila ascripta,0.7392,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Plectophila thiophanes,Xylorycta thiophanes,0.7416,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Potniarcha hierastis,Cryptophaga hierastis,0.7576,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Zaphanaula hemileuca,Antiopala moderata,0.4521,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Zaphanaula hemileuca,Oecophora hemileuca,0.6991,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Zaphanaula hemileuca,Peltophora leucoplaca,0.5862,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Zaphanaula hemileuca,Zaphanaula diffusa,0.7651,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Zaphanaula hemileuca,Zaphanaula xenophila,0.7249,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cophomantella aphanozona,Cophomantis aphanozona,0.9133,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cophomantella artonoma,Cophomantis artonoma,0.9223,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cophomantella bifrenata,Onebala bifrenata,0.6691,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cophomantella bythota,Onebala bythota,0.5869,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cophomantella crypsizyga,Onebala crypsizyga,0.649,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cophomantella cubiculata,Onebala cubiculata,0.6016,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cophomantella cyclopodes,Onebala cyclopodes,0.6615,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cophomantella elaphopis,Onebala elaphopis,0.6004,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cophomantella ephanozona,Cophomantis ephanozona,0.9161,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cophomantella eremota,Onebala eremota,0.5441,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cophomantella furnaria,Lecithocera furnaria,0.7213,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cophomantella homogramma,Onebala homogramma,0.6186,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cophomantella lychnocentra,Styloceros lychnocentra,0.7491,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cophomantella myadelpha,Onebala myadelpha,0.5612,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cophomantella osphrantica,Cophomantis osphrantica,0.9267,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cophomantella pumicata,Cophomantis pumicata,0.9216,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cophomantella syngonarcha,Cophomantis syngonarcha,0.9109,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Hylypnes isosticha,Odites isosticha,0.689,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Hylypnes leptosticta,Cryptolechia leptosticta,0.7629,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Hylypnes pudica,Odites pudica,0.6392,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupetochira xystopala,Nephantis xystopala,0.7783,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Xylomimetes trachyptera,Pilostibes trachyptera,0.7022,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Arignota stercorata,Xylorycta stercorata,0.6976,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Zauclophora metaphaeella,Safra metaphaeella,0.7097,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Zauclophora muscerdella,Cryptolechia muscerdella,0.7652,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Zauclophora pelodes,Xylorycta cirrhodes,0.5653,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Zauclophora procellosa,Clerarcha procellosa,0.6491,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Scieropepla orthosema,Procometis orthosema,0.7272,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Scieropepla reversella,Cryptolechia abrosella,0.5147,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Scieropepla reversella,Cryptolechia reversella,0.655,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Scieropepla serica,Tanyzancla serica,0.6885,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Scieropepla serina,Procometis trispora,0.6493,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Scieropepla typhicola,Scieropepla typicola,0.9186,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Pilostibes basivitta,Marisba basivitta,0.6792,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Pilostibes basivitta,Pilostibes enchidias,0.7461,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Thysiarcha ecclesiastis,Cryptophasa ecclesiastis,0.7145,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Paralypusa chinensis,Pseudatemelia chinensis,0.7361,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Diurnea fagella,Chimabacche fagella,0.7858,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Diurnea fagella,Chimabacche nolckenella,0.4896,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Diurnea fagella,Diurnea dormoyella,0.7659,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Diurnea fagella,Diurnea nolckenella,0.7217,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Diurnea fagella,Tinea fagella,0.7256,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Diurnea fumida,Dasystoma fumida,0.7891,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Diurnea fumida,Sciaphila fumida,0.6577,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Diurnea lipsiella,Chimabacche phryganella,0.4849,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Diurnea lipsiella,Diurnea lipsiella,1.0,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Diurnea lipsiella,Diurnea novembris,0.6749,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Diurnea lipsiella,Diurnea phryganella,0.71,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Diurnea lipsiella,Lemmatophila phryganella,0.5073,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dasystoma kurentzovi,Cheimophila kurentzovi,0.7523,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dasystoma salicella,Cheimophila salicella,0.7347,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dasystoma salicella,Hercyna rufocrinitalis,0.5975,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dasystoma salicella,Lemmatophila salicella,0.7539,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Agnoea aeneella,Borkhausenia aeneella,0.6925,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Agnoea colurnella,Borkhausenia colurnella,0.716,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Agnoea colurnella,Borkhausenia pulverosella,0.5487,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Agnoea colurnella,Pseudatemelia colurnella,0.6632,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Agnoea detrimentella,Borkhausenia detrimentella,0.649,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Agnoea detrimentella,Pseudatemelia detrimentella,0.6152,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Agnoea elsae,Borkhausenia elsae,0.6349,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Agnoea elsae,Pseudatemelia elsae,0.624,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Agnoea filiella,Borkhausenia filiella,0.6907,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Agnoea filiella,Pseudatemelia filiella,0.62,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Agnoea flavifrontella,Borkhausenia flavifrontella,0.7292,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Agnoea flavifrontella,Pseudatemelia flavifrontella,0.701,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Agnoea flavifrontella,Tubuliferola flavifrontella,0.7222,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Agnoea fuscifrontella,Agnoea evanescens,0.7654,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Agnoea fuscifrontella,Blastobasis evanescens,0.5249,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Agnoea fuscifrontella,Borkhausenia fuscifrontella,0.7322,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Agnoea fuscifrontella,Pseudatemelia fuscifrontella,0.6781,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Agnoea josephinae,Pseudatemelia josephinae,0.6377,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Agnoea langohri,Pseudatemelia langohri,0.6159,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Agnoea latipennella,Pseudatemelia latipennella,0.6501,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Agnoea lavandulae,Borkhausenia ardosiella,0.4749,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Agnoea lavandulae,Borkhausenia lavandulae,0.6341,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Agnoea lavandulae,Borkhausenia pulverisquamis,0.4213,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Agnoea lavandulae,Oecophora ardosiella,0.5815,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Agnoea lavandulae,Pseudatemelia lavandulae,0.6244,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Agnoea pallidella,Borkhausenia pallidella,0.6622,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Agnoea pallidella,Pseudatemelia pallidella,0.6299,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Agnoea semifuscata,Pseudatemelia semifuscata,0.6266,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Agnoea subgilvida,Pseudatemelia subgilvida,0.6431,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Agnoea subgilvida,Tubuliferola subgilvida,0.7047,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Agnoea subochreella,Agnoea panzerella,0.7847,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Agnoea subochreella,Pseudatemelia panzerella,0.4866,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Agnoea subochreella,Pseudatemelia subochreella,0.65,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Agnoea subochreella,Tubuliferola subochreella,0.745,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Agnoea synchrozella,Pseudatemelia synchrozella,0.6827,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Agnoea xanthosoma,Pseudatemelia xanthosoma,0.6216,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Atosia doenia,Parasa doenia,0.6599,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eukarschia mitis,Gephyrophora mitis,0.6924,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euphlyctina phaeopasta,Araeogyia phaeopasta,0.8105,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Lithacodes fasciola,Limacodes fasciola,0.845,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Lithacodes fasciola,Lithacodes belfragei,0.7636,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Lithacodes fasciola,Lithacodes divergens,0.7464,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Lithacodes fasciola,Lithacodes laticlavia,0.7921,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Lithacodes fiskeana,Tortricidia fiskeana,0.6122,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Parapluda incincta,Apluda incincta,0.7404,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Parapluda incincta,Apluda schaliphlebia,0.5037,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Parapluda incincta,Parapluda schaliphlebia,0.6667,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Parapluda invitabilis,Apluda similis,0.5569,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Parapluda invitabilis,Heterogenea invitabilis,0.6568,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Parapluda invitabilis,Parapluda similis,0.7778,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Parapluda monogramma,Apluda monogramma,0.7463,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Parapluda syngrapha,Apluda syngrapha,0.7933,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclea aemilia,Bombyx aemilia,0.7382,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclea aemilia,Euclea discolor,0.6957,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclea bidiscalis,Miresa doriens,0.5321,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclea byrne,Metraga byrne,0.8047,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclea cippus,Bombyx cippus,0.6815,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclea cippus,Phalaena cippus,0.7246,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclea copac,Neomiresa copac,0.7255,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclea delphinii,Empretia paenulata,0.5648,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclea delphinii,Euclea bifida,0.7425,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclea delphinii,Euclea elliotii,0.8092,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclea delphinii,Euclea ferruginea,0.7657,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclea delphinii,Euclea interjecta,0.7144,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclea delphinii,Euclea mira,0.7873,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclea delphinii,Euclea monitor,0.6574,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclea delphinii,Euclea strigata,0.7635,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclea delphinii,Euclea viridiclava,0.7554,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclea delphinii,Limacodes argentata,0.4817,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclea delphinii,Limacodes delphinii,0.7244,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclea delphinii,Limacodes querceti,0.5105,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclea delphinii,Limacodes quercicola,0.4644,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclea delphinii,Nochelia tardigrada,0.5799,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclea delphinii,Nyssia varia,0.5372,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclea delphinii,Parasa excisa,0.5037,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclea delphinii,Parasa incisa,0.4819,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclea delphinii,Sibine varia,0.5648,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclea determinata,Metraga costilinea,0.452,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclea dicolon,Phalaena dicolon,0.7253,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclea diversa,Euclea retroversa,0.7675,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclea diversa,Semyra diversa,0.7039,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclea diversa,Teinorhyncha vericrux,0.4558,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclea dolosa,Hydrias dolosa,0.7544,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclea norba,Sibine norba,0.6937,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclea plugma,Euclea chiriquensis,0.6706,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclea plugma,Euclea zygia,0.7123,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclea plugma,Metraga colle,0.4829,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclea plugma,Metraga hoboa,0.4451,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclea plugma,Metraga perplexa,0.5519,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclea plugma,Phalaena plugma,0.7427,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclea rufa,Neomires rufa,0.7079,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclea spadicis,Monoleuca spadicis,0.7801,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Pectinarosa alastor,Altha alastor,0.6161,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Melinaria campagnei,Parasa campagnei,0.7119,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Melinaria repanda,Neaera repanda,0.7182,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Melinaria repanda,Parasa repanda,0.6979,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Caffricola cloeckneria,Bombyx cloeckneria,0.6177,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Heringocena andobo,Pseudomocena andobo,0.6221,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Heringocena difficilis,Pseudomocena difficilis,0.7103,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Vipsania melanois,Pseudovipsania melanois,0.8032,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Vipsania schevi,Lithacodes schevi,0.604,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Narosoideus flavidorsalis,Heterogena flavidorsalis,0.7013,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Narosoideus flavidorsalis,Narosoideus flavissima,0.9324,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Narosoideus flavidorsalis,Narosoideus micans,0.7593,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Narosoideus fuscicostalis,Miresa fuscicostalis,0.6894,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Narosoideus vulpina,Narosoideus apicipennis,0.7768,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Narosoideus vulpina,Narosoideus aurisoma,0.7755,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Narosoideus vulpina,Narosoideus formosanus,0.7875,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Narosoideus vulpina,Narosoideus formosicola,0.7678,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Narosoideus vulpina,Vipsania vulpina,0.7289,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyclopterana reducta,Cycloptera reducta,0.9769,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Altha peralbida,Thosea peralbida,0.6914,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Narosopsis leucospila,Narosopsis vynia,0.7709,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ctenolita auribasalis,Miresa auribasalis,0.6873,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ctenolita auribasalis,Teinorhyncha auribasalis,0.7753,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ctenolita epargyra,Ctenolita cerdo,0.8378,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ctenolita epargyra,Teinorhyncha cerdo,0.592,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ctenolita nobilior,Miresa nobilior,0.6864,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ctenolita nobilior,Teinorhyncha nobilior,0.7185,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ctenolita pyrosomoides,Miresa pyrosomoides,0.7213,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ctenolita pyrosomoides,Teinorhyncha pyrosomoides,0.7793,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Comanula uniformis,Comanula bipunctata,0.7084,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Comanula uniformis,Hildala uniformis,0.66,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Narosa argentipuncta,Narosa narcha,0.768,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Narosa corusca,Narosa baibarana,0.7498,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Narosa corusca,Narosa ishidae,0.6503,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Narosa corusca,Narosa shinshana,0.6843,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Narosa corusca,Narosa takamukui,0.7063,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Narosa nigrisigna,Heterogenea formosana,0.4003,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Narosa nigrisigna,Narosa ochracea,0.6788,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Narosa nigrisigna,Narosa penicillata,0.7207,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Sansarea alenae,Euphlyctina alenae,0.6394,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Sansarea circulifera,Trichogyia circulifera,0.749,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Macroplectrina apicalis,Macroplectra apicalis,0.9546,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Macroplectrina semiaurantia,Macroplectra semiaurantia,0.9661,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Brachiopsis vicina,Caffricola vicina,0.6753,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Vipaka niveipennis,Narosa niveipennis,0.7552,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Zinara ploetzi,Heterolepis ploetzi,0.6591,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Magos xanthopus,Bietia xanthopus,0.7274,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Anilina nubilata,Paryphanta nubilata,0.6996,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Anilina personata,Paryphanta personata,0.7045,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Anilina plebeia,Paryphanta plebeia,0.7812,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Anilina tessmanni,Paryphanta tessmanni,0.737,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Mambara andamanensis,Hypoblechra andamanensis,0.7032,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Mambara delocrossa,Birthama delocrossa,0.749,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Mambara haplopis,Birthama haplopis,0.7508,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Mambara minimalis,Setora minimalis,0.6786,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Chalcocelis albiguttatus,Altha pulchrimacula,0.5333,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Chalcocelis albiguttatus,Doratifera hemistaura,0.5428,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Chalcocelis albiguttatus,Doratifera nephrochrysa,0.5526,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Chalcocelis albiguttatus,Limacodes albiguttatus,0.7476,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Chalcocelis albiguttatus,Miresa fumifera,0.4547,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Chalcocelis albiguttatus,Miresa nigriplaga,0.4132,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Chalcocelis albiguttatus,Miresa sanguineomaculata,0.5189,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Chalcocelis castanica,Chalcoscelis castanica,0.899,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Chrysopolomides nivea,Chrysopoloma nivea,0.8348,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Soteira altilis,Parasa altilis,0.7241,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Soteira grandis,Parasa grandis,0.7229,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Soteira ostia,Latoia pseudostia,0.5243,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Soteira ostia,Parasa ostia,0.7666,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Soteira prasina,Parasa prasina,0.7712,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Soteira shaanxiensis,Latoia shaanxiensis,0.7849,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Soteira shaanxiensis,Parasa shaanxiensis,0.8243,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Soteira vadimi,Parasa vadimi,0.7768,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Quasinarosa fulgens,Microcampa fulgens,0.7018,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Quasinarosa fulgens,Narosa kanshireana,0.3501,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Quasinarosa fulgens,Narosa pseudochracea,0.5265,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Quasinarosa fulgens,Narosa tamsi,0.4181,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Circeida argentifascia,Latoia argentifascia,0.8075,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Circeida argentifascia,Parasa argentifascia,0.7717,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Circeida eupuncta,Latoia eupuncta,0.7924,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Circeida eupuncta,Parasa eupuncta,0.7648,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Circeida liangdiana,Latoia liangdiana,0.7851,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Circeida liangdiana,Parasa liangdiana,0.7152,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Circeida mutifascia,Latoia mutifascia,0.7819,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Circeida mutifascia,Parasa mutifascia,0.7271,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Circeida parapuncta,Latoia parapuncta,0.8266,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Circeida parapuncta,Parasa parapuncta,0.8231,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Avatara interrupta,Thosea interrupta,0.6701,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Avatara lineofusca,Iragoides lineofusca,0.6953,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Avatara plethoneura,Thosea plethoneura,0.7314,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Avatara pseudocana,Aphendala pseudocana,0.7443,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Caissa fasciatum,Ceratonema fasciatum,0.7267,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Aergina fumosa,Parasa fumosa,0.6773,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Aergina gentilis,Latoia gentilis,0.7733,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Aergina gentilis,Parasa gentilis,0.7136,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Aergina hilaris,Limacodes hilaris,0.6026,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Aergina hilaris,Parasa hockingii,0.4109,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Aergina laeta,Aergina retracta,0.781,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Aergina laeta,Parasa laeta,0.6615,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Aergina laeta,Parasa retracta,0.4661,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Aergina liharis,Parasa liharis,0.7028,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Aergina mirza,Parasa mirza,0.7501,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Aergina paeera,Parasa paeera,0.6978,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Aergina solovyevi,Parasa solovyevi,0.697,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Scopelodes minax,Bethura minax,0.6175,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Scopelodes unicolor,Dalcera palpigera,0.4957,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Scopelodes unicolor,Nyssia micacea,0.3057,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Scopelodes unicolor,Scopelodes lutea,0.7122,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Scopelodes unicolor,Scopelodes palpalis,0.7455,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Scopelodes vulpina,Scopelodes tantula,0.7614,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Nephelimorpha argentilinea,Parasa argentilinea,0.7155,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Nephelimorpha argentilinea,Parasa elegantula,0.4615,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Omocenops micacea,Anzabe micacea,0.6765,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Comana albibasis,Comana albiplaga,0.7485,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Comana albibasis,Miresa albibasis,0.7765,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Comana albibasis,Miresa humeralis,0.4191,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Comana corones,Bombyx corones,0.6915,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Comana corones,Susica miltocosma,0.4356,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Comana cosmocalla,Comana casmocalla,0.8803,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Comana cosmocalla,Susica cosmocalla,0.7761,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Comana cosmocalla,Susica dochmosema,0.4075,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Comana euryparoa,Susica euryparoa,0.7473,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Comana idiomorpha,Susica idiomorpha,0.6381,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Comana miltochyta,Susica miltochyta,0.732,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Comana miltogramma,Darala rosea,0.4465,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Comana miltogramma,Hildala miniacea,0.4804,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Comana miltogramma,Momopola miltogramma,0.745,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Comana mjobergi,Comana mjoebergi,0.8384,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Comana mjobergi,Susica mjobergi,0.7869,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Comana monomorpha,Natada monomorpha,0.7789,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Comana resplendens,Susica resplendens,0.7581,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Comana rosea,Anthela rosea,0.7435,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Comana testacea,Mecytha testacea,0.668,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Leucophobetron argentiflua,Altha rufipuncta,0.3868,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Leucophobetron argentiflua,Euproctis argentiflua,0.7685,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Leucophobetron argyrorrhaea,Euproctis argyrorrhaea,0.7434,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Leucophobetron punctata,Euclea punctata,0.7331,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Achrocerides theorini,Lasiocampa theorini,0.6932,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Aphendala cana,Parasa cana,0.673,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Aphendala cana,Thosea barikoti,0.5369,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Aphendala cana,Thosea cana,0.5822,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Aphendala conicosma,Thosea conicosma,0.6532,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Aphendala ferreogrisea,Tetraphleba ferreogrisea,0.6633,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Aphendala ferreogrisea,Thosea ferreogrisea,0.6463,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Aphendala imitabilis,Thosea imitabilis,0.6813,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Aphendala recta,Thosea recta,0.639,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Aphendala unicolor,Aphendala mechiensis,0.7044,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Aphendala unicolor,Aphendala transversata,0.6781,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Aphendala unicolor,Aphendala tripartita,0.7477,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Aphendala unicolor,Macroplectra unicolor,0.6329,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Aphendala unicolor,Parasa unicolor,0.6842,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Aphendala unicolor,Thosea discipunctata,0.3922,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Aphendala unicolor,Thosea phaeobasis,0.4071,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Aphendala unicolor,Thosea transversata,0.3438,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Aphendala unicolor,Thosea tripartita,0.4724,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Hindothosea cervina,Thosea cervina,0.5801,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Hindothosea cervina,Thosea duplexa,0.2989,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Neomocena convergens,Omocena convergens,0.6523,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Birthamula chara,Contheyla chara,0.6532,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Birthamula rufa,Thosea grandis,0.3788,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Hadraphe aprica,Hadraphe callima,0.7703,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Hadraphe aprica,Scirrhoma callima,0.482,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Hadraphe ethiopica,Scirrhoma ethiopica,0.6996,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Pretas furcillata,Aphendala furcillata,0.6784,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Pretas separata,Thosea separata,0.7113,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Thronia badia,Parasa badia,0.6404,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Thronia dilucida,Parasa dilucida,0.6736,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Thronia xizangensis,Parasa xizangensis,0.7074,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Thronia xueshana,Latoia xueshana,0.7035,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Thronia xueshana,Parasa xueshana,0.6639,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eloasa acrata,Parasa acrata,0.7207,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eloasa atmodes,Parasa atmodes,0.7596,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eloasa atmodes,Parasa loxoleuca,0.4044,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eloasa bombycoides,Doratiophora amphibrota,0.5316,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eloasa bombycoides,Lethocephala bombycoides,0.7176,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eloasa bombycoides,Parasa rutila,0.4329,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eloasa bombycoides,Thosea erecta,0.394,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eloasa brevipennis,Parasa brevipennis,0.8098,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eloasa calida,Doratifera congrua,0.4418,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eloasa calida,Lethocephala eremospila,0.4685,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eloasa callidesma,Thosea callidesma,0.7106,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eloasa infrequens,Apoda infrequens,0.7601,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eloasa infrequens,Parasa entima,0.4256,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eloasa liosarca,Anaxidea integer,0.3382,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eloasa liosarca,Eloasa liasarca,0.8376,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eloasa liosarca,Thosea liosarca,0.6893,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eloasa luxa,Thosea luxa,0.6686,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eloasa perixera,Doratifera perixera,0.6719,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eloasa sphenosema,Doratifera sphenosema,0.7172,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eloasa symphonistis,Parasa symphonistis,0.7854,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Susica pannosa,Hyphorma pannosa,0.7117,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Susica sinensis,Susica formosana,0.8333,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Susica sinensis,Susica fusca,0.7711,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Susica sinensis,Susica fusca,0.7711,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Susica sinensis,Tadema sinensis,0.678,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eucalliathla candidella,Oecophora candidella,0.7791,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Argyresthia pruniella,Argyresthia ephippella,0.7247,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Argyresthia pruniella,Oecophora pruniella,0.7068,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Argyresthia notoleuca,Zelleria notoleuca,0.709,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Argyresthia curvella,Argyresthia arcella,0.8425,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Argyresthia curvella,Argyresthia denudatella,0.774,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Argyresthia curvella,Argyresthia nitidella,0.774,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Argyresthia curvella,Argyresthia ossea,0.7525,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Argyresthia curvella,Argyresthia purpurascentella,0.7395,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Argyresthia curvella,Tinea arcella,0.5281,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Argyresthia abdominalis,Argyresthia decimella,0.6483,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Argyresthia abdominalis,Argyresthia inauratella,0.6761,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Argyresthia triplicata,Argyresthia trifasciae,0.7797,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Argyresthia pygmaeella,Argyresthia rudolphella,0.7883,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Argyresthia pygmaeella,Argyresthia semifasciella,0.7194,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Argyresthia ivella,Argyresthia andereggiella,0.7998,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Argyresthia ivella,Argyresthia kuwayamella,0.7843,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Argyresthia ivella,Argyresthia quadriella,0.7772,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Argyresthia ivella,Oecophora andereggiella,0.5816,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Argyresthia chrysidella,Argyresthia walsinghamella,0.7382,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Argyresthia atlanticella,Argyresthia minusculella,0.7258,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Trachydora acrocyrta,Syntomactis acrocyrta,0.6933,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Trachydora acromianta,Syntomactis acromianta,0.6873,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Trachydora bacteriota,Balionebris bacteriota,0.7279,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Trachydora capnopa,Pogonias capnopa,0.7153,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Trachydora centromela,Trachydora holochorda,0.7549,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Trachydora fumea,Syntomactis fumea,0.6685,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Trachydora heliodora,Pogonias heliodora,0.7211,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Trachydora heliotricha,Pogonias heliotricha,0.7144,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Trachydora juengeri,Sindicola juengeri,0.6845,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Trachydora macrostola,Syntomactis macrostola,0.6976,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Trachydora plumigera,Anataractis plumigera,0.6897,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Trachydora porphyrescens,Pogonias porphyrescens,0.7395,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Trachydora pygaea,Syntomactis pygaea,0.6801,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Trachydora squamella,Sindicola squamella,0.7343,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Trachydora tephronota,Syntomactis tephronota,0.6811,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Zaratha pterodactylella,Zaratha niveiventris,0.6783,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Palaeomystella chalcopeda,Palaeomystis chalcopeda,0.9439,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Nanodacna logistica,Colonophora logistica,0.6232,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Nanodacna vinacea,Homaledra vinacea,0.6779,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Microcolona durata,Aganoptila durata,0.6652,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Microcolona phanarcha,Aganoptila phanarcha,0.7372,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Microcolona toropis,Elachista toropis,0.7216,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ischnopsis enopias,Amblyxena enopias,0.7688,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ischnopsis melanogma,Iriothyrsa melanogma,0.784,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ischnopsis pilifera,Amblyxena pilifera,0.7514,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Agonoxena miniana,Haemolytis miniana,0.6678,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Stephensia abbreviatella,Scirtopoda myosotivora,0.4621,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Stephensia abbreviatella,Stephensia maxima,0.7435,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Stephensia abbreviatella,Stephensia myosotivora,0.7111,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Stephensia brunnichella,Microsetia stephensella,0.7044,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Stephensia brunnichella,Stephensia brunnichiella,0.9302,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Stephensia brunnichella,Tinea brunnichella,0.7941,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Stephensia calpella,Perittia bullatella,0.5904,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Stephensia cedronellae,Perittia bystropogonis,0.5573,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Stephensia cedronellae,Perittia cedronella,0.7685,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Stephensia cedronellae,Perittia lavandulae,0.5835,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Stephensia cedronellae,Stephensia cedronella,0.9865,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Stephensia cunilae,Stephensia cunilea,0.9354,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Stephensia integra,Kumia integra,0.6269,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Stephensia major,Antispila major,0.5604,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Stephensia unipunctella,Holstia unipunctella,0.7717,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Chrysoclista cambiella,Psacaphora cambiella,0.7266,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Chrysoclista flavicaput,Chrysoclista aurifrontella,0.7781,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Chrysoclista flavicaput,Chrysoclista flavicapitella,0.935,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Chrysoclista flavicaput,Roeslerstammia aurocapitella,0.5631,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Chrysoclista flavicaput,Roeslertammia aurocapitella,0.5636,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Chrysoclista flavicaput,Spuleria aurifrontella,0.5051,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Chrysoclista flavicaput,Spuleria aurocapitella,0.5892,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Chrysoclista flavicaput,Tinea aurifrontella,0.5291,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Chrysoclista flavicaput,Tinea aurifrontella,0.5291,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Chrysoclista lathamella,Chrysoclista bimaculella,0.8415,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Chrysoclista lathamella,Glyphipteryx bimaculella,0.6188,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Chrysoclista lathamella,Glyphipteryx lathamella,0.7748,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Chrysoclista linneela,Chrysoclista gemmatella,0.8395,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Chrysoclista linneela,Chrysoclista schaefferella,0.8422,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Chrysoclista linneela,Glyphipteryx linneella,0.734,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Metalobosia anitras,Metalobosia postcaerulescens,0.7351,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oedebasis longipalpis,Oedebasis legrandi,0.6965,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oedebasis longipalpis,Oedebasis malagasy,0.6799,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oedebasis ovipennis,Oedebasis ovipennis,1.0,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Albarracina warionis,Albarracina autumnalis,0.8006,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Albarracina warionis,Albarracina banghaasi,0.7615,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Albarracina warionis,Albarracina deundulata,0.7859,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Albarracina warionis,Albarracina humilis,0.8335,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Albarracina warionis,Albarracina littoralis,0.8189,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Albarracina warionis,Albarracina schindlerae,0.7819,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Albarracina warionis,Albarracina syriaca,0.776,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Albarracina warionis,Albarracina syrticola,0.7758,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Albarracina warionis,Albarracina thoracica,0.8256,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Hypertrocta brunnea,Hypertrocta selenotypa,0.7136,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Hypertrocta posticalis,Hypertrocta marmorata,0.6893,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Hypertrocta posticalis,Moscha posticalis,0.7127,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Olisbus gainsfordi,Eilema gainsfordi,0.715,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Macrocneme adonis,Macrocneme chiriquicola,0.6758,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Macrocneme chrysitis,Macrocneme affinis,0.6884,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Macrocneme chrysitis,Macrocneme deceptans,0.7196,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Macrocneme chrysitis,Macrocneme iole,0.683,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Macrocneme lades,Macrocneme chionopus,0.6674,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Macrocneme lades,Macrocneme chionopus,0.6674,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Macrocneme lades,Macrocneme ferrea,0.7653,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Macrocneme lades,Macrocneme naja,0.7767,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Macrocneme verdivittata,Macrocneme fenestrata,0.7634,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Calonotos dorata,Calonotos chryseis,0.7073,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Calonotos helymus,Calonotos aterrima,0.7689,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Calonotos helymus,Glaucopis aterrima,0.4825,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Calonotos tiburtus,Calonotos trinitatis,0.8239,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Calonotos triplaga,Calonotos tripunctatus,0.8381,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyligramma amblyops,Cyligramma rhodesiana,0.7158,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyligramma disturbens,Cyligramma concors,0.7956,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyligramma disturbens,Cyligramma consiliatrix,0.8046,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyligramma disturbens,Cyligramma conturbans,0.7944,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyligramma disturbens,Cyligramma raboudou,0.7322,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyligramma fluctuosa,Cyligramma obscurior,0.7162,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyligramma fluctuosa,Cyligramma rudilinea,0.7926,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyligramma joa,Cyligramma postreducta,0.7706,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyligramma latona,Cyligramma troglodyta,0.8343,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyligramma limacina,Cyligramma acutior,0.7828,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyligramma limacina,Cyligramma argillosa,0.822,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyligramma limacina,Cyligramma bisignata,0.8142,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyligramma limacina,Cyligramma importuna,0.7798,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyligramma limacina,Cyligramma intellecta,0.7943,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyligramma limacina,Cyligramma limacinodes,0.9108,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyligramma magus,Cyligramma buchholzi,0.7491,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyligramma magus,Cyligramma goudotii,0.7854,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oglasa arcuata,Oglasa lunifera,0.7364,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oglasa auximena,Oglasa afflicta,0.703,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oglasa hypenoides,Oglasa cosmiodes,0.766,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oglasa hypenoides,Oglasa sambawana,0.6004,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oglasa lagusalis,Dorsippa notabilis,0.4915,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oglasa plagiata,Oglasa plagiata,1.0,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oglasa separata,Oglasa maculata,0.6318,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oglasa separata,Oglasa ozela,0.7187,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oglasa sordidula,Chodda sordidula,0.7079,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Adiopa disgrega,Adiopa marama,0.8042,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Antapistis holophaea,Antapistis anyx,0.766,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Antapistis leucospila,Antapistis digestalis,0.7709,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Antapistis leucospila,Capnodes leucospila,0.6839,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Celiptera frustulum,Celiptera discissa,0.772,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Celiptera frustulum,Celiptera elongatus,0.774,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Celiptera levina,Celiptera alvina,0.7986,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Celiptera levina,Celiptera aurinia,0.8016,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Celiptera levina,Celiptera pallidior,0.8137,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Celiptera levina,Celiptera pertusa,0.8008,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Celiptera levina,Celiptera variolosa,0.7962,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Celiptera remigioides,Celiptera magnifica,0.7414,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dysschema eurocilia,Dysschema melaina,0.7742,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dysschema eurocilia,Dysschema zerbina,0.8045,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dysschema mosera,Dysschema sylvia,0.796,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dysschema tricolor,Dysschema albisarta,0.735,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dysschema tricolor,Dysschema guaranitica,0.6985,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dysschema tricolor,Dysschema turbida,0.7524,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dysschema leucophaea,Dysschema flora,0.785,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dysschema leucophaea,Dysschema rubrimargo,0.7116,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dysschema leucophaea,Dysschema salvatoris,0.7558,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dysschema rosina,Dysschema nigriventralis,0.736,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dysschema hilarina,Dysschema biformis,0.801,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dysschema hilarina,Dysschema fulva,0.8115,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dysschema hilarina,Dysschema mutata,0.7881,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dysschema trapeziata,Dysschema regalis,0.7355,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dysschema trapeziata,Dysschema rubripicta,0.7889,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dysschema trapeziata,Dysschema woodii,0.7125,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dysschema dissimulata,Dysschema madana,0.8374,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dysschema dissimulata,Dysschema nigerrima,0.7633,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dysschema dissimulata,Dysschema nigrodiscalis,0.7286,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dysschema picta,Dysschema capella,0.7746,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dysschema marginalis,Dysschema crassifascia,0.6944,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dysschema marginalis,Dysschema dissimulans,0.7425,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dysschema palmeri,Dysschema practidoides,0.7078,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dysschema magdala,Dysschema fortis,0.7928,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dysschema magdala,Dysschema lygdamis,0.7789,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dysschema magdala,Dysschema panamensis,0.7332,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dysschema bivittata,Dysschema disjuncta,0.8042,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dysschema irene,Dysschema splendidissima,0.7896,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dysschema subapicalis,Dysschema inclusa,0.7841,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dysschema subapicalis,Dysschema noctuites,0.7796,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dysschema subapicalis,Dysschema parnassiodes,0.7921,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dysschema subapicalis,Dysschema parnassioides,0.7973,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dysschema subapicalis,Dysschema tristis,0.7363,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dysschema neda,Dysschema nubila,0.824,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dysschema neda,Dysschema submarginata,0.7018,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dysschema mariamne,Dysschema mariane,0.8192,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dysschema mariamne,Dysschema thetis,0.752,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dysschema terminata,Dysschema holofernes,0.7771,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dysschema centenaria,Dysschema obscura,0.7911,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dysschema sacrifica,Dysschema crucifera,0.7654,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dysschema lycaste,Dysschema cydon,0.7195,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dysschema lycaste,Dysschema iscariotes,0.7045,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dysschema lycaste,Dysschema praetides,0.7195,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dysschema lycaste,Dysschema tibesis,0.7062,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dysschema hypoxantha,Dysschema sibylla,0.7531,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dysschema viuda,Dysschema vidua,0.9318,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dysschema boisduvalii,Dysschema funeralis,0.7583,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Chrysograpta igneola,Egnasia igneola,0.7078,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Mursa phtisialis,Mursa calisalis,0.7731,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Mursa phtisialis,Mursa comptalis,0.7816,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Mursa phtisialis,Mursa disparatalis,0.8192,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Mursa phtisialis,Mursa gracilis,0.7127,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Mursa phtisialis,Mursa judicatalis,0.6921,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Mursa phtisialis,Mursa maceria,0.7223,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Mursa phtisialis,Mursa marica,0.6891,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Mursa phtisialis,Mursa sotiusalis,0.7491,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Mursa phtisialis,Mursa subrufa,0.6791,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Lophotavia incivilis,Lophotavia merulina,0.8,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Lophotavia incivilis,Lophotavia nigrocyanea,0.7961,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Lophotavia pulcherrima,Lophotavia prunicolora,0.7799,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ctenosia psectriphora,Pusiola psectriphora,0.7937,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Creatonotos dulla,Creatonotos aurantiaca,0.7364,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Creatonotos dulla,Creatonotos borealis,0.6812,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Creatonotos gangis,Creatonotos continuatus,0.7112,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Creatonotos gangis,Creatonotos flavoabdominalis,0.7416,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Creatonotos gangis,Creatonotos francisca,0.7417,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Creatonotos gangis,Creatonotos interrupta,0.7501,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Creatonotos gangis,Creatonotos nigrescens,0.7767,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Creatonotos gangis,Creatonotos pallida,0.7128,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Creatonotos gangis,Phalaena gangis,0.706,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Creatonotos leucanioides,Creatonotos brunnipennis,0.7752,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Creatonotos punctivitta,Spilosoma punctivitta,0.7596,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Creatonotos transiens,Aloa isabellina,0.4239,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Creatonotos transiens,Amphissa vacillans,0.4517,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Creatonotos transiens,Creatonotos vacillans,0.7347,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cabardites limbata,Aemene formosibia,0.4018,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cabardites limbata,Aemene shirakii,0.3502,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cabardites limbata,Miltochrista limbata,0.6859,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cabardites maculata,Adites maculata,0.7461,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cabardites maculata,Aemene maculata,0.7114,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cabardites maculata,Nudaria maculata,0.7325,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cabardites pica,Aemene fuscipennis,0.4011,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cabardites pica,Miltochrista pica,0.723,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cabardites pica,Parasiccia fuscipennis,0.4413,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Diaphora mendica,Arctia mendica,0.6982,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Diaphora mendica,Bombyx mendica,0.7067,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Diaphora mendica,Chelonia mendica,0.7361,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Diaphora mendica,Cycnia mendica,0.7277,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Diaphora mendica,Diacrisia mendica,0.8684,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Diaphora mendica,Spilosoma albinotata,0.4727,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Diaphora mendica,Spilosoma binaghii,0.5084,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Diaphora mendica,Spilosoma circumpunctata,0.4853,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Diaphora mendica,Spilosoma depuncta,0.5449,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Diaphora mendica,Spilosoma inversa,0.528,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Diaphora mendica,Spilosoma mendica,0.7347,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Diaphora mendica,Spilosoma mendicana,0.7255,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Diaphora mendica,Spilosoma murina,0.5395,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Diaphora mendica,Spilosoma nigrociliata,0.5614,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Diaphora mendica,Spilosoma sabulosa,0.5105,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Diaphora mendica,Spilosoma standfussi,0.4876,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Diaphora mendica,Spilosoma substriata,0.4755,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Diaphora mendica,Spilosoma syra,0.5469,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Diaphora sordida,Chelonia sordida,0.7124,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Diaphora sordida,Cycnia sordida,0.7267,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Alphaea imbuta,Arctia imbuta,0.7501,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Alphaea imbuta,Estigmene femina,0.5162,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Alphaea imbuta,Estigmene imbuta,0.6733,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Alphaea imbuta,Estigmene khasiana,0.4849,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Alphaea imbuta,Estigmene normalis,0.4445,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Alphaea imbuta,Estigmene sikkimensis,0.3635,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Alphaea imbuta,Nayaca imbuta,0.6256,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Alphaea impleta,Hypercompa impleta,0.6835,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Alphaea impleta,Spilosoma impleta,0.7243,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Alphaea impleta,Spilosoma simplicicilia,0.4965,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Bertula sphaerula,Asthala sphaerula,0.6728,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Bertula pulla,Bleptina pulla,0.7041,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Bertula momusalis,Bocana momusalis,0.7172,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Bertula momusalis,Hydrillodes momusalis,0.6988,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Bertula micealis,Bleptina micealis,0.7552,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Bertula insignifica,Adrapsa murina,0.4601,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Bertula incongruens,Bertula amurensis,0.7016,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Bertula centralis,Bleptina grimsgaardi,0.4686,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Bertula depressalis,Bertula similalis,0.7502,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Bertula depressalis,Sitophora depressalis,0.6775,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Bertula inconspicua,Bleptina inconspicua,0.7789,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Bertula hadenalis,Bertula alikangialis,0.805,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Bertula hadenalis,Bertula ruptistigma,0.7593,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Bertula abjudicalis,Bertula tumidalis,0.7622,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Bertula abjudicalis,Bocana tumidalis,0.5201,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Bertula rufosa,Badiza rufosa,0.7203,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Bertula delosticha,Bleptina delosticha,0.742,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Bertula tespilalis,Neviasca tespilalis,0.6888,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Bertula tespilalis,Plusia albosignata,0.4952,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Bertula carta,Bleptina carta,0.7475,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Bertula picta,Bleptina picta,0.7106,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Bertula partita,Bertula leucopis,0.7335,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Miniodes phaeosoma,Miniodes phaeosomella,0.9653,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Miniodes phaeosoma,Miniodes phaeosomoides,0.9605,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Gorgonidia garleppi,Gorgonidia mirabilior,0.8179,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Heliohemonia monosticta,Heliosia monosticta,0.901,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Disca arborita,Disca arbovia,0.6456,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Africalpe intrusa,Oraesia anubis,0.5568,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Arugisa latiorella,Arugisa watsoni,0.757,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euagra coelestina,Euagra interclusa,0.7729,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euagra intercisa,Euagra auxo,0.766,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Metaphoenia plagifera,Thermesia plagifera,0.7766,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Metaphoenia rhodias,Metaphoenia metarhoda,0.854,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Barsaurea diehli,Lyclene diehli,0.6164,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Barsaurea phaeoxanthia,Barsine phaeoxanthia,0.8844,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Barsaurea phaeoxanthia,Miltochrista phaeoxantha,0.6928,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Barsaurea phaeoxanthia,Miltochrista phaeoxanthia,0.7342,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Lepidolutzia baucis,Lepidolutzia bombycina,0.8108,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Lepidolutzia baucis,Lepidolutzia costistrigata,0.7281,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Lepidolutzia baucis,Lepidolutzia dukinfieldia,0.7896,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Donuca castalia,Calliodes saturatior,0.4892,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Donuca spectabilis,Donuca memorabilis,0.8491,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Donuca spectabilis,Donuca queenslandica,0.718,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Donuca spectabilis,Donuca spectabilica,0.8774,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Donuca spectabilis,Donuca yorkensis,0.6618,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Donuca spectabilis,Donuca yorkensis,0.6618,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Donuca spectabilis,Serrodes xanthorrhoea,0.4005,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Icteritilema nyassana,Phryganopsis nyassana,0.6897,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Icteritilema nyassana,Pusiola nyassana,0.6746,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Diomea absorbens,Corsa absorbens,0.6442,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Diomea dialitha,Pangrapta dialitha,0.7164,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Diomea diffusifascia,Corsa molybdopasta,0.5098,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Diomea insulana,Diomea jankowskii,0.7264,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Diomea lignicolora,Zigera suvarnadivipae,0.484,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Diomea lignicolora,Zigera suvarnadivpae,0.4306,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Diomea orbifera,Zigera lichenosa,0.5753,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Diomea orbifera,Zigera orbifera,0.7874,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Diomea tricuspida,Zigera tricuspida,0.8074,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Elysius castanea,Elysius suffusa,0.7058,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Elysius cingulata,Elysius deleta,0.6832,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Elysius cingulata,Elysius demaculata,0.8402,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Elysius cingulata,Elysius pauper,0.6163,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Elysius disciplaga,Elysius aperta,0.7603,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Elysius disciplaga,Elysius breviuscula,0.775,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Elysius lavinia,Elysius lavinea,0.8672,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Choerotricha atrosquama,Choerotricha enunciativa,0.7307,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Choerotricha atrosquama,Choerotricha enunciativoides,0.7457,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Choerotricha atrosquama,Choerotricha glandulosa,0.7676,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Choerotricha biflava,Euproctis biflava,0.6874,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Choerotricha indistincta,Euproctis indistincta,0.6988,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euippodes euprepes,Euippodes subnigra,0.7926,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Callindra arginalis,Callindra gigantea,0.7739,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Callindra equitalis,Callimorpha equitalis,0.8346,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Callindra equitalis,Euprepia equitalis,0.6818,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Callindra lenzeni,Callimorpha lenzeni,0.8556,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Callindra nepos,Callimorpha eques,0.6943,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Callindra nepos,Callimorpha nepos,0.8458,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Callindra nyctemerata,Callimorpha nyctemerata,0.8447,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Callindra nyctemerata,Hypercompa nyctemerata,0.6888,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Callindra principalis,Callimorpha principalis,0.8541,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Callindra principalis,Euprepia principalis,0.6704,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Callindra similis,Callimorpha similis,0.8236,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Callindra similis,Hypercompa similis,0.6517,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Neidalia bifasciata,Eupsodosoma bifasciata,0.7025,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Neidalia bifasciata,Phalaena bifasciata,0.7488,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Margana tenuilinea,Rhesala tenuilinea,0.7346,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Leucanopsis nebulosa,Leucanopsis epinephete,0.8176,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Leucanopsis polyodonta,Leucanopsis polydonta,0.946,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Leucanopsis pulverea,Leucanopsis pulveria,0.9773,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Leucanopsis dogniniana,Leucanopsis fassli,0.8341,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Leucanopsis racema,Halisidota racema,0.7339,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Leucanopsis lurida,Leucanopsis otho,0.7675,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Leucanopsis coniota,Leucanopsis coniata,0.9396,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Leucanopsis leucanina,Leucanopsis infucata,0.8579,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Leucanopsis leucanina,Leucanopsis phellia,0.8968,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Litocala sexsignata,Litocala deserta,0.6587,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Garudinodes trizona,Garudinodes affinis,0.7159,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Dyops chromatophila,Dyops ocellata,0.7146,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme anaemica,Asura anaemica,0.7146,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme analogus,Asura analogus,0.6657,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme aroa,Asura aroa,0.6066,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme aroa,Asura fasciolata,0.3963,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme asuroides,Asura asuroides,0.7627,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme asuroides,Melanaema asuroides,0.6965,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme avernalis,Asura avernalis,0.6757,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme avernalis,Asura bougainvillei,0.4392,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme avernalis,Asura floridensis,0.4829,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme avernalis,Asura isabellina,0.4795,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme avernalis,Miltochrista avernalis,0.775,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme basitesselata,Asura basitesselata,0.7034,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme basitesselata,Lyclene basitesselata,0.6764,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme basitesselata,Miltochrista basitessellata,0.7143,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme biagi,Asura biagi,0.6587,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme biagi,Asura coccineoflammeus,0.4844,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme biagi,Miltochrista biagi,0.781,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme celebensis,Miltasura celebensis,0.7281,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme coccineotermen,Miltochrista coccineotermen,0.8284,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme crocota,Asura crocota,0.695,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme effasciata,Lithosia cinnabarina,0.5124,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme effasciata,Miltochrista cinnabarina,0.5821,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme effasciata,Miltochrista effasciata,0.7599,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme euprepioides,Asura samboanganus,0.4239,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme euprepioides,Barsine euprepioides,0.7258,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme euprepioides,Hypocrita inclusa,0.4116,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme euprepioides,Hypoprepia euprepioides,0.6879,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme feminina,Asura feminina,0.6686,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme haemachroa,Asura haemachroa,0.6733,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme insularis,Asura insularis,0.6501,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme metascota,Asura metascota,0.6866,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme metascota,Asura suffusa,0.3975,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme miltochristaemorpha,Asura aureorosea,0.4388,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme miltochristaemorpha,Asura miltochristaemorpha,0.8376,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme miltochristaemorpha,Miltochrista aureorosea,0.7283,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme miltochristina,Asura miltochristina,0.7692,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme multidentata,Miltochrista multidentata,0.7512,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme phryctopa,Asura phryctopa,0.7057,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme phryctopa,Calligenia phryctopa,0.667,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme pyraula,Calligenia pyraula,0.6757,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme pyraula,Lyclene pyraula,0.7417,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme pyrostrota,Asura pyrostrota,0.7321,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme pyrrhauloides,Asura pyrrhauloides,0.7785,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme quadrifasciata,Asura quadrifasciata,0.7371,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme quadrilineata,Calligenia melitaula,0.5194,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme quadrilineata,Calligenia quadrilineata,0.6888,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme quadrilineata,Lyclene melitaula,0.5401,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme quadrilineata,Lyclene quadrilineata,0.7028,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme quadrilineata,Lyclene simulans,0.4842,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme quadrilineata,Miltochrista simulans,0.5987,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme reticulata,Barsine intrita,0.3496,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme reticulata,Barsine placens,0.297,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme reticulata,Calligenia cyclota,0.5409,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme reticulata,Lyclene cyclota,0.5164,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme reticulata,Lyclene intrita,0.3768,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme reticulata,Lyclene placens,0.3544,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme reticulata,Lyclene reticulata,0.691,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme septemmaculata,Asura septemmaculata,0.7473,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme septemmaculata,Hypocrita septemmaculata,0.7284,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme serratilinea,Lyclene serratilinea,0.72,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme serratilinea,Pallene serratilinea,0.7232,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme sexualis,Asura cancellata,0.3604,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme sexualis,Asura effulgens,0.3331,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme sexualis,Asura mylea,0.4175,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme sexualis,Asura sexualis,0.6711,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme sexualis,Miltochrista cancellata,0.4788,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme sexualis,Miltochrista quadrifasciata,0.5515,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme structa,Lyclene pyrrhopsamma,0.4233,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme structa,Lyclene structa,0.7107,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme structa,Pallene structa,0.712,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme structa,Prinasura pyrrhopsamma,0.4363,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme suavis,Asura suavis,0.6214,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme suavis,Calligenia suavis,0.5824,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme triangularis,Asura triangularis,0.648,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme vepallida,Miltochrista vepallida,0.8007,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme vivida,Asura vivida,0.6546,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme vivida,Barsine vivida,0.662,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme wandammenseae,Asura wandammenseae,0.7517,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyme xantherythra,Asura xantherythra,0.7533,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Nyridela chalciope,Isanthrene chalciope,0.7334,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Nyridela chalciope,Nyridela acroxantha,0.7377,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Acantharctia latifusca,Acantharctia aurantiaca,0.8247,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Acantharctia latifusca,Acantharctia flavimarginata,0.8025,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Acantharctia latifusca,Acantharctia suffusa,0.8529,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Acantharctia latifusca,Acantharctia tenebrosa,0.8552,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Acantharctia mundata,Acantharctia atridorsia,0.7808,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclystis angularis,Euclystis inconstans,0.7731,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclystis centurialis,Euclystis invidiosa,0.8187,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclystis insana,Amphigonia insana,0.6766,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclystis insana,Euclystis bendina,0.8063,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclystis insana,Euclystis facunda,0.7598,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclystis insana,Euclystis vulgaris,0.7362,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclystis insana,Focilla facunda,0.4323,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclystis isoa,Amphigonia isoa,0.7554,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclystis isoa,Euclystis epulea,0.8624,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclystis isoa,Euclystis turbulenta,0.8173,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclystis manto,Euclystis homopteroides,0.6479,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclystis manto,Euclystis postponens,0.6489,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclystis metagona,Euclystis agava,0.7238,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclystis metagona,Euclystis sublineata,0.7041,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclystis plusioides,Euclystis laceroides,0.7541,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclystis polyoperas,Euclystis polioperas,0.7468,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclystis recurva,Euclystis consurgens,0.7942,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euclystis sytis,Euclystis lacaena,0.8075,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Andrenimorpha sephela,Erruca sephela,0.6851,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Andrenimorpha sephela,Gymnelia sephela,0.6132,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Gymnelia beatrix,Gymnelia scintillans,0.785,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Gymnelia ethodaea,Gymnelia patagiata,0.7944,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Gymnelia flavitarsis,Gymnelia scitillans,0.7358,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Gymnelia jordani,Gymnelia ottonis,0.7949,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Gymnelia nigricornis,Gymnelia stretchi,0.7459,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Gymnelia scita,Gymnelia hilaris,0.8679,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Gymnelia taos,Gymnelia jujuyensis,0.6886,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Gymnelia vesparia,Gymnelia odyneroides,0.7772,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Adites bakeri,Asura bakeri,0.7189,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Adites bizonoides,Adites tabida,0.6992,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Adites bizonoides,Adites tibada,0.7173,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Adites bizonoides,Lyclene bizonoides,0.6919,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Adites hilaris,Asura hilaris,0.6854,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Adites hilaris,Doliche hilaris,0.6499,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Adites mindanensis,Asura mindanensis,0.7138,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Adites ocellata,Asura ocellata,0.7138,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Adites unilinea,Asura unilinea,0.6382,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Adites unilinea,Miltochrista unilinea,0.6212,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Adites vagilinea,Lyclene vagilinea,0.6426,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Kintana ocellatula,Kintana ocellata,0.9695,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ochrotilema curta,Onychipodia curta,0.6896,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ochrotilema curta,Pusiola curta,0.6475,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ochrotilema flavicosta,Phryganopsis flavicosta,0.6421,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ochrotilema hampsoni,Pseudlepista flavicosta,0.4925,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Stenoglene cinerea,Stenoglene maculifera,0.7956,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Stenoglene hilaris,Stenoglene bithynia,0.8119,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Stenoglene obtusus,Stenoglene aequidistans,0.7379,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Stenoglene obtusus,Stenoglene evanescens,0.7473,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Stenoglene obtusus,Stenoglene labda,0.7468,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Stenoglene obtusus,Stenoglene subcrocea,0.7532,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Stenoglene obtusus,Stenoglene tristis,0.7416,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Stenoglene opalina,Stenoglene peropalinus,0.8473,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Stenoglene pellucida,Stenoglene novempunctatus,0.7091,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Stenoglene plagiatus,Stenoglene grandiplaga,0.8178,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Stenoglene roseus,Stenoglene elgonae,0.8357,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Stenoglene roseus,Stenoglene flavidior,0.7485,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Stenoglene roseus,Stenoglene gregorii,0.8365,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Stenoglene roseus,Stenoglene monteironis,0.8045,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Stenoglene roseus,Stenoglene pulverulentus,0.85,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Stenoglene roseus,Stenoglene similis,0.7958,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Sangatissa subcurvifera,Sangatissa albipars,0.741,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Sangatissa subcurvifera,Sangatissa citrinula,0.7527,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Sangatissa subcurvifera,Sangatissa teta,0.7008,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Sangatissa subcurvifera,Sangatissa triseriata,0.7568,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Poloma angulata,Poloma angulifera,0.9246,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Poloma angulata,Poloma incompta,0.7395,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Poloma angulata,Poloma janula,0.753,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Poloma nigromaculata,Poloma nahor,0.6893,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Phyllalia alboradiata,Phyllalia acuta,0.8547,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Phyllalia patens,Phyllalia concolor,0.776,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Phyllalia patens,Phyllalia ochrina,0.7937,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Phyllalia thunbergii,Phyllalia incerta,0.8242,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Phiala alba,Phiala pagagna,0.8066,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Phiala alba,Phiala strigifera,0.7584,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Phiala albida,Euchera abluta,0.5166,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Phiala albida,Phiala abluta,0.7832,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Phiala bistrigata,Phiala curvistriga,0.7914,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Phiala bistrigata,Phiala curvistrigata,0.8528,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Phiala costipuncta,Phiala angola,0.7171,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Phiala costipuncta,Phiala inferiora,0.7352,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Phiala costipuncta,Phiala ochritincta,0.7979,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Phiala costipuncta,Phiala punctilinea,0.7367,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Phiala costipuncta,Phiala xanthosoma,0.7149,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Phiala crassistriga,Phiala incurva,0.7525,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Phiala cunina,Euchera cunicaria,0.6004,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Phiala cunina,Euchera fervidaria,0.5232,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Phiala cunina,Euchera nivea,0.544,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Phiala cunina,Euchera ochriventris,0.487,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Phiala cunina,Phiala fervidaria,0.7751,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Phiala cunina,Phiala nivea,0.8066,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Phiala incana,Phiala arrecta,0.8196,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Phiala marshalli,Phiala reussi,0.7666,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Phiala nigrolineata,Phiala chrysargyra,0.7258,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Phiala nigrolineata,Phiala nigrovenata,0.789,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Phiala nigrolineata,Phiala ochrescens,0.6982,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Phiala nigrolineata,Phiala rubrivena,0.7081,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Phiala pseudatomaria,Phiala sigyna,0.6689,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Phiala pseudatomaria,Phiala sublimbalis,0.7102,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Phiala pseudatomaria,Stenoglene sigyna,0.3973,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Phiala punctulata,Phiala nyassana,0.73,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Phiala venusta,Phiala angulata,0.8243,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Parajana gabunica,Parajana lamani,0.7483,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Parajana gabunica,Parajana marmorata,0.7883,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Panacela lewinae,Panacela hirta,0.7115,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Panacela lewinae,Panacela pilosa,0.746,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Panacela lewinae,Panacela pristina,0.7524,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Panacela lewinae,Panacela rufescens,0.6971,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Panacela lewinae,Panacela simplex,0.7451,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Panacela lewinae,Panacela sobria,0.6883,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Panacela lewinae,Panacela transiens,0.7863,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Panacela signicosta,Panacela fuscocervina,0.8435,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Palirisa cervina,Palirisa burmanica,0.7856,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Palirisa mosoensis,Palirisa angustifasciata,0.6926,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Palirisa mosoensis,Palirisa chocolatina,0.7338,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Palirisa mosoensis,Palirisa curvilineata,0.7109,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Palirisa mosoensis,Palirisa roseitincta,0.7234,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Palirisa mosoensis,Palirisa significata,0.7337,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Nisaga simplex,Nisaga modesta,0.7714,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Melanergon vidua,Melanergon fergussonis,0.7142,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Melanergon vidua,Melanergon louisiadensis,0.7289,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Melanergon vidua,Melanergon proserpina,0.8291,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Marmaroplegma paragarda,Marmaroplegma clio,0.7825,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Marmaroplegma paragarda,Marmaroplegma lineosa,0.8622,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Janomima dannfelti,Janomima claria,0.7736,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Janomima dannfelti,Janomima deduplicata,0.7573,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Janomima dannfelti,Janomima mesundulata,0.7711,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Janomima dannfelti,Janomima ochrea,0.7344,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Janomima mariana,Janomima mariana,1.0,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Janomima mariana,Janomima nigricans,0.7639,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Janomima mariana,Janomima westwoodi,0.7158,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Jana eurymas,Jana caesarea,0.7382,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Jana eurymas,Jana transvaalica,0.6428,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Jana gracilis,Gracilanja polymorpha,0.5901,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Jana gracilis,Jana grisea,0.8153,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Jana gracilis,Jana polymorpha,0.615,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Jana gracilis,Jana rosea,0.7275,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Jana strigina,Jana agrippa,0.7065,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Jana strigina,Jana camerunica,0.7156,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Jana strigina,Jana nobilis,0.678,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Jana strigina,Striginiana agrippa,0.6371,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Jana strigina,Striginiana camerunica,0.6719,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Jana strigina,Striginiana nobilis,0.6283,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Jana tantalus,Jana crepax,0.6533,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Jana tantalus,Jana signifera,0.7099,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Jana tantalus,Tantaliana crepax,0.6324,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Jana tantalus,Tantaliana signifera,0.665,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Jana tripunctata,Jana rustica,0.7375,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Hibrildes crawshayi,Hibrildes albescens,0.6779,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Hibrildes crawshayi,Hibrildes albopunctata,0.6299,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Hibrildes crawshayi,Hibrildes ansorgei,0.6326,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Hibrildes crawshayi,Hibrildes bicolor,0.6077,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Hibrildes crawshayi,Hibrildes craushayi,0.8149,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Hibrildes crawshayi,Hibrildes fuscata,0.6578,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Hibrildes crawshayi,Hibrildes neavi,0.6977,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Hibrildes crawshayi,Hibrildes venosa,0.6904,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Hibrildes norax,Hibrildes carpenteri,0.6458,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Hibrildes norax,Hibrildes sheffieldi,0.6841,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Hibrildes norax,Hibrildes spiritalis,0.756,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Hemijana semijana,Hemijana distincta,0.7095,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Hemijana subrosea,Hemijana ruberrima,0.7558,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Gonojana dimidiata,Gonojana tenuis,0.8078,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote citrina,Eupterote lutosa,0.78,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote diffusa,Eupterote primularis,0.7276,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote domina,Eupterote pulchra,0.7591,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote fabia,Eupterote alternata,0.7094,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote fabia,Eupterote auriflua,0.7567,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote fabia,Eupterote discordens,0.7142,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote fabia,Eupterote fasciata,0.8572,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote fabia,Eupterote gyra,0.7475,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote fabia,Eupterote immutata,0.7204,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote fabia,Eupterote lucia,0.7197,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote fabia,Eupterote mutans,0.7147,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote fabia,Eupterote ochripicta,0.68,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote fabia,Eupterote permutata,0.7019,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote fabia,Pararhodia acuminalba,0.5184,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote flavicollis,Eupterote adolphaei,0.7302,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote flavicollis,Eupterote collaris,0.7109,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote flavida,Eupterote acinea,0.7838,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote flavida,Eupterote procumbens,0.7465,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote hibisci,Eupterote anada,0.6992,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote hibisci,Eupterote geminata,0.7547,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote hibisci,Eupterote lineata,0.7634,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote hibisci,Eupterote petosiris,0.7669,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote hibisci,Eupterote phalaenaria,0.698,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote hibisci,Eupterote placida,0.7036,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote mollifera,Eupterote anthereata,0.7724,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote mollifera,Eupterote canaraica,0.7747,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote mollifera,Eupterote contaminata,0.7579,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote mollifera,Eupterote flava,0.767,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote mollifera,Eupterote flavia,0.7901,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote mollifera,Eupterote lativittata,0.784,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote mollifera,Eupterote mollis,0.8993,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote mollifera,Eupterote multiarcuata,0.7423,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote mollifera,Eupterote nilgirica,0.7759,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote mollifera,Eupterote ornata,0.6963,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote mollifera,Eupterote rectifascia,0.7234,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote mollifera,Eupterote rufodisca,0.7574,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote orientalis,Eupterote aenescens,0.8172,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote orientalis,Eupterote plumipes,0.7876,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote orientalis,Eupterote quadrifasciata,0.7112,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote orientalis,Eupterote rubiginosa,0.7981,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote patula,Eupterote abnorminervis,0.7419,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote patula,Eupterote dehyalinata,0.7905,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote patula,Eupterote khasiana,0.7859,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote patula,Eupterote undulosa,0.7584,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote undata,Eupterote affinis,0.7611,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote undata,Eupterote caliginosa,0.8043,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote undata,Eupterote cinnamomea,0.7544,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote undata,Eupterote consimilis,0.7414,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote undata,Eupterote cupreipennis,0.7647,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote undata,Eupterote decorata,0.8179,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote undata,Eupterote diabolica,0.755,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote undata,Eupterote dissimilis,0.7699,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote undata,Eupterote griseipennis,0.7335,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote undata,Eupterote hirsuta,0.7658,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote undata,Eupterote ignavus,0.7625,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote undata,Eupterote imbecilis,0.8147,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote undata,Eupterote invalida,0.8276,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote undata,Eupterote nigricans,0.7652,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote undata,Eupterote persimilis,0.735,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote undata,Eupterote similis,0.6883,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote undata,Eupterote sinuata,0.8278,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote undata,Eupterote subdita,0.7557,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote undata,Eupterote suffusa,0.7562,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote undata,Eupterote taooensis,0.7381,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote undata,Eupterote undifera,0.8869,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote undata,Eupterote variegata,0.8129,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eupterote undata,Eupterote vinosa,0.8074,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Epijana cosmia,Epijana lanosa,0.7669,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Epijana cosmia,Epijana velutonia,0.8167,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ebbepterote expansa,Anthela expansa,0.7582,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Drepanojana fasciata,Drepanojana apicalis,0.6844,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Drepanojana fasciata,Drepanojana maeonia,0.7968,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyrtojana trilineata,Cyrtojana apithana,0.7341,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cotana albomaculata,Cotana ovata,0.7373,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cotana dubia,Cotana doricrana,0.7949,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cotana erectilinea,Cotana setakwensis,0.7571,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cotana kebeae,Cotana grandis,0.7317,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cotana lunulata,Cotana albaserrati,0.7493,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cotana lunulata,Cotana occidentalis,0.7766,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cotana lunulata,Cotana satisbona,0.7436,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cotana lunulata,Cotana unicolor,0.7935,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cotana rosselliana,Cotana diluta,0.7475,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cotana rubrescens,Cotana kapaura,0.6963,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cotana rubrescens,Cotana oetakwensis,0.6806,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cotana rubrescens,Cotana turneri,0.7177,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cotana serranotata,Darala consuta,0.5115,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cotana serranotata,Darala serranotata,0.7178,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Camerunia flava,Camerunia lactiflora,0.739,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Camerunia orphne,Camerunia insignis,0.6551,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Acrojana sciron,Acrojana ochracea,0.7364,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Acrojana scutaea,Acrojana sanguineipes,0.7246,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Acrojana scutaea,Acrojana sanguinipes,0.7253,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta brunnea,Psiloreta brunnea,0.7101,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta carnea,Agnidra carnea,0.7086,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta carnea,Cobanilla cardinalis,0.5234,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta carnea,Cobanilla hepatica,0.5006,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta carnea,Drepana berenica,0.4215,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta cervina,Oreta purpurissa,0.7569,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta cervina,Oreta rubicunda,0.7616,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta cervina,Oreta rufibrunnea,0.6963,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta cervina,Oreta rufula,0.7737,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta extensa,Oreta adona,0.7769,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta extensa,Oreta figlina,0.7005,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta extensa,Oreta perfusa,0.754,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta fulgens,Cobanilla fulgens,0.6537,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta fulgens,Cobanilla triumbrata,0.4653,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta fulgens,Oreta thaumalea,0.7043,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta fuscopurpurea,Oreta fuscopurpurea,1.0,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta griseotincta,Mimoreta horishana,0.5019,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta griseotincta,Oreta nucicolor,0.7439,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta insignis,Hypsomadius formosana,0.4663,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta insignis,Oreta formosana,0.7201,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta jaspidea,Cobanilla erminea,0.5523,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta jaspidea,Cobanilla fulvata,0.5419,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta jaspidea,Holoreta rubicunda,0.5241,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta jaspidea,Oreta hepatica,0.7719,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta jaspidea,Oreta hypocalla,0.7564,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta jaspidea,Oreta miltodes,0.7475,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta jaspidea,Oreta nigrostigma,0.7326,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta loochooana,Oreta formosicola,0.717,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta loochooana,Oreta squamulata,0.6739,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta mollita,Oreta nigritacta,0.7686,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta obtusa,Psiloreta inconspicua,0.5374,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta obtusa,Psiloreta obliquilinea,0.6073,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta paki,Psiloreta paki,0.7801,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta pavaca,Oreta flavida,0.8194,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta pavaca,Psiloreta pavaca,0.7815,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta perfida,Oreta semiornata,0.736,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta perfida,Oreta variegata,0.7639,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta pulchripes,Oreta auripes,0.8341,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta pulchripes,Oreta calceolaria,0.6962,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta pulchripes,Oreta chosenoreta,0.7177,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta pulchripes,Psiloreta thermidora,0.5547,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta rosea,Cilix americana,0.5451,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta rosea,Oreta irrorata,0.7657,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta rosea,Oreta marginata,0.695,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta rosea,Platypteryx formula,0.4652,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta rubromarginata,Gonoreta subrosea,0.4898,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta sanguinea,Psiloreta sanguinea,0.7196,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta singapura,Oreta lilacina,0.7371,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta sublustris,Oreta nigristriata,0.6808,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta subvinosa,Oreta griseata,0.7253,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta subvinosa,Oreta olivata,0.7204,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta suffusa,Psiloreta violacea,0.5636,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Oreta turpis,Oreta calida,0.6888,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Amphitorna albipuncta,Psiloreta albipuncta,0.7104,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Amphitorna castanea,Oreta castanea,0.7013,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Amphitorna confusata,Cyclura confusata,0.6851,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Amphitorna excisa,Cyclura excisa,0.7081,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Amphitorna olga,Neoreta olga,0.683,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Amphitorna olga,Neoreta unicolor,0.4642,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Amphitorna olga,Oreta loga,0.4294,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Amphitorna olga,Oreta purpureofasciata,0.4704,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Amphitorna olga,Tomocerota formosana,0.4908,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Amphitorna perexcisa,Neoreta perexcisa,0.7022,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Amphitorna rotundipex,Oreta rotundipex,0.7455,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Amphitorna rotundipex,Psiloreta rotundopex,0.7047,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Amphitorna submontana,Cyclura submontana,0.766,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Amphitorna trogoptera,Oreta trogoptera,0.7041,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Amphitorna trogoptera,Procampsis trogoptera,0.7192,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Tridrepana albonotata,Callidrepana ochrea,0.583,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Tridrepana albonotata,Drepana albonotata,0.7625,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Tridrepana albonotata,Iridrepana glaciata,0.5429,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Tridrepana albonotata,Iridrepana pervasata,0.5254,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Tridrepana cervina,Iridrepana cervina,0.7801,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Tridrepana examplata,Iridrepana examplata,0.7839,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Tridrepana fulva,Drepana fulva,0.7395,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Tridrepana fulvata,Drepana fulvata,0.7768,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Tridrepana lunulata,Callidrepana lunulata,0.8272,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Tridrepana lunulata,Iridrepana fasciata,0.5628,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Tridrepana lunulata,Tridrepana fasciata,0.8042,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Tridrepana lunulata,Tridrepana prolata,0.876,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Tridrepana obliquitaenia,Iridrepana obliquitaenia,0.8201,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Tridrepana olivacea,Tridrepana elegans,0.7522,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Tridrepana olivacea,Tridrepana semirufa,0.7895,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Tridrepana olivacea,Tridrepana tristigma,0.8367,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Tridrepana postica,Drepana xanthoptera,0.5956,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Tridrepana sadana,Drepana sadana,0.7326,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Tridrepana sera,Tridrepana suffusa,0.8044,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Tridrepana thermopasta,Drepana thermopasta,0.7837,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Urogonodes colorata,Urogonodes perrufa,0.8087,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Urogonodes macrura,Urogonodes seminigra,0.8164,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Urogonodes patiens,Psiloreta patiens,0.6673,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Urogonodes patiens,Psiloreta rufula,0.4311,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Urogonodes patiens,Urogonodes ochracea,0.7383,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Urogonodes patiens,Urogonodes sobria,0.7628,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Urogonodes scintillans,Urogonodes inconspicua,0.8052,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Gogana abnormalis,Trotothyris abnormalis,0.5869,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Gogana bornormalis,Goagna bornormalis,0.7285,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Gogana conwayi,Ametroptila conwayi,0.685,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Gogana cottrillii,Ametroptila cottrillii,0.7077,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Gogana fragilis,Trotothyris fragilis,0.609,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Gogana integra,Gorgana integra,0.9121,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Gogana kerara,Phalacra kerara,0.6824,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Gogana ossicolor,Ametroptila ossicolor,0.6975,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Gogana semibrevis,Ametroptila semibrevis,0.6867,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Gogana specularis,Goagna specularis,0.7254,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Gogana tenera,Phalacra tenera,0.6509,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Gogana turbinifera,Ametroptila turbinifera,0.7183,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Wernya rufifasciata,Wernya fufifasciata,0.9119,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Macrocilix mysticata,Macrocilix bidentata,0.8076,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Macrocilix mysticata,Macrocilix flavotincta,0.7814,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Macrocilix mysticata,Macrocilix magna,0.82,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ochropacha duplaris,Bombyx binotata,0.339,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ochropacha duplaris,Cimatophora duplaris,0.7276,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ochropacha duplaris,Cymatophora argentea,0.5245,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ochropacha duplaris,Cymatophora bipuncta,0.5329,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ochropacha duplaris,Cymatophora brabantia,0.4722,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ochropacha duplaris,Cymatophora britannica,0.5048,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ochropacha duplaris,Cymatophora clara,0.4684,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ochropacha duplaris,Cymatophora obscurata,0.5506,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ochropacha duplaris,Cymatophora pulverosa,0.6147,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ochropacha duplaris,Cymatophora undosa,0.5628,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ochropacha duplaris,Cymatophora unipunctata,0.5358,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ochropacha duplaris,Noctua bicolor,0.4001,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ochropacha duplaris,Noctua bicolorata,0.4319,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ochropacha duplaris,Noctua bipuncta,0.4435,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ochropacha duplaris,Ochropacha ruficollis,0.7278,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ochropacha duplaris,Palimpsestis duplaris,0.6076,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ochropacha duplaris,Phalaena bipuncta,0.5374,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ochropacha duplaris,Tethea duplaris,0.6706,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euphalacra discipuncta,Ectothyris discipuncta,0.8047,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euphalacra semisecta,Ectothyris semisecta,0.7863,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euphalacra semisecta,Neophalacra laticornis,0.7236,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euphalacra trifenestrata,Ectothyris trifenestrata,0.8096,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Eudeilinia herminiata,Eudeilinia biseriata,0.8252,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Epicampoptera andersoni,Metadrepana andersoni,0.7085,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Epicampoptera erosa,Thymistida erosa,0.612,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Epicampoptera heterogyna,Metadrepana heterogyna,0.6744,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Epicampoptera marantica,Epicampoptera ignorata,0.7773,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Epicampoptera marantica,Metadrepana marantica,0.6834,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Epicampoptera pallida,Metadrepana pallida,0.7046,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Epicampoptera strandi,Epicampoptera vulvornata,0.7387,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Sabra harpagula,Bombyx sicula,0.4214,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Sabra harpagula,Drepana pallascens,0.4625,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Sabra harpagula,Phalaena harpagula,0.7126,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Sabra harpagula,Platypteryx sicula,0.4353,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Sabra harpagula,Sabra sicula,0.7632,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Sabra sinica,Palaeodrepana sinica,0.6417,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Gonoreta contracta,Oreta contracta,0.6639,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Gonoreta differenciata,Lomadontophana differenciata,0.6773,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Gonoreta gonioptera,Oreta gonioptera,0.7626,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Hypsidia australica,Eggersia australica,0.6705,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Sewa orbiferata,Abraxas orbiferata,0.6915,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Sewa orbiferata,Argyris insignata,0.4807,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Pseudothyatira cymatophoroides,Thyatira cymatophoroides,0.8588,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Pseudothyatira expultrix,Lacinia expultrix,0.7516,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Epipsestis albidisca,Palimpsestis albidisca,0.7892,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Epipsestis albidisca,Polyploca albidisca,0.7097,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Epipsestis albidisca,Polyploca polychromata,0.341,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Epipsestis bilineata,Polyploca acutangula,0.4775,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Epipsestis bilineata,Polyploca bilineata,0.6365,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Epipsestis dubia,Polyploca dubia,0.6249,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Epipsestis dubia,Polyploca nigrifasciata,0.4568,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Epipsestis dubia,Polyploca nigrilineata,0.4286,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Epipsestis dubia,Polyploca semifascia,0.3958,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Epipsestis orbicularis,Palimpsestis orbicularis,0.7736,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Epipsestis orbicularis,Palimpsestis sumatrensis,0.4571,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Epipsestis ornata,Epipsestis unicolor,0.7652,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Epipsestis ornata,Polyploca concolor,0.2792,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Epipsestis ornata,Polyploca ornata,0.6225,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Epipsestis ornata,Sugiploca sugitanii,0.3952,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Epipsestis renalis,Palimpsestis renalis,0.7792,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Astatochroa fuscimargo,Artaxa usta,0.4913,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Astatochroa fuscimargo,Oreta pusilla,0.4875,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Astatochroa fuscimargo,Oreta roseola,0.4513,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Astatochroa fuscimargo,Psiloreta fuscimargo,0.7446,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Astatochroa sulphurata,Psiloreta fasciata,0.5577,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Astatochroa sulphurata,Psiloreta obsoleta,0.576,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Astatochroa sulphurata,Psiloreta sulphurata,0.7463,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Teldenia niveata,Teldenia angustifascia,0.7775,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ceranemota fasciata,Bombycia fasciata,0.6884,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ceranemota improvisa,Cymatophora improvisa,0.7246,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ceranemota tearlei,Gluphisia tearlei,0.6799,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Pseudalbara parvula,Pseudalbara griseola,0.8486,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Pseudalbara parvula,Pseudalbara muscula,0.8367,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Mesopsestis undosa,Palimpsestis undosa,0.6356,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Togaria tancrei,Cymatophora tancrei,0.6353,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Togaria tancrei,Nemacerota tancrei,0.6925,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Togaria tancrei,Togaria suzukiana,0.7673,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Togaria tancrei,Togaria takaozana,0.7292,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Mimozethes argentilinearia,Mimozethes nana,0.7322,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Mimozethes lilacinaria,Mimozethes lycoraearia,0.8361,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Kurama galbanus,Asphalia galbanus,0.6482,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Kurama galbanus,Polyploca anglica,0.3976,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Kurama mirabilis,Xylina mirabilis,0.6588,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Liocrops carnosa,Phalacropsis carnosa,0.7217,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Liocrops edentata,Phalacra edentata,0.6865,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Liocrops pseudoluteata,Phalacropsis pseudoluteata,0.7768,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Liocrops semiprotrusa,Phalacropsis semiprotrusa,0.7015,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Mimopsestis albogrisea,Spilobasis albogrisea,0.7193,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Mimopsestis albogrisea,Toelgyfaloca albogrisea,0.6641,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Mimopsestis basalis,Palimpsestis basalis,0.7294,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Mimopsestis circumdata,Spilobasis circumdata,0.7743,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Mimopsestis circumdata,Toelgyfaloca circumdata,0.7208,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Mimopsestis curvata,Spilobasis curvata,0.7215,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Mimopsestis honei,Spilobasis honei,0.6317,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Mimopsestis minor,Spilobasis minor,0.5827,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Mimopsestis pseudomaculata,Parapsestis pseudomaculata,0.8678,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Mimopsestis pseudomaculata,Parapsestis pseudomaculata,0.8678,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Mimopsestis pseudomaculata,Spilobasis pseudomaculata,0.764,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Nemacerota alternata,Palimpsestis alternata,0.671,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Nemacerota alternata,Stenopsestis alternata,0.6439,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Nemacerota cinerea,Asphalia cinerea,0.6902,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euthyatira lorata,Thyatira lorata,0.8178,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euthyatira pennssylvanica,Euthyatira pennsylvanica,0.9243,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euthyatira pudens,Thyatira pudens,0.833,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euthyatira semicircularis,Bombycia griseor,0.372,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euthyatira semicircularis,Bombycia semicircularis,0.748,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Euthyatira semicircularis,Euthyatira tema,0.6837,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ditrigona conflexaria,Acidalia conflexaria,0.7089,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ditrigona derocina,Peridrepana derocina,0.7817,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ditrigona furvicosta,Leucodrepana furvicosta,0.699,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ditrigona idaeoides,Leucodrepana idaeoides,0.726,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ditrigona inconspicua,Teldenia inconspicua,0.75,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ditrigona innotata,Drepana innotata,0.7478,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ditrigona jardanaria,Corycia jardanaria,0.6955,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ditrigona lineata,Leucodrepana lineata,0.7002,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ditrigona micronioides,Auzatella micronioides,0.7331,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ditrigona mytylata,Corycia mytylata,0.6993,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ditrigona obliquilinea,Leucodrepana obliquilinea,0.7445,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ditrigona pentesticha,Auzatella pentesticha,0.7448,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ditrigona quinaria,Drepanodes quinaria,0.739,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ditrigona quinaria,Thaleridia pruinosa,0.528,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ditrigona quinquelineata,Leucodrepana quinquelineata,0.755,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ditrigona sericea,Drepana fulvicosta,0.534,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ditrigona sericea,Leucodrepana birmanica,0.5343,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ditrigona sericea,Peridrepana sericea,0.7674,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ditrigona virgo,Corycia sacra,0.4173,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Ditrigona virgo,Corycia virgo,0.6863,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyclidia javana,Cyclidia absentimacula,0.7449,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyclidia orciferaria,Cyclidia ociferaria,0.9513,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyclidia rectificata,Cyclidia mauricolaria,0.732,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyclidia rectificata,Cyclidia patulata,0.7587,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Cyclidia substigmaria,Cyclidia capitata,0.8093,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Spica parallelangula,Plusinia aurea,0.4875,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Falcaria bilineata,Drepana bilineata,0.7402,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Falcaria bilineata,Drepana hudsoni,0.4101,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Falcaria bilineata,Drepana levis,0.4528,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Falcaria bilineata,Falcaria rampartensis,0.7771,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Falcaria lacertinaria,Bombyx lacertula,0.6538,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Falcaria lacertinaria,Drepana brykaria,0.4282,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Falcaria lacertinaria,Drepana conjuncta,0.4976,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Falcaria lacertinaria,Drepana curvula,0.4616,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Falcaria lacertinaria,Drepana dimidiata,0.5094,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Falcaria lacertinaria,Drepana erosula,0.4018,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Falcaria lacertinaria,Drepana interpres,0.4243,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Falcaria lacertinaria,Drepana lacertinaria,0.7402,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Falcaria lacertinaria,Drepana lacertula,0.6542,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Falcaria lacertinaria,Drepana scincula,0.5754,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Falcaria lacertinaria,Drepana tacoraria,0.6044,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Falcaria lacertinaria,Falcaria conjuncta,0.8029,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Falcaria lacertinaria,Phalaena lacertula,0.662,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Falcaria lacertinaria,Platypteryx lacertinaria,0.7231,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Falcaria lacertinaria,Platypteryx lacertula,0.628,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Argodrepana verticata,Peridrepana verticata,0.7873,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Drapetodes fratercula,Drapetodes fratercula,1.0,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Drapetodes matulata,Drapetodes obliquifasciata,0.7607,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Drapetodes mitaria,Drapetodes albidior,0.8186,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Drapetodes mitaria,Drapetodes platycerata,0.8131,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Drapetodes mitaria,Drapetodes vapida,0.737,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Tetheella fluctuosa,Cymatophora fluctuosa,0.7177,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Tetheella fluctuosa,Palimpsestis cocncolor,0.4156,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Tetheella fluctuosa,Palimpsestis fluctuosa,0.6388,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Tetheella fluctuosa,Palimpsestis obscura,0.4076,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Tetheella fluctuosa,Tethea albilinea,0.6337,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Tetheella fluctuosa,Tethea bifasciata,0.6666,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Tetheella fluctuosa,Tethea effusa,0.6865,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Tetheella fluctuosa,Tethea fluctuosa,0.9154,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Negera bimaculata,Ancistrota bimaculata,0.7345,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Negera confusa,Ctenogyna lytaea,0.4592,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Negera confusa,Negera lytaea,0.6764,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Negera immaculata,Ancistrina immaculata,0.7373,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Negera natalensis,Ancistrota geometroides,0.4579,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Negera natalensis,Ctenogyna natalensis,0.7875,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Microthyatira decorata,Nemacerota decorata,0.7061,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Microthyatira decorata,Polyploca decorata,0.5605,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Thyatira batis,Thyatira albopunctata,0.7844,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Thyatira batis,Thyatira conflua,0.7169,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Thyatira batis,Thyatira confluens,0.7371,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Thyatira batis,Thyatira confluens,0.7371,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Thyatira batis,Thyatira derosea,0.7709,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Thyatira batis,Thyatira indecorata,0.8051,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Thyatira batis,Thyatira juncta,0.7866,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Thyatira batis,Thyatira phaea,0.7857,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Thyatira batis,Thyatira rubrescens,0.8064,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Thyatira batis,Thyatira variabilis,0.8053,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Thyatira mexicana,Thyatira superba,0.798,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Zusidava tortricaria,Zusidava sinuosa,0.6935,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Spidia fenestrata,Hemictenarcha rubrisecta,0.4607,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Spidia fenestrata,Spidia fenestriculata,0.9051,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Spidia fenestrata,Spidia rubrisecta,0.7384,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Spidia miserrima,Thymistida miserrima,0.7433,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Spidia smithi,Phalacrothyris smithi,0.6586,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Spidia subviridis,Phalacrothyris subviridis,0.689,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Toxoides undulata,Osica undulata,0.6716,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Toxoides undulata,Toxoides emphloius,0.8557,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Toxoides undulata,Toxoides longipennis,0.8214,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Achlya flavicornis,Achlya atrescens,0.6963,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Achlya flavicornis,Achlya fuscomaculata,0.7851,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Achlya flavicornis,Achlya nigromaculata,0.728,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Achlya flavicornis,Achlya signatipennis,0.7164,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Achlya flavicornis,Achlya simplex,0.7424,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Achlya flavicornis,Achlya unilinea,0.7373,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Achlya flavicornis,Achyla flavicornis,0.8678,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Achlya flavicornis,Asphalia flavicornis,0.733,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Achlya flavicornis,Asphalia rosea,0.5565,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Achlya flavicornis,Cymatophora flavicornis,0.7342,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Achlya flavicornis,Noctua flavicornis,0.7167,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Achlya flavicornis,Noctua luteicornis,0.493,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Achlya flavicornis,Phalaena arcuata,0.6379,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Achlya flavicornis,Phalaena sulphureomaculata,0.567,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Achlya flavicornis,Polyplaca clausa,0.5126,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Achlya flavicornis,Polyploca angustefasciata,0.5053,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Achlya flavicornis,Polyploca confluens,0.4218,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Achlya flavicornis,Polyploca confluens,0.4218,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Achlya flavicornis,Polyploca confluens,0.4218,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Achlya flavicornis,Polyploca covergens,0.3173,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Achlya flavicornis,Polyploca flavicornis,0.6807,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Achlya flavicornis,Polyploca haverkampfi,0.3755,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Achlya flavicornis,Polyploca medionigra,0.481,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Achlya flavicornis,Polyploca melanalba,0.4749,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Achlya flavicornis,Polyploca nudata,0.4036,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Achlya flavicornis,Polyploca obsoleta,0.407,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Achlya flavicornis,Polyploca pseudoalbingensis,0.4884,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Achlya flavicornis,Polyploca unimaculata,0.3535,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Achlya kuramana,Sugitaniella kuramana,0.6913,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Spectroreta hyalodisca,Spectroreta flava,0.7716,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Spectroreta hyalodisca,Spectroreta rufa,0.731,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Nordstromia aqua,Drepana aqua,0.5989,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Nordstromia bicostata,Albara bicostata,0.7519,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Nordstromia duplicata,Albara duplicata,0.7186,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Nordstromia duplicata,Albara olivacea,0.5235,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Nordstromia duplicata,Nordstromia pallidior,0.8084,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Nordstromia humerata,Albara humerata,0.7278,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Nordstromia japonica,Albara sachalinensis,0.5278,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Nordstromia japonica,Drepana punctifera,0.4591,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Nordstromia lilacina,Albara lilacina,0.7344,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Nordstromia problematica,Albara aestivalis,0.496,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Nordstromia problematica,Albara problematica,0.626,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Nordstromia recava,Nordstroemia recava,0.8035,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Nordstromia siccifolia,Allodrepana siccifolia,0.6563,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Nordstromia simillima,Albara simillima,0.721,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Nordstromia sumatrana,Albara sumatrana,0.7419,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Nordstromia vira,Albara erpina,0.4481,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Nordstromia vira,Albara gracillima,0.5348,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Nordstromia vira,Albara mimetica,0.4896,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Nordstromia vira,Albara ocellata,0.48,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Nordstromia vira,Drepana vira,0.56,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Nordstromia vira,Nordstromia amabilis,0.7756,synonym,AI-Growth-Lab/PatentSBERTa,0.7
+Nordstromia vira,Nordstromia pallidina,0.8112,synonym,AI-Growth-Lab/PatentSBERTa,0.7
