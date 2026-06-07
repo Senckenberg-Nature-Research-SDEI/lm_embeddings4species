@@ -62,25 +62,25 @@ bash run_model.sh
 | `gpt2`        | Decoder-only | Baseline                |
 | `gpt2-medium` | Decoder-only | Improved baseline       |
 
+
 ## Results
 
-Number of classified synonyms, and also non-synonyms which are not correct, since our dataset consists of only positives, namely, synonyms.
+Number of synonym pairs identified as synonyms by each embedding model.
 
-| Model                    | Coleoptera Synonyms | Coleoptera Non-synonyms | Lepidoptera Synonyms | Lepidoptera Non-synonyms |
-| ------------------------ | ------------------: | ----------------------: | -------------------: | -----------------------: |
-| all-MiniLM-L6-v2         |                  87 |                     186 |                  361 |                     1121 |
-| all-mpnet-base-v2        |                 125 |                     148 |                  516 |                      966 |
-| bge-base-en-v1.5         |                 194 |                      79 |                 1007 |                      475 |
-| BiomedBERT               |                 273 |                       0 |                 1482 |                        0 |
-| e5-base-v2               |                 273 |                       0 |                 1482 |                        0 |
-| gpt2                     |                 273 |                       0 |                 1482 |                        0 |
-| gpt2-medium              |                 273 |                       0 |                 1482 |                        0 |
-| PatentSBERTa             |                 174 |                      99 |                  883 |                      599 |
-| S-BioBERT                |                  81 |                     192 |                  316 |                     1166 |
-| scibert_scivocab_cased   |                 262 |                      11 |                 1391 |                       91 |
-| scibert_scivocab_uncased |                 252 |                      21 |                 1332 |                      150 |
-| scincl                   |                 273 |                       0 |                 1473 |                        9 |
-
+| Model | Coleoptera Synonym Pairs Detected | Lepidoptera Synonym Pairs Detected |
+|---|---:|---:|
+| all-MiniLM-L6-v2 | 87 / 273 | 361 / 1482 |
+| all-mpnet-base-v2 | 125 / 273 | 516 / 1482 |
+| bge-base-en-v1.5 | 194 / 273 | 1007 / 1482 |
+| BiomedBERT | 273 / 273 | 1482 / 1482 |
+| e5-base-v2 | 273 / 273 | 1482 / 1482 |
+| gpt2 | 273 / 273 | 1482 / 1482 |
+| gpt2-medium | 273 / 273 | 1482 / 1482 |
+| PatentSBERTa | 174 / 273 | 883 / 1482 |
+| S-BioBERT | 81 / 273 | 316 / 1482 |
+| scibert_scivocab_cased | 262 / 273 | 1391 / 1482 |
+| scibert_scivocab_uncased | 252 / 273 | 1332 / 1482 |
+| scincl | 273 / 273 | 1473 / 1482 |
 ## Citation
 
 If you use this repository in your research, please cite the associated publication and/or Zenodo record.
