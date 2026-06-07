@@ -2,9 +2,19 @@
 Similarity between legacy and current names
 
 
-Zero-shot Classification with SciBERT embeddings
+Zero-shot Classification with SciBERT embeddings based on MLP
 
-# Supported Embeddings
+## Run
+
+Clone the repository and install the required dependencies:
+
+```bash
+git clone https://github.com/Senckenberg-Nature-Research-SDEI/lm_embeddings_4_species.git
+cd lm_embeddings_4_species
+pip install -r requirements.txt
+````
+
+## Supported Embeddings
 | Model | Best for |
 |---|---|
 | `allenai/scibert_scivocab_uncased` | Scientific papers, taxonomy text |
