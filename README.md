@@ -12,6 +12,7 @@ The workflow generates embeddings from taxonomic names and performs zero-shot cl
 
 * Taxonomic name embedding generation
 * Support for scientific, biomedical, and general-purpose language models
+* Negative Sampling for a balanced dataset
 * Zero-shot synonym classification
 * Comparative evaluation across multiple embedding architectures
 * Biodiversity-focused benchmarking
