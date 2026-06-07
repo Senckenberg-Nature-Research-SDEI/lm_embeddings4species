@@ -1,0 +1,13 @@
+model,number_of_synonyms,number_of_non_synonyms
+all-MiniLM-L6-v2,361,1121
+all-mpnet-base-v2,516,966
+bge-base-en-v1.5,1007,475
+BiomedBERT,1482,0
+e5-base-v2,1482,0
+gpt2,1482,0
+gpt2-medium,1482,0
+PatentSBERTa,883,599
+S-BioBERT,316,1166
+scibert_scivocab_cased,1391,91
+scibert_scivocab_uncased,1332,150
+scincl,1473,9
