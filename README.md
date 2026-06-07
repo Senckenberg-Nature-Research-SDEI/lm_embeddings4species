@@ -17,3 +17,20 @@ Zero-shot Classification with SciBERT embeddings
 | `intfloat/e5-base-v2` | Search-style embeddings |
 | `malteos/scincl` | Scientific paper embeddings |
 | `AI-Growth-Lab/PatentSBERTa` | Technical terminology similarity |
+
+
+## Decoder Embeddings
+| Model | Type | Biodiversity usefulness |
+|---|---|---|
+| `gpt2` | Decoder-only | Baseline only |
+| `gpt2-medium` | Decoder-only | Better baseline |
+| `TinyLlama/TinyLlama-1.1B-Chat-v1.0` | Decoder-only | Modern small LLM |
+| `Qwen/Qwen2.5-0.5B` | Decoder-only | Compact modern model |
+| `Qwen/Qwen2.5-1.5B` | Decoder-only | Better semantic representation |
+| `HuggingFaceTB/SmolLM2-360M` | Decoder-only | Small and practical |
+| `HuggingFaceTB/SmolLM2-1.7B` | Decoder-only | Better quality, heavier |
+| `microsoft/phi-2` | Decoder-only | Strong small model, heavier |
+| `allenai/OLMo-1B-hf` | Decoder-only | Scientific/general text baseline |
+| `mistralai/Mistral-7B-v0.1` | Decoder-only | Strong, but heavy |
+| `meta-llama/Llama-3.2-1B` | Decoder-only | Good small LLaMA-style option |
+| `meta-llama/Llama-3.2-3B` | Decoder-only | Better, heavier |
