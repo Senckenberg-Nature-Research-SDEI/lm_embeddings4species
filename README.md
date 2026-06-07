@@ -42,4 +42,5 @@ Zero-shot Classification with SciBERT embeddings
 | scibert_scivocab_uncased | 252 | 21 | 1332 | 150 |
 | scincl | 273 | 0 | 1473 | 9 |
 
-License:
+## License:
+GNU General Public License v3.0
