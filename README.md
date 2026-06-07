@@ -24,13 +24,22 @@ Zero-shot Classification with SciBERT embeddings
 |---|---|---|
 | `gpt2` | Decoder-only | Baseline only |
 | `gpt2-medium` | Decoder-only | Better baseline |
-| `TinyLlama/TinyLlama-1.1B-Chat-v1.0` | Decoder-only | Modern small LLM |
-| `Qwen/Qwen2.5-0.5B` | Decoder-only | Compact modern model |
-| `Qwen/Qwen2.5-1.5B` | Decoder-only | Better semantic representation |
-| `HuggingFaceTB/SmolLM2-360M` | Decoder-only | Small and practical |
-| `HuggingFaceTB/SmolLM2-1.7B` | Decoder-only | Better quality, heavier |
-| `microsoft/phi-2` | Decoder-only | Strong small model, heavier |
-| `allenai/OLMo-1B-hf` | Decoder-only | Scientific/general text baseline |
-| `mistralai/Mistral-7B-v0.1` | Decoder-only | Strong, but heavy |
-| `meta-llama/Llama-3.2-1B` | Decoder-only | Good small LLaMA-style option |
-| `meta-llama/Llama-3.2-3B` | Decoder-only | Better, heavier |
+
+
+## Results:
+| Model | Coleoptera Synonyms | Coleoptera Non-synonyms | Lepidoptera Synonyms | Lepidoptera Non-synonyms |
+|-------|--------------------:|------------------------:|---------------------:|-------------------------:|
+| all-MiniLM-L6-v2 | 87 | 186 | 361 | 1121 |
+| all-mpnet-base-v2 | 125 | 148 | 516 | 966 |
+| bge-base-en-v1.5 | 194 | 79 | 1007 | 475 |
+| BiomedBERT | 273 | 0 | 1482 | 0 |
+| e5-base-v2 | 273 | 0 | 1482 | 0 |
+| gpt2 | 273 | 0 | 1482 | 0 |
+| gpt2-medium | 273 | 0 | 1482 | 0 |
+| PatentSBERTa | 174 | 99 | 883 | 599 |
+| S-BioBERT | 81 | 192 | 316 | 1166 |
+| scibert_scivocab_cased | 262 | 11 | 1391 | 91 |
+| scibert_scivocab_uncased | 252 | 21 | 1332 | 150 |
+| scincl | 273 | 0 | 1473 | 9 |
+
+License:
