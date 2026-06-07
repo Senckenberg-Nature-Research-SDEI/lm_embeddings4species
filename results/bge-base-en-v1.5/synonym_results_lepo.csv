@@ -1,0 +1,1483 @@
+species,oldSpeciesCanonicalName,similarity,prediction,model,threshold
+Xylorycta castanea,Lichenaula castanea,0.8124,synonym,BAAI/bge-base-en-v1.5,0.7
+Xylorycta luteotactella,Cryptolechia cognatella,0.6031,not synonym,BAAI/bge-base-en-v1.5,0.7
+Xylorycta luteotactella,Cryptolechia luteotactella,0.8855,synonym,BAAI/bge-base-en-v1.5,0.7
+Xylorycta nivella,Cryptolechia nivella,0.8128,synonym,BAAI/bge-base-en-v1.5,0.7
+Xylorycta stereodesma,Xylorycta prospicua,0.671,not synonym,BAAI/bge-base-en-v1.5,0.7
+Xylorycta polysticha,Lichenaula polysticha,0.7934,synonym,BAAI/bge-base-en-v1.5,0.7
+Xylorycta heliomacula,Telecrates heliomacula,0.767,synonym,BAAI/bge-base-en-v1.5,0.7
+Xylorycta assimilis,Xylorycta terenopis,0.6983,not synonym,BAAI/bge-base-en-v1.5,0.7
+Xylorycta haplochroa,Lichenaula haplochroa,0.8117,synonym,BAAI/bge-base-en-v1.5,0.7
+Xylorycta haplochroa,Lichenaula umbrosa,0.528,not synonym,BAAI/bge-base-en-v1.5,0.7
+Xylorycta cygnella,Cryptolechia cygnella,0.8272,synonym,BAAI/bge-base-en-v1.5,0.7
+Xylorycta calligramma,Telecrates calligramma,0.7779,synonym,BAAI/bge-base-en-v1.5,0.7
+Xylorycta streptogramma,Telecrates streptogramma,0.7892,synonym,BAAI/bge-base-en-v1.5,0.7
+Xylorycta ovata,Antaeotricha ovata,0.7804,synonym,BAAI/bge-base-en-v1.5,0.7
+Xylorycta candescens,Lichenaula dissimilis,0.5328,not synonym,BAAI/bge-base-en-v1.5,0.7
+Xylorycta strigata,Cryptophasa strigata,0.7743,synonym,BAAI/bge-base-en-v1.5,0.7
+Xylorycta apheles,Neodrepta apheles,0.7461,synonym,BAAI/bge-base-en-v1.5,0.7
+Xylorycta apheles,Xylorycta lychnobii,0.6797,not synonym,BAAI/bge-base-en-v1.5,0.7
+Xylorycta argentella,Cryptolechia argentella,0.8493,synonym,BAAI/bge-base-en-v1.5,0.7
+Synchalara rhombota,Agriophara rhombota,0.8069,synonym,BAAI/bge-base-en-v1.5,0.7
+Paralecta tinctoria,Xylorycta tinctoria,0.7951,synonym,BAAI/bge-base-en-v1.5,0.7
+Sphalerostola epierana,Exapateter epierana,0.7907,synonym,BAAI/bge-base-en-v1.5,0.7
+Metathrinca ancistrias,Ptochoryctis ancistrias,0.815,synonym,BAAI/bge-base-en-v1.5,0.7
+Metathrinca ceromorpha,Ptochoryctis ceromorpha,0.8292,synonym,BAAI/bge-base-en-v1.5,0.7
+Metathrinca illuvialis,Ptochoryctis illuvialis,0.8204,synonym,BAAI/bge-base-en-v1.5,0.7
+Metathrinca intacta,Ptochoryctis intacta,0.8069,synonym,BAAI/bge-base-en-v1.5,0.7
+Metathrinca loranthivora,Ptochoryctis loranthivora,0.858,synonym,BAAI/bge-base-en-v1.5,0.7
+Metathrinca parabola,Ptochoryctis parabola,0.7802,synonym,BAAI/bge-base-en-v1.5,0.7
+Metathrinca rosaria,Ptochoryctis rosaria,0.8262,synonym,BAAI/bge-base-en-v1.5,0.7
+Metathrinca tsugensis,Ptochoryctis tsugensis,0.8138,synonym,BAAI/bge-base-en-v1.5,0.7
+Liparistis monosema,Lichenaula monosema,0.7951,synonym,BAAI/bge-base-en-v1.5,0.7
+Athrypsiastis candidella,Topiris candidella,0.7639,synonym,BAAI/bge-base-en-v1.5,0.7
+Bida radiosella,Bida crambella,0.7648,synonym,BAAI/bge-base-en-v1.5,0.7
+Bida radiosella,Psecadia radiosella,0.7954,synonym,BAAI/bge-base-en-v1.5,0.7
+Perixestis rhizophaga,Xylorycta rhizophaga,0.7936,synonym,BAAI/bge-base-en-v1.5,0.7
+Phthonerodes scotarcha,Psilosceles dichochroa,0.4776,not synonym,BAAI/bge-base-en-v1.5,0.7
+Iulactis insignis,Dectobathra insignis,0.8072,synonym,BAAI/bge-base-en-v1.5,0.7
+Xylodryadella cryeranthes,Xylodryas cryeranthes,0.9535,synonym,BAAI/bge-base-en-v1.5,0.7
+Neospastis encryphias,Agriophara encryphias,0.7729,synonym,BAAI/bge-base-en-v1.5,0.7
+Neospastis ichnaea,Stenoma ichnaea,0.7752,synonym,BAAI/bge-base-en-v1.5,0.7
+Philarista porphyrinella,Brunia intersecta,0.5407,not synonym,BAAI/bge-base-en-v1.5,0.7
+Philarista porphyrinella,Cryptolechia porphyrinella,0.809,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyanocrates grandis,Cyanocrates signata,0.6811,not synonym,BAAI/bge-base-en-v1.5,0.7
+Cyanocrates grandis,Ommatothelxis grandis,0.7129,synonym,BAAI/bge-base-en-v1.5,0.7
+Lichenaula afflictella,Cryptolechia afflictella,0.8621,synonym,BAAI/bge-base-en-v1.5,0.7
+Lichenaula lichenea,Lichenaula lichenaea,0.9312,synonym,BAAI/bge-base-en-v1.5,0.7
+Lichenaula cryptoleuca,Phthonerodes cryptoleuca,0.8073,synonym,BAAI/bge-base-en-v1.5,0.7
+Lichenaula laniata,Lichenaula sternoides,0.6564,not synonym,BAAI/bge-base-en-v1.5,0.7
+Lichenaula comparella,Lichenaula callisema,0.7119,synonym,BAAI/bge-base-en-v1.5,0.7
+Lichenaula comparella,Oecophora comparella,0.8345,synonym,BAAI/bge-base-en-v1.5,0.7
+Lichenaula anthracopsara,Phthonerodes anthracopsara,0.845,synonym,BAAI/bge-base-en-v1.5,0.7
+Lichenaula phloeochroa,Lichenaula provisa,0.7159,synonym,BAAI/bge-base-en-v1.5,0.7
+Lichenaula maculosa,Polynesa maculosa,0.7484,synonym,BAAI/bge-base-en-v1.5,0.7
+Heterochyta aprepta,Heterochyta abrepta,0.7126,synonym,BAAI/bge-base-en-v1.5,0.7
+Heterochyta aprepta,Macrobela aprepta,0.7754,synonym,BAAI/bge-base-en-v1.5,0.7
+Heterochyta infesta,Heterobathra infesta,0.9054,synonym,BAAI/bge-base-en-v1.5,0.7
+Catoryctis leucomerata,Phthonerodes leucomerata,0.813,synonym,BAAI/bge-base-en-v1.5,0.7
+Catoryctis sciastis,Xylorycta sciastis,0.8792,synonym,BAAI/bge-base-en-v1.5,0.7
+Catoryctis subnexella,Oecophora subnexella,0.845,synonym,BAAI/bge-base-en-v1.5,0.7
+Catoryctis subparallela,Oecophora fissulella,0.5246,not synonym,BAAI/bge-base-en-v1.5,0.7
+Catoryctis subparallela,Oecophora nexella,0.5485,not synonym,BAAI/bge-base-en-v1.5,0.7
+Catoryctis subparallela,Oecophora subparallela,0.8141,synonym,BAAI/bge-base-en-v1.5,0.7
+Brachybelistis blackburnii,Cryptophaga blackburnii,0.8073,synonym,BAAI/bge-base-en-v1.5,0.7
+Brachybelistis pentachroa,Xylorycta pentachroa,0.8575,synonym,BAAI/bge-base-en-v1.5,0.7
+Telecrates desmochrysa,Telecrates nigricansella,0.7686,synonym,BAAI/bge-base-en-v1.5,0.7
+Telecrates laetiorella,Oecophora laetiorella,0.8004,synonym,BAAI/bge-base-en-v1.5,0.7
+Telecrates melanochrysa,Xylorycta melanochrysa,0.7717,synonym,BAAI/bge-base-en-v1.5,0.7
+Gomphoscopa catoryctopsis,Pachycera catoryctopsis,0.8438,synonym,BAAI/bge-base-en-v1.5,0.7
+Thymiatris allocrossa,Lichenaula allocrossa,0.7897,synonym,BAAI/bge-base-en-v1.5,0.7
+Thymiatris cephalochra,Xylorycta cephalochra,0.81,synonym,BAAI/bge-base-en-v1.5,0.7
+Leptobelistis isthmodes,Oegoconia isthmodes,0.8229,synonym,BAAI/bge-base-en-v1.5,0.7
+Plectophila acrochroa,Xylorycta acrochroa,0.7803,synonym,BAAI/bge-base-en-v1.5,0.7
+Plectophila discalis,Acontia discalis,0.751,synonym,BAAI/bge-base-en-v1.5,0.7
+Plectophila discalis,Lichenaula inscripta,0.5965,not synonym,BAAI/bge-base-en-v1.5,0.7
+Plectophila discalis,Lichenaula ombralota,0.5762,not synonym,BAAI/bge-base-en-v1.5,0.7
+Plectophila discalis,Lichenaula oxygona,0.5128,not synonym,BAAI/bge-base-en-v1.5,0.7
+Plectophila electella,Oecophora electella,0.8863,synonym,BAAI/bge-base-en-v1.5,0.7
+Plectophila eucrines,Lichenaula eucrines,0.8462,synonym,BAAI/bge-base-en-v1.5,0.7
+Plectophila micradelpha,Lichenaula micradelpha,0.8318,synonym,BAAI/bge-base-en-v1.5,0.7
+Plectophila pyrgodes,Plectophila ascripta,0.7299,synonym,BAAI/bge-base-en-v1.5,0.7
+Plectophila thiophanes,Xylorycta thiophanes,0.8192,synonym,BAAI/bge-base-en-v1.5,0.7
+Potniarcha hierastis,Cryptophaga hierastis,0.8336,synonym,BAAI/bge-base-en-v1.5,0.7
+Zaphanaula hemileuca,Antiopala moderata,0.4704,not synonym,BAAI/bge-base-en-v1.5,0.7
+Zaphanaula hemileuca,Oecophora hemileuca,0.7963,synonym,BAAI/bge-base-en-v1.5,0.7
+Zaphanaula hemileuca,Peltophora leucoplaca,0.5455,not synonym,BAAI/bge-base-en-v1.5,0.7
+Zaphanaula hemileuca,Zaphanaula diffusa,0.7218,synonym,BAAI/bge-base-en-v1.5,0.7
+Zaphanaula hemileuca,Zaphanaula xenophila,0.7667,synonym,BAAI/bge-base-en-v1.5,0.7
+Cophomantella aphanozona,Cophomantis aphanozona,0.9638,synonym,BAAI/bge-base-en-v1.5,0.7
+Cophomantella artonoma,Cophomantis artonoma,0.9312,synonym,BAAI/bge-base-en-v1.5,0.7
+Cophomantella bifrenata,Onebala bifrenata,0.8106,synonym,BAAI/bge-base-en-v1.5,0.7
+Cophomantella bythota,Onebala bythota,0.7639,synonym,BAAI/bge-base-en-v1.5,0.7
+Cophomantella crypsizyga,Onebala crypsizyga,0.7441,synonym,BAAI/bge-base-en-v1.5,0.7
+Cophomantella cubiculata,Onebala cubiculata,0.7821,synonym,BAAI/bge-base-en-v1.5,0.7
+Cophomantella cyclopodes,Onebala cyclopodes,0.8089,synonym,BAAI/bge-base-en-v1.5,0.7
+Cophomantella elaphopis,Onebala elaphopis,0.7512,synonym,BAAI/bge-base-en-v1.5,0.7
+Cophomantella ephanozona,Cophomantis ephanozona,0.9592,synonym,BAAI/bge-base-en-v1.5,0.7
+Cophomantella eremota,Onebala eremota,0.7912,synonym,BAAI/bge-base-en-v1.5,0.7
+Cophomantella furnaria,Lecithocera furnaria,0.805,synonym,BAAI/bge-base-en-v1.5,0.7
+Cophomantella homogramma,Onebala homogramma,0.7853,synonym,BAAI/bge-base-en-v1.5,0.7
+Cophomantella lychnocentra,Styloceros lychnocentra,0.8073,synonym,BAAI/bge-base-en-v1.5,0.7
+Cophomantella myadelpha,Onebala myadelpha,0.7265,synonym,BAAI/bge-base-en-v1.5,0.7
+Cophomantella osphrantica,Cophomantis osphrantica,0.9616,synonym,BAAI/bge-base-en-v1.5,0.7
+Cophomantella pumicata,Cophomantis pumicata,0.9541,synonym,BAAI/bge-base-en-v1.5,0.7
+Cophomantella syngonarcha,Cophomantis syngonarcha,0.9645,synonym,BAAI/bge-base-en-v1.5,0.7
+Hylypnes isosticha,Odites isosticha,0.7841,synonym,BAAI/bge-base-en-v1.5,0.7
+Hylypnes leptosticta,Cryptolechia leptosticta,0.826,synonym,BAAI/bge-base-en-v1.5,0.7
+Hylypnes pudica,Odites pudica,0.7605,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupetochira xystopala,Nephantis xystopala,0.8329,synonym,BAAI/bge-base-en-v1.5,0.7
+Xylomimetes trachyptera,Pilostibes trachyptera,0.8126,synonym,BAAI/bge-base-en-v1.5,0.7
+Arignota stercorata,Xylorycta stercorata,0.7889,synonym,BAAI/bge-base-en-v1.5,0.7
+Zauclophora metaphaeella,Safra metaphaeella,0.7894,synonym,BAAI/bge-base-en-v1.5,0.7
+Zauclophora muscerdella,Cryptolechia muscerdella,0.8274,synonym,BAAI/bge-base-en-v1.5,0.7
+Zauclophora pelodes,Xylorycta cirrhodes,0.5854,not synonym,BAAI/bge-base-en-v1.5,0.7
+Zauclophora procellosa,Clerarcha procellosa,0.8122,synonym,BAAI/bge-base-en-v1.5,0.7
+Scieropepla orthosema,Procometis orthosema,0.8115,synonym,BAAI/bge-base-en-v1.5,0.7
+Scieropepla reversella,Cryptolechia abrosella,0.6146,not synonym,BAAI/bge-base-en-v1.5,0.7
+Scieropepla reversella,Cryptolechia reversella,0.8044,synonym,BAAI/bge-base-en-v1.5,0.7
+Scieropepla serica,Tanyzancla serica,0.7671,synonym,BAAI/bge-base-en-v1.5,0.7
+Scieropepla serina,Procometis trispora,0.5187,not synonym,BAAI/bge-base-en-v1.5,0.7
+Scieropepla typhicola,Scieropepla typicola,0.8849,synonym,BAAI/bge-base-en-v1.5,0.7
+Pilostibes basivitta,Marisba basivitta,0.7927,synonym,BAAI/bge-base-en-v1.5,0.7
+Pilostibes basivitta,Pilostibes enchidias,0.7969,synonym,BAAI/bge-base-en-v1.5,0.7
+Thysiarcha ecclesiastis,Cryptophasa ecclesiastis,0.8096,synonym,BAAI/bge-base-en-v1.5,0.7
+Paralypusa chinensis,Pseudatemelia chinensis,0.742,synonym,BAAI/bge-base-en-v1.5,0.7
+Diurnea fagella,Chimabacche fagella,0.7398,synonym,BAAI/bge-base-en-v1.5,0.7
+Diurnea fagella,Chimabacche nolckenella,0.5556,not synonym,BAAI/bge-base-en-v1.5,0.7
+Diurnea fagella,Diurnea dormoyella,0.7603,synonym,BAAI/bge-base-en-v1.5,0.7
+Diurnea fagella,Diurnea nolckenella,0.7707,synonym,BAAI/bge-base-en-v1.5,0.7
+Diurnea fagella,Tinea fagella,0.7448,synonym,BAAI/bge-base-en-v1.5,0.7
+Diurnea fumida,Dasystoma fumida,0.7721,synonym,BAAI/bge-base-en-v1.5,0.7
+Diurnea fumida,Sciaphila fumida,0.7773,synonym,BAAI/bge-base-en-v1.5,0.7
+Diurnea lipsiella,Chimabacche phryganella,0.4705,not synonym,BAAI/bge-base-en-v1.5,0.7
+Diurnea lipsiella,Diurnea lipsiella,1.0,synonym,BAAI/bge-base-en-v1.5,0.7
+Diurnea lipsiella,Diurnea novembris,0.752,synonym,BAAI/bge-base-en-v1.5,0.7
+Diurnea lipsiella,Diurnea phryganella,0.6952,not synonym,BAAI/bge-base-en-v1.5,0.7
+Diurnea lipsiella,Lemmatophila phryganella,0.5589,not synonym,BAAI/bge-base-en-v1.5,0.7
+Dasystoma kurentzovi,Cheimophila kurentzovi,0.8561,synonym,BAAI/bge-base-en-v1.5,0.7
+Dasystoma salicella,Cheimophila salicella,0.8256,synonym,BAAI/bge-base-en-v1.5,0.7
+Dasystoma salicella,Hercyna rufocrinitalis,0.514,not synonym,BAAI/bge-base-en-v1.5,0.7
+Dasystoma salicella,Lemmatophila salicella,0.796,synonym,BAAI/bge-base-en-v1.5,0.7
+Agnoea aeneella,Borkhausenia aeneella,0.8391,synonym,BAAI/bge-base-en-v1.5,0.7
+Agnoea colurnella,Borkhausenia colurnella,0.8121,synonym,BAAI/bge-base-en-v1.5,0.7
+Agnoea colurnella,Borkhausenia pulverosella,0.5377,not synonym,BAAI/bge-base-en-v1.5,0.7
+Agnoea colurnella,Pseudatemelia colurnella,0.8112,synonym,BAAI/bge-base-en-v1.5,0.7
+Agnoea detrimentella,Borkhausenia detrimentella,0.8479,synonym,BAAI/bge-base-en-v1.5,0.7
+Agnoea detrimentella,Pseudatemelia detrimentella,0.8346,synonym,BAAI/bge-base-en-v1.5,0.7
+Agnoea elsae,Borkhausenia elsae,0.7804,synonym,BAAI/bge-base-en-v1.5,0.7
+Agnoea elsae,Pseudatemelia elsae,0.8043,synonym,BAAI/bge-base-en-v1.5,0.7
+Agnoea filiella,Borkhausenia filiella,0.8143,synonym,BAAI/bge-base-en-v1.5,0.7
+Agnoea filiella,Pseudatemelia filiella,0.8159,synonym,BAAI/bge-base-en-v1.5,0.7
+Agnoea flavifrontella,Borkhausenia flavifrontella,0.834,synonym,BAAI/bge-base-en-v1.5,0.7
+Agnoea flavifrontella,Pseudatemelia flavifrontella,0.825,synonym,BAAI/bge-base-en-v1.5,0.7
+Agnoea flavifrontella,Tubuliferola flavifrontella,0.8447,synonym,BAAI/bge-base-en-v1.5,0.7
+Agnoea fuscifrontella,Agnoea evanescens,0.6812,not synonym,BAAI/bge-base-en-v1.5,0.7
+Agnoea fuscifrontella,Blastobasis evanescens,0.5691,not synonym,BAAI/bge-base-en-v1.5,0.7
+Agnoea fuscifrontella,Borkhausenia fuscifrontella,0.8557,synonym,BAAI/bge-base-en-v1.5,0.7
+Agnoea fuscifrontella,Pseudatemelia fuscifrontella,0.8577,synonym,BAAI/bge-base-en-v1.5,0.7
+Agnoea josephinae,Pseudatemelia josephinae,0.8196,synonym,BAAI/bge-base-en-v1.5,0.7
+Agnoea langohri,Pseudatemelia langohri,0.8147,synonym,BAAI/bge-base-en-v1.5,0.7
+Agnoea latipennella,Pseudatemelia latipennella,0.8584,synonym,BAAI/bge-base-en-v1.5,0.7
+Agnoea lavandulae,Borkhausenia ardosiella,0.5001,not synonym,BAAI/bge-base-en-v1.5,0.7
+Agnoea lavandulae,Borkhausenia lavandulae,0.8207,synonym,BAAI/bge-base-en-v1.5,0.7
+Agnoea lavandulae,Borkhausenia pulverisquamis,0.4189,not synonym,BAAI/bge-base-en-v1.5,0.7
+Agnoea lavandulae,Oecophora ardosiella,0.5409,not synonym,BAAI/bge-base-en-v1.5,0.7
+Agnoea lavandulae,Pseudatemelia lavandulae,0.8286,synonym,BAAI/bge-base-en-v1.5,0.7
+Agnoea pallidella,Borkhausenia pallidella,0.7763,synonym,BAAI/bge-base-en-v1.5,0.7
+Agnoea pallidella,Pseudatemelia pallidella,0.8092,synonym,BAAI/bge-base-en-v1.5,0.7
+Agnoea semifuscata,Pseudatemelia semifuscata,0.8513,synonym,BAAI/bge-base-en-v1.5,0.7
+Agnoea subgilvida,Pseudatemelia subgilvida,0.8081,synonym,BAAI/bge-base-en-v1.5,0.7
+Agnoea subgilvida,Tubuliferola subgilvida,0.8146,synonym,BAAI/bge-base-en-v1.5,0.7
+Agnoea subochreella,Agnoea panzerella,0.6921,not synonym,BAAI/bge-base-en-v1.5,0.7
+Agnoea subochreella,Pseudatemelia panzerella,0.5178,not synonym,BAAI/bge-base-en-v1.5,0.7
+Agnoea subochreella,Pseudatemelia subochreella,0.8326,synonym,BAAI/bge-base-en-v1.5,0.7
+Agnoea subochreella,Tubuliferola subochreella,0.8445,synonym,BAAI/bge-base-en-v1.5,0.7
+Agnoea synchrozella,Pseudatemelia synchrozella,0.8505,synonym,BAAI/bge-base-en-v1.5,0.7
+Agnoea xanthosoma,Pseudatemelia xanthosoma,0.8394,synonym,BAAI/bge-base-en-v1.5,0.7
+Atosia doenia,Parasa doenia,0.7619,synonym,BAAI/bge-base-en-v1.5,0.7
+Eukarschia mitis,Gephyrophora mitis,0.7655,synonym,BAAI/bge-base-en-v1.5,0.7
+Euphlyctina phaeopasta,Araeogyia phaeopasta,0.8689,synonym,BAAI/bge-base-en-v1.5,0.7
+Lithacodes fasciola,Limacodes fasciola,0.8588,synonym,BAAI/bge-base-en-v1.5,0.7
+Lithacodes fasciola,Lithacodes belfragei,0.7416,synonym,BAAI/bge-base-en-v1.5,0.7
+Lithacodes fasciola,Lithacodes divergens,0.7512,synonym,BAAI/bge-base-en-v1.5,0.7
+Lithacodes fasciola,Lithacodes laticlavia,0.734,synonym,BAAI/bge-base-en-v1.5,0.7
+Lithacodes fiskeana,Tortricidia fiskeana,0.8259,synonym,BAAI/bge-base-en-v1.5,0.7
+Parapluda incincta,Apluda incincta,0.8322,synonym,BAAI/bge-base-en-v1.5,0.7
+Parapluda incincta,Apluda schaliphlebia,0.6039,not synonym,BAAI/bge-base-en-v1.5,0.7
+Parapluda incincta,Parapluda schaliphlebia,0.7478,synonym,BAAI/bge-base-en-v1.5,0.7
+Parapluda invitabilis,Apluda similis,0.5909,not synonym,BAAI/bge-base-en-v1.5,0.7
+Parapluda invitabilis,Heterogenea invitabilis,0.7946,synonym,BAAI/bge-base-en-v1.5,0.7
+Parapluda invitabilis,Parapluda similis,0.7249,synonym,BAAI/bge-base-en-v1.5,0.7
+Parapluda monogramma,Apluda monogramma,0.8554,synonym,BAAI/bge-base-en-v1.5,0.7
+Parapluda syngrapha,Apluda syngrapha,0.863,synonym,BAAI/bge-base-en-v1.5,0.7
+Euclea aemilia,Bombyx aemilia,0.7769,synonym,BAAI/bge-base-en-v1.5,0.7
+Euclea aemilia,Euclea discolor,0.7382,synonym,BAAI/bge-base-en-v1.5,0.7
+Euclea bidiscalis,Miresa doriens,0.5089,not synonym,BAAI/bge-base-en-v1.5,0.7
+Euclea byrne,Metraga byrne,0.7693,synonym,BAAI/bge-base-en-v1.5,0.7
+Euclea cippus,Bombyx cippus,0.7893,synonym,BAAI/bge-base-en-v1.5,0.7
+Euclea cippus,Phalaena cippus,0.8273,synonym,BAAI/bge-base-en-v1.5,0.7
+Euclea copac,Neomiresa copac,0.8259,synonym,BAAI/bge-base-en-v1.5,0.7
+Euclea delphinii,Empretia paenulata,0.5274,not synonym,BAAI/bge-base-en-v1.5,0.7
+Euclea delphinii,Euclea bifida,0.6614,not synonym,BAAI/bge-base-en-v1.5,0.7
+Euclea delphinii,Euclea elliotii,0.6558,not synonym,BAAI/bge-base-en-v1.5,0.7
+Euclea delphinii,Euclea ferruginea,0.642,not synonym,BAAI/bge-base-en-v1.5,0.7
+Euclea delphinii,Euclea interjecta,0.6926,not synonym,BAAI/bge-base-en-v1.5,0.7
+Euclea delphinii,Euclea mira,0.6786,not synonym,BAAI/bge-base-en-v1.5,0.7
+Euclea delphinii,Euclea monitor,0.6687,not synonym,BAAI/bge-base-en-v1.5,0.7
+Euclea delphinii,Euclea strigata,0.6664,not synonym,BAAI/bge-base-en-v1.5,0.7
+Euclea delphinii,Euclea viridiclava,0.6021,not synonym,BAAI/bge-base-en-v1.5,0.7
+Euclea delphinii,Limacodes argentata,0.4733,not synonym,BAAI/bge-base-en-v1.5,0.7
+Euclea delphinii,Limacodes delphinii,0.7758,synonym,BAAI/bge-base-en-v1.5,0.7
+Euclea delphinii,Limacodes querceti,0.572,not synonym,BAAI/bge-base-en-v1.5,0.7
+Euclea delphinii,Limacodes quercicola,0.489,not synonym,BAAI/bge-base-en-v1.5,0.7
+Euclea delphinii,Nochelia tardigrada,0.5186,not synonym,BAAI/bge-base-en-v1.5,0.7
+Euclea delphinii,Nyssia varia,0.4695,not synonym,BAAI/bge-base-en-v1.5,0.7
+Euclea delphinii,Parasa excisa,0.4233,not synonym,BAAI/bge-base-en-v1.5,0.7
+Euclea delphinii,Parasa incisa,0.3939,not synonym,BAAI/bge-base-en-v1.5,0.7
+Euclea delphinii,Sibine varia,0.4694,not synonym,BAAI/bge-base-en-v1.5,0.7
+Euclea determinata,Metraga costilinea,0.4631,not synonym,BAAI/bge-base-en-v1.5,0.7
+Euclea dicolon,Phalaena dicolon,0.8442,synonym,BAAI/bge-base-en-v1.5,0.7
+Euclea diversa,Euclea retroversa,0.7148,synonym,BAAI/bge-base-en-v1.5,0.7
+Euclea diversa,Semyra diversa,0.7894,synonym,BAAI/bge-base-en-v1.5,0.7
+Euclea diversa,Teinorhyncha vericrux,0.4643,not synonym,BAAI/bge-base-en-v1.5,0.7
+Euclea dolosa,Hydrias dolosa,0.8016,synonym,BAAI/bge-base-en-v1.5,0.7
+Euclea norba,Sibine norba,0.7848,synonym,BAAI/bge-base-en-v1.5,0.7
+Euclea plugma,Euclea chiriquensis,0.7007,synonym,BAAI/bge-base-en-v1.5,0.7
+Euclea plugma,Euclea zygia,0.718,synonym,BAAI/bge-base-en-v1.5,0.7
+Euclea plugma,Metraga colle,0.552,not synonym,BAAI/bge-base-en-v1.5,0.7
+Euclea plugma,Metraga hoboa,0.6113,not synonym,BAAI/bge-base-en-v1.5,0.7
+Euclea plugma,Metraga perplexa,0.5757,not synonym,BAAI/bge-base-en-v1.5,0.7
+Euclea plugma,Phalaena plugma,0.7699,synonym,BAAI/bge-base-en-v1.5,0.7
+Euclea rufa,Neomires rufa,0.7646,synonym,BAAI/bge-base-en-v1.5,0.7
+Euclea spadicis,Monoleuca spadicis,0.8083,synonym,BAAI/bge-base-en-v1.5,0.7
+Pectinarosa alastor,Altha alastor,0.6891,not synonym,BAAI/bge-base-en-v1.5,0.7
+Melinaria campagnei,Parasa campagnei,0.7475,synonym,BAAI/bge-base-en-v1.5,0.7
+Melinaria repanda,Neaera repanda,0.8184,synonym,BAAI/bge-base-en-v1.5,0.7
+Melinaria repanda,Parasa repanda,0.8138,synonym,BAAI/bge-base-en-v1.5,0.7
+Caffricola cloeckneria,Bombyx cloeckneria,0.8008,synonym,BAAI/bge-base-en-v1.5,0.7
+Heringocena andobo,Pseudomocena andobo,0.7784,synonym,BAAI/bge-base-en-v1.5,0.7
+Heringocena difficilis,Pseudomocena difficilis,0.7609,synonym,BAAI/bge-base-en-v1.5,0.7
+Vipsania melanois,Pseudovipsania melanois,0.8216,synonym,BAAI/bge-base-en-v1.5,0.7
+Vipsania schevi,Lithacodes schevi,0.7314,synonym,BAAI/bge-base-en-v1.5,0.7
+Narosoideus flavidorsalis,Heterogena flavidorsalis,0.8541,synonym,BAAI/bge-base-en-v1.5,0.7
+Narosoideus flavidorsalis,Narosoideus flavissima,0.8856,synonym,BAAI/bge-base-en-v1.5,0.7
+Narosoideus flavidorsalis,Narosoideus micans,0.7332,synonym,BAAI/bge-base-en-v1.5,0.7
+Narosoideus fuscicostalis,Miresa fuscicostalis,0.7328,synonym,BAAI/bge-base-en-v1.5,0.7
+Narosoideus vulpina,Narosoideus apicipennis,0.7301,synonym,BAAI/bge-base-en-v1.5,0.7
+Narosoideus vulpina,Narosoideus aurisoma,0.7263,synonym,BAAI/bge-base-en-v1.5,0.7
+Narosoideus vulpina,Narosoideus formosanus,0.7088,synonym,BAAI/bge-base-en-v1.5,0.7
+Narosoideus vulpina,Narosoideus formosicola,0.6944,not synonym,BAAI/bge-base-en-v1.5,0.7
+Narosoideus vulpina,Vipsania vulpina,0.8017,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyclopterana reducta,Cycloptera reducta,0.9819,synonym,BAAI/bge-base-en-v1.5,0.7
+Altha peralbida,Thosea peralbida,0.8269,synonym,BAAI/bge-base-en-v1.5,0.7
+Narosopsis leucospila,Narosopsis vynia,0.6097,not synonym,BAAI/bge-base-en-v1.5,0.7
+Ctenolita auribasalis,Miresa auribasalis,0.7829,synonym,BAAI/bge-base-en-v1.5,0.7
+Ctenolita auribasalis,Teinorhyncha auribasalis,0.8012,synonym,BAAI/bge-base-en-v1.5,0.7
+Ctenolita epargyra,Ctenolita cerdo,0.7606,synonym,BAAI/bge-base-en-v1.5,0.7
+Ctenolita epargyra,Teinorhyncha cerdo,0.5937,not synonym,BAAI/bge-base-en-v1.5,0.7
+Ctenolita nobilior,Miresa nobilior,0.747,synonym,BAAI/bge-base-en-v1.5,0.7
+Ctenolita nobilior,Teinorhyncha nobilior,0.7972,synonym,BAAI/bge-base-en-v1.5,0.7
+Ctenolita pyrosomoides,Miresa pyrosomoides,0.8318,synonym,BAAI/bge-base-en-v1.5,0.7
+Ctenolita pyrosomoides,Teinorhyncha pyrosomoides,0.84,synonym,BAAI/bge-base-en-v1.5,0.7
+Comanula uniformis,Comanula bipunctata,0.6836,not synonym,BAAI/bge-base-en-v1.5,0.7
+Comanula uniformis,Hildala uniformis,0.7621,synonym,BAAI/bge-base-en-v1.5,0.7
+Narosa argentipuncta,Narosa narcha,0.6718,not synonym,BAAI/bge-base-en-v1.5,0.7
+Narosa corusca,Narosa baibarana,0.7499,synonym,BAAI/bge-base-en-v1.5,0.7
+Narosa corusca,Narosa ishidae,0.6729,not synonym,BAAI/bge-base-en-v1.5,0.7
+Narosa corusca,Narosa shinshana,0.7107,synonym,BAAI/bge-base-en-v1.5,0.7
+Narosa corusca,Narosa takamukui,0.646,not synonym,BAAI/bge-base-en-v1.5,0.7
+Narosa nigrisigna,Heterogenea formosana,0.5454,not synonym,BAAI/bge-base-en-v1.5,0.7
+Narosa nigrisigna,Narosa ochracea,0.75,synonym,BAAI/bge-base-en-v1.5,0.7
+Narosa nigrisigna,Narosa penicillata,0.7225,synonym,BAAI/bge-base-en-v1.5,0.7
+Sansarea alenae,Euphlyctina alenae,0.7153,synonym,BAAI/bge-base-en-v1.5,0.7
+Sansarea circulifera,Trichogyia circulifera,0.7855,synonym,BAAI/bge-base-en-v1.5,0.7
+Macroplectrina apicalis,Macroplectra apicalis,0.9831,synonym,BAAI/bge-base-en-v1.5,0.7
+Macroplectrina semiaurantia,Macroplectra semiaurantia,0.9844,synonym,BAAI/bge-base-en-v1.5,0.7
+Brachiopsis vicina,Caffricola vicina,0.7825,synonym,BAAI/bge-base-en-v1.5,0.7
+Vipaka niveipennis,Narosa niveipennis,0.8174,synonym,BAAI/bge-base-en-v1.5,0.7
+Zinara ploetzi,Heterolepis ploetzi,0.726,synonym,BAAI/bge-base-en-v1.5,0.7
+Magos xanthopus,Bietia xanthopus,0.7939,synonym,BAAI/bge-base-en-v1.5,0.7
+Anilina nubilata,Paryphanta nubilata,0.8134,synonym,BAAI/bge-base-en-v1.5,0.7
+Anilina personata,Paryphanta personata,0.8249,synonym,BAAI/bge-base-en-v1.5,0.7
+Anilina plebeia,Paryphanta plebeia,0.7639,synonym,BAAI/bge-base-en-v1.5,0.7
+Anilina tessmanni,Paryphanta tessmanni,0.7961,synonym,BAAI/bge-base-en-v1.5,0.7
+Mambara andamanensis,Hypoblechra andamanensis,0.7886,synonym,BAAI/bge-base-en-v1.5,0.7
+Mambara delocrossa,Birthama delocrossa,0.7918,synonym,BAAI/bge-base-en-v1.5,0.7
+Mambara haplopis,Birthama haplopis,0.7505,synonym,BAAI/bge-base-en-v1.5,0.7
+Mambara minimalis,Setora minimalis,0.7143,synonym,BAAI/bge-base-en-v1.5,0.7
+Chalcocelis albiguttatus,Altha pulchrimacula,0.5201,not synonym,BAAI/bge-base-en-v1.5,0.7
+Chalcocelis albiguttatus,Doratifera hemistaura,0.4897,not synonym,BAAI/bge-base-en-v1.5,0.7
+Chalcocelis albiguttatus,Doratifera nephrochrysa,0.4579,not synonym,BAAI/bge-base-en-v1.5,0.7
+Chalcocelis albiguttatus,Limacodes albiguttatus,0.801,synonym,BAAI/bge-base-en-v1.5,0.7
+Chalcocelis albiguttatus,Miresa fumifera,0.5284,not synonym,BAAI/bge-base-en-v1.5,0.7
+Chalcocelis albiguttatus,Miresa nigriplaga,0.4712,not synonym,BAAI/bge-base-en-v1.5,0.7
+Chalcocelis albiguttatus,Miresa sanguineomaculata,0.5369,not synonym,BAAI/bge-base-en-v1.5,0.7
+Chalcocelis castanica,Chalcoscelis castanica,0.9551,synonym,BAAI/bge-base-en-v1.5,0.7
+Chrysopolomides nivea,Chrysopoloma nivea,0.9445,synonym,BAAI/bge-base-en-v1.5,0.7
+Soteira altilis,Parasa altilis,0.7698,synonym,BAAI/bge-base-en-v1.5,0.7
+Soteira grandis,Parasa grandis,0.7659,synonym,BAAI/bge-base-en-v1.5,0.7
+Soteira ostia,Latoia pseudostia,0.5813,not synonym,BAAI/bge-base-en-v1.5,0.7
+Soteira ostia,Parasa ostia,0.8139,synonym,BAAI/bge-base-en-v1.5,0.7
+Soteira prasina,Parasa prasina,0.7992,synonym,BAAI/bge-base-en-v1.5,0.7
+Soteira shaanxiensis,Latoia shaanxiensis,0.8553,synonym,BAAI/bge-base-en-v1.5,0.7
+Soteira shaanxiensis,Parasa shaanxiensis,0.805,synonym,BAAI/bge-base-en-v1.5,0.7
+Soteira vadimi,Parasa vadimi,0.7469,synonym,BAAI/bge-base-en-v1.5,0.7
+Quasinarosa fulgens,Microcampa fulgens,0.7854,synonym,BAAI/bge-base-en-v1.5,0.7
+Quasinarosa fulgens,Narosa kanshireana,0.5436,not synonym,BAAI/bge-base-en-v1.5,0.7
+Quasinarosa fulgens,Narosa pseudochracea,0.5318,not synonym,BAAI/bge-base-en-v1.5,0.7
+Quasinarosa fulgens,Narosa tamsi,0.502,not synonym,BAAI/bge-base-en-v1.5,0.7
+Circeida argentifascia,Latoia argentifascia,0.824,synonym,BAAI/bge-base-en-v1.5,0.7
+Circeida argentifascia,Parasa argentifascia,0.821,synonym,BAAI/bge-base-en-v1.5,0.7
+Circeida eupuncta,Latoia eupuncta,0.8194,synonym,BAAI/bge-base-en-v1.5,0.7
+Circeida eupuncta,Parasa eupuncta,0.8207,synonym,BAAI/bge-base-en-v1.5,0.7
+Circeida liangdiana,Latoia liangdiana,0.8045,synonym,BAAI/bge-base-en-v1.5,0.7
+Circeida liangdiana,Parasa liangdiana,0.7916,synonym,BAAI/bge-base-en-v1.5,0.7
+Circeida mutifascia,Latoia mutifascia,0.8266,synonym,BAAI/bge-base-en-v1.5,0.7
+Circeida mutifascia,Parasa mutifascia,0.821,synonym,BAAI/bge-base-en-v1.5,0.7
+Circeida parapuncta,Latoia parapuncta,0.813,synonym,BAAI/bge-base-en-v1.5,0.7
+Circeida parapuncta,Parasa parapuncta,0.855,synonym,BAAI/bge-base-en-v1.5,0.7
+Avatara interrupta,Thosea interrupta,0.8099,synonym,BAAI/bge-base-en-v1.5,0.7
+Avatara lineofusca,Iragoides lineofusca,0.7822,synonym,BAAI/bge-base-en-v1.5,0.7
+Avatara plethoneura,Thosea plethoneura,0.8186,synonym,BAAI/bge-base-en-v1.5,0.7
+Avatara pseudocana,Aphendala pseudocana,0.8109,synonym,BAAI/bge-base-en-v1.5,0.7
+Caissa fasciatum,Ceratonema fasciatum,0.8054,synonym,BAAI/bge-base-en-v1.5,0.7
+Aergina fumosa,Parasa fumosa,0.7804,synonym,BAAI/bge-base-en-v1.5,0.7
+Aergina gentilis,Latoia gentilis,0.782,synonym,BAAI/bge-base-en-v1.5,0.7
+Aergina gentilis,Parasa gentilis,0.7493,synonym,BAAI/bge-base-en-v1.5,0.7
+Aergina hilaris,Limacodes hilaris,0.7288,synonym,BAAI/bge-base-en-v1.5,0.7
+Aergina hilaris,Parasa hockingii,0.4844,not synonym,BAAI/bge-base-en-v1.5,0.7
+Aergina laeta,Aergina retracta,0.7263,synonym,BAAI/bge-base-en-v1.5,0.7
+Aergina laeta,Parasa laeta,0.7485,synonym,BAAI/bge-base-en-v1.5,0.7
+Aergina laeta,Parasa retracta,0.5095,not synonym,BAAI/bge-base-en-v1.5,0.7
+Aergina liharis,Parasa liharis,0.7371,synonym,BAAI/bge-base-en-v1.5,0.7
+Aergina mirza,Parasa mirza,0.709,synonym,BAAI/bge-base-en-v1.5,0.7
+Aergina paeera,Parasa paeera,0.7487,synonym,BAAI/bge-base-en-v1.5,0.7
+Aergina solovyevi,Parasa solovyevi,0.7949,synonym,BAAI/bge-base-en-v1.5,0.7
+Scopelodes minax,Bethura minax,0.7205,synonym,BAAI/bge-base-en-v1.5,0.7
+Scopelodes unicolor,Dalcera palpigera,0.4652,not synonym,BAAI/bge-base-en-v1.5,0.7
+Scopelodes unicolor,Nyssia micacea,0.5361,not synonym,BAAI/bge-base-en-v1.5,0.7
+Scopelodes unicolor,Scopelodes lutea,0.7318,synonym,BAAI/bge-base-en-v1.5,0.7
+Scopelodes unicolor,Scopelodes palpalis,0.6793,not synonym,BAAI/bge-base-en-v1.5,0.7
+Scopelodes vulpina,Scopelodes tantula,0.7195,synonym,BAAI/bge-base-en-v1.5,0.7
+Nephelimorpha argentilinea,Parasa argentilinea,0.8016,synonym,BAAI/bge-base-en-v1.5,0.7
+Nephelimorpha argentilinea,Parasa elegantula,0.5197,not synonym,BAAI/bge-base-en-v1.5,0.7
+Omocenops micacea,Anzabe micacea,0.7502,synonym,BAAI/bge-base-en-v1.5,0.7
+Comana albibasis,Comana albiplaga,0.7694,synonym,BAAI/bge-base-en-v1.5,0.7
+Comana albibasis,Miresa albibasis,0.7631,synonym,BAAI/bge-base-en-v1.5,0.7
+Comana albibasis,Miresa humeralis,0.5441,not synonym,BAAI/bge-base-en-v1.5,0.7
+Comana corones,Bombyx corones,0.7266,synonym,BAAI/bge-base-en-v1.5,0.7
+Comana corones,Susica miltocosma,0.5097,not synonym,BAAI/bge-base-en-v1.5,0.7
+Comana cosmocalla,Comana casmocalla,0.85,synonym,BAAI/bge-base-en-v1.5,0.7
+Comana cosmocalla,Susica cosmocalla,0.8097,synonym,BAAI/bge-base-en-v1.5,0.7
+Comana cosmocalla,Susica dochmosema,0.5833,not synonym,BAAI/bge-base-en-v1.5,0.7
+Comana euryparoa,Susica euryparoa,0.8308,synonym,BAAI/bge-base-en-v1.5,0.7
+Comana idiomorpha,Susica idiomorpha,0.7831,synonym,BAAI/bge-base-en-v1.5,0.7
+Comana miltochyta,Susica miltochyta,0.812,synonym,BAAI/bge-base-en-v1.5,0.7
+Comana miltogramma,Darala rosea,0.55,not synonym,BAAI/bge-base-en-v1.5,0.7
+Comana miltogramma,Hildala miniacea,0.5589,not synonym,BAAI/bge-base-en-v1.5,0.7
+Comana miltogramma,Momopola miltogramma,0.8049,synonym,BAAI/bge-base-en-v1.5,0.7
+Comana mjobergi,Comana mjoebergi,0.8776,synonym,BAAI/bge-base-en-v1.5,0.7
+Comana mjobergi,Susica mjobergi,0.7927,synonym,BAAI/bge-base-en-v1.5,0.7
+Comana monomorpha,Natada monomorpha,0.7472,synonym,BAAI/bge-base-en-v1.5,0.7
+Comana resplendens,Susica resplendens,0.7985,synonym,BAAI/bge-base-en-v1.5,0.7
+Comana rosea,Anthela rosea,0.7034,synonym,BAAI/bge-base-en-v1.5,0.7
+Comana testacea,Mecytha testacea,0.793,synonym,BAAI/bge-base-en-v1.5,0.7
+Leucophobetron argentiflua,Altha rufipuncta,0.5822,not synonym,BAAI/bge-base-en-v1.5,0.7
+Leucophobetron argentiflua,Euproctis argentiflua,0.7985,synonym,BAAI/bge-base-en-v1.5,0.7
+Leucophobetron argyrorrhaea,Euproctis argyrorrhaea,0.8111,synonym,BAAI/bge-base-en-v1.5,0.7
+Leucophobetron punctata,Euclea punctata,0.7852,synonym,BAAI/bge-base-en-v1.5,0.7
+Achrocerides theorini,Lasiocampa theorini,0.7937,synonym,BAAI/bge-base-en-v1.5,0.7
+Aphendala cana,Parasa cana,0.7539,synonym,BAAI/bge-base-en-v1.5,0.7
+Aphendala cana,Thosea barikoti,0.5895,not synonym,BAAI/bge-base-en-v1.5,0.7
+Aphendala cana,Thosea cana,0.757,synonym,BAAI/bge-base-en-v1.5,0.7
+Aphendala conicosma,Thosea conicosma,0.8189,synonym,BAAI/bge-base-en-v1.5,0.7
+Aphendala ferreogrisea,Tetraphleba ferreogrisea,0.8083,synonym,BAAI/bge-base-en-v1.5,0.7
+Aphendala ferreogrisea,Thosea ferreogrisea,0.8483,synonym,BAAI/bge-base-en-v1.5,0.7
+Aphendala imitabilis,Thosea imitabilis,0.8102,synonym,BAAI/bge-base-en-v1.5,0.7
+Aphendala recta,Thosea recta,0.7693,synonym,BAAI/bge-base-en-v1.5,0.7
+Aphendala unicolor,Aphendala mechiensis,0.7476,synonym,BAAI/bge-base-en-v1.5,0.7
+Aphendala unicolor,Aphendala transversata,0.7374,synonym,BAAI/bge-base-en-v1.5,0.7
+Aphendala unicolor,Aphendala tripartita,0.763,synonym,BAAI/bge-base-en-v1.5,0.7
+Aphendala unicolor,Macroplectra unicolor,0.7646,synonym,BAAI/bge-base-en-v1.5,0.7
+Aphendala unicolor,Parasa unicolor,0.7741,synonym,BAAI/bge-base-en-v1.5,0.7
+Aphendala unicolor,Thosea discipunctata,0.6067,not synonym,BAAI/bge-base-en-v1.5,0.7
+Aphendala unicolor,Thosea phaeobasis,0.6209,not synonym,BAAI/bge-base-en-v1.5,0.7
+Aphendala unicolor,Thosea transversata,0.5677,not synonym,BAAI/bge-base-en-v1.5,0.7
+Aphendala unicolor,Thosea tripartita,0.6006,not synonym,BAAI/bge-base-en-v1.5,0.7
+Hindothosea cervina,Thosea cervina,0.7811,synonym,BAAI/bge-base-en-v1.5,0.7
+Hindothosea cervina,Thosea duplexa,0.5533,not synonym,BAAI/bge-base-en-v1.5,0.7
+Neomocena convergens,Omocena convergens,0.8059,synonym,BAAI/bge-base-en-v1.5,0.7
+Birthamula chara,Contheyla chara,0.7884,synonym,BAAI/bge-base-en-v1.5,0.7
+Birthamula rufa,Thosea grandis,0.5273,not synonym,BAAI/bge-base-en-v1.5,0.7
+Hadraphe aprica,Hadraphe callima,0.7851,synonym,BAAI/bge-base-en-v1.5,0.7
+Hadraphe aprica,Scirrhoma callima,0.5408,not synonym,BAAI/bge-base-en-v1.5,0.7
+Hadraphe ethiopica,Scirrhoma ethiopica,0.7635,synonym,BAAI/bge-base-en-v1.5,0.7
+Pretas furcillata,Aphendala furcillata,0.8221,synonym,BAAI/bge-base-en-v1.5,0.7
+Pretas separata,Thosea separata,0.879,synonym,BAAI/bge-base-en-v1.5,0.7
+Thronia badia,Parasa badia,0.7287,synonym,BAAI/bge-base-en-v1.5,0.7
+Thronia dilucida,Parasa dilucida,0.7934,synonym,BAAI/bge-base-en-v1.5,0.7
+Thronia xizangensis,Parasa xizangensis,0.8049,synonym,BAAI/bge-base-en-v1.5,0.7
+Thronia xueshana,Latoia xueshana,0.8188,synonym,BAAI/bge-base-en-v1.5,0.7
+Thronia xueshana,Parasa xueshana,0.7941,synonym,BAAI/bge-base-en-v1.5,0.7
+Eloasa acrata,Parasa acrata,0.7926,synonym,BAAI/bge-base-en-v1.5,0.7
+Eloasa atmodes,Parasa atmodes,0.8014,synonym,BAAI/bge-base-en-v1.5,0.7
+Eloasa atmodes,Parasa loxoleuca,0.5581,not synonym,BAAI/bge-base-en-v1.5,0.7
+Eloasa bombycoides,Doratiophora amphibrota,0.5268,not synonym,BAAI/bge-base-en-v1.5,0.7
+Eloasa bombycoides,Lethocephala bombycoides,0.7856,synonym,BAAI/bge-base-en-v1.5,0.7
+Eloasa bombycoides,Parasa rutila,0.4874,not synonym,BAAI/bge-base-en-v1.5,0.7
+Eloasa bombycoides,Thosea erecta,0.4604,not synonym,BAAI/bge-base-en-v1.5,0.7
+Eloasa brevipennis,Parasa brevipennis,0.8147,synonym,BAAI/bge-base-en-v1.5,0.7
+Eloasa calida,Doratifera congrua,0.4509,not synonym,BAAI/bge-base-en-v1.5,0.7
+Eloasa calida,Lethocephala eremospila,0.4811,not synonym,BAAI/bge-base-en-v1.5,0.7
+Eloasa callidesma,Thosea callidesma,0.8349,synonym,BAAI/bge-base-en-v1.5,0.7
+Eloasa infrequens,Apoda infrequens,0.784,synonym,BAAI/bge-base-en-v1.5,0.7
+Eloasa infrequens,Parasa entima,0.5896,not synonym,BAAI/bge-base-en-v1.5,0.7
+Eloasa liosarca,Anaxidea integer,0.5408,not synonym,BAAI/bge-base-en-v1.5,0.7
+Eloasa liosarca,Eloasa liasarca,0.8357,synonym,BAAI/bge-base-en-v1.5,0.7
+Eloasa liosarca,Thosea liosarca,0.8266,synonym,BAAI/bge-base-en-v1.5,0.7
+Eloasa luxa,Thosea luxa,0.8005,synonym,BAAI/bge-base-en-v1.5,0.7
+Eloasa perixera,Doratifera perixera,0.8009,synonym,BAAI/bge-base-en-v1.5,0.7
+Eloasa sphenosema,Doratifera sphenosema,0.7959,synonym,BAAI/bge-base-en-v1.5,0.7
+Eloasa symphonistis,Parasa symphonistis,0.8189,synonym,BAAI/bge-base-en-v1.5,0.7
+Susica pannosa,Hyphorma pannosa,0.7853,synonym,BAAI/bge-base-en-v1.5,0.7
+Susica sinensis,Susica formosana,0.7804,synonym,BAAI/bge-base-en-v1.5,0.7
+Susica sinensis,Susica fusca,0.7375,synonym,BAAI/bge-base-en-v1.5,0.7
+Susica sinensis,Susica fusca,0.7375,synonym,BAAI/bge-base-en-v1.5,0.7
+Susica sinensis,Tadema sinensis,0.7344,synonym,BAAI/bge-base-en-v1.5,0.7
+Eucalliathla candidella,Oecophora candidella,0.8001,synonym,BAAI/bge-base-en-v1.5,0.7
+Argyresthia pruniella,Argyresthia ephippella,0.6825,not synonym,BAAI/bge-base-en-v1.5,0.7
+Argyresthia pruniella,Oecophora pruniella,0.7964,synonym,BAAI/bge-base-en-v1.5,0.7
+Argyresthia notoleuca,Zelleria notoleuca,0.811,synonym,BAAI/bge-base-en-v1.5,0.7
+Argyresthia curvella,Argyresthia arcella,0.8323,synonym,BAAI/bge-base-en-v1.5,0.7
+Argyresthia curvella,Argyresthia denudatella,0.6902,not synonym,BAAI/bge-base-en-v1.5,0.7
+Argyresthia curvella,Argyresthia nitidella,0.7296,synonym,BAAI/bge-base-en-v1.5,0.7
+Argyresthia curvella,Argyresthia ossea,0.6944,not synonym,BAAI/bge-base-en-v1.5,0.7
+Argyresthia curvella,Argyresthia purpurascentella,0.7763,synonym,BAAI/bge-base-en-v1.5,0.7
+Argyresthia curvella,Tinea arcella,0.6249,not synonym,BAAI/bge-base-en-v1.5,0.7
+Argyresthia abdominalis,Argyresthia decimella,0.647,not synonym,BAAI/bge-base-en-v1.5,0.7
+Argyresthia abdominalis,Argyresthia inauratella,0.7084,synonym,BAAI/bge-base-en-v1.5,0.7
+Argyresthia triplicata,Argyresthia trifasciae,0.7462,synonym,BAAI/bge-base-en-v1.5,0.7
+Argyresthia pygmaeella,Argyresthia rudolphella,0.7967,synonym,BAAI/bge-base-en-v1.5,0.7
+Argyresthia pygmaeella,Argyresthia semifasciella,0.7267,synonym,BAAI/bge-base-en-v1.5,0.7
+Argyresthia ivella,Argyresthia andereggiella,0.7524,synonym,BAAI/bge-base-en-v1.5,0.7
+Argyresthia ivella,Argyresthia kuwayamella,0.6976,not synonym,BAAI/bge-base-en-v1.5,0.7
+Argyresthia ivella,Argyresthia quadriella,0.7471,synonym,BAAI/bge-base-en-v1.5,0.7
+Argyresthia ivella,Oecophora andereggiella,0.6232,not synonym,BAAI/bge-base-en-v1.5,0.7
+Argyresthia chrysidella,Argyresthia walsinghamella,0.746,synonym,BAAI/bge-base-en-v1.5,0.7
+Argyresthia atlanticella,Argyresthia minusculella,0.7302,synonym,BAAI/bge-base-en-v1.5,0.7
+Trachydora acrocyrta,Syntomactis acrocyrta,0.8584,synonym,BAAI/bge-base-en-v1.5,0.7
+Trachydora acromianta,Syntomactis acromianta,0.8491,synonym,BAAI/bge-base-en-v1.5,0.7
+Trachydora bacteriota,Balionebris bacteriota,0.7683,synonym,BAAI/bge-base-en-v1.5,0.7
+Trachydora capnopa,Pogonias capnopa,0.7889,synonym,BAAI/bge-base-en-v1.5,0.7
+Trachydora centromela,Trachydora holochorda,0.6606,not synonym,BAAI/bge-base-en-v1.5,0.7
+Trachydora fumea,Syntomactis fumea,0.7841,synonym,BAAI/bge-base-en-v1.5,0.7
+Trachydora heliodora,Pogonias heliodora,0.8098,synonym,BAAI/bge-base-en-v1.5,0.7
+Trachydora heliotricha,Pogonias heliotricha,0.8251,synonym,BAAI/bge-base-en-v1.5,0.7
+Trachydora juengeri,Sindicola juengeri,0.828,synonym,BAAI/bge-base-en-v1.5,0.7
+Trachydora macrostola,Syntomactis macrostola,0.8433,synonym,BAAI/bge-base-en-v1.5,0.7
+Trachydora plumigera,Anataractis plumigera,0.8199,synonym,BAAI/bge-base-en-v1.5,0.7
+Trachydora porphyrescens,Pogonias porphyrescens,0.8318,synonym,BAAI/bge-base-en-v1.5,0.7
+Trachydora pygaea,Syntomactis pygaea,0.8122,synonym,BAAI/bge-base-en-v1.5,0.7
+Trachydora squamella,Sindicola squamella,0.8515,synonym,BAAI/bge-base-en-v1.5,0.7
+Trachydora tephronota,Syntomactis tephronota,0.846,synonym,BAAI/bge-base-en-v1.5,0.7
+Zaratha pterodactylella,Zaratha niveiventris,0.704,synonym,BAAI/bge-base-en-v1.5,0.7
+Palaeomystella chalcopeda,Palaeomystis chalcopeda,0.957,synonym,BAAI/bge-base-en-v1.5,0.7
+Nanodacna logistica,Colonophora logistica,0.7618,synonym,BAAI/bge-base-en-v1.5,0.7
+Nanodacna vinacea,Homaledra vinacea,0.7494,synonym,BAAI/bge-base-en-v1.5,0.7
+Microcolona durata,Aganoptila durata,0.8205,synonym,BAAI/bge-base-en-v1.5,0.7
+Microcolona phanarcha,Aganoptila phanarcha,0.82,synonym,BAAI/bge-base-en-v1.5,0.7
+Microcolona toropis,Elachista toropis,0.7423,synonym,BAAI/bge-base-en-v1.5,0.7
+Ischnopsis enopias,Amblyxena enopias,0.8613,synonym,BAAI/bge-base-en-v1.5,0.7
+Ischnopsis melanogma,Iriothyrsa melanogma,0.7861,synonym,BAAI/bge-base-en-v1.5,0.7
+Ischnopsis pilifera,Amblyxena pilifera,0.8142,synonym,BAAI/bge-base-en-v1.5,0.7
+Agonoxena miniana,Haemolytis miniana,0.7743,synonym,BAAI/bge-base-en-v1.5,0.7
+Stephensia abbreviatella,Scirtopoda myosotivora,0.5175,not synonym,BAAI/bge-base-en-v1.5,0.7
+Stephensia abbreviatella,Stephensia maxima,0.6731,not synonym,BAAI/bge-base-en-v1.5,0.7
+Stephensia abbreviatella,Stephensia myosotivora,0.6898,not synonym,BAAI/bge-base-en-v1.5,0.7
+Stephensia brunnichella,Microsetia stephensella,0.6798,not synonym,BAAI/bge-base-en-v1.5,0.7
+Stephensia brunnichella,Stephensia brunnichiella,0.9138,synonym,BAAI/bge-base-en-v1.5,0.7
+Stephensia brunnichella,Tinea brunnichella,0.8637,synonym,BAAI/bge-base-en-v1.5,0.7
+Stephensia calpella,Perittia bullatella,0.5866,not synonym,BAAI/bge-base-en-v1.5,0.7
+Stephensia cedronellae,Perittia bystropogonis,0.527,not synonym,BAAI/bge-base-en-v1.5,0.7
+Stephensia cedronellae,Perittia cedronella,0.8282,synonym,BAAI/bge-base-en-v1.5,0.7
+Stephensia cedronellae,Perittia lavandulae,0.5968,not synonym,BAAI/bge-base-en-v1.5,0.7
+Stephensia cedronellae,Stephensia cedronella,0.987,synonym,BAAI/bge-base-en-v1.5,0.7
+Stephensia cunilae,Stephensia cunilea,0.9432,synonym,BAAI/bge-base-en-v1.5,0.7
+Stephensia integra,Kumia integra,0.7523,synonym,BAAI/bge-base-en-v1.5,0.7
+Stephensia major,Antispila major,0.6956,not synonym,BAAI/bge-base-en-v1.5,0.7
+Stephensia unipunctella,Holstia unipunctella,0.7975,synonym,BAAI/bge-base-en-v1.5,0.7
+Chrysoclista cambiella,Psacaphora cambiella,0.7974,synonym,BAAI/bge-base-en-v1.5,0.7
+Chrysoclista flavicaput,Chrysoclista aurifrontella,0.6441,not synonym,BAAI/bge-base-en-v1.5,0.7
+Chrysoclista flavicaput,Chrysoclista flavicapitella,0.8675,synonym,BAAI/bge-base-en-v1.5,0.7
+Chrysoclista flavicaput,Roeslerstammia aurocapitella,0.6027,not synonym,BAAI/bge-base-en-v1.5,0.7
+Chrysoclista flavicaput,Roeslertammia aurocapitella,0.6096,not synonym,BAAI/bge-base-en-v1.5,0.7
+Chrysoclista flavicaput,Spuleria aurifrontella,0.5161,not synonym,BAAI/bge-base-en-v1.5,0.7
+Chrysoclista flavicaput,Spuleria aurocapitella,0.5858,not synonym,BAAI/bge-base-en-v1.5,0.7
+Chrysoclista flavicaput,Tinea aurifrontella,0.5209,not synonym,BAAI/bge-base-en-v1.5,0.7
+Chrysoclista flavicaput,Tinea aurifrontella,0.5209,not synonym,BAAI/bge-base-en-v1.5,0.7
+Chrysoclista lathamella,Chrysoclista bimaculella,0.7047,synonym,BAAI/bge-base-en-v1.5,0.7
+Chrysoclista lathamella,Glyphipteryx bimaculella,0.5494,not synonym,BAAI/bge-base-en-v1.5,0.7
+Chrysoclista lathamella,Glyphipteryx lathamella,0.834,synonym,BAAI/bge-base-en-v1.5,0.7
+Chrysoclista linneela,Chrysoclista gemmatella,0.6574,not synonym,BAAI/bge-base-en-v1.5,0.7
+Chrysoclista linneela,Chrysoclista schaefferella,0.7471,synonym,BAAI/bge-base-en-v1.5,0.7
+Chrysoclista linneela,Glyphipteryx linneella,0.7854,synonym,BAAI/bge-base-en-v1.5,0.7
+Metalobosia anitras,Metalobosia postcaerulescens,0.6768,not synonym,BAAI/bge-base-en-v1.5,0.7
+Oedebasis longipalpis,Oedebasis legrandi,0.7272,synonym,BAAI/bge-base-en-v1.5,0.7
+Oedebasis longipalpis,Oedebasis malagasy,0.6985,not synonym,BAAI/bge-base-en-v1.5,0.7
+Oedebasis ovipennis,Oedebasis ovipennis,1.0,synonym,BAAI/bge-base-en-v1.5,0.7
+Albarracina warionis,Albarracina autumnalis,0.741,synonym,BAAI/bge-base-en-v1.5,0.7
+Albarracina warionis,Albarracina banghaasi,0.7291,synonym,BAAI/bge-base-en-v1.5,0.7
+Albarracina warionis,Albarracina deundulata,0.6797,not synonym,BAAI/bge-base-en-v1.5,0.7
+Albarracina warionis,Albarracina humilis,0.6594,not synonym,BAAI/bge-base-en-v1.5,0.7
+Albarracina warionis,Albarracina littoralis,0.7364,synonym,BAAI/bge-base-en-v1.5,0.7
+Albarracina warionis,Albarracina schindlerae,0.7212,synonym,BAAI/bge-base-en-v1.5,0.7
+Albarracina warionis,Albarracina syriaca,0.7131,synonym,BAAI/bge-base-en-v1.5,0.7
+Albarracina warionis,Albarracina syrticola,0.712,synonym,BAAI/bge-base-en-v1.5,0.7
+Albarracina warionis,Albarracina thoracica,0.6913,not synonym,BAAI/bge-base-en-v1.5,0.7
+Hypertrocta brunnea,Hypertrocta selenotypa,0.6758,not synonym,BAAI/bge-base-en-v1.5,0.7
+Hypertrocta posticalis,Hypertrocta marmorata,0.6947,not synonym,BAAI/bge-base-en-v1.5,0.7
+Hypertrocta posticalis,Moscha posticalis,0.7477,synonym,BAAI/bge-base-en-v1.5,0.7
+Olisbus gainsfordi,Eilema gainsfordi,0.8285,synonym,BAAI/bge-base-en-v1.5,0.7
+Macrocneme adonis,Macrocneme chiriquicola,0.6729,not synonym,BAAI/bge-base-en-v1.5,0.7
+Macrocneme chrysitis,Macrocneme affinis,0.716,synonym,BAAI/bge-base-en-v1.5,0.7
+Macrocneme chrysitis,Macrocneme deceptans,0.7914,synonym,BAAI/bge-base-en-v1.5,0.7
+Macrocneme chrysitis,Macrocneme iole,0.7914,synonym,BAAI/bge-base-en-v1.5,0.7
+Macrocneme lades,Macrocneme chionopus,0.71,synonym,BAAI/bge-base-en-v1.5,0.7
+Macrocneme lades,Macrocneme chionopus,0.71,synonym,BAAI/bge-base-en-v1.5,0.7
+Macrocneme lades,Macrocneme ferrea,0.745,synonym,BAAI/bge-base-en-v1.5,0.7
+Macrocneme lades,Macrocneme naja,0.7545,synonym,BAAI/bge-base-en-v1.5,0.7
+Macrocneme verdivittata,Macrocneme fenestrata,0.7117,synonym,BAAI/bge-base-en-v1.5,0.7
+Calonotos dorata,Calonotos chryseis,0.7083,synonym,BAAI/bge-base-en-v1.5,0.7
+Calonotos helymus,Calonotos aterrima,0.726,synonym,BAAI/bge-base-en-v1.5,0.7
+Calonotos helymus,Glaucopis aterrima,0.5428,not synonym,BAAI/bge-base-en-v1.5,0.7
+Calonotos tiburtus,Calonotos trinitatis,0.7287,synonym,BAAI/bge-base-en-v1.5,0.7
+Calonotos triplaga,Calonotos tripunctatus,0.801,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyligramma amblyops,Cyligramma rhodesiana,0.6695,not synonym,BAAI/bge-base-en-v1.5,0.7
+Cyligramma disturbens,Cyligramma concors,0.705,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyligramma disturbens,Cyligramma consiliatrix,0.7137,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyligramma disturbens,Cyligramma conturbans,0.8096,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyligramma disturbens,Cyligramma raboudou,0.6792,not synonym,BAAI/bge-base-en-v1.5,0.7
+Cyligramma fluctuosa,Cyligramma obscurior,0.708,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyligramma fluctuosa,Cyligramma rudilinea,0.6301,not synonym,BAAI/bge-base-en-v1.5,0.7
+Cyligramma joa,Cyligramma postreducta,0.7061,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyligramma latona,Cyligramma troglodyta,0.7009,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyligramma limacina,Cyligramma acutior,0.6595,not synonym,BAAI/bge-base-en-v1.5,0.7
+Cyligramma limacina,Cyligramma argillosa,0.6939,not synonym,BAAI/bge-base-en-v1.5,0.7
+Cyligramma limacina,Cyligramma bisignata,0.6897,not synonym,BAAI/bge-base-en-v1.5,0.7
+Cyligramma limacina,Cyligramma importuna,0.6766,not synonym,BAAI/bge-base-en-v1.5,0.7
+Cyligramma limacina,Cyligramma intellecta,0.6775,not synonym,BAAI/bge-base-en-v1.5,0.7
+Cyligramma limacina,Cyligramma limacinodes,0.8843,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyligramma magus,Cyligramma buchholzi,0.643,not synonym,BAAI/bge-base-en-v1.5,0.7
+Cyligramma magus,Cyligramma goudotii,0.666,not synonym,BAAI/bge-base-en-v1.5,0.7
+Oglasa arcuata,Oglasa lunifera,0.6932,not synonym,BAAI/bge-base-en-v1.5,0.7
+Oglasa auximena,Oglasa afflicta,0.7459,synonym,BAAI/bge-base-en-v1.5,0.7
+Oglasa hypenoides,Oglasa cosmiodes,0.7104,synonym,BAAI/bge-base-en-v1.5,0.7
+Oglasa hypenoides,Oglasa sambawana,0.659,not synonym,BAAI/bge-base-en-v1.5,0.7
+Oglasa lagusalis,Dorsippa notabilis,0.3902,not synonym,BAAI/bge-base-en-v1.5,0.7
+Oglasa plagiata,Oglasa plagiata,1.0,synonym,BAAI/bge-base-en-v1.5,0.7
+Oglasa separata,Oglasa maculata,0.6752,not synonym,BAAI/bge-base-en-v1.5,0.7
+Oglasa separata,Oglasa ozela,0.7189,synonym,BAAI/bge-base-en-v1.5,0.7
+Oglasa sordidula,Chodda sordidula,0.8279,synonym,BAAI/bge-base-en-v1.5,0.7
+Adiopa disgrega,Adiopa marama,0.7307,synonym,BAAI/bge-base-en-v1.5,0.7
+Antapistis holophaea,Antapistis anyx,0.6752,not synonym,BAAI/bge-base-en-v1.5,0.7
+Antapistis leucospila,Antapistis digestalis,0.6956,not synonym,BAAI/bge-base-en-v1.5,0.7
+Antapistis leucospila,Capnodes leucospila,0.7683,synonym,BAAI/bge-base-en-v1.5,0.7
+Celiptera frustulum,Celiptera discissa,0.7988,synonym,BAAI/bge-base-en-v1.5,0.7
+Celiptera frustulum,Celiptera elongatus,0.7008,synonym,BAAI/bge-base-en-v1.5,0.7
+Celiptera levina,Celiptera alvina,0.8012,synonym,BAAI/bge-base-en-v1.5,0.7
+Celiptera levina,Celiptera aurinia,0.7768,synonym,BAAI/bge-base-en-v1.5,0.7
+Celiptera levina,Celiptera pallidior,0.7813,synonym,BAAI/bge-base-en-v1.5,0.7
+Celiptera levina,Celiptera pertusa,0.7507,synonym,BAAI/bge-base-en-v1.5,0.7
+Celiptera levina,Celiptera variolosa,0.7484,synonym,BAAI/bge-base-en-v1.5,0.7
+Celiptera remigioides,Celiptera magnifica,0.7645,synonym,BAAI/bge-base-en-v1.5,0.7
+Dysschema eurocilia,Dysschema melaina,0.773,synonym,BAAI/bge-base-en-v1.5,0.7
+Dysschema eurocilia,Dysschema zerbina,0.7187,synonym,BAAI/bge-base-en-v1.5,0.7
+Dysschema mosera,Dysschema sylvia,0.7448,synonym,BAAI/bge-base-en-v1.5,0.7
+Dysschema tricolor,Dysschema albisarta,0.7394,synonym,BAAI/bge-base-en-v1.5,0.7
+Dysschema tricolor,Dysschema guaranitica,0.7331,synonym,BAAI/bge-base-en-v1.5,0.7
+Dysschema tricolor,Dysschema turbida,0.7724,synonym,BAAI/bge-base-en-v1.5,0.7
+Dysschema leucophaea,Dysschema flora,0.7369,synonym,BAAI/bge-base-en-v1.5,0.7
+Dysschema leucophaea,Dysschema rubrimargo,0.6399,not synonym,BAAI/bge-base-en-v1.5,0.7
+Dysschema leucophaea,Dysschema salvatoris,0.6672,not synonym,BAAI/bge-base-en-v1.5,0.7
+Dysschema rosina,Dysschema nigriventralis,0.7017,synonym,BAAI/bge-base-en-v1.5,0.7
+Dysschema hilarina,Dysschema biformis,0.6889,not synonym,BAAI/bge-base-en-v1.5,0.7
+Dysschema hilarina,Dysschema fulva,0.7506,synonym,BAAI/bge-base-en-v1.5,0.7
+Dysschema hilarina,Dysschema mutata,0.671,not synonym,BAAI/bge-base-en-v1.5,0.7
+Dysschema trapeziata,Dysschema regalis,0.7156,synonym,BAAI/bge-base-en-v1.5,0.7
+Dysschema trapeziata,Dysschema rubripicta,0.7245,synonym,BAAI/bge-base-en-v1.5,0.7
+Dysschema trapeziata,Dysschema woodii,0.7076,synonym,BAAI/bge-base-en-v1.5,0.7
+Dysschema dissimulata,Dysschema madana,0.7565,synonym,BAAI/bge-base-en-v1.5,0.7
+Dysschema dissimulata,Dysschema nigerrima,0.7288,synonym,BAAI/bge-base-en-v1.5,0.7
+Dysschema dissimulata,Dysschema nigrodiscalis,0.6938,not synonym,BAAI/bge-base-en-v1.5,0.7
+Dysschema picta,Dysschema capella,0.7283,synonym,BAAI/bge-base-en-v1.5,0.7
+Dysschema marginalis,Dysschema crassifascia,0.7077,synonym,BAAI/bge-base-en-v1.5,0.7
+Dysschema marginalis,Dysschema dissimulans,0.7544,synonym,BAAI/bge-base-en-v1.5,0.7
+Dysschema palmeri,Dysschema practidoides,0.7399,synonym,BAAI/bge-base-en-v1.5,0.7
+Dysschema magdala,Dysschema fortis,0.7205,synonym,BAAI/bge-base-en-v1.5,0.7
+Dysschema magdala,Dysschema lygdamis,0.7793,synonym,BAAI/bge-base-en-v1.5,0.7
+Dysschema magdala,Dysschema panamensis,0.6707,not synonym,BAAI/bge-base-en-v1.5,0.7
+Dysschema bivittata,Dysschema disjuncta,0.7204,synonym,BAAI/bge-base-en-v1.5,0.7
+Dysschema irene,Dysschema splendidissima,0.7672,synonym,BAAI/bge-base-en-v1.5,0.7
+Dysschema subapicalis,Dysschema inclusa,0.7554,synonym,BAAI/bge-base-en-v1.5,0.7
+Dysschema subapicalis,Dysschema noctuites,0.7604,synonym,BAAI/bge-base-en-v1.5,0.7
+Dysschema subapicalis,Dysschema parnassiodes,0.7222,synonym,BAAI/bge-base-en-v1.5,0.7
+Dysschema subapicalis,Dysschema parnassioides,0.7383,synonym,BAAI/bge-base-en-v1.5,0.7
+Dysschema subapicalis,Dysschema tristis,0.7131,synonym,BAAI/bge-base-en-v1.5,0.7
+Dysschema neda,Dysschema nubila,0.7594,synonym,BAAI/bge-base-en-v1.5,0.7
+Dysschema neda,Dysschema submarginata,0.7168,synonym,BAAI/bge-base-en-v1.5,0.7
+Dysschema mariamne,Dysschema mariane,0.842,synonym,BAAI/bge-base-en-v1.5,0.7
+Dysschema mariamne,Dysschema thetis,0.7516,synonym,BAAI/bge-base-en-v1.5,0.7
+Dysschema terminata,Dysschema holofernes,0.7173,synonym,BAAI/bge-base-en-v1.5,0.7
+Dysschema centenaria,Dysschema obscura,0.6764,not synonym,BAAI/bge-base-en-v1.5,0.7
+Dysschema sacrifica,Dysschema crucifera,0.762,synonym,BAAI/bge-base-en-v1.5,0.7
+Dysschema lycaste,Dysschema cydon,0.7266,synonym,BAAI/bge-base-en-v1.5,0.7
+Dysschema lycaste,Dysschema iscariotes,0.7263,synonym,BAAI/bge-base-en-v1.5,0.7
+Dysschema lycaste,Dysschema praetides,0.6976,not synonym,BAAI/bge-base-en-v1.5,0.7
+Dysschema lycaste,Dysschema tibesis,0.7533,synonym,BAAI/bge-base-en-v1.5,0.7
+Dysschema hypoxantha,Dysschema sibylla,0.7272,synonym,BAAI/bge-base-en-v1.5,0.7
+Dysschema viuda,Dysschema vidua,0.8331,synonym,BAAI/bge-base-en-v1.5,0.7
+Dysschema boisduvalii,Dysschema funeralis,0.6947,not synonym,BAAI/bge-base-en-v1.5,0.7
+Chrysograpta igneola,Egnasia igneola,0.8087,synonym,BAAI/bge-base-en-v1.5,0.7
+Mursa phtisialis,Mursa calisalis,0.8111,synonym,BAAI/bge-base-en-v1.5,0.7
+Mursa phtisialis,Mursa comptalis,0.7799,synonym,BAAI/bge-base-en-v1.5,0.7
+Mursa phtisialis,Mursa disparatalis,0.8264,synonym,BAAI/bge-base-en-v1.5,0.7
+Mursa phtisialis,Mursa gracilis,0.7886,synonym,BAAI/bge-base-en-v1.5,0.7
+Mursa phtisialis,Mursa judicatalis,0.7871,synonym,BAAI/bge-base-en-v1.5,0.7
+Mursa phtisialis,Mursa maceria,0.7598,synonym,BAAI/bge-base-en-v1.5,0.7
+Mursa phtisialis,Mursa marica,0.7599,synonym,BAAI/bge-base-en-v1.5,0.7
+Mursa phtisialis,Mursa sotiusalis,0.7892,synonym,BAAI/bge-base-en-v1.5,0.7
+Mursa phtisialis,Mursa subrufa,0.761,synonym,BAAI/bge-base-en-v1.5,0.7
+Lophotavia incivilis,Lophotavia merulina,0.7041,synonym,BAAI/bge-base-en-v1.5,0.7
+Lophotavia incivilis,Lophotavia nigrocyanea,0.639,not synonym,BAAI/bge-base-en-v1.5,0.7
+Lophotavia pulcherrima,Lophotavia prunicolora,0.6665,not synonym,BAAI/bge-base-en-v1.5,0.7
+Ctenosia psectriphora,Pusiola psectriphora,0.8428,synonym,BAAI/bge-base-en-v1.5,0.7
+Creatonotos dulla,Creatonotos aurantiaca,0.6885,not synonym,BAAI/bge-base-en-v1.5,0.7
+Creatonotos dulla,Creatonotos borealis,0.7654,synonym,BAAI/bge-base-en-v1.5,0.7
+Creatonotos gangis,Creatonotos continuatus,0.7186,synonym,BAAI/bge-base-en-v1.5,0.7
+Creatonotos gangis,Creatonotos flavoabdominalis,0.726,synonym,BAAI/bge-base-en-v1.5,0.7
+Creatonotos gangis,Creatonotos francisca,0.7088,synonym,BAAI/bge-base-en-v1.5,0.7
+Creatonotos gangis,Creatonotos interrupta,0.7357,synonym,BAAI/bge-base-en-v1.5,0.7
+Creatonotos gangis,Creatonotos nigrescens,0.7464,synonym,BAAI/bge-base-en-v1.5,0.7
+Creatonotos gangis,Creatonotos pallida,0.7732,synonym,BAAI/bge-base-en-v1.5,0.7
+Creatonotos gangis,Phalaena gangis,0.7179,synonym,BAAI/bge-base-en-v1.5,0.7
+Creatonotos leucanioides,Creatonotos brunnipennis,0.6918,not synonym,BAAI/bge-base-en-v1.5,0.7
+Creatonotos punctivitta,Spilosoma punctivitta,0.8469,synonym,BAAI/bge-base-en-v1.5,0.7
+Creatonotos transiens,Aloa isabellina,0.5379,not synonym,BAAI/bge-base-en-v1.5,0.7
+Creatonotos transiens,Amphissa vacillans,0.5331,not synonym,BAAI/bge-base-en-v1.5,0.7
+Creatonotos transiens,Creatonotos vacillans,0.7681,synonym,BAAI/bge-base-en-v1.5,0.7
+Cabardites limbata,Aemene formosibia,0.5491,not synonym,BAAI/bge-base-en-v1.5,0.7
+Cabardites limbata,Aemene shirakii,0.4989,not synonym,BAAI/bge-base-en-v1.5,0.7
+Cabardites limbata,Miltochrista limbata,0.7647,synonym,BAAI/bge-base-en-v1.5,0.7
+Cabardites maculata,Adites maculata,0.8003,synonym,BAAI/bge-base-en-v1.5,0.7
+Cabardites maculata,Aemene maculata,0.7225,synonym,BAAI/bge-base-en-v1.5,0.7
+Cabardites maculata,Nudaria maculata,0.8001,synonym,BAAI/bge-base-en-v1.5,0.7
+Cabardites pica,Aemene fuscipennis,0.4814,not synonym,BAAI/bge-base-en-v1.5,0.7
+Cabardites pica,Miltochrista pica,0.7238,synonym,BAAI/bge-base-en-v1.5,0.7
+Cabardites pica,Parasiccia fuscipennis,0.4594,not synonym,BAAI/bge-base-en-v1.5,0.7
+Diaphora mendica,Arctia mendica,0.7943,synonym,BAAI/bge-base-en-v1.5,0.7
+Diaphora mendica,Bombyx mendica,0.7943,synonym,BAAI/bge-base-en-v1.5,0.7
+Diaphora mendica,Chelonia mendica,0.7602,synonym,BAAI/bge-base-en-v1.5,0.7
+Diaphora mendica,Cycnia mendica,0.8063,synonym,BAAI/bge-base-en-v1.5,0.7
+Diaphora mendica,Diacrisia mendica,0.8337,synonym,BAAI/bge-base-en-v1.5,0.7
+Diaphora mendica,Spilosoma albinotata,0.5021,not synonym,BAAI/bge-base-en-v1.5,0.7
+Diaphora mendica,Spilosoma binaghii,0.4885,not synonym,BAAI/bge-base-en-v1.5,0.7
+Diaphora mendica,Spilosoma circumpunctata,0.499,not synonym,BAAI/bge-base-en-v1.5,0.7
+Diaphora mendica,Spilosoma depuncta,0.5446,not synonym,BAAI/bge-base-en-v1.5,0.7
+Diaphora mendica,Spilosoma inversa,0.4731,not synonym,BAAI/bge-base-en-v1.5,0.7
+Diaphora mendica,Spilosoma mendica,0.7901,synonym,BAAI/bge-base-en-v1.5,0.7
+Diaphora mendica,Spilosoma mendicana,0.7509,synonym,BAAI/bge-base-en-v1.5,0.7
+Diaphora mendica,Spilosoma murina,0.477,not synonym,BAAI/bge-base-en-v1.5,0.7
+Diaphora mendica,Spilosoma nigrociliata,0.5173,not synonym,BAAI/bge-base-en-v1.5,0.7
+Diaphora mendica,Spilosoma sabulosa,0.4843,not synonym,BAAI/bge-base-en-v1.5,0.7
+Diaphora mendica,Spilosoma standfussi,0.4739,not synonym,BAAI/bge-base-en-v1.5,0.7
+Diaphora mendica,Spilosoma substriata,0.4992,not synonym,BAAI/bge-base-en-v1.5,0.7
+Diaphora mendica,Spilosoma syra,0.535,not synonym,BAAI/bge-base-en-v1.5,0.7
+Diaphora sordida,Chelonia sordida,0.8028,synonym,BAAI/bge-base-en-v1.5,0.7
+Diaphora sordida,Cycnia sordida,0.8365,synonym,BAAI/bge-base-en-v1.5,0.7
+Alphaea imbuta,Arctia imbuta,0.7985,synonym,BAAI/bge-base-en-v1.5,0.7
+Alphaea imbuta,Estigmene femina,0.5279,not synonym,BAAI/bge-base-en-v1.5,0.7
+Alphaea imbuta,Estigmene imbuta,0.7529,synonym,BAAI/bge-base-en-v1.5,0.7
+Alphaea imbuta,Estigmene khasiana,0.521,not synonym,BAAI/bge-base-en-v1.5,0.7
+Alphaea imbuta,Estigmene normalis,0.5855,not synonym,BAAI/bge-base-en-v1.5,0.7
+Alphaea imbuta,Estigmene sikkimensis,0.5277,not synonym,BAAI/bge-base-en-v1.5,0.7
+Alphaea imbuta,Nayaca imbuta,0.694,not synonym,BAAI/bge-base-en-v1.5,0.7
+Alphaea impleta,Hypercompa impleta,0.7882,synonym,BAAI/bge-base-en-v1.5,0.7
+Alphaea impleta,Spilosoma impleta,0.7868,synonym,BAAI/bge-base-en-v1.5,0.7
+Alphaea impleta,Spilosoma simplicicilia,0.4729,not synonym,BAAI/bge-base-en-v1.5,0.7
+Bertula sphaerula,Asthala sphaerula,0.8185,synonym,BAAI/bge-base-en-v1.5,0.7
+Bertula pulla,Bleptina pulla,0.8276,synonym,BAAI/bge-base-en-v1.5,0.7
+Bertula momusalis,Bocana momusalis,0.7927,synonym,BAAI/bge-base-en-v1.5,0.7
+Bertula momusalis,Hydrillodes momusalis,0.8095,synonym,BAAI/bge-base-en-v1.5,0.7
+Bertula micealis,Bleptina micealis,0.8089,synonym,BAAI/bge-base-en-v1.5,0.7
+Bertula insignifica,Adrapsa murina,0.4917,not synonym,BAAI/bge-base-en-v1.5,0.7
+Bertula incongruens,Bertula amurensis,0.69,not synonym,BAAI/bge-base-en-v1.5,0.7
+Bertula centralis,Bleptina grimsgaardi,0.4867,not synonym,BAAI/bge-base-en-v1.5,0.7
+Bertula depressalis,Bertula similalis,0.6753,not synonym,BAAI/bge-base-en-v1.5,0.7
+Bertula depressalis,Sitophora depressalis,0.7772,synonym,BAAI/bge-base-en-v1.5,0.7
+Bertula inconspicua,Bleptina inconspicua,0.8621,synonym,BAAI/bge-base-en-v1.5,0.7
+Bertula hadenalis,Bertula alikangialis,0.7055,synonym,BAAI/bge-base-en-v1.5,0.7
+Bertula hadenalis,Bertula ruptistigma,0.6515,not synonym,BAAI/bge-base-en-v1.5,0.7
+Bertula abjudicalis,Bertula tumidalis,0.7372,synonym,BAAI/bge-base-en-v1.5,0.7
+Bertula abjudicalis,Bocana tumidalis,0.5663,not synonym,BAAI/bge-base-en-v1.5,0.7
+Bertula rufosa,Badiza rufosa,0.777,synonym,BAAI/bge-base-en-v1.5,0.7
+Bertula delosticha,Bleptina delosticha,0.8697,synonym,BAAI/bge-base-en-v1.5,0.7
+Bertula tespilalis,Neviasca tespilalis,0.844,synonym,BAAI/bge-base-en-v1.5,0.7
+Bertula tespilalis,Plusia albosignata,0.4872,not synonym,BAAI/bge-base-en-v1.5,0.7
+Bertula carta,Bleptina carta,0.8168,synonym,BAAI/bge-base-en-v1.5,0.7
+Bertula picta,Bleptina picta,0.8107,synonym,BAAI/bge-base-en-v1.5,0.7
+Bertula partita,Bertula leucopis,0.6651,not synonym,BAAI/bge-base-en-v1.5,0.7
+Miniodes phaeosoma,Miniodes phaeosomella,0.9296,synonym,BAAI/bge-base-en-v1.5,0.7
+Miniodes phaeosoma,Miniodes phaeosomoides,0.9445,synonym,BAAI/bge-base-en-v1.5,0.7
+Gorgonidia garleppi,Gorgonidia mirabilior,0.7114,synonym,BAAI/bge-base-en-v1.5,0.7
+Heliohemonia monosticta,Heliosia monosticta,0.9476,synonym,BAAI/bge-base-en-v1.5,0.7
+Disca arborita,Disca arbovia,0.7726,synonym,BAAI/bge-base-en-v1.5,0.7
+Africalpe intrusa,Oraesia anubis,0.4998,not synonym,BAAI/bge-base-en-v1.5,0.7
+Arugisa latiorella,Arugisa watsoni,0.6748,not synonym,BAAI/bge-base-en-v1.5,0.7
+Euagra coelestina,Euagra interclusa,0.7154,synonym,BAAI/bge-base-en-v1.5,0.7
+Euagra intercisa,Euagra auxo,0.7641,synonym,BAAI/bge-base-en-v1.5,0.7
+Metaphoenia plagifera,Thermesia plagifera,0.783,synonym,BAAI/bge-base-en-v1.5,0.7
+Metaphoenia rhodias,Metaphoenia metarhoda,0.8098,synonym,BAAI/bge-base-en-v1.5,0.7
+Barsaurea diehli,Lyclene diehli,0.7231,synonym,BAAI/bge-base-en-v1.5,0.7
+Barsaurea phaeoxanthia,Barsine phaeoxanthia,0.9035,synonym,BAAI/bge-base-en-v1.5,0.7
+Barsaurea phaeoxanthia,Miltochrista phaeoxantha,0.8034,synonym,BAAI/bge-base-en-v1.5,0.7
+Barsaurea phaeoxanthia,Miltochrista phaeoxanthia,0.8379,synonym,BAAI/bge-base-en-v1.5,0.7
+Lepidolutzia baucis,Lepidolutzia bombycina,0.7506,synonym,BAAI/bge-base-en-v1.5,0.7
+Lepidolutzia baucis,Lepidolutzia costistrigata,0.6777,not synonym,BAAI/bge-base-en-v1.5,0.7
+Lepidolutzia baucis,Lepidolutzia dukinfieldia,0.684,not synonym,BAAI/bge-base-en-v1.5,0.7
+Donuca castalia,Calliodes saturatior,0.5886,not synonym,BAAI/bge-base-en-v1.5,0.7
+Donuca spectabilis,Donuca memorabilis,0.7751,synonym,BAAI/bge-base-en-v1.5,0.7
+Donuca spectabilis,Donuca queenslandica,0.7128,synonym,BAAI/bge-base-en-v1.5,0.7
+Donuca spectabilis,Donuca spectabilica,0.9,synonym,BAAI/bge-base-en-v1.5,0.7
+Donuca spectabilis,Donuca yorkensis,0.7222,synonym,BAAI/bge-base-en-v1.5,0.7
+Donuca spectabilis,Donuca yorkensis,0.7222,synonym,BAAI/bge-base-en-v1.5,0.7
+Donuca spectabilis,Serrodes xanthorrhoea,0.4462,not synonym,BAAI/bge-base-en-v1.5,0.7
+Icteritilema nyassana,Phryganopsis nyassana,0.8153,synonym,BAAI/bge-base-en-v1.5,0.7
+Icteritilema nyassana,Pusiola nyassana,0.8134,synonym,BAAI/bge-base-en-v1.5,0.7
+Diomea absorbens,Corsa absorbens,0.7883,synonym,BAAI/bge-base-en-v1.5,0.7
+Diomea dialitha,Pangrapta dialitha,0.7496,synonym,BAAI/bge-base-en-v1.5,0.7
+Diomea diffusifascia,Corsa molybdopasta,0.6038,not synonym,BAAI/bge-base-en-v1.5,0.7
+Diomea insulana,Diomea jankowskii,0.7041,synonym,BAAI/bge-base-en-v1.5,0.7
+Diomea lignicolora,Zigera suvarnadivipae,0.4264,not synonym,BAAI/bge-base-en-v1.5,0.7
+Diomea lignicolora,Zigera suvarnadivpae,0.4123,not synonym,BAAI/bge-base-en-v1.5,0.7
+Diomea orbifera,Zigera lichenosa,0.4973,not synonym,BAAI/bge-base-en-v1.5,0.7
+Diomea orbifera,Zigera orbifera,0.8072,synonym,BAAI/bge-base-en-v1.5,0.7
+Diomea tricuspida,Zigera tricuspida,0.8087,synonym,BAAI/bge-base-en-v1.5,0.7
+Elysius castanea,Elysius suffusa,0.665,not synonym,BAAI/bge-base-en-v1.5,0.7
+Elysius cingulata,Elysius deleta,0.7539,synonym,BAAI/bge-base-en-v1.5,0.7
+Elysius cingulata,Elysius demaculata,0.7833,synonym,BAAI/bge-base-en-v1.5,0.7
+Elysius cingulata,Elysius pauper,0.7184,synonym,BAAI/bge-base-en-v1.5,0.7
+Elysius disciplaga,Elysius aperta,0.6848,not synonym,BAAI/bge-base-en-v1.5,0.7
+Elysius disciplaga,Elysius breviuscula,0.6737,not synonym,BAAI/bge-base-en-v1.5,0.7
+Elysius lavinia,Elysius lavinea,0.8633,synonym,BAAI/bge-base-en-v1.5,0.7
+Choerotricha atrosquama,Choerotricha enunciativa,0.6631,not synonym,BAAI/bge-base-en-v1.5,0.7
+Choerotricha atrosquama,Choerotricha enunciativoides,0.6352,not synonym,BAAI/bge-base-en-v1.5,0.7
+Choerotricha atrosquama,Choerotricha glandulosa,0.646,not synonym,BAAI/bge-base-en-v1.5,0.7
+Choerotricha biflava,Euproctis biflava,0.7966,synonym,BAAI/bge-base-en-v1.5,0.7
+Choerotricha indistincta,Euproctis indistincta,0.8325,synonym,BAAI/bge-base-en-v1.5,0.7
+Euippodes euprepes,Euippodes subnigra,0.6706,not synonym,BAAI/bge-base-en-v1.5,0.7
+Callindra arginalis,Callindra gigantea,0.7761,synonym,BAAI/bge-base-en-v1.5,0.7
+Callindra equitalis,Callimorpha equitalis,0.8949,synonym,BAAI/bge-base-en-v1.5,0.7
+Callindra equitalis,Euprepia equitalis,0.8156,synonym,BAAI/bge-base-en-v1.5,0.7
+Callindra lenzeni,Callimorpha lenzeni,0.8608,synonym,BAAI/bge-base-en-v1.5,0.7
+Callindra nepos,Callimorpha eques,0.6249,not synonym,BAAI/bge-base-en-v1.5,0.7
+Callindra nepos,Callimorpha nepos,0.8595,synonym,BAAI/bge-base-en-v1.5,0.7
+Callindra nyctemerata,Callimorpha nyctemerata,0.89,synonym,BAAI/bge-base-en-v1.5,0.7
+Callindra nyctemerata,Hypercompa nyctemerata,0.8435,synonym,BAAI/bge-base-en-v1.5,0.7
+Callindra principalis,Callimorpha principalis,0.8465,synonym,BAAI/bge-base-en-v1.5,0.7
+Callindra principalis,Euprepia principalis,0.748,synonym,BAAI/bge-base-en-v1.5,0.7
+Callindra similis,Callimorpha similis,0.9034,synonym,BAAI/bge-base-en-v1.5,0.7
+Callindra similis,Hypercompa similis,0.7946,synonym,BAAI/bge-base-en-v1.5,0.7
+Neidalia bifasciata,Eupsodosoma bifasciata,0.8611,synonym,BAAI/bge-base-en-v1.5,0.7
+Neidalia bifasciata,Phalaena bifasciata,0.8393,synonym,BAAI/bge-base-en-v1.5,0.7
+Margana tenuilinea,Rhesala tenuilinea,0.865,synonym,BAAI/bge-base-en-v1.5,0.7
+Leucanopsis nebulosa,Leucanopsis epinephete,0.6978,not synonym,BAAI/bge-base-en-v1.5,0.7
+Leucanopsis polyodonta,Leucanopsis polydonta,0.9145,synonym,BAAI/bge-base-en-v1.5,0.7
+Leucanopsis pulverea,Leucanopsis pulveria,0.9589,synonym,BAAI/bge-base-en-v1.5,0.7
+Leucanopsis dogniniana,Leucanopsis fassli,0.6509,not synonym,BAAI/bge-base-en-v1.5,0.7
+Leucanopsis racema,Halisidota racema,0.7734,synonym,BAAI/bge-base-en-v1.5,0.7
+Leucanopsis lurida,Leucanopsis otho,0.7254,synonym,BAAI/bge-base-en-v1.5,0.7
+Leucanopsis coniota,Leucanopsis coniata,0.8732,synonym,BAAI/bge-base-en-v1.5,0.7
+Leucanopsis leucanina,Leucanopsis infucata,0.6994,not synonym,BAAI/bge-base-en-v1.5,0.7
+Leucanopsis leucanina,Leucanopsis phellia,0.6859,not synonym,BAAI/bge-base-en-v1.5,0.7
+Litocala sexsignata,Litocala deserta,0.6794,not synonym,BAAI/bge-base-en-v1.5,0.7
+Garudinodes trizona,Garudinodes affinis,0.699,not synonym,BAAI/bge-base-en-v1.5,0.7
+Dyops chromatophila,Dyops ocellata,0.7193,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme anaemica,Asura anaemica,0.7863,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme analogus,Asura analogus,0.7875,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme aroa,Asura aroa,0.7407,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme aroa,Asura fasciolata,0.4897,not synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme asuroides,Asura asuroides,0.843,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme asuroides,Melanaema asuroides,0.8351,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme avernalis,Asura avernalis,0.7707,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme avernalis,Asura bougainvillei,0.481,not synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme avernalis,Asura floridensis,0.5334,not synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme avernalis,Asura isabellina,0.5226,not synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme avernalis,Miltochrista avernalis,0.7784,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme basitesselata,Asura basitesselata,0.8012,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme basitesselata,Lyclene basitesselata,0.8254,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme basitesselata,Miltochrista basitessellata,0.7249,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme biagi,Asura biagi,0.7661,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme biagi,Asura coccineoflammeus,0.5363,not synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme biagi,Miltochrista biagi,0.7687,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme celebensis,Miltasura celebensis,0.7414,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme coccineotermen,Miltochrista coccineotermen,0.8312,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme crocota,Asura crocota,0.7587,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme effasciata,Lithosia cinnabarina,0.5368,not synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme effasciata,Miltochrista cinnabarina,0.5403,not synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme effasciata,Miltochrista effasciata,0.7893,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme euprepioides,Asura samboanganus,0.4588,not synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme euprepioides,Barsine euprepioides,0.8093,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme euprepioides,Hypocrita inclusa,0.4705,not synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme euprepioides,Hypoprepia euprepioides,0.8039,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme feminina,Asura feminina,0.7568,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme haemachroa,Asura haemachroa,0.8263,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme insularis,Asura insularis,0.8063,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme metascota,Asura metascota,0.7906,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme metascota,Asura suffusa,0.544,not synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme miltochristaemorpha,Asura aureorosea,0.5093,not synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme miltochristaemorpha,Asura miltochristaemorpha,0.8171,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme miltochristaemorpha,Miltochrista aureorosea,0.7084,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme miltochristina,Asura miltochristina,0.7676,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme multidentata,Miltochrista multidentata,0.7933,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme phryctopa,Asura phryctopa,0.7932,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme phryctopa,Calligenia phryctopa,0.7972,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme pyraula,Calligenia pyraula,0.7976,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme pyraula,Lyclene pyraula,0.7981,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme pyrostrota,Asura pyrostrota,0.826,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme pyrrhauloides,Asura pyrrhauloides,0.8366,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme quadrifasciata,Asura quadrifasciata,0.8225,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme quadrilineata,Calligenia melitaula,0.531,not synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme quadrilineata,Calligenia quadrilineata,0.8487,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme quadrilineata,Lyclene melitaula,0.5208,not synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme quadrilineata,Lyclene quadrilineata,0.8504,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme quadrilineata,Lyclene simulans,0.5457,not synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme quadrilineata,Miltochrista simulans,0.5228,not synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme reticulata,Barsine intrita,0.5694,not synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme reticulata,Barsine placens,0.5048,not synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme reticulata,Calligenia cyclota,0.569,not synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme reticulata,Lyclene cyclota,0.5601,not synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme reticulata,Lyclene intrita,0.5398,not synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme reticulata,Lyclene placens,0.4809,not synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme reticulata,Lyclene reticulata,0.8044,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme septemmaculata,Asura septemmaculata,0.847,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme septemmaculata,Hypocrita septemmaculata,0.8555,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme serratilinea,Lyclene serratilinea,0.8383,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme serratilinea,Pallene serratilinea,0.8136,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme sexualis,Asura cancellata,0.4326,not synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme sexualis,Asura effulgens,0.5304,not synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme sexualis,Asura mylea,0.5135,not synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme sexualis,Asura sexualis,0.7622,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme sexualis,Miltochrista cancellata,0.4595,not synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme sexualis,Miltochrista quadrifasciata,0.5191,not synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme structa,Lyclene pyrrhopsamma,0.5623,not synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme structa,Lyclene structa,0.7893,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme structa,Pallene structa,0.7685,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme structa,Prinasura pyrrhopsamma,0.5206,not synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme suavis,Asura suavis,0.775,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme suavis,Calligenia suavis,0.7403,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme triangularis,Asura triangularis,0.7967,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme vepallida,Miltochrista vepallida,0.7824,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme vivida,Asura vivida,0.778,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme vivida,Barsine vivida,0.795,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme wandammenseae,Asura wandammenseae,0.8539,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyme xantherythra,Asura xantherythra,0.8534,synonym,BAAI/bge-base-en-v1.5,0.7
+Nyridela chalciope,Isanthrene chalciope,0.7643,synonym,BAAI/bge-base-en-v1.5,0.7
+Nyridela chalciope,Nyridela acroxantha,0.6863,not synonym,BAAI/bge-base-en-v1.5,0.7
+Acantharctia latifusca,Acantharctia aurantiaca,0.7923,synonym,BAAI/bge-base-en-v1.5,0.7
+Acantharctia latifusca,Acantharctia flavimarginata,0.6713,not synonym,BAAI/bge-base-en-v1.5,0.7
+Acantharctia latifusca,Acantharctia suffusa,0.7634,synonym,BAAI/bge-base-en-v1.5,0.7
+Acantharctia latifusca,Acantharctia tenebrosa,0.671,not synonym,BAAI/bge-base-en-v1.5,0.7
+Acantharctia mundata,Acantharctia atridorsia,0.6769,not synonym,BAAI/bge-base-en-v1.5,0.7
+Euclystis angularis,Euclystis inconstans,0.7288,synonym,BAAI/bge-base-en-v1.5,0.7
+Euclystis centurialis,Euclystis invidiosa,0.6687,not synonym,BAAI/bge-base-en-v1.5,0.7
+Euclystis insana,Amphigonia insana,0.7848,synonym,BAAI/bge-base-en-v1.5,0.7
+Euclystis insana,Euclystis bendina,0.7502,synonym,BAAI/bge-base-en-v1.5,0.7
+Euclystis insana,Euclystis facunda,0.6871,not synonym,BAAI/bge-base-en-v1.5,0.7
+Euclystis insana,Euclystis vulgaris,0.7108,synonym,BAAI/bge-base-en-v1.5,0.7
+Euclystis insana,Focilla facunda,0.4998,not synonym,BAAI/bge-base-en-v1.5,0.7
+Euclystis isoa,Amphigonia isoa,0.8076,synonym,BAAI/bge-base-en-v1.5,0.7
+Euclystis isoa,Euclystis epulea,0.7422,synonym,BAAI/bge-base-en-v1.5,0.7
+Euclystis isoa,Euclystis turbulenta,0.7206,synonym,BAAI/bge-base-en-v1.5,0.7
+Euclystis manto,Euclystis homopteroides,0.7414,synonym,BAAI/bge-base-en-v1.5,0.7
+Euclystis manto,Euclystis postponens,0.7219,synonym,BAAI/bge-base-en-v1.5,0.7
+Euclystis metagona,Euclystis agava,0.7399,synonym,BAAI/bge-base-en-v1.5,0.7
+Euclystis metagona,Euclystis sublineata,0.7308,synonym,BAAI/bge-base-en-v1.5,0.7
+Euclystis plusioides,Euclystis laceroides,0.7426,synonym,BAAI/bge-base-en-v1.5,0.7
+Euclystis polyoperas,Euclystis polioperas,0.7603,synonym,BAAI/bge-base-en-v1.5,0.7
+Euclystis recurva,Euclystis consurgens,0.7203,synonym,BAAI/bge-base-en-v1.5,0.7
+Euclystis sytis,Euclystis lacaena,0.6666,not synonym,BAAI/bge-base-en-v1.5,0.7
+Andrenimorpha sephela,Erruca sephela,0.7817,synonym,BAAI/bge-base-en-v1.5,0.7
+Andrenimorpha sephela,Gymnelia sephela,0.8096,synonym,BAAI/bge-base-en-v1.5,0.7
+Gymnelia beatrix,Gymnelia scintillans,0.7253,synonym,BAAI/bge-base-en-v1.5,0.7
+Gymnelia ethodaea,Gymnelia patagiata,0.6408,not synonym,BAAI/bge-base-en-v1.5,0.7
+Gymnelia flavitarsis,Gymnelia scitillans,0.7319,synonym,BAAI/bge-base-en-v1.5,0.7
+Gymnelia jordani,Gymnelia ottonis,0.7498,synonym,BAAI/bge-base-en-v1.5,0.7
+Gymnelia nigricornis,Gymnelia stretchi,0.6531,not synonym,BAAI/bge-base-en-v1.5,0.7
+Gymnelia scita,Gymnelia hilaris,0.7635,synonym,BAAI/bge-base-en-v1.5,0.7
+Gymnelia taos,Gymnelia jujuyensis,0.6614,not synonym,BAAI/bge-base-en-v1.5,0.7
+Gymnelia vesparia,Gymnelia odyneroides,0.6573,not synonym,BAAI/bge-base-en-v1.5,0.7
+Adites bakeri,Asura bakeri,0.758,synonym,BAAI/bge-base-en-v1.5,0.7
+Adites bizonoides,Adites tabida,0.6864,not synonym,BAAI/bge-base-en-v1.5,0.7
+Adites bizonoides,Adites tibada,0.6985,not synonym,BAAI/bge-base-en-v1.5,0.7
+Adites bizonoides,Lyclene bizonoides,0.8149,synonym,BAAI/bge-base-en-v1.5,0.7
+Adites hilaris,Asura hilaris,0.75,synonym,BAAI/bge-base-en-v1.5,0.7
+Adites hilaris,Doliche hilaris,0.7789,synonym,BAAI/bge-base-en-v1.5,0.7
+Adites mindanensis,Asura mindanensis,0.8238,synonym,BAAI/bge-base-en-v1.5,0.7
+Adites ocellata,Asura ocellata,0.8491,synonym,BAAI/bge-base-en-v1.5,0.7
+Adites unilinea,Asura unilinea,0.773,synonym,BAAI/bge-base-en-v1.5,0.7
+Adites unilinea,Miltochrista unilinea,0.7506,synonym,BAAI/bge-base-en-v1.5,0.7
+Adites vagilinea,Lyclene vagilinea,0.7481,synonym,BAAI/bge-base-en-v1.5,0.7
+Kintana ocellatula,Kintana ocellata,0.9619,synonym,BAAI/bge-base-en-v1.5,0.7
+Ochrotilema curta,Onychipodia curta,0.7853,synonym,BAAI/bge-base-en-v1.5,0.7
+Ochrotilema curta,Pusiola curta,0.8115,synonym,BAAI/bge-base-en-v1.5,0.7
+Ochrotilema flavicosta,Phryganopsis flavicosta,0.8037,synonym,BAAI/bge-base-en-v1.5,0.7
+Ochrotilema hampsoni,Pseudlepista flavicosta,0.4982,not synonym,BAAI/bge-base-en-v1.5,0.7
+Stenoglene cinerea,Stenoglene maculifera,0.7432,synonym,BAAI/bge-base-en-v1.5,0.7
+Stenoglene hilaris,Stenoglene bithynia,0.7055,synonym,BAAI/bge-base-en-v1.5,0.7
+Stenoglene obtusus,Stenoglene aequidistans,0.6707,not synonym,BAAI/bge-base-en-v1.5,0.7
+Stenoglene obtusus,Stenoglene evanescens,0.6879,not synonym,BAAI/bge-base-en-v1.5,0.7
+Stenoglene obtusus,Stenoglene labda,0.6711,not synonym,BAAI/bge-base-en-v1.5,0.7
+Stenoglene obtusus,Stenoglene subcrocea,0.7117,synonym,BAAI/bge-base-en-v1.5,0.7
+Stenoglene obtusus,Stenoglene tristis,0.6531,not synonym,BAAI/bge-base-en-v1.5,0.7
+Stenoglene opalina,Stenoglene peropalinus,0.7509,synonym,BAAI/bge-base-en-v1.5,0.7
+Stenoglene pellucida,Stenoglene novempunctatus,0.7224,synonym,BAAI/bge-base-en-v1.5,0.7
+Stenoglene plagiatus,Stenoglene grandiplaga,0.7109,synonym,BAAI/bge-base-en-v1.5,0.7
+Stenoglene roseus,Stenoglene elgonae,0.7214,synonym,BAAI/bge-base-en-v1.5,0.7
+Stenoglene roseus,Stenoglene flavidior,0.7203,synonym,BAAI/bge-base-en-v1.5,0.7
+Stenoglene roseus,Stenoglene gregorii,0.7444,synonym,BAAI/bge-base-en-v1.5,0.7
+Stenoglene roseus,Stenoglene monteironis,0.7169,synonym,BAAI/bge-base-en-v1.5,0.7
+Stenoglene roseus,Stenoglene pulverulentus,0.7559,synonym,BAAI/bge-base-en-v1.5,0.7
+Stenoglene roseus,Stenoglene similis,0.7326,synonym,BAAI/bge-base-en-v1.5,0.7
+Sangatissa subcurvifera,Sangatissa albipars,0.7575,synonym,BAAI/bge-base-en-v1.5,0.7
+Sangatissa subcurvifera,Sangatissa citrinula,0.772,synonym,BAAI/bge-base-en-v1.5,0.7
+Sangatissa subcurvifera,Sangatissa teta,0.7523,synonym,BAAI/bge-base-en-v1.5,0.7
+Sangatissa subcurvifera,Sangatissa triseriata,0.7468,synonym,BAAI/bge-base-en-v1.5,0.7
+Poloma angulata,Poloma angulifera,0.8716,synonym,BAAI/bge-base-en-v1.5,0.7
+Poloma angulata,Poloma incompta,0.6946,not synonym,BAAI/bge-base-en-v1.5,0.7
+Poloma angulata,Poloma janula,0.7431,synonym,BAAI/bge-base-en-v1.5,0.7
+Poloma nigromaculata,Poloma nahor,0.6311,not synonym,BAAI/bge-base-en-v1.5,0.7
+Phyllalia alboradiata,Phyllalia acuta,0.7231,synonym,BAAI/bge-base-en-v1.5,0.7
+Phyllalia patens,Phyllalia concolor,0.7247,synonym,BAAI/bge-base-en-v1.5,0.7
+Phyllalia patens,Phyllalia ochrina,0.7456,synonym,BAAI/bge-base-en-v1.5,0.7
+Phyllalia thunbergii,Phyllalia incerta,0.6622,not synonym,BAAI/bge-base-en-v1.5,0.7
+Phiala alba,Phiala pagagna,0.7863,synonym,BAAI/bge-base-en-v1.5,0.7
+Phiala alba,Phiala strigifera,0.7716,synonym,BAAI/bge-base-en-v1.5,0.7
+Phiala albida,Euchera abluta,0.6054,not synonym,BAAI/bge-base-en-v1.5,0.7
+Phiala albida,Phiala abluta,0.7941,synonym,BAAI/bge-base-en-v1.5,0.7
+Phiala bistrigata,Phiala curvistriga,0.7946,synonym,BAAI/bge-base-en-v1.5,0.7
+Phiala bistrigata,Phiala curvistrigata,0.8217,synonym,BAAI/bge-base-en-v1.5,0.7
+Phiala costipuncta,Phiala angola,0.7008,synonym,BAAI/bge-base-en-v1.5,0.7
+Phiala costipuncta,Phiala inferiora,0.7065,synonym,BAAI/bge-base-en-v1.5,0.7
+Phiala costipuncta,Phiala ochritincta,0.74,synonym,BAAI/bge-base-en-v1.5,0.7
+Phiala costipuncta,Phiala punctilinea,0.7642,synonym,BAAI/bge-base-en-v1.5,0.7
+Phiala costipuncta,Phiala xanthosoma,0.7444,synonym,BAAI/bge-base-en-v1.5,0.7
+Phiala crassistriga,Phiala incurva,0.7758,synonym,BAAI/bge-base-en-v1.5,0.7
+Phiala cunina,Euchera cunicaria,0.6352,not synonym,BAAI/bge-base-en-v1.5,0.7
+Phiala cunina,Euchera fervidaria,0.5455,not synonym,BAAI/bge-base-en-v1.5,0.7
+Phiala cunina,Euchera nivea,0.5596,not synonym,BAAI/bge-base-en-v1.5,0.7
+Phiala cunina,Euchera ochriventris,0.5408,not synonym,BAAI/bge-base-en-v1.5,0.7
+Phiala cunina,Phiala fervidaria,0.7297,synonym,BAAI/bge-base-en-v1.5,0.7
+Phiala cunina,Phiala nivea,0.7573,synonym,BAAI/bge-base-en-v1.5,0.7
+Phiala incana,Phiala arrecta,0.7755,synonym,BAAI/bge-base-en-v1.5,0.7
+Phiala marshalli,Phiala reussi,0.7193,synonym,BAAI/bge-base-en-v1.5,0.7
+Phiala nigrolineata,Phiala chrysargyra,0.7393,synonym,BAAI/bge-base-en-v1.5,0.7
+Phiala nigrolineata,Phiala nigrovenata,0.7976,synonym,BAAI/bge-base-en-v1.5,0.7
+Phiala nigrolineata,Phiala ochrescens,0.7501,synonym,BAAI/bge-base-en-v1.5,0.7
+Phiala nigrolineata,Phiala rubrivena,0.7049,synonym,BAAI/bge-base-en-v1.5,0.7
+Phiala pseudatomaria,Phiala sigyna,0.7472,synonym,BAAI/bge-base-en-v1.5,0.7
+Phiala pseudatomaria,Phiala sublimbalis,0.7361,synonym,BAAI/bge-base-en-v1.5,0.7
+Phiala pseudatomaria,Stenoglene sigyna,0.5846,not synonym,BAAI/bge-base-en-v1.5,0.7
+Phiala punctulata,Phiala nyassana,0.716,synonym,BAAI/bge-base-en-v1.5,0.7
+Phiala venusta,Phiala angulata,0.7588,synonym,BAAI/bge-base-en-v1.5,0.7
+Parajana gabunica,Parajana lamani,0.7867,synonym,BAAI/bge-base-en-v1.5,0.7
+Parajana gabunica,Parajana marmorata,0.799,synonym,BAAI/bge-base-en-v1.5,0.7
+Panacela lewinae,Panacela hirta,0.6723,not synonym,BAAI/bge-base-en-v1.5,0.7
+Panacela lewinae,Panacela pilosa,0.6983,not synonym,BAAI/bge-base-en-v1.5,0.7
+Panacela lewinae,Panacela pristina,0.6699,not synonym,BAAI/bge-base-en-v1.5,0.7
+Panacela lewinae,Panacela rufescens,0.695,not synonym,BAAI/bge-base-en-v1.5,0.7
+Panacela lewinae,Panacela simplex,0.7251,synonym,BAAI/bge-base-en-v1.5,0.7
+Panacela lewinae,Panacela sobria,0.6769,not synonym,BAAI/bge-base-en-v1.5,0.7
+Panacela lewinae,Panacela transiens,0.6679,not synonym,BAAI/bge-base-en-v1.5,0.7
+Panacela signicosta,Panacela fuscocervina,0.7513,synonym,BAAI/bge-base-en-v1.5,0.7
+Palirisa cervina,Palirisa burmanica,0.7123,synonym,BAAI/bge-base-en-v1.5,0.7
+Palirisa mosoensis,Palirisa angustifasciata,0.6642,not synonym,BAAI/bge-base-en-v1.5,0.7
+Palirisa mosoensis,Palirisa chocolatina,0.6658,not synonym,BAAI/bge-base-en-v1.5,0.7
+Palirisa mosoensis,Palirisa curvilineata,0.6234,not synonym,BAAI/bge-base-en-v1.5,0.7
+Palirisa mosoensis,Palirisa roseitincta,0.6611,not synonym,BAAI/bge-base-en-v1.5,0.7
+Palirisa mosoensis,Palirisa significata,0.7088,synonym,BAAI/bge-base-en-v1.5,0.7
+Nisaga simplex,Nisaga modesta,0.7121,synonym,BAAI/bge-base-en-v1.5,0.7
+Melanergon vidua,Melanergon fergussonis,0.7647,synonym,BAAI/bge-base-en-v1.5,0.7
+Melanergon vidua,Melanergon louisiadensis,0.7311,synonym,BAAI/bge-base-en-v1.5,0.7
+Melanergon vidua,Melanergon proserpina,0.7675,synonym,BAAI/bge-base-en-v1.5,0.7
+Marmaroplegma paragarda,Marmaroplegma clio,0.6947,not synonym,BAAI/bge-base-en-v1.5,0.7
+Marmaroplegma paragarda,Marmaroplegma lineosa,0.7076,synonym,BAAI/bge-base-en-v1.5,0.7
+Janomima dannfelti,Janomima claria,0.6476,not synonym,BAAI/bge-base-en-v1.5,0.7
+Janomima dannfelti,Janomima deduplicata,0.638,not synonym,BAAI/bge-base-en-v1.5,0.7
+Janomima dannfelti,Janomima mesundulata,0.6803,not synonym,BAAI/bge-base-en-v1.5,0.7
+Janomima dannfelti,Janomima ochrea,0.7022,synonym,BAAI/bge-base-en-v1.5,0.7
+Janomima mariana,Janomima mariana,1.0,synonym,BAAI/bge-base-en-v1.5,0.7
+Janomima mariana,Janomima nigricans,0.7078,synonym,BAAI/bge-base-en-v1.5,0.7
+Janomima mariana,Janomima westwoodi,0.7058,synonym,BAAI/bge-base-en-v1.5,0.7
+Jana eurymas,Jana caesarea,0.6694,not synonym,BAAI/bge-base-en-v1.5,0.7
+Jana eurymas,Jana transvaalica,0.6327,not synonym,BAAI/bge-base-en-v1.5,0.7
+Jana gracilis,Gracilanja polymorpha,0.6594,not synonym,BAAI/bge-base-en-v1.5,0.7
+Jana gracilis,Jana grisea,0.7641,synonym,BAAI/bge-base-en-v1.5,0.7
+Jana gracilis,Jana polymorpha,0.7166,synonym,BAAI/bge-base-en-v1.5,0.7
+Jana gracilis,Jana rosea,0.6527,not synonym,BAAI/bge-base-en-v1.5,0.7
+Jana strigina,Jana agrippa,0.6539,not synonym,BAAI/bge-base-en-v1.5,0.7
+Jana strigina,Jana camerunica,0.6897,not synonym,BAAI/bge-base-en-v1.5,0.7
+Jana strigina,Jana nobilis,0.6691,not synonym,BAAI/bge-base-en-v1.5,0.7
+Jana strigina,Striginiana agrippa,0.6785,not synonym,BAAI/bge-base-en-v1.5,0.7
+Jana strigina,Striginiana camerunica,0.6855,not synonym,BAAI/bge-base-en-v1.5,0.7
+Jana strigina,Striginiana nobilis,0.6693,not synonym,BAAI/bge-base-en-v1.5,0.7
+Jana tantalus,Jana crepax,0.6705,not synonym,BAAI/bge-base-en-v1.5,0.7
+Jana tantalus,Jana signifera,0.6337,not synonym,BAAI/bge-base-en-v1.5,0.7
+Jana tantalus,Tantaliana crepax,0.6855,not synonym,BAAI/bge-base-en-v1.5,0.7
+Jana tantalus,Tantaliana signifera,0.6617,not synonym,BAAI/bge-base-en-v1.5,0.7
+Jana tripunctata,Jana rustica,0.6911,not synonym,BAAI/bge-base-en-v1.5,0.7
+Hibrildes crawshayi,Hibrildes albescens,0.7381,synonym,BAAI/bge-base-en-v1.5,0.7
+Hibrildes crawshayi,Hibrildes albopunctata,0.6763,not synonym,BAAI/bge-base-en-v1.5,0.7
+Hibrildes crawshayi,Hibrildes ansorgei,0.6748,not synonym,BAAI/bge-base-en-v1.5,0.7
+Hibrildes crawshayi,Hibrildes bicolor,0.6805,not synonym,BAAI/bge-base-en-v1.5,0.7
+Hibrildes crawshayi,Hibrildes craushayi,0.7978,synonym,BAAI/bge-base-en-v1.5,0.7
+Hibrildes crawshayi,Hibrildes fuscata,0.7021,synonym,BAAI/bge-base-en-v1.5,0.7
+Hibrildes crawshayi,Hibrildes neavi,0.6885,not synonym,BAAI/bge-base-en-v1.5,0.7
+Hibrildes crawshayi,Hibrildes venosa,0.6941,not synonym,BAAI/bge-base-en-v1.5,0.7
+Hibrildes norax,Hibrildes carpenteri,0.7155,synonym,BAAI/bge-base-en-v1.5,0.7
+Hibrildes norax,Hibrildes sheffieldi,0.7208,synonym,BAAI/bge-base-en-v1.5,0.7
+Hibrildes norax,Hibrildes spiritalis,0.732,synonym,BAAI/bge-base-en-v1.5,0.7
+Hemijana semijana,Hemijana distincta,0.8158,synonym,BAAI/bge-base-en-v1.5,0.7
+Hemijana subrosea,Hemijana ruberrima,0.7965,synonym,BAAI/bge-base-en-v1.5,0.7
+Gonojana dimidiata,Gonojana tenuis,0.648,not synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote citrina,Eupterote lutosa,0.7858,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote diffusa,Eupterote primularis,0.7592,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote domina,Eupterote pulchra,0.7945,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote fabia,Eupterote alternata,0.6861,not synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote fabia,Eupterote auriflua,0.7842,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote fabia,Eupterote discordens,0.7647,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote fabia,Eupterote fasciata,0.8052,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote fabia,Eupterote gyra,0.7851,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote fabia,Eupterote immutata,0.7074,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote fabia,Eupterote lucia,0.7539,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote fabia,Eupterote mutans,0.7444,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote fabia,Eupterote ochripicta,0.6762,not synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote fabia,Eupterote permutata,0.7691,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote fabia,Pararhodia acuminalba,0.5671,not synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote flavicollis,Eupterote adolphaei,0.712,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote flavicollis,Eupterote collaris,0.7735,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote flavida,Eupterote acinea,0.7274,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote flavida,Eupterote procumbens,0.7394,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote hibisci,Eupterote anada,0.7203,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote hibisci,Eupterote geminata,0.704,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote hibisci,Eupterote lineata,0.7028,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote hibisci,Eupterote petosiris,0.7555,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote hibisci,Eupterote phalaenaria,0.7358,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote hibisci,Eupterote placida,0.7483,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote mollifera,Eupterote anthereata,0.7359,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote mollifera,Eupterote canaraica,0.705,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote mollifera,Eupterote contaminata,0.738,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote mollifera,Eupterote flava,0.7766,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote mollifera,Eupterote flavia,0.7609,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote mollifera,Eupterote lativittata,0.7417,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote mollifera,Eupterote mollis,0.8287,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote mollifera,Eupterote multiarcuata,0.784,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote mollifera,Eupterote nilgirica,0.7692,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote mollifera,Eupterote ornata,0.7344,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote mollifera,Eupterote rectifascia,0.7431,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote mollifera,Eupterote rufodisca,0.745,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote orientalis,Eupterote aenescens,0.7675,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote orientalis,Eupterote plumipes,0.7455,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote orientalis,Eupterote quadrifasciata,0.6974,not synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote orientalis,Eupterote rubiginosa,0.73,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote patula,Eupterote abnorminervis,0.7303,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote patula,Eupterote dehyalinata,0.7169,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote patula,Eupterote khasiana,0.7237,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote patula,Eupterote undulosa,0.779,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote undata,Eupterote affinis,0.7278,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote undata,Eupterote caliginosa,0.7244,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote undata,Eupterote cinnamomea,0.7024,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote undata,Eupterote consimilis,0.7071,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote undata,Eupterote cupreipennis,0.7468,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote undata,Eupterote decorata,0.7782,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote undata,Eupterote diabolica,0.7247,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote undata,Eupterote dissimilis,0.7595,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote undata,Eupterote griseipennis,0.7333,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote undata,Eupterote hirsuta,0.7944,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote undata,Eupterote ignavus,0.7143,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote undata,Eupterote imbecilis,0.7094,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote undata,Eupterote invalida,0.7784,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote undata,Eupterote nigricans,0.7323,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote undata,Eupterote persimilis,0.7212,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote undata,Eupterote similis,0.7314,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote undata,Eupterote sinuata,0.8004,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote undata,Eupterote subdita,0.7855,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote undata,Eupterote suffusa,0.7502,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote undata,Eupterote taooensis,0.7267,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote undata,Eupterote undifera,0.9012,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote undata,Eupterote variegata,0.7796,synonym,BAAI/bge-base-en-v1.5,0.7
+Eupterote undata,Eupterote vinosa,0.7599,synonym,BAAI/bge-base-en-v1.5,0.7
+Epijana cosmia,Epijana lanosa,0.7518,synonym,BAAI/bge-base-en-v1.5,0.7
+Epijana cosmia,Epijana velutonia,0.7247,synonym,BAAI/bge-base-en-v1.5,0.7
+Ebbepterote expansa,Anthela expansa,0.8417,synonym,BAAI/bge-base-en-v1.5,0.7
+Drepanojana fasciata,Drepanojana apicalis,0.6409,not synonym,BAAI/bge-base-en-v1.5,0.7
+Drepanojana fasciata,Drepanojana maeonia,0.6805,not synonym,BAAI/bge-base-en-v1.5,0.7
+Cyrtojana trilineata,Cyrtojana apithana,0.7074,synonym,BAAI/bge-base-en-v1.5,0.7
+Cotana albomaculata,Cotana ovata,0.7356,synonym,BAAI/bge-base-en-v1.5,0.7
+Cotana dubia,Cotana doricrana,0.7822,synonym,BAAI/bge-base-en-v1.5,0.7
+Cotana erectilinea,Cotana setakwensis,0.7599,synonym,BAAI/bge-base-en-v1.5,0.7
+Cotana kebeae,Cotana grandis,0.7982,synonym,BAAI/bge-base-en-v1.5,0.7
+Cotana lunulata,Cotana albaserrati,0.788,synonym,BAAI/bge-base-en-v1.5,0.7
+Cotana lunulata,Cotana occidentalis,0.7245,synonym,BAAI/bge-base-en-v1.5,0.7
+Cotana lunulata,Cotana satisbona,0.7806,synonym,BAAI/bge-base-en-v1.5,0.7
+Cotana lunulata,Cotana unicolor,0.7436,synonym,BAAI/bge-base-en-v1.5,0.7
+Cotana rosselliana,Cotana diluta,0.7911,synonym,BAAI/bge-base-en-v1.5,0.7
+Cotana rubrescens,Cotana kapaura,0.7418,synonym,BAAI/bge-base-en-v1.5,0.7
+Cotana rubrescens,Cotana oetakwensis,0.7369,synonym,BAAI/bge-base-en-v1.5,0.7
+Cotana rubrescens,Cotana turneri,0.7295,synonym,BAAI/bge-base-en-v1.5,0.7
+Cotana serranotata,Darala consuta,0.603,not synonym,BAAI/bge-base-en-v1.5,0.7
+Cotana serranotata,Darala serranotata,0.7853,synonym,BAAI/bge-base-en-v1.5,0.7
+Camerunia flava,Camerunia lactiflora,0.778,synonym,BAAI/bge-base-en-v1.5,0.7
+Camerunia orphne,Camerunia insignis,0.5897,not synonym,BAAI/bge-base-en-v1.5,0.7
+Acrojana sciron,Acrojana ochracea,0.7351,synonym,BAAI/bge-base-en-v1.5,0.7
+Acrojana scutaea,Acrojana sanguineipes,0.6745,not synonym,BAAI/bge-base-en-v1.5,0.7
+Acrojana scutaea,Acrojana sanguinipes,0.6789,not synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta brunnea,Psiloreta brunnea,0.7858,synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta carnea,Agnidra carnea,0.804,synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta carnea,Cobanilla cardinalis,0.5179,not synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta carnea,Cobanilla hepatica,0.5032,not synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta carnea,Drepana berenica,0.5222,not synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta cervina,Oreta purpurissa,0.7633,synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta cervina,Oreta rubicunda,0.7366,synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta cervina,Oreta rufibrunnea,0.6899,not synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta cervina,Oreta rufula,0.711,synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta extensa,Oreta adona,0.6952,not synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta extensa,Oreta figlina,0.6992,not synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta extensa,Oreta perfusa,0.7485,synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta fulgens,Cobanilla fulgens,0.7764,synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta fulgens,Cobanilla triumbrata,0.5233,not synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta fulgens,Oreta thaumalea,0.688,not synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta fuscopurpurea,Oreta fuscopurpurea,1.0,synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta griseotincta,Mimoreta horishana,0.5366,not synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta griseotincta,Oreta nucicolor,0.7092,synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta insignis,Hypsomadius formosana,0.4952,not synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta insignis,Oreta formosana,0.691,not synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta jaspidea,Cobanilla erminea,0.5199,not synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta jaspidea,Cobanilla fulvata,0.5541,not synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta jaspidea,Holoreta rubicunda,0.5399,not synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta jaspidea,Oreta hepatica,0.6847,not synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta jaspidea,Oreta hypocalla,0.7023,synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta jaspidea,Oreta miltodes,0.7,synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta jaspidea,Oreta nigrostigma,0.7048,synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta loochooana,Oreta formosicola,0.6988,not synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta loochooana,Oreta squamulata,0.7121,synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta mollita,Oreta nigritacta,0.7122,synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta obtusa,Psiloreta inconspicua,0.4713,not synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta obtusa,Psiloreta obliquilinea,0.6298,not synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta paki,Psiloreta paki,0.7415,synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta pavaca,Oreta flavida,0.7665,synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta pavaca,Psiloreta pavaca,0.7283,synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta perfida,Oreta semiornata,0.7271,synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta perfida,Oreta variegata,0.7424,synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta pulchripes,Oreta auripes,0.8416,synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta pulchripes,Oreta calceolaria,0.7209,synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta pulchripes,Oreta chosenoreta,0.716,synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta pulchripes,Psiloreta thermidora,0.5272,not synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta rosea,Cilix americana,0.518,not synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta rosea,Oreta irrorata,0.7559,synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta rosea,Oreta marginata,0.7637,synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta rosea,Platypteryx formula,0.4954,not synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta rubromarginata,Gonoreta subrosea,0.5656,not synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta sanguinea,Psiloreta sanguinea,0.7862,synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta singapura,Oreta lilacina,0.6579,not synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta sublustris,Oreta nigristriata,0.7095,synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta subvinosa,Oreta griseata,0.7249,synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta subvinosa,Oreta olivata,0.7765,synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta suffusa,Psiloreta violacea,0.5902,not synonym,BAAI/bge-base-en-v1.5,0.7
+Oreta turpis,Oreta calida,0.6812,not synonym,BAAI/bge-base-en-v1.5,0.7
+Amphitorna albipuncta,Psiloreta albipuncta,0.8246,synonym,BAAI/bge-base-en-v1.5,0.7
+Amphitorna castanea,Oreta castanea,0.789,synonym,BAAI/bge-base-en-v1.5,0.7
+Amphitorna confusata,Cyclura confusata,0.8347,synonym,BAAI/bge-base-en-v1.5,0.7
+Amphitorna excisa,Cyclura excisa,0.7809,synonym,BAAI/bge-base-en-v1.5,0.7
+Amphitorna olga,Neoreta olga,0.7433,synonym,BAAI/bge-base-en-v1.5,0.7
+Amphitorna olga,Neoreta unicolor,0.5379,not synonym,BAAI/bge-base-en-v1.5,0.7
+Amphitorna olga,Oreta loga,0.5463,not synonym,BAAI/bge-base-en-v1.5,0.7
+Amphitorna olga,Oreta purpureofasciata,0.536,not synonym,BAAI/bge-base-en-v1.5,0.7
+Amphitorna olga,Tomocerota formosana,0.4825,not synonym,BAAI/bge-base-en-v1.5,0.7
+Amphitorna perexcisa,Neoreta perexcisa,0.7906,synonym,BAAI/bge-base-en-v1.5,0.7
+Amphitorna rotundipex,Oreta rotundipex,0.8118,synonym,BAAI/bge-base-en-v1.5,0.7
+Amphitorna rotundipex,Psiloreta rotundopex,0.7711,synonym,BAAI/bge-base-en-v1.5,0.7
+Amphitorna submontana,Cyclura submontana,0.8106,synonym,BAAI/bge-base-en-v1.5,0.7
+Amphitorna trogoptera,Oreta trogoptera,0.8211,synonym,BAAI/bge-base-en-v1.5,0.7
+Amphitorna trogoptera,Procampsis trogoptera,0.814,synonym,BAAI/bge-base-en-v1.5,0.7
+Tridrepana albonotata,Callidrepana ochrea,0.6016,not synonym,BAAI/bge-base-en-v1.5,0.7
+Tridrepana albonotata,Drepana albonotata,0.8111,synonym,BAAI/bge-base-en-v1.5,0.7
+Tridrepana albonotata,Iridrepana glaciata,0.6134,not synonym,BAAI/bge-base-en-v1.5,0.7
+Tridrepana albonotata,Iridrepana pervasata,0.6382,not synonym,BAAI/bge-base-en-v1.5,0.7
+Tridrepana cervina,Iridrepana cervina,0.8942,synonym,BAAI/bge-base-en-v1.5,0.7
+Tridrepana examplata,Iridrepana examplata,0.8769,synonym,BAAI/bge-base-en-v1.5,0.7
+Tridrepana fulva,Drepana fulva,0.7706,synonym,BAAI/bge-base-en-v1.5,0.7
+Tridrepana fulvata,Drepana fulvata,0.7765,synonym,BAAI/bge-base-en-v1.5,0.7
+Tridrepana lunulata,Callidrepana lunulata,0.8668,synonym,BAAI/bge-base-en-v1.5,0.7
+Tridrepana lunulata,Iridrepana fasciata,0.6222,not synonym,BAAI/bge-base-en-v1.5,0.7
+Tridrepana lunulata,Tridrepana fasciata,0.7388,synonym,BAAI/bge-base-en-v1.5,0.7
+Tridrepana lunulata,Tridrepana prolata,0.8082,synonym,BAAI/bge-base-en-v1.5,0.7
+Tridrepana obliquitaenia,Iridrepana obliquitaenia,0.9141,synonym,BAAI/bge-base-en-v1.5,0.7
+Tridrepana olivacea,Tridrepana elegans,0.7279,synonym,BAAI/bge-base-en-v1.5,0.7
+Tridrepana olivacea,Tridrepana semirufa,0.6824,not synonym,BAAI/bge-base-en-v1.5,0.7
+Tridrepana olivacea,Tridrepana tristigma,0.6696,not synonym,BAAI/bge-base-en-v1.5,0.7
+Tridrepana postica,Drepana xanthoptera,0.6054,not synonym,BAAI/bge-base-en-v1.5,0.7
+Tridrepana sadana,Drepana sadana,0.7852,synonym,BAAI/bge-base-en-v1.5,0.7
+Tridrepana sera,Tridrepana suffusa,0.7549,synonym,BAAI/bge-base-en-v1.5,0.7
+Tridrepana thermopasta,Drepana thermopasta,0.8112,synonym,BAAI/bge-base-en-v1.5,0.7
+Urogonodes colorata,Urogonodes perrufa,0.725,synonym,BAAI/bge-base-en-v1.5,0.7
+Urogonodes macrura,Urogonodes seminigra,0.7572,synonym,BAAI/bge-base-en-v1.5,0.7
+Urogonodes patiens,Psiloreta patiens,0.7876,synonym,BAAI/bge-base-en-v1.5,0.7
+Urogonodes patiens,Psiloreta rufula,0.4911,not synonym,BAAI/bge-base-en-v1.5,0.7
+Urogonodes patiens,Urogonodes ochracea,0.701,synonym,BAAI/bge-base-en-v1.5,0.7
+Urogonodes patiens,Urogonodes sobria,0.6868,not synonym,BAAI/bge-base-en-v1.5,0.7
+Urogonodes scintillans,Urogonodes inconspicua,0.6945,not synonym,BAAI/bge-base-en-v1.5,0.7
+Gogana abnormalis,Trotothyris abnormalis,0.6697,not synonym,BAAI/bge-base-en-v1.5,0.7
+Gogana bornormalis,Goagna bornormalis,0.8514,synonym,BAAI/bge-base-en-v1.5,0.7
+Gogana conwayi,Ametroptila conwayi,0.7476,synonym,BAAI/bge-base-en-v1.5,0.7
+Gogana cottrillii,Ametroptila cottrillii,0.812,synonym,BAAI/bge-base-en-v1.5,0.7
+Gogana fragilis,Trotothyris fragilis,0.7393,synonym,BAAI/bge-base-en-v1.5,0.7
+Gogana integra,Gorgana integra,0.894,synonym,BAAI/bge-base-en-v1.5,0.7
+Gogana kerara,Phalacra kerara,0.7773,synonym,BAAI/bge-base-en-v1.5,0.7
+Gogana ossicolor,Ametroptila ossicolor,0.8083,synonym,BAAI/bge-base-en-v1.5,0.7
+Gogana semibrevis,Ametroptila semibrevis,0.8039,synonym,BAAI/bge-base-en-v1.5,0.7
+Gogana specularis,Goagna specularis,0.8643,synonym,BAAI/bge-base-en-v1.5,0.7
+Gogana tenera,Phalacra tenera,0.7864,synonym,BAAI/bge-base-en-v1.5,0.7
+Gogana turbinifera,Ametroptila turbinifera,0.8084,synonym,BAAI/bge-base-en-v1.5,0.7
+Wernya rufifasciata,Wernya fufifasciata,0.928,synonym,BAAI/bge-base-en-v1.5,0.7
+Macrocilix mysticata,Macrocilix bidentata,0.7669,synonym,BAAI/bge-base-en-v1.5,0.7
+Macrocilix mysticata,Macrocilix flavotincta,0.7307,synonym,BAAI/bge-base-en-v1.5,0.7
+Macrocilix mysticata,Macrocilix magna,0.7326,synonym,BAAI/bge-base-en-v1.5,0.7
+Ochropacha duplaris,Bombyx binotata,0.515,not synonym,BAAI/bge-base-en-v1.5,0.7
+Ochropacha duplaris,Cimatophora duplaris,0.8162,synonym,BAAI/bge-base-en-v1.5,0.7
+Ochropacha duplaris,Cymatophora argentea,0.4773,not synonym,BAAI/bge-base-en-v1.5,0.7
+Ochropacha duplaris,Cymatophora bipuncta,0.5872,not synonym,BAAI/bge-base-en-v1.5,0.7
+Ochropacha duplaris,Cymatophora brabantia,0.4667,not synonym,BAAI/bge-base-en-v1.5,0.7
+Ochropacha duplaris,Cymatophora britannica,0.5335,not synonym,BAAI/bge-base-en-v1.5,0.7
+Ochropacha duplaris,Cymatophora clara,0.5021,not synonym,BAAI/bge-base-en-v1.5,0.7
+Ochropacha duplaris,Cymatophora obscurata,0.5503,not synonym,BAAI/bge-base-en-v1.5,0.7
+Ochropacha duplaris,Cymatophora pulverosa,0.5312,not synonym,BAAI/bge-base-en-v1.5,0.7
+Ochropacha duplaris,Cymatophora undosa,0.5766,not synonym,BAAI/bge-base-en-v1.5,0.7
+Ochropacha duplaris,Cymatophora unipunctata,0.5954,not synonym,BAAI/bge-base-en-v1.5,0.7
+Ochropacha duplaris,Noctua bicolor,0.5152,not synonym,BAAI/bge-base-en-v1.5,0.7
+Ochropacha duplaris,Noctua bicolorata,0.564,not synonym,BAAI/bge-base-en-v1.5,0.7
+Ochropacha duplaris,Noctua bipuncta,0.5544,not synonym,BAAI/bge-base-en-v1.5,0.7
+Ochropacha duplaris,Ochropacha ruficollis,0.7022,synonym,BAAI/bge-base-en-v1.5,0.7
+Ochropacha duplaris,Palimpsestis duplaris,0.7639,synonym,BAAI/bge-base-en-v1.5,0.7
+Ochropacha duplaris,Phalaena bipuncta,0.5858,not synonym,BAAI/bge-base-en-v1.5,0.7
+Ochropacha duplaris,Tethea duplaris,0.7622,synonym,BAAI/bge-base-en-v1.5,0.7
+Euphalacra discipuncta,Ectothyris discipuncta,0.8372,synonym,BAAI/bge-base-en-v1.5,0.7
+Euphalacra semisecta,Ectothyris semisecta,0.8008,synonym,BAAI/bge-base-en-v1.5,0.7
+Euphalacra semisecta,Neophalacra laticornis,0.5665,not synonym,BAAI/bge-base-en-v1.5,0.7
+Euphalacra trifenestrata,Ectothyris trifenestrata,0.8678,synonym,BAAI/bge-base-en-v1.5,0.7
+Eudeilinia herminiata,Eudeilinia biseriata,0.7037,synonym,BAAI/bge-base-en-v1.5,0.7
+Epicampoptera andersoni,Metadrepana andersoni,0.7895,synonym,BAAI/bge-base-en-v1.5,0.7
+Epicampoptera erosa,Thymistida erosa,0.7594,synonym,BAAI/bge-base-en-v1.5,0.7
+Epicampoptera heterogyna,Metadrepana heterogyna,0.8145,synonym,BAAI/bge-base-en-v1.5,0.7
+Epicampoptera marantica,Epicampoptera ignorata,0.7241,synonym,BAAI/bge-base-en-v1.5,0.7
+Epicampoptera marantica,Metadrepana marantica,0.8046,synonym,BAAI/bge-base-en-v1.5,0.7
+Epicampoptera pallida,Metadrepana pallida,0.7711,synonym,BAAI/bge-base-en-v1.5,0.7
+Epicampoptera strandi,Epicampoptera vulvornata,0.6456,not synonym,BAAI/bge-base-en-v1.5,0.7
+Sabra harpagula,Bombyx sicula,0.593,not synonym,BAAI/bge-base-en-v1.5,0.7
+Sabra harpagula,Drepana pallascens,0.4957,not synonym,BAAI/bge-base-en-v1.5,0.7
+Sabra harpagula,Phalaena harpagula,0.8118,synonym,BAAI/bge-base-en-v1.5,0.7
+Sabra harpagula,Platypteryx sicula,0.6092,not synonym,BAAI/bge-base-en-v1.5,0.7
+Sabra harpagula,Sabra sicula,0.7694,synonym,BAAI/bge-base-en-v1.5,0.7
+Sabra sinica,Palaeodrepana sinica,0.745,synonym,BAAI/bge-base-en-v1.5,0.7
+Gonoreta contracta,Oreta contracta,0.773,synonym,BAAI/bge-base-en-v1.5,0.7
+Gonoreta differenciata,Lomadontophana differenciata,0.7928,synonym,BAAI/bge-base-en-v1.5,0.7
+Gonoreta gonioptera,Oreta gonioptera,0.8802,synonym,BAAI/bge-base-en-v1.5,0.7
+Hypsidia australica,Eggersia australica,0.7655,synonym,BAAI/bge-base-en-v1.5,0.7
+Sewa orbiferata,Abraxas orbiferata,0.7653,synonym,BAAI/bge-base-en-v1.5,0.7
+Sewa orbiferata,Argyris insignata,0.4929,not synonym,BAAI/bge-base-en-v1.5,0.7
+Pseudothyatira cymatophoroides,Thyatira cymatophoroides,0.9211,synonym,BAAI/bge-base-en-v1.5,0.7
+Pseudothyatira expultrix,Lacinia expultrix,0.8217,synonym,BAAI/bge-base-en-v1.5,0.7
+Epipsestis albidisca,Palimpsestis albidisca,0.8096,synonym,BAAI/bge-base-en-v1.5,0.7
+Epipsestis albidisca,Polyploca albidisca,0.8008,synonym,BAAI/bge-base-en-v1.5,0.7
+Epipsestis albidisca,Polyploca polychromata,0.5978,not synonym,BAAI/bge-base-en-v1.5,0.7
+Epipsestis bilineata,Polyploca acutangula,0.5453,not synonym,BAAI/bge-base-en-v1.5,0.7
+Epipsestis bilineata,Polyploca bilineata,0.8015,synonym,BAAI/bge-base-en-v1.5,0.7
+Epipsestis dubia,Polyploca dubia,0.7705,synonym,BAAI/bge-base-en-v1.5,0.7
+Epipsestis dubia,Polyploca nigrifasciata,0.5052,not synonym,BAAI/bge-base-en-v1.5,0.7
+Epipsestis dubia,Polyploca nigrilineata,0.4686,not synonym,BAAI/bge-base-en-v1.5,0.7
+Epipsestis dubia,Polyploca semifascia,0.5621,not synonym,BAAI/bge-base-en-v1.5,0.7
+Epipsestis orbicularis,Palimpsestis orbicularis,0.8102,synonym,BAAI/bge-base-en-v1.5,0.7
+Epipsestis orbicularis,Palimpsestis sumatrensis,0.5787,not synonym,BAAI/bge-base-en-v1.5,0.7
+Epipsestis ornata,Epipsestis unicolor,0.6838,not synonym,BAAI/bge-base-en-v1.5,0.7
+Epipsestis ornata,Polyploca concolor,0.5555,not synonym,BAAI/bge-base-en-v1.5,0.7
+Epipsestis ornata,Polyploca ornata,0.7968,synonym,BAAI/bge-base-en-v1.5,0.7
+Epipsestis ornata,Sugiploca sugitanii,0.5625,not synonym,BAAI/bge-base-en-v1.5,0.7
+Epipsestis renalis,Palimpsestis renalis,0.7618,synonym,BAAI/bge-base-en-v1.5,0.7
+Astatochroa fuscimargo,Artaxa usta,0.5361,not synonym,BAAI/bge-base-en-v1.5,0.7
+Astatochroa fuscimargo,Oreta pusilla,0.5032,not synonym,BAAI/bge-base-en-v1.5,0.7
+Astatochroa fuscimargo,Oreta roseola,0.54,not synonym,BAAI/bge-base-en-v1.5,0.7
+Astatochroa fuscimargo,Psiloreta fuscimargo,0.8052,synonym,BAAI/bge-base-en-v1.5,0.7
+Astatochroa sulphurata,Psiloreta fasciata,0.547,not synonym,BAAI/bge-base-en-v1.5,0.7
+Astatochroa sulphurata,Psiloreta obsoleta,0.5516,not synonym,BAAI/bge-base-en-v1.5,0.7
+Astatochroa sulphurata,Psiloreta sulphurata,0.8078,synonym,BAAI/bge-base-en-v1.5,0.7
+Teldenia niveata,Teldenia angustifascia,0.6816,not synonym,BAAI/bge-base-en-v1.5,0.7
+Ceranemota fasciata,Bombycia fasciata,0.7906,synonym,BAAI/bge-base-en-v1.5,0.7
+Ceranemota improvisa,Cymatophora improvisa,0.8115,synonym,BAAI/bge-base-en-v1.5,0.7
+Ceranemota tearlei,Gluphisia tearlei,0.772,synonym,BAAI/bge-base-en-v1.5,0.7
+Pseudalbara parvula,Pseudalbara griseola,0.7774,synonym,BAAI/bge-base-en-v1.5,0.7
+Pseudalbara parvula,Pseudalbara muscula,0.7822,synonym,BAAI/bge-base-en-v1.5,0.7
+Mesopsestis undosa,Palimpsestis undosa,0.8627,synonym,BAAI/bge-base-en-v1.5,0.7
+Togaria tancrei,Cymatophora tancrei,0.7877,synonym,BAAI/bge-base-en-v1.5,0.7
+Togaria tancrei,Nemacerota tancrei,0.7879,synonym,BAAI/bge-base-en-v1.5,0.7
+Togaria tancrei,Togaria suzukiana,0.7163,synonym,BAAI/bge-base-en-v1.5,0.7
+Togaria tancrei,Togaria takaozana,0.71,synonym,BAAI/bge-base-en-v1.5,0.7
+Mimozethes argentilinearia,Mimozethes nana,0.6926,not synonym,BAAI/bge-base-en-v1.5,0.7
+Mimozethes lilacinaria,Mimozethes lycoraearia,0.7155,synonym,BAAI/bge-base-en-v1.5,0.7
+Kurama galbanus,Asphalia galbanus,0.7025,synonym,BAAI/bge-base-en-v1.5,0.7
+Kurama galbanus,Polyploca anglica,0.5054,not synonym,BAAI/bge-base-en-v1.5,0.7
+Kurama mirabilis,Xylina mirabilis,0.7245,synonym,BAAI/bge-base-en-v1.5,0.7
+Liocrops carnosa,Phalacropsis carnosa,0.796,synonym,BAAI/bge-base-en-v1.5,0.7
+Liocrops edentata,Phalacra edentata,0.8469,synonym,BAAI/bge-base-en-v1.5,0.7
+Liocrops pseudoluteata,Phalacropsis pseudoluteata,0.8254,synonym,BAAI/bge-base-en-v1.5,0.7
+Liocrops semiprotrusa,Phalacropsis semiprotrusa,0.8276,synonym,BAAI/bge-base-en-v1.5,0.7
+Mimopsestis albogrisea,Spilobasis albogrisea,0.8256,synonym,BAAI/bge-base-en-v1.5,0.7
+Mimopsestis albogrisea,Toelgyfaloca albogrisea,0.7756,synonym,BAAI/bge-base-en-v1.5,0.7
+Mimopsestis basalis,Palimpsestis basalis,0.8007,synonym,BAAI/bge-base-en-v1.5,0.7
+Mimopsestis circumdata,Spilobasis circumdata,0.795,synonym,BAAI/bge-base-en-v1.5,0.7
+Mimopsestis circumdata,Toelgyfaloca circumdata,0.7456,synonym,BAAI/bge-base-en-v1.5,0.7
+Mimopsestis curvata,Spilobasis curvata,0.8014,synonym,BAAI/bge-base-en-v1.5,0.7
+Mimopsestis honei,Spilobasis honei,0.8359,synonym,BAAI/bge-base-en-v1.5,0.7
+Mimopsestis minor,Spilobasis minor,0.7486,synonym,BAAI/bge-base-en-v1.5,0.7
+Mimopsestis pseudomaculata,Parapsestis pseudomaculata,0.9096,synonym,BAAI/bge-base-en-v1.5,0.7
+Mimopsestis pseudomaculata,Parapsestis pseudomaculata,0.9096,synonym,BAAI/bge-base-en-v1.5,0.7
+Mimopsestis pseudomaculata,Spilobasis pseudomaculata,0.8197,synonym,BAAI/bge-base-en-v1.5,0.7
+Nemacerota alternata,Palimpsestis alternata,0.768,synonym,BAAI/bge-base-en-v1.5,0.7
+Nemacerota alternata,Stenopsestis alternata,0.7957,synonym,BAAI/bge-base-en-v1.5,0.7
+Nemacerota cinerea,Asphalia cinerea,0.8117,synonym,BAAI/bge-base-en-v1.5,0.7
+Euthyatira lorata,Thyatira lorata,0.9205,synonym,BAAI/bge-base-en-v1.5,0.7
+Euthyatira pennssylvanica,Euthyatira pennsylvanica,0.8979,synonym,BAAI/bge-base-en-v1.5,0.7
+Euthyatira pudens,Thyatira pudens,0.9108,synonym,BAAI/bge-base-en-v1.5,0.7
+Euthyatira semicircularis,Bombycia griseor,0.4884,not synonym,BAAI/bge-base-en-v1.5,0.7
+Euthyatira semicircularis,Bombycia semicircularis,0.8294,synonym,BAAI/bge-base-en-v1.5,0.7
+Euthyatira semicircularis,Euthyatira tema,0.6694,not synonym,BAAI/bge-base-en-v1.5,0.7
+Ditrigona conflexaria,Acidalia conflexaria,0.8292,synonym,BAAI/bge-base-en-v1.5,0.7
+Ditrigona derocina,Peridrepana derocina,0.8538,synonym,BAAI/bge-base-en-v1.5,0.7
+Ditrigona furvicosta,Leucodrepana furvicosta,0.8176,synonym,BAAI/bge-base-en-v1.5,0.7
+Ditrigona idaeoides,Leucodrepana idaeoides,0.8086,synonym,BAAI/bge-base-en-v1.5,0.7
+Ditrigona inconspicua,Teldenia inconspicua,0.8388,synonym,BAAI/bge-base-en-v1.5,0.7
+Ditrigona innotata,Drepana innotata,0.778,synonym,BAAI/bge-base-en-v1.5,0.7
+Ditrigona jardanaria,Corycia jardanaria,0.7701,synonym,BAAI/bge-base-en-v1.5,0.7
+Ditrigona lineata,Leucodrepana lineata,0.7824,synonym,BAAI/bge-base-en-v1.5,0.7
+Ditrigona micronioides,Auzatella micronioides,0.8286,synonym,BAAI/bge-base-en-v1.5,0.7
+Ditrigona mytylata,Corycia mytylata,0.7973,synonym,BAAI/bge-base-en-v1.5,0.7
+Ditrigona obliquilinea,Leucodrepana obliquilinea,0.8461,synonym,BAAI/bge-base-en-v1.5,0.7
+Ditrigona pentesticha,Auzatella pentesticha,0.8068,synonym,BAAI/bge-base-en-v1.5,0.7
+Ditrigona quinaria,Drepanodes quinaria,0.785,synonym,BAAI/bge-base-en-v1.5,0.7
+Ditrigona quinaria,Thaleridia pruinosa,0.5727,not synonym,BAAI/bge-base-en-v1.5,0.7
+Ditrigona quinquelineata,Leucodrepana quinquelineata,0.8522,synonym,BAAI/bge-base-en-v1.5,0.7
+Ditrigona sericea,Drepana fulvicosta,0.5701,not synonym,BAAI/bge-base-en-v1.5,0.7
+Ditrigona sericea,Leucodrepana birmanica,0.5104,not synonym,BAAI/bge-base-en-v1.5,0.7
+Ditrigona sericea,Peridrepana sericea,0.7965,synonym,BAAI/bge-base-en-v1.5,0.7
+Ditrigona virgo,Corycia sacra,0.5324,not synonym,BAAI/bge-base-en-v1.5,0.7
+Ditrigona virgo,Corycia virgo,0.7646,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyclidia javana,Cyclidia absentimacula,0.7188,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyclidia orciferaria,Cyclidia ociferaria,0.9337,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyclidia rectificata,Cyclidia mauricolaria,0.639,not synonym,BAAI/bge-base-en-v1.5,0.7
+Cyclidia rectificata,Cyclidia patulata,0.7391,synonym,BAAI/bge-base-en-v1.5,0.7
+Cyclidia substigmaria,Cyclidia capitata,0.6785,not synonym,BAAI/bge-base-en-v1.5,0.7
+Spica parallelangula,Plusinia aurea,0.5456,not synonym,BAAI/bge-base-en-v1.5,0.7
+Falcaria bilineata,Drepana bilineata,0.847,synonym,BAAI/bge-base-en-v1.5,0.7
+Falcaria bilineata,Drepana hudsoni,0.5132,not synonym,BAAI/bge-base-en-v1.5,0.7
+Falcaria bilineata,Drepana levis,0.5285,not synonym,BAAI/bge-base-en-v1.5,0.7
+Falcaria bilineata,Falcaria rampartensis,0.6298,not synonym,BAAI/bge-base-en-v1.5,0.7
+Falcaria lacertinaria,Bombyx lacertula,0.6554,not synonym,BAAI/bge-base-en-v1.5,0.7
+Falcaria lacertinaria,Drepana brykaria,0.5289,not synonym,BAAI/bge-base-en-v1.5,0.7
+Falcaria lacertinaria,Drepana conjuncta,0.5319,not synonym,BAAI/bge-base-en-v1.5,0.7
+Falcaria lacertinaria,Drepana curvula,0.5543,not synonym,BAAI/bge-base-en-v1.5,0.7
+Falcaria lacertinaria,Drepana dimidiata,0.4758,not synonym,BAAI/bge-base-en-v1.5,0.7
+Falcaria lacertinaria,Drepana erosula,0.544,not synonym,BAAI/bge-base-en-v1.5,0.7
+Falcaria lacertinaria,Drepana interpres,0.5515,not synonym,BAAI/bge-base-en-v1.5,0.7
+Falcaria lacertinaria,Drepana lacertinaria,0.7889,synonym,BAAI/bge-base-en-v1.5,0.7
+Falcaria lacertinaria,Drepana lacertula,0.6484,not synonym,BAAI/bge-base-en-v1.5,0.7
+Falcaria lacertinaria,Drepana scincula,0.5717,not synonym,BAAI/bge-base-en-v1.5,0.7
+Falcaria lacertinaria,Drepana tacoraria,0.6235,not synonym,BAAI/bge-base-en-v1.5,0.7
+Falcaria lacertinaria,Falcaria conjuncta,0.6825,not synonym,BAAI/bge-base-en-v1.5,0.7
+Falcaria lacertinaria,Phalaena lacertula,0.6504,not synonym,BAAI/bge-base-en-v1.5,0.7
+Falcaria lacertinaria,Platypteryx lacertinaria,0.7967,synonym,BAAI/bge-base-en-v1.5,0.7
+Falcaria lacertinaria,Platypteryx lacertula,0.6352,not synonym,BAAI/bge-base-en-v1.5,0.7
+Argodrepana verticata,Peridrepana verticata,0.8623,synonym,BAAI/bge-base-en-v1.5,0.7
+Drapetodes fratercula,Drapetodes fratercula,1.0,synonym,BAAI/bge-base-en-v1.5,0.7
+Drapetodes matulata,Drapetodes obliquifasciata,0.6911,not synonym,BAAI/bge-base-en-v1.5,0.7
+Drapetodes mitaria,Drapetodes albidior,0.7196,synonym,BAAI/bge-base-en-v1.5,0.7
+Drapetodes mitaria,Drapetodes platycerata,0.6849,not synonym,BAAI/bge-base-en-v1.5,0.7
+Drapetodes mitaria,Drapetodes vapida,0.6933,not synonym,BAAI/bge-base-en-v1.5,0.7
+Tetheella fluctuosa,Cymatophora fluctuosa,0.8617,synonym,BAAI/bge-base-en-v1.5,0.7
+Tetheella fluctuosa,Palimpsestis cocncolor,0.5389,not synonym,BAAI/bge-base-en-v1.5,0.7
+Tetheella fluctuosa,Palimpsestis fluctuosa,0.8055,synonym,BAAI/bge-base-en-v1.5,0.7
+Tetheella fluctuosa,Palimpsestis obscura,0.5362,not synonym,BAAI/bge-base-en-v1.5,0.7
+Tetheella fluctuosa,Tethea albilinea,0.5789,not synonym,BAAI/bge-base-en-v1.5,0.7
+Tetheella fluctuosa,Tethea bifasciata,0.633,not synonym,BAAI/bge-base-en-v1.5,0.7
+Tetheella fluctuosa,Tethea effusa,0.7361,synonym,BAAI/bge-base-en-v1.5,0.7
+Tetheella fluctuosa,Tethea fluctuosa,0.9505,synonym,BAAI/bge-base-en-v1.5,0.7
+Negera bimaculata,Ancistrota bimaculata,0.8163,synonym,BAAI/bge-base-en-v1.5,0.7
+Negera confusa,Ctenogyna lytaea,0.4982,not synonym,BAAI/bge-base-en-v1.5,0.7
+Negera confusa,Negera lytaea,0.646,not synonym,BAAI/bge-base-en-v1.5,0.7
+Negera immaculata,Ancistrina immaculata,0.8063,synonym,BAAI/bge-base-en-v1.5,0.7
+Negera natalensis,Ancistrota geometroides,0.4785,not synonym,BAAI/bge-base-en-v1.5,0.7
+Negera natalensis,Ctenogyna natalensis,0.8069,synonym,BAAI/bge-base-en-v1.5,0.7
+Microthyatira decorata,Nemacerota decorata,0.8227,synonym,BAAI/bge-base-en-v1.5,0.7
+Microthyatira decorata,Polyploca decorata,0.79,synonym,BAAI/bge-base-en-v1.5,0.7
+Thyatira batis,Thyatira albopunctata,0.6835,not synonym,BAAI/bge-base-en-v1.5,0.7
+Thyatira batis,Thyatira conflua,0.6966,not synonym,BAAI/bge-base-en-v1.5,0.7
+Thyatira batis,Thyatira confluens,0.7034,synonym,BAAI/bge-base-en-v1.5,0.7
+Thyatira batis,Thyatira confluens,0.7034,synonym,BAAI/bge-base-en-v1.5,0.7
+Thyatira batis,Thyatira derosea,0.6728,not synonym,BAAI/bge-base-en-v1.5,0.7
+Thyatira batis,Thyatira indecorata,0.6744,not synonym,BAAI/bge-base-en-v1.5,0.7
+Thyatira batis,Thyatira juncta,0.6695,not synonym,BAAI/bge-base-en-v1.5,0.7
+Thyatira batis,Thyatira phaea,0.7279,synonym,BAAI/bge-base-en-v1.5,0.7
+Thyatira batis,Thyatira rubrescens,0.7044,synonym,BAAI/bge-base-en-v1.5,0.7
+Thyatira batis,Thyatira variabilis,0.7152,synonym,BAAI/bge-base-en-v1.5,0.7
+Thyatira mexicana,Thyatira superba,0.735,synonym,BAAI/bge-base-en-v1.5,0.7
+Zusidava tortricaria,Zusidava sinuosa,0.7011,synonym,BAAI/bge-base-en-v1.5,0.7
+Spidia fenestrata,Hemictenarcha rubrisecta,0.524,not synonym,BAAI/bge-base-en-v1.5,0.7
+Spidia fenestrata,Spidia fenestriculata,0.8159,synonym,BAAI/bge-base-en-v1.5,0.7
+Spidia fenestrata,Spidia rubrisecta,0.6968,not synonym,BAAI/bge-base-en-v1.5,0.7
+Spidia miserrima,Thymistida miserrima,0.8402,synonym,BAAI/bge-base-en-v1.5,0.7
+Spidia smithi,Phalacrothyris smithi,0.749,synonym,BAAI/bge-base-en-v1.5,0.7
+Spidia subviridis,Phalacrothyris subviridis,0.7833,synonym,BAAI/bge-base-en-v1.5,0.7
+Toxoides undulata,Osica undulata,0.8296,synonym,BAAI/bge-base-en-v1.5,0.7
+Toxoides undulata,Toxoides emphloius,0.7001,synonym,BAAI/bge-base-en-v1.5,0.7
+Toxoides undulata,Toxoides longipennis,0.735,synonym,BAAI/bge-base-en-v1.5,0.7
+Achlya flavicornis,Achlya atrescens,0.6735,not synonym,BAAI/bge-base-en-v1.5,0.7
+Achlya flavicornis,Achlya fuscomaculata,0.7087,synonym,BAAI/bge-base-en-v1.5,0.7
+Achlya flavicornis,Achlya nigromaculata,0.6543,not synonym,BAAI/bge-base-en-v1.5,0.7
+Achlya flavicornis,Achlya signatipennis,0.6927,not synonym,BAAI/bge-base-en-v1.5,0.7
+Achlya flavicornis,Achlya simplex,0.6628,not synonym,BAAI/bge-base-en-v1.5,0.7
+Achlya flavicornis,Achlya unilinea,0.6149,not synonym,BAAI/bge-base-en-v1.5,0.7
+Achlya flavicornis,Achyla flavicornis,0.8905,synonym,BAAI/bge-base-en-v1.5,0.7
+Achlya flavicornis,Asphalia flavicornis,0.7791,synonym,BAAI/bge-base-en-v1.5,0.7
+Achlya flavicornis,Asphalia rosea,0.4398,not synonym,BAAI/bge-base-en-v1.5,0.7
+Achlya flavicornis,Cymatophora flavicornis,0.837,synonym,BAAI/bge-base-en-v1.5,0.7
+Achlya flavicornis,Noctua flavicornis,0.7864,synonym,BAAI/bge-base-en-v1.5,0.7
+Achlya flavicornis,Noctua luteicornis,0.5257,not synonym,BAAI/bge-base-en-v1.5,0.7
+Achlya flavicornis,Phalaena arcuata,0.5064,not synonym,BAAI/bge-base-en-v1.5,0.7
+Achlya flavicornis,Phalaena sulphureomaculata,0.5338,not synonym,BAAI/bge-base-en-v1.5,0.7
+Achlya flavicornis,Polyplaca clausa,0.4505,not synonym,BAAI/bge-base-en-v1.5,0.7
+Achlya flavicornis,Polyploca angustefasciata,0.5129,not synonym,BAAI/bge-base-en-v1.5,0.7
+Achlya flavicornis,Polyploca confluens,0.5712,not synonym,BAAI/bge-base-en-v1.5,0.7
+Achlya flavicornis,Polyploca confluens,0.5712,not synonym,BAAI/bge-base-en-v1.5,0.7
+Achlya flavicornis,Polyploca confluens,0.5712,not synonym,BAAI/bge-base-en-v1.5,0.7
+Achlya flavicornis,Polyploca covergens,0.5052,not synonym,BAAI/bge-base-en-v1.5,0.7
+Achlya flavicornis,Polyploca flavicornis,0.7725,synonym,BAAI/bge-base-en-v1.5,0.7
+Achlya flavicornis,Polyploca haverkampfi,0.5017,not synonym,BAAI/bge-base-en-v1.5,0.7
+Achlya flavicornis,Polyploca medionigra,0.5257,not synonym,BAAI/bge-base-en-v1.5,0.7
+Achlya flavicornis,Polyploca melanalba,0.4775,not synonym,BAAI/bge-base-en-v1.5,0.7
+Achlya flavicornis,Polyploca nudata,0.4968,not synonym,BAAI/bge-base-en-v1.5,0.7
+Achlya flavicornis,Polyploca obsoleta,0.489,not synonym,BAAI/bge-base-en-v1.5,0.7
+Achlya flavicornis,Polyploca pseudoalbingensis,0.5443,not synonym,BAAI/bge-base-en-v1.5,0.7
+Achlya flavicornis,Polyploca unimaculata,0.5252,not synonym,BAAI/bge-base-en-v1.5,0.7
+Achlya kuramana,Sugitaniella kuramana,0.7666,synonym,BAAI/bge-base-en-v1.5,0.7
+Spectroreta hyalodisca,Spectroreta flava,0.7125,synonym,BAAI/bge-base-en-v1.5,0.7
+Spectroreta hyalodisca,Spectroreta rufa,0.6664,not synonym,BAAI/bge-base-en-v1.5,0.7
+Nordstromia aqua,Drepana aqua,0.7268,synonym,BAAI/bge-base-en-v1.5,0.7
+Nordstromia bicostata,Albara bicostata,0.8165,synonym,BAAI/bge-base-en-v1.5,0.7
+Nordstromia duplicata,Albara duplicata,0.7954,synonym,BAAI/bge-base-en-v1.5,0.7
+Nordstromia duplicata,Albara olivacea,0.547,not synonym,BAAI/bge-base-en-v1.5,0.7
+Nordstromia duplicata,Nordstromia pallidior,0.7176,synonym,BAAI/bge-base-en-v1.5,0.7
+Nordstromia humerata,Albara humerata,0.7542,synonym,BAAI/bge-base-en-v1.5,0.7
+Nordstromia japonica,Albara sachalinensis,0.5376,not synonym,BAAI/bge-base-en-v1.5,0.7
+Nordstromia japonica,Drepana punctifera,0.5245,not synonym,BAAI/bge-base-en-v1.5,0.7
+Nordstromia lilacina,Albara lilacina,0.7315,synonym,BAAI/bge-base-en-v1.5,0.7
+Nordstromia problematica,Albara aestivalis,0.4982,not synonym,BAAI/bge-base-en-v1.5,0.7
+Nordstromia problematica,Albara problematica,0.7765,synonym,BAAI/bge-base-en-v1.5,0.7
+Nordstromia recava,Nordstroemia recava,0.8632,synonym,BAAI/bge-base-en-v1.5,0.7
+Nordstromia siccifolia,Allodrepana siccifolia,0.7213,synonym,BAAI/bge-base-en-v1.5,0.7
+Nordstromia simillima,Albara simillima,0.8091,synonym,BAAI/bge-base-en-v1.5,0.7
+Nordstromia sumatrana,Albara sumatrana,0.7775,synonym,BAAI/bge-base-en-v1.5,0.7
+Nordstromia vira,Albara erpina,0.5073,not synonym,BAAI/bge-base-en-v1.5,0.7
+Nordstromia vira,Albara gracillima,0.5528,not synonym,BAAI/bge-base-en-v1.5,0.7
+Nordstromia vira,Albara mimetica,0.6107,not synonym,BAAI/bge-base-en-v1.5,0.7
+Nordstromia vira,Albara ocellata,0.5727,not synonym,BAAI/bge-base-en-v1.5,0.7
+Nordstromia vira,Drepana vira,0.6916,not synonym,BAAI/bge-base-en-v1.5,0.7
+Nordstromia vira,Nordstromia amabilis,0.709,synonym,BAAI/bge-base-en-v1.5,0.7
+Nordstromia vira,Nordstromia pallidina,0.7126,synonym,BAAI/bge-base-en-v1.5,0.7
