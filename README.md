@@ -64,7 +64,7 @@ bash run_model.sh
 
 ## Results
 
-Number of correctly classified synonym and non-synonym pairs.
+Number of classified synonyms, and also non-synonyms which are not correct, since our dataset consists of only positives, namely, synonyms.
 
 | Model                    | Coleoptera Synonyms | Coleoptera Non-synonyms | Lepidoptera Synonyms | Lepidoptera Non-synonyms |
 | ------------------------ | ------------------: | ----------------------: | -------------------: | -----------------------: |
