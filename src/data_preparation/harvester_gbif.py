@@ -140,11 +140,11 @@ def extract_old_species_names(synonyms):
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Download Coleoptera taxa with old species names from GBIF."
+        description="Download Lepidoptera taxa with old species names from GBIF."
     )
-    parser.add_argument("--root-key", type=int, default=COLEOPTERA_KEY)
-    parser.add_argument("--out", default="coleoptera_taxa_with_old_names.csv")
-    parser.add_argument("--log-file", default="gbif_coleoptera_harvester.log")
+    parser.add_argument("--root-key", type=int, default=LEPIDOPTERA_KEY, help="GBIF taxon key to start from (default: Lepidoptera)")
+    parser.add_argument("--out", default="lepidoptera_taxa_with_old_names.csv")
+    parser.add_argument("--log-file", default="gbif_lepidoptera_harvester.log")
     parser.add_argument(
         "--log-level",
         default="INFO",
