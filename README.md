@@ -75,8 +75,6 @@ bash run_model.sh
 
 ## Supported Embeddings
 
-## Supported Models
-
 | Model | Best for |
 |---------|---------|
 | `BAAI/bge-base-en-v1.5` | **Recommended default.** Best overall synonym detection performance, highest accuracy and F1 across both benchmark datasets. |
