@@ -166,24 +166,7 @@ semantic representations for biodiversity synonym detection.
 | gpt2 | lepo | 0.5000 | 0.5000 | 1.0000 | 0.6667 | 0 | 1474 | 0 | 1474 | 2948 |
 | llm-embedder | coleop | 0.5165 | 0.5084 | 0.9927 | 0.6725 | 11 | 262 | 2 | 271 | 546 |
 | llm-embedder | lepo | 0.5095 | 0.5048 | 0.9959 | 0.6700 | 34 | 1440 | 6 | 1468 | 2948 |
-## Results-only Synonym
 
-Number of synonym pairs identified as synonyms by each embedding model.
-
-| Model | Coleoptera Synonym Pairs Detected | Lepidoptera Synonym Pairs Detected |
-|---|---:|---:|
-| all-MiniLM-L6-v2 | 87 / 273 | 361 / 1482 |
-| all-mpnet-base-v2 | 125 / 273 | 516 / 1482 |
-| bge-base-en-v1.5 | 194 / 273 | 1007 / 1482 |
-| BiomedBERT | 273 / 273 | 1482 / 1482 |
-| e5-base-v2 | 273 / 273 | 1482 / 1482 |
-| gpt2 | 273 / 273 | 1482 / 1482 |
-| gpt2-medium | 273 / 273 | 1482 / 1482 |
-| PatentSBERTa | 174 / 273 | 883 / 1482 |
-| S-BioBERT | 81 / 273 | 316 / 1482 |
-| scibert_scivocab_cased | 262 / 273 | 1391 / 1482 |
-| scibert_scivocab_uncased | 252 / 273 | 1332 / 1482 |
-| scincl | 273 / 273 | 1473 / 1482 |
 ## Citation
 
 If you use this repository in your research, please cite the associated publication and/or Zenodo record.
