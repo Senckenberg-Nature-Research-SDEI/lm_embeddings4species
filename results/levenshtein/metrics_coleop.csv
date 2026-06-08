@@ -1,0 +1,2 @@
+model,dataset,threshold,accuracy,precision,recall,f1,tn,fp,fn,tp,total
+Levenshtein,balanced_synonym_coleop_dataset.csv,0.7,0.6593,0.9888,0.3223,0.4862,272,1,185,88,546

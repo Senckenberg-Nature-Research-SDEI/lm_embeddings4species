@@ -1,0 +1,2 @@
+model,dataset,threshold,accuracy,precision,recall,f1,tn,fp,fn,tp,total
+Levenshtein,balanced_synonym_lepidoptera_dataset.csv,0.7,0.5831,1.0,0.1662,0.285,1474,0,1229,245,2948
