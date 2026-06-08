@@ -1,0 +1,3 @@
+model,file,accuracy,precision,recall,f1,tn,fp,fn,tp,total
+bge-large-en,synonym_results_coleop.csv,0.5036630036630036,0.5018382352941176,1.0,0.6682986536107711,2,271,0,273,546
+bge-large-en,synonym_results_lepo.csv,0.5030529172320217,0.5015311330384484,1.0,0.6680262859732609,9,1465,0,1474,2948

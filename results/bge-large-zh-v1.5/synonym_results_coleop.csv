@@ -1,0 +1,547 @@
+species,oldSpeciesCanonicalName,similarity,prediction,model,threshold,label
+Orphinus fulvipes,Heterocerus caledoniae,0.4905,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Hycleus brevetarsalis,Mylabris brevetarsalis,0.6866,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis californicus,Meloe punctatoradiatus,0.4675,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Meloe rugosus,Meloe rugulosus,0.8884,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Heterocerus crinitus,Ennearthron nigricans,0.401,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis curtus,Ceracis obesus,0.7849,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Cis tristis,Cis falli,0.6021,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Orthocis punctatus,Orthocis aterrimus,0.78,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis curtus,Ropalodontus strandi,0.4085,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis californicus,Cis minutissimus,0.5191,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Trogoderma glabrum,Trogoderma fuscicornis,0.7633,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Trogoderma grassmani,Xestocis singularis,0.3382,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Labrocerus similaris,Rhopalodontus fronticornis,0.5158,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis californicus,Ennearthron affine,0.3321,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis thoracicornis,Ennearthron filum,0.3466,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Meloe rugosus,Ceracis laminifrons,0.4148,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis californicus,Ceracis bifoveatus,0.7948,synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Cybocephalus sublucidus,Brachypterus sublucidus,0.7886,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Xylographus subsinuatus,Ennearthron cylindricum,0.4106,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Cis ephippiatus,Ennearthron militaris,0.3746,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Palaestra guerini,Telephorus guerinii,0.5011,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Malacocis brevicollis,Brachycis brevicollis,0.8544,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Cycloderma deplanatum,Nanophyes miwai,0.3351,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Cis castaneus,Cis alter,0.6128,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Cis festivus,Attagenus megatoma,0.2955,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Mycterus curculioides,Mycterus curculionoides,0.9404,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Zherikhinia distylia,Ceracis grossulus,0.4647,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Hadraule elongatula,Hadraule coarctata,0.7026,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Trogoderma megatomoides,Entomotrogus megatomoides,0.758,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis cornifer,Ennearthron piceus,0.4443,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Eurymeloe murinus,Meloe murinus,0.6847,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Theticephalus mesopotamicus,Brachytarsus rosae,0.4637,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Zonitis chrysomeloides,Cantharis chrysomeloides,0.7416,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Protaedus robusticornis,Ennearthron curtus,0.4115,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Sulcacis curtulus,Ennearthron furcifer,0.3272,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Attagenus australis,Attagenus elongatus,0.7954,synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis curtus,Cis obesus,0.5573,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Zonitis chrysomeloides,Strigocis davisi,0.4297,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Cybocephalus politissimus,Anthribus minimus,0.4763,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Orphinus fulvipes,Ennearthron pallidus,0.3818,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Strigocis bilimeki,Cis bilimeka,0.719,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Octotemnus laevis,Trachypachus holmbergi,0.4188,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Hycleus phaleratus,Mylabris phalerata,0.6038,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis californicus,Ennearthron oregonus,0.3911,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Cis striatulus,Cis levellei,0.623,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ennearthron cornutum,Ennearthron concinnum,0.8421,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Meloe brevicollis,Meloe laticollis,0.6878,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Baissophytum amplus,Baissopsis amplus,0.9036,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Tophoderes depontanus,Ropalodontus baudueri,0.4726,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Meloe brevicollis,Shiva taiwanus,0.295,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Attagenus undulatus,Aethriostoma undulata,0.6173,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Cis castlei,Ceracis simplicicornis,0.429,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Orthocis linearis,Tiresias serra,0.3692,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Attagenus fasciatus,Dissia membranaceus,0.5181,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Mycterus curculioides,Hadraule striatulus,0.4272,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis nigricans,Brachycis brevicollis,0.4944,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Trogoderma grassmani,Trogoderma grassmani,1.0,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dolichocis laricinus,Xylographus rufescens,0.3523,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Cantharis lithophilus,Mycterus curculionides,0.4852,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Heterocerus fenestratus,Xestocis moznettei,0.5472,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Pastillodes areolatus,Meloe ganglbaueri,0.3203,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Hadraule elongatula,Dolichocera tessellatus,0.3663,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis sallei,Ennearthron sallei,0.5832,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Attagenus fasciatus,Ceracis convergens,0.4615,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Orthocis coluber,Orthocis latifrons,0.7046,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Meloe brevicollis,Meloe puncticollis,0.6886,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Palaestra guerini,Zonitis guerini,0.6047,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Hadraule elongatula,Hadraule striata,0.677,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Orthocis linearis,Orthocis perrisi,0.6864,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Cantharis lithophilus,Lytta lithophila,0.6736,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Hadraule elongatula,Dzeregia juxta,0.4103,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Sulcacis curtulus,Sulcacis sorror,0.7425,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Cis striatulus,Cerocoma viridis,0.4415,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Meloe brevicollis,Meloe cephalotes,0.6419,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis californicus,Ennearthron concinnum,0.37,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Hycleus phaleratus,Meloe phalerata,0.5229,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis thoracicornis,Ceracis laminifrons,0.7095,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis monocerus,Ceracis unicornis,0.696,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Eurymeloe ganglbaueri,Meloe ganglbaueri,0.7028,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dolichocera tessellata,Xylographus lemoulti,0.2918,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Theticephalus nigriceps,Dissia nigriceps,0.6959,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis thoracicornis,Cryptorhopalum brevicorne,0.416,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ademosynoides juxta,Dzeregia juxta,0.6859,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Meloe cicatricosus,Meloe cicatricosus,1.0,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Malacocis brevicollis,Ennearthron coloradensis,0.2531,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Thaumaglossa anthrenoides,Pseudothaumaglossa anthrenoides,0.8192,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Zherikhinia distylia,Ceracis mellyi,0.4712,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Rhopalodontus strandi,Attagenus piceus,0.4592,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Archaeophylax worthyi,Waitomophylax worthyi,0.7066,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ctesias serra,Tiresias serra,0.8546,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dieckmanniellus gracilis,Nanodes gracilis,0.6757,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Attagenus brunneus,Attagenus elongatulus,0.7472,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Xylographus corpulentus,Trachypachus alticola,0.4529,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Octotemnus laevis,Octotemnus denudatus,0.757,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Meloe rugosus,Meloe punctatus,0.7408,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dolichocera tessellata,Dolichocera tessellatus,0.9609,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Idiomerus inflatus,Necromera inflata,0.5406,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Sulcacis curtulus,Cis criddlei,0.4391,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Necronectulus avus,Necronetulus avus,0.9067,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Sulcacis fronticornis,Cis fronticornis,0.7668,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Attagenus brunneus,Ennearthron convergens,0.5233,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Labrocerus similaris,Argocerus similaris,0.7513,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis curtus,Ceracis compactus,0.7365,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Sulcacis nitidus,Ennearthron affinis,0.4194,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Labrocerus depressus,Eocerus depressus,0.7489,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Systolosoma breve,Meloe puncticollis,0.4688,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Thorictodes heydeni,Thorictodes karanisensis,0.6496,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Cybocephalus amplus,Dissia ampla,0.5203,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Sulcacis nitidus,Sulcacis affinis,0.7728,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Heterocerus maritimus,Heterocerus britannicus,0.7908,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Trachypachus gibbsii,Trachypachus californicus,0.7495,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Heterocerus crinitus,Theticephalus mesopatamicus,0.5802,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Sulcacis curtulus,Cis alpinus,0.4258,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis thoracicornis,Ceracis ater,0.7387,synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis thoracicornis,Ennearthron laminifrons,0.3841,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis minutissimus,Nanophyes basilineatus,0.4095,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Idiomerus intermedius,Ennearthron oregonus,0.4547,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Sefrania bleusei,Heterocerus britannicus,0.4289,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Mycterus quadricollis,Meloe autumnalis,0.4655,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Cis krausi,Strongulites stygicus,0.3505,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Octotemnus laevis,Cis punctatus,0.4967,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis californicus,Attagenus gloriosae,0.4984,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis californicus,Trachypachus transversicollis,0.573,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Attagenus australis,Systolosoma bilunulatum,0.4117,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Cis krausi,Cis bicolor,0.5482,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis monocerus,Dieckmanniellus helveticus,0.4562,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Cis ephippiatus,Xestocis moznettei,0.3178,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Orthocis transversatus,Anthribus moussoni,0.4828,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Eurymeloe mediterraneus,Meloe mediterraneus,0.7026,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Theticephalus mesopotamicus,Cybocephalus aurocupreus,0.5585,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Attagenus fasciatus,Cybocephalus mesopatamicus,0.4981,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Idiomerus intermedius,Necromera intermedia,0.481,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Cis ephippiatus,Cis moznettei,0.4568,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Anthribus nebulosus,Brachytarsus kusteri,0.5547,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ennearthron palmi,Dolichocera hermandi,0.3702,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis californicus,Cis dufaui,0.4746,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Sulcacis curtulus,Ceracis pumicatus,0.4577,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Cis krausi,Cis duryi,0.6123,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Epicerastes exstans,Trachypachus oregonus,0.4574,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Thorictodes heydeni,Attagenus 4-maculatus,0.3772,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Systolosoma breve,Ennearthron unicornis,0.2893,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Leptocnemus longus,Protaedus fontaltus,0.5098,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis thoracicornis,Ceracis unicolor,0.7391,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Baissophytum amplus,Attagenus 3-fasciatus,0.4362,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Labrocerus similaris,Ennearthron striata,0.3575,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Sulcacis nitidus,Cis duryi,0.4399,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Labrocerus similaris,Argocerus subguttatus,0.4718,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis monocerus,Toksunius chinaticus,0.3799,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Pacicephalus gressitti,Cybocephalus gressitti,0.8294,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis thoracicornis,Ceracis mellyi,0.669,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Orthocis linearis,Cretomegatoma atypica,0.465,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Hycleus phaleratus,Petrodromeus asiaticus,0.5067,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Pseudorobitis axeli,Temnalysis axeli,0.6122,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Sulcacis nitidus,Trogoderma niger,0.4643,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Strongylites stygius,Ceracis obesus,0.4274,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis monocerus,Ennearthron unicornis,0.368,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Attagenus fasciatus,Attagenus anulifer,0.7381,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis furcifer,Trogoderma tricolor,0.359,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Heterocerus fenestratus,Heterocerus pulchellus,0.8091,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Octotemnus laevis,Anthribus tesselatus,0.4863,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Heterocerus fenestratus,Ennearthron affinis,0.4729,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis californicus,Ennearthron coloradensis,0.3955,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis sallei,Xestocis levettei,0.4272,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Sulcacis nitidus,Entypus affinis,0.4628,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Deropygus chaerilus,Deropygus cherilus,0.8818,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Attagenus fasciatus,Meloe rugulosus,0.3557,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Cis krausi,Trachypachus laticollis,0.4658,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Attagenus unicolor,Attagenus megatoma,0.7317,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Hucus numatus,Hucus numatus,1.0,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis nigricans,Ennearthron nigricans,0.6303,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Orthocis testaceofasciatus,Ceracis discolor,0.4454,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Cis tristis,Cis setulosus,0.6402,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Amedissia argentinus,Pycnocephalus argentinus,0.6015,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Rhopalodontus strandi,Ropalodontus strandi,0.7609,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Attagenus brunneus,Attagenus marginicollis,0.6708,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Labrocerus setosus,Labrocerus pallipes,0.7301,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Thaumaglossa anthrenoides,Cerophytum cayennense,0.3916,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Micromalthus debilis,Micromalthus anansi,0.7716,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis thoracicornis,Ennearthron mellyi,0.3491,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Chibizo formosensis,Nanophyes basilineatus,0.4314,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Xylographus subsinuatus,Xylographus rufescens,0.7732,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Sefrania bleusei,Zonitis nigripennis,0.4074,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Trachypachus inermis,Trachypachus holmbergi,0.7254,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Cis levettei,Xestocis levettei,0.7578,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis californicus,Ceracis grossulus,0.7672,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Orthocis testaceofasciatus,Cis testaceofasciatus,0.793,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Attagenus brunneus,Attagenus elongatus,0.7472,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Trachypachus gibbsii,Ennearthron oblongus,0.4356,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis thoracicornis,Hadraule coarctata,0.4919,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Hadraule elongatula,Cis perrisi,0.1762,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Trogoderma glabrum,Anthrenus niger,0.4593,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dolichocera schanus,Dolichocera schanus,1.0,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Heterocerus maritimus,Heterocerus basalis,0.7874,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Orthocis linearis,Thaumaphrastus heydeni,0.3932,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Eurymeloe baudueri,Thorictodes karanisensis,0.4328,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Labrocerus setosus,Labrocerus affinis,0.7835,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Augyles aureolus,Heterocerus aureolus,0.6913,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis cornifer,Ennearthron corniferum,0.5729,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Theticephalus decamerus,Cis cylindricus,0.5046,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Mycterus quadricollis,Mycterus depressus,0.673,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Kantohia taiwana,Shiva taiwanus,0.6699,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis cornifer,Meloe baudueri,0.3562,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Theticephalus mesopotamicus,Cybocephalus mesopatamicus,0.7052,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis californicus,Ennearthron convergens,0.3463,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Strigocis bilimeki,Ennearthron transversatus,0.3191,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Protaedus matertera,Protaedus materta,0.951,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis thoracicornis,Meloe punctatus,0.4103,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Labrocerus similaris,Attagenus marginicollis,0.466,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Attagenus trifasciatus,Attagenus 3-fasciatus,0.8484,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis thoracicornis,Ceracis thoracicus,0.9157,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis curtus,Ennearthron compactus,0.3456,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Attagenus fasciatus,Attagenus gloriosae,0.6965,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Trogoderma glabrum,Trogoderma niger,0.7946,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Cis castlei,Xestocis castlei,0.6757,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Cybocephalus binotatus,Cybocephalus aeneonittens,0.7365,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Protaedus butoniensis,Protaedus butoniense,0.9558,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Orphinus fulvipes,Trogoderma fulvipes,0.5549,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Strigocis bicornis,Strigocis fronticornis,0.6924,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Hadraule elongatula,Orthocis perrisi,0.2542,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Tophoderes depontanus,Syntophoderes depontanus,0.7966,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Porculus dufaui,Necromera longicornis,0.35,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Exillis aeruginosus,Exillis aeroginosus,0.9712,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Electranthribus zherikhini,Ceracis thoracicinus,0.4179,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis cornifer,Ceracis simplicicornis,0.7478,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Cis castaneus,Kateretes castaneus,0.6904,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ctesias serra,Epicerastes viridanus,0.3945,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis thoracicornis,Ceracis piceus,0.7923,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Sulcacis curtulus,Sulcacis criddlei,0.7585,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis californicus,Ennearthron californicus,0.6274,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Theticephalus mesopotamicus,Sulcacis sorror,0.3921,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Sulcacis curtulus,Xestocis opalescens,0.4732,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Orthocis punctatus,Cis punctatus,0.7107,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis minutissimus,Labrocerus affinis,0.4601,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis thoracicornis,Cis montana,0.4355,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Sulcacis curtulus,Ceracis thoracicus,0.4933,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Sulcacis curtulus,Cis cylindricus,0.5733,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Nanomimus hemisphaericus,Cis sorror,0.3381,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Eurymeloe baudueri,Meloe baudueri,0.6875,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Trachypachus gibbsii,Trogoderma nigrum,0.4856,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis thoracicornis,Ceracis bifoveatus,0.663,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Cis striatulus,Hadraule striatulus,0.6433,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis bicornis,Ennearthron bicornis,0.6406,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Cis krausi,Cybocephalus gressitti,0.4022,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Heterocerus crinitus,Entypus bicornis,0.544,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Labrocerus vestitus,Ennearthron sallei,0.2892,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis californicus,Ceracis oregonus,0.742,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Cerocoma schaefferi,Cerocoma viridis,0.6951,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Protaedus frontaltus,Protaedus fontaltus,0.7476,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Labrocerus similaris,Labrocerus simplex,0.6722,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Sulcacis curtulus,Sulcacis cylindricus,0.8406,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Trachypachus gibbsii,Trachypachus alticola,0.7057,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Sulcacis nitidus,Ennearthron affine,0.3731,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Sulcacis curtulus,Temnalysis axeli,0.4189,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Pacicephalus gressitti,Kateretes castaneus,0.4137,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ennearthron palmi,Ennearthron filum,0.7502,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Baissophytum amplus,Anthrenus niger,0.3653,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Sulcacis fronticornis,Necromera intermedia,0.4499,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Cis krausi,Mycterus curculionoides,0.3888,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ademosynoides chinatica,Toksunius chinaticus,0.6554,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Idiomerus musculus,Cybocephalus areolatus,0.5354,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Hycleus polymorphus,Mylabris polymorpha,0.6512,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Theticephalus mesopotamicus,Mylabris phalerata,0.4583,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Theticephalus aurocupreus,Cis testaceofasciatus,0.4315,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Tophoderes sinuatocollis,Tophoderes sinuaticollis,0.8691,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Strigocis opalescens,Heterocerus basalis,0.4698,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Sulcacis nitidus,Critoderma deplanatum,0.4329,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Hadraule elongatula,Necromera brevicornis,0.3763,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Strongylites stygius,Ceracis coloradensis,0.4253,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Orthocis coluber,Labrocerus pallipes,0.4958,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Mycterus quadricollis,Ennearthron cucullatum,0.3876,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis californicus,Cybocephalus mesopotamicus,0.5354,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Cybocephalus politissimus,Xestocis miles,0.4646,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Electranthribus zherikhini,Trogoderma fulvipes,0.3237,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Orphinus fulvipes,Orphinus brevicornis,0.7659,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Sulcacis bidentulus,Cis alpinus,0.431,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Orthocis transversatus,Orthocis pallidus,0.7257,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Malacocis brevicollis,Heterocerus aureolus,0.3344,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Theticephalus decamerus,Cybocephalus decamerus,0.6568,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Protaedus robusticornis,Protaedus robusticorne,0.9672,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Orthocis punctatus,Attagenus anulifer,0.4107,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Sulcacis nitidus,Argocerus similaris,0.5066,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ooides denudatus,Ooidellus denudatus,0.9302,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Labrocerus similaris,Baissopsis amplus,0.4838,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Sulcacis fronticornis,Rhopalodontus fronticornis,0.7371,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Pseudorobitis miwai,Nanophyes miwai,0.6066,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Trachypachus gibbsii,Nanodes gracilis,0.4374,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Thorictodes heydeni,Thaumaphrastus heydeni,0.7861,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis curtus,Meloe laticollis,0.3752,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis californicus,Ennearthron grossulus,0.4247,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Orthocis transversatus,Ennearthron laricinum,0.2752,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Sulcacis curtulus,Sulcacis montana,0.651,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Cis krausi,Cis alter,0.5873,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Sulcacis curtulus,Sulcacis niger,0.7012,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Orphinus fulvipes,Meloe cephalotes,0.4641,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Cis krausi,Cybocephalus aeneonittens,0.3685,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Anthribus nebulosus,Anthribus variegatus,0.689,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Protaedus robusticornis,Sulcacis niger,0.412,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Trachypachus inermis,Trachypachus specularis,0.8009,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Sulcacis curtulus,Cis sorror,0.3534,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis thoracicornis,Ennearthron oblongus,0.4132,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Rhopalodontus strandi,Orthocis latifrons,0.535,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Trachypachus zetterstedtii,Trachypachus laticollis,0.7994,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Attagenus fasciatus,Cis setulosus,0.4724,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis curtus,Labrocerus flavicornis,0.4,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Eurymeloe ganglbaueri,Deropygus cherilus,0.4145,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Anthribus nebulosus,Anthribus tesselatus,0.736,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Hadraule elongatula,Ennearthron striata,0.4765,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis cornifer,Ceracis cylindricus,0.7068,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Orthocis linearis,Cis perrisi,0.4061,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Micromalthus debilis,Zonitis guerini,0.3934,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Eurymeloe murinus,Dissia nigriceps,0.3648,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ennearthron palmi,Glaesotropis zherikhini,0.3217,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Sulcacis nitidus,Necromera muscula,0.5436,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ennearthron cornutum,Orthocis festivus,0.3648,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Sympaector revocans,Heterocerus burchanensis,0.3359,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Anthribus scapularis,Brachytarsus rosae,0.5099,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Wagaicis wagae,Meloe mediterraneus,0.3251,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis pullulus,Ennearthron pullulus,0.5112,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis thoracicornis,Ennearthron corniferum,0.4423,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis monocerus,Ennearthron unicorne,0.3481,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Phytocerum cayennense,Cerophytum cayennense,0.794,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Meloe brevicollis,Ennearthron simplicicorne,0.3407,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Attagenus quadrimaculatus,Cybocephalus flavicapitus,0.5352,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Eurymeloe ganglbaueri,Xylographus richardi,0.2783,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Micromalthus debilis,Cis bilimeka,0.4901,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis singularis,Cis obesus,0.5916,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Systolosoma breve,Necromera inflata,0.376,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Thaumaglossa anthrenoides,Cybocephalus decamerus,0.4373,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Trachypachus zetterstedtii,Trinodes australis,0.4888,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis cornifer,Sulcacis affinis,0.4711,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Anthribus moussonii,Protaedus robusticorne,0.5351,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis thoracicornis,Cis bimaculatus,0.4898,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Bothrus taiwanus,Physopterus taiwanus,0.7165,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Cis levettei,Cis levellei,0.6172,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis thoracicornis,Meloe phalerata,0.4275,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Cybocephalus politissimus,Protaedus materta,0.457,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis monocerus,Necronetulus avus,0.4767,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Cybocephalus membranaceus,Augyles crinitus,0.4497,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Sulcacis nitidus,Cis nitidus,0.719,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Labrocerus concolor,Cis falli,0.3312,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis thoracicornis,Ceracis thoracicinus,0.8973,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis minutissimus,Cis thoracicornis,0.6666,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Cantharis lithophilus,Cantharis chrysomeloides,0.7754,synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Cis miles,Xestocis miles,0.6084,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Baissophytum amplus,Augyles britannicus,0.4845,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Leptocnemus longus,Necromera longa,0.5601,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis californicus,Ennearthron discolor,0.3203,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ennearthron spenceri,Plesiocis spenceri,0.5685,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis thoracicornis,Ceracis pumicatus,0.7473,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dolichocera harmandi,Dolichocera hermandi,0.7541,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Anthribus moussonii,Anthribus moussoni,0.9667,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis curtus,Anthribus variegatus,0.3865,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis sallei,Ceracis sellei,0.9385,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dieckmanniellus gracilis,Ooidellus denudatus,0.4511,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Hadraule elongatula,Protaedus butoniense,0.4076,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis monocerus,Mylabris polymorpha,0.4086,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Electranthribus zherikhini,Glaesotropis zherikhini,0.6428,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis monocerus,Nanophyes formosensis,0.4227,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Cantharis lithophilus,Fohrer bleusei,0.3692,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis curtus,Ennearthron multipunctatus,0.349,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Protaedus matertera,Ennearthron discolor,0.3756,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Epicerastes viridescens,Epicerastes viridanus,0.947,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Attagenus trifasciatus,Cis fronticornis,0.4367,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis californicus,Trachypachus specularis,0.5414,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Idiomerus latissimus,Necromera latissima,0.6224,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Octotemnus laevis,Cis cornutus,0.4516,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Heterocerus maritimus,Augyles britannicus,0.4768,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Cis tetracentrum,Cis arizonae,0.551,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Cycloderma deplanatum,Critoderma deplanatum,0.7155,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Nanomimus hemisphaericus,Entomotrogus megatomoides,0.515,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Meloe brevicollis,Meloe splendens,0.6584,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Rhopalodontus baudueri,Ropalodontus baudueri,0.7426,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Hadraule elongatula,Pityocis coarctata,0.3006,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Attagenus brunneus,Cis bicolor,0.3172,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Strigocis opalescens,Strigocis davisi,0.6959,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Sefrania bleusei,Fohrer bleusei,0.7409,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Orphinus fulvipes,Orphinus brevicorne,0.7314,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Attagenus quadrimaculatus,Attagenus 4-maculatus,0.7644,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Cis maritimus,Xestocis maritimus,0.7073,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Sulcacis curtulus,Cis montana,0.3652,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Strigocis opalescens,Ceracis unicorne,0.5211,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ademosynoides juxta,Hucus numatus,0.3635,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis multipunctatus,Ennearthron multipunctatus,0.6166,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Trachypachus inermis,Trachypachus oregonus,0.7875,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Cybocephalus membranaceus,Dissia membranaceus,0.726,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis thoracicornis,Ennearthron piceus,0.4699,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dieckmanniellus gracilis,Cis nitidus,0.3382,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Idiomerus longicornis,Lytta lithophila,0.3492,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Meloe brevicollis,Xestocis davisi,0.4143,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Cis festivus,Orthocis festivus,0.6993,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Labrocerus vestitus,Ennearthron californicus,0.4389,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Heterocerus crinitus,Augyles crinitus,0.5936,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dieckmanniellus gracilis,Ceracis sellei,0.538,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Meloe brevicollis,Cis arizonae,0.3864,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis cornifer,Ennearthron simplicicorne,0.4247,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Protaedus matertera,Tophoderes sinuaticollis,0.4839,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis californicus,Trogoderma grassmani,0.4301,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Strigocis opalescens,Meloe splendens,0.4248,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis thoracicornis,Brachytarsus kusteri,0.4606,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ennearthron cornutum,Cis cornutus,0.5881,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Megatoma atypica,Ennearthron grossulus,0.3936,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Megatoma atypica,Cretomegatoma atypica,0.8043,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ennearthron palmi,Cis filum,0.3123,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Sulcacis nitidus,Ennearthron mellyi,0.3587,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Systolosoma breve,Systolosoma bilunulatum,0.7776,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis singularis,Xestocis singularis,0.6778,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ademosynoides chinatica,Octotemnus dixiensis,0.5049,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis dixiensis,Octotemnus dixiensis,0.5636,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis thoracicornis,Ceracis compactus,0.6986,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Cis ephippiatus,Cis ephippium,0.9101,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Trachypachus zetterstedtii,Trachypachus transversicollis,0.7795,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis californicus,Argocerus subguttatus,0.4875,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis militaris,Ennearthron militaris,0.5027,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Theticephalus mesopotamicus,Cybocephalus mesopotamicus,0.7077,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Heterocerus maritimus,Necromera latissima,0.4757,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Heterocerus maritimus,Heterocerus burchanensis,0.7266,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Attagenus unicolor,Attagenus piceus,0.7305,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Attagenus fasciatus,Sulcacis criddlei,0.401,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Nanomimus hemisphaericus,Nanophyes hemisphaericus,0.8857,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Sulcacis curtulus,Dissia ampla,0.3758,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis castaneipennis,Ceracis ater,0.6498,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Cis krausi,Ceracis unicolor,0.5907,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Attagenus fasciatus,Attagenus gloriosus,0.7449,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Idiomerus brevicornis,Cis ephippium,0.4233,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis thoracicornis,Ceracis oblongus,0.7598,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Xylographus corpulentus,Xylographus richardi,0.7353,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ademosynoides juxta,Phaulogyrinus minimus,0.4029,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Strongylites stygius,Eocerus depressus,0.4974,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Palaestra guerini,Sulcacis cylindricus,0.3916,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Wagaicis wagae,Wagaicis wagai,0.9252,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Nanomimus hemisphaericus,Syntophoderes depontanus,0.4594,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Hadraule elongatula,Ropalodontus perforatus,0.347,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dolichocis laricinus,Ennearthron laricinum,0.528,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Theticephalus mesopotamicus,Theticephalus mesopatamicus,0.99,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Idiomerus musculus,Necromera muscula,0.5376,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Sympaector revocans,Sympaector revocanus,0.9813,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis cornifer,Cis filum,0.4354,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Trogoderma glabrum,Trogoderma nigrum,0.8562,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Heterocerus maritimus,Cybocephalus flavocapitis,0.493,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Attagenus brunneus,Meloe scabriusculus,0.4053,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Theticephalus salsus,Cybocephalus salsus,0.6437,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Cis miles,Attagenus gloriosus,0.3399,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Labrocerus concolor,Labrocerus simplex,0.6848,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Strigocis bicornis,Entypus bicornis,0.6567,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Megatoma alpina,Globicornis alpina,0.6985,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dieckmanniellus chevrieri,Epicerastes extans,0.3363,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Porculus dufaui,Cis dufaui,0.6968,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis cornifer,Orthocis aterrimus,0.4463,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis minutissimus,Cis minutissimus,0.8089,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis californicus,Necromera longa,0.3787,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dolichocera harmandi,Trogoderma fuscicornis,0.3837,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis monocerus,Ennearthron pullulus,0.3901,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Cis levettei,Ennearthron unicorne,0.3127,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Hycleus polymorphus,Cybocephalus salsus,0.5381,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis thoracicornis,Cis thoracicornis,0.9005,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis cucullatus,Ennearthron cucullatum,0.4626,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis curtus,Ennearthron curtus,0.5948,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Cis krausi,Attagenus elongatulus,0.3188,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Cybocephalus binotatus,Ennearthron unicolor,0.2946,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Orthocis transversatus,Ennearthron pallidus,0.3489,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis thoracicornis,Zherikhinia formosensis,0.4334,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dolichocera tessellata,Ennearthron bicornis,0.3008,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Sulcacis curtulus,Octotemnus denudatus,0.4833,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Trachypachus zetterstedtii,Dieckmaniellus gracilis,0.5501,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Pacicephalus gressitti,Aethriostoma undulata,0.4462,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Thorictodes heydeni,Mylabris brevetarsalis,0.3935,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dieckmanniellus chevrieri,Dieckmanniellus helveticus,0.7295,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Theticephalus aurocupreus,Cis moznettei,0.3965,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis castaneipennis,Ceracis rufipes,0.6651,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Strigocis opalescens,Xestocis opalescens,0.686,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Heterocerus flindersi,Heterocerus caledoniae,0.7775,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis monocerus,Ceracis unicorne,0.6922,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis singularis,Sympaector revocanus,0.4563,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis californicus,Ceracis convergens,0.7363,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Zonitis chrysomeloides,Orphinus brevicornis,0.4524,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Xylographus corpulentus,Xylographus lemoulti,0.814,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Gyrinites minimus,Phaulogyrinus minimus,0.6894,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Cybocephalus politissimus,Cybocephalus flavocapitis,0.7831,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Cis striatulus,Dolichocera schanus,0.4954,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Mycterus curculioides,Mycterus curculionides,0.9679,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ooides denudatus,Ceracis oblongus,0.4415,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Cybocephalus binotatus,Meloe cicatricosus,0.4822,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Pastillodes areolatus,Cybocephalus areolatus,0.657,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Anthribus moussonii,Sulcacis montana,0.3817,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Zonitis melanoptera,Zonitis nigripennis,0.6641,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis cornifer,Ennearthron cylindricum,0.3917,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Orphinus fulvipes,Cryptorhopalum brevicorne,0.468,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Labrocerus vestitus,Strigocis fronticornis,0.4448,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Zherikhinia distylia,Nanophyes formosensis,0.4101,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Strigocis bicornis,Entypus affinis,0.4158,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis thoracicornis,Xestocis castlei,0.4023,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis thoracicornis,Xestocis maritimus,0.4612,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Cis tristis,Trachypachus californicus,0.4627,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Strongylites stygius,Strongulites stygicus,0.8814,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Sulcacis nitidus,Micromalthus anansi,0.4245,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Gyrinites minimus,Orthocis pallidus,0.3344,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Cybocephalus politissimus,Cybocephalus flavicapitus,0.7665,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Strigocis opalescens,Telephorus guerinii,0.4216,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Zherikhinia distylia,Zherikhinia formosensis,0.7325,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis thoracicornis,Ennearthron unicolor,0.3717,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Phradonoma tricolor,Trogoderma tricolor,0.6619,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Malacocis brevicollis,Heterocerus pulchellus,0.3118,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Meloe rugosus,Meloe autumnalis,0.7174,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Sulcacis nitidus,Exillis aeroginosus,0.527,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Attagenus unicolor,Waitomophylax worthyi,0.3765,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Cis krausi,Cis bimaculatus,0.6143,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Systolosoma breve,Brachypterus sublucidus,0.6258,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Orthocis transversatus,Nanophyes hemisphaericus,0.5273,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Idiomerus longicornis,Necromera longicornis,0.7204,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Idiomerus latissimus,Pseudothaumaglossa anthrenoides,0.4641,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Attagenus fasciatus,Ennearthron compactus,0.4318,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis monocerus,Plesiocis spenceri,0.4389,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Cis krausi,Ceracis piceus,0.6537,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Rhopalodontus perforatus,Ropalodontus perforatus,0.7311,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Ceracis californicus,Ceracis coloradensis,0.7089,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Bothrus taiwanus,Ceracis cylindricus,0.425,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Theticephalus mesopotamicus,Ennearthron laminifrons,0.3698,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Theticephalus aurocupreus,Cybocephalus aurocupreus,0.6755,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Anthribus nebulosus,Ceracis rufipes,0.494,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Orthocis transversatus,Ennearthron transversatus,0.6168,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Attagenus australis,Trinodes australis,0.6337,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Cis levettei,Globicornis alpina,0.2338,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ooides denudatus,Pityocis coarctata,0.3952,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Strigocis opalescens,Xestocis davisi,0.4849,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Trachypachus gibbsii,Mycterus depressus,0.4328,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis californicus,Ceracis discolor,0.7312,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dolichocera schanus,Physopterus taiwanus,0.3638,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Kantohia taiwana,Cis criddlei,0.3013,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ademosynoides asiatica,Ceracis unicornis,0.3599,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis thoracicornis,Meloe murinus,0.3343,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis californicus,Orphinus brevicorne,0.489,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Idiomerus brevicornis,Necromera brevicornis,0.6935,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Systolosoma breve,Notioxenus bilunulatus,0.4632,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Sulcacis curtulus,Notioxenus bilunulatus,0.5035,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Meloe cicatricosus,Meloe punctatoradiatus,0.7789,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Pacicephalus gressitti,Hadraule striata,0.3904,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Protaedus robusticornis,Pycnocephalus argentinus,0.4793,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ceracis furcifer,Ennearthron furcifer,0.5311,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dieckmanniellus chevrieri,Ceracis oregonus,0.3572,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Anthribus nebulosus,Anthribus minimus,0.6666,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Labrocerus vestitus,Labrocerus flavicornis,0.7486,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Eurymeloe scabriusculus,Meloe scabriusculus,0.6854,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Epicerastes exstans,Epicerastes extans,0.9287,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dieckmanniellus gracilis,Dieckmaniellus gracilis,0.9769,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Orthocis testaceofasciatus,Wagaicis wagai,0.342,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ademosynoides asiatica,Petrodromeus asiaticus,0.7643,synonym,BAAI/bge-large-zh-v1.5,0.7,1
