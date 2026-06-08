@@ -28,7 +28,7 @@ Experiments were conducted on balanced Coleoptera and Lepidoptera datasets deriv
 3. Classify pairs as synonyms when similarity exceeds a fixed threshold (0.7).
 4. Evaluate performance using Accuracy, Precision, Recall, F1-score, and confusion matrices.
 
-This benchmark focuses on the intrinsic ability of embedding models to capture synonym relationships in biodiversity nomenclature without supervised training.
+This benchmark focuses on the intrinsic ability of embedding models to capture synonym relationships in biodiversity without supervised training.
 
 ## Folder Hierarchy
 
