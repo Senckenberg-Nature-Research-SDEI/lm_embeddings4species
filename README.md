@@ -109,9 +109,21 @@ bash run_model.sh
 | `gpt2-medium` | Decoder-only | Improved baseline       |
 
 ## Balanced Binary Classification
+### Baseline Comparison
+
+To contextualize embedding-based approaches, we evaluated a classical
+string-matching baseline using normalized Levenshtein similarity.
+Levenshtein achieves very high precision but substantially lower recall,
+particularly on Lepidoptera, indicating that many taxonomic synonym
+relationships cannot be recovered through lexical similarity alone.
+Modern embedding models such as BGE-base-en-v1.5 substantially outperform
+the string-matching baseline in F1-score, demonstrating the value of
+semantic representations for biodiversity synonym detection.
 
 | Model | Dataset | Accuracy | Precision | Recall | F1 | TN | FP | FN | TP | Total |
 |---------|---------|---------:|---------:|---------:|---------:|----:|----:|----:|----:|------:|
+| Levenshtein | coleop | 0.6593 | 0.9888 | 0.3223 | 0.4862 | 272 | 1 | 185 | 88 | 546 |
+| Levenshtein | lepo | 0.5831 | 1.0000 | 0.1662 | 0.2850 | 1474 | 0 | 1229 | 245 | 2948 |
 | ModernBERT-bio-large | coleop | 0.5000 | 0.5000 | 1.0000 | 0.6667 | 0 | 273 | 0 | 273 | 546 |
 | ModernBERT-bio-large | lepo | 0.5000 | 0.5000 | 1.0000 | 0.6667 | 0 | 1474 | 0 | 1474 | 2948 |
 | BiomedBERT | coleop | 0.5000 | 0.5000 | 1.0000 | 0.6667 | 0 | 273 | 0 | 273 | 546 |
