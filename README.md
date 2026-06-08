@@ -38,11 +38,11 @@ lm_embeddings4species/
 ├── figures/               # Generated figures and comparison plots
 ├── logs/                  # Harvester logs
 ├── results/               # Model outputs and metrics summaries
-├── results_zero/          # Zero-shot model output files
+├── results_zero/          # only for synonyms
 ├── src/
 │   ├── data_preparation/  # Data harvesting and dataset preparation scripts
 │   ├── evaluation/        # Evaluation metrics and notebooks
-│   ├── models/            # MLP model implementations
+│   ├── models/            # embedding based classifiers
 │   └── notebooks/         # Analysis and visualization notebooks
 ├── run_*.sh               # Pipeline runner scripts
 ├── requirements.txt       # Python dependencies
