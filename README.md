@@ -122,8 +122,8 @@ semantic representations for biodiversity synonym detection.
 
 | Model | Dataset | Accuracy | Precision | Recall | F1 | TN | FP | FN | TP | Total |
 |---------|---------|---------:|---------:|---------:|---------:|----:|----:|----:|----:|------:|
-| Levenshtein | coleop | 0.6593 | 0.9888 | 0.3223 | 0.4862 | 272 | 1 | 185 | 88 | 546 |
-| Levenshtein | lepo | 0.5831 | 1.0000 | 0.1662 | 0.2850 | 1474 | 0 | 1229 | 245 | 2948 |
+| **Levenshtein** | coleop | 0.6593 | 0.9888 | 0.3223 | 0.4862 | 272 | 1 | 185 | 88 | 546 |
+| **Levenshtein** | lepo | 0.5831 | 1.0000 | 0.1662 | 0.2850 | 1474 | 0 | 1229 | 245 | 2948 |
 | ModernBERT-bio-large | coleop | 0.5000 | 0.5000 | 1.0000 | 0.6667 | 0 | 273 | 0 | 273 | 546 |
 | ModernBERT-bio-large | lepo | 0.5000 | 0.5000 | 1.0000 | 0.6667 | 0 | 1474 | 0 | 1474 | 2948 |
 | BiomedBERT | coleop | 0.5000 | 0.5000 | 1.0000 | 0.6667 | 0 | 273 | 0 | 273 | 546 |
