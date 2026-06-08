@@ -1,21 +1,34 @@
-# Language Model Embeddings for Species in Biodiversity
+
+# Language Model Embeddings for Species Synonym Detection in Biodiversity
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![GBIF](https://img.shields.io/badge/Data-GBIF-orange.svg)](https://www.gbif.org/)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 
-This repository evaluates transformer-based language model embeddings for identifying synonym relationships between legacy and currently accepted species names in biodiversity datasets.
+This repository evaluates pretrained transformer-based language model embeddings for identifying synonym relationships between legacy and currently accepted species names in biodiversity datasets.
 
-The workflow generates embeddings from taxonomic names and performs zero-shot classification using a Multi-Layer Perceptron (MLP) to distinguish synonym and non-synonym pairs. Experiments were conducted on Coleoptera and Lepidoptera datasets derived from biodiversity taxonomic resources.
+Rather than training a task-specific classifier, species names are embedded using a variety of pretrained language models and compared using cosine similarity. Synonym detection is performed using a fixed similarity threshold, providing a simple zero-shot evaluation of embedding quality for taxonomic name matching.
+
+Experiments were conducted on balanced Coleoptera and Lepidoptera datasets derived from biodiversity taxonomic resources. The benchmark compares scientific, biomedical, retrieval-oriented, and general-purpose embedding models for their ability to distinguish synonym and non-synonym species name pairs without any fine-tuning.
 
 ## Features
 
 * Taxonomic name embedding generation
+* Zero-shot synonym detection using cosine similarity
+* No model training or fine-tuning required
 * Support for scientific, biomedical, and general-purpose language models
-* Negative Sampling for a balanced dataset
-* Zero-shot synonym classification
+* Balanced synonym/non-synonym benchmark datasets
 * Comparative evaluation across multiple embedding architectures
-* Biodiversity-focused benchmarking
+* Biodiversity-focused embedding benchmark
+
+## Method Overview
+
+1. Generate embeddings for species names using pretrained language models.
+2. Compute cosine similarity between species-name pairs.
+3. Classify pairs as synonyms when similarity exceeds a fixed threshold (0.7).
+4. Evaluate performance using Accuracy, Precision, Recall, F1-score, and confusion matrices.
+
+This benchmark focuses on the intrinsic ability of embedding models to capture synonym relationships in biodiversity nomenclature without supervised training.
 
 ## Folder Hierarchy
 
