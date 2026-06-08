@@ -17,6 +17,25 @@ The workflow generates embeddings from taxonomic names and performs zero-shot cl
 * Comparative evaluation across multiple embedding architectures
 * Biodiversity-focused benchmarking
 
+## Folder Hierarchy
+
+```text
+lm_embeddings4species/
+├── data/                  # Input datasets and balanced synonym datasets
+├── figures/               # Generated figures and comparison plots
+├── logs/                  # Harvester logs
+├── results/               # Model outputs and metrics summaries
+├── results_zero/          # Zero-shot model output files
+├── src/
+│   ├── data_preparation/  # Data harvesting and dataset preparation scripts
+│   ├── evaluation/        # Evaluation metrics and notebooks
+│   ├── models/            # MLP model implementations
+│   └── notebooks/         # Analysis and visualization notebooks
+├── run_*.sh               # Pipeline runner scripts
+├── requirements.txt       # Python dependencies
+└── README.md
+```
+
 ## Installation
 
 Clone the repository and install the required dependencies:
