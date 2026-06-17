@@ -1,0 +1,166 @@
+<svg width="1200" height="640" viewBox="0 0 1200 640" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">LM Embeddings 4 Species project figure</title>
+  <desc id="desc">A README figure showing four species-inspired markers converging into a shared embedding space and feeding a neural network classifier.</desc>
+  <defs>
+    <linearGradient id="bg" x1="120" y1="80" x2="1080" y2="560" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F6EFE3"/>
+      <stop offset="1" stop-color="#E6F0EA"/>
+    </linearGradient>
+    <linearGradient id="beamA" x1="160" y1="170" x2="560" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D95D39"/>
+      <stop offset="1" stop-color="#E8D8C3" stop-opacity="0.2"/>
+    </linearGradient>
+    <linearGradient id="beamB" x1="160" y1="270" x2="560" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D9A441"/>
+      <stop offset="1" stop-color="#E8D8C3" stop-opacity="0.2"/>
+    </linearGradient>
+    <linearGradient id="beamC" x1="160" y1="370" x2="560" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4C8C72"/>
+      <stop offset="1" stop-color="#D7EADF" stop-opacity="0.2"/>
+    </linearGradient>
+    <linearGradient id="beamD" x1="160" y1="470" x2="560" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3B6EA8"/>
+      <stop offset="1" stop-color="#D7E5F0" stop-opacity="0.2"/>
+    </linearGradient>
+    <linearGradient id="embed" x1="560" y1="150" x2="760" y2="490" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF9F0"/>
+      <stop offset="1" stop-color="#F0F6F3"/>
+    </linearGradient>
+    <linearGradient id="net" x1="790" y1="170" x2="1040" y2="470" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FCF4E8"/>
+      <stop offset="1" stop-color="#EEF6F1"/>
+    </linearGradient>
+    <filter id="shadow" x="0" y="0" width="1200" height="640" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="16" stdDeviation="22" flood-color="#24402F" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="640" rx="32" fill="url(#bg)"/>
+  <circle cx="1040" cy="110" r="120" fill="#F2C66D" fill-opacity="0.12"/>
+  <circle cx="180" cy="530" r="140" fill="#6A9E84" fill-opacity="0.12"/>
+
+  <text x="88" y="44" fill="#203328" font-family="Avenir Next, Segoe UI, Helvetica, Arial, sans-serif" font-size="38" font-weight="700" letter-spacing="0.5">LM Embeddings 4 Species</text>
+  <text x="88" y="74" fill="#44584E" font-family="Avenir Next, Segoe UI, Helvetica, Arial, sans-serif" font-size="16.5" font-weight="500">Four species mapped into a shared embedding space for cross-species representation learning and balanced classification</text>
+
+  <g filter="url(#shadow)">
+    <rect x="56" y="96" width="1088" height="488" rx="28" fill="#FFFCF7" fill-opacity="0.76"/>
+  </g>
+
+  <path d="M188 196C295 196 410 228 548 282" stroke="url(#beamA)" stroke-width="18" stroke-linecap="round"/>
+  <path d="M188 294C330 294 430 304 548 312" stroke="url(#beamB)" stroke-width="18" stroke-linecap="round"/>
+  <path d="M188 392C330 392 430 372 548 338" stroke="url(#beamC)" stroke-width="18" stroke-linecap="round"/>
+  <path d="M188 490C295 490 410 442 548 368" stroke="url(#beamD)" stroke-width="18" stroke-linecap="round"/>
+
+  <g>
+    <circle cx="150" cy="196" r="34" fill="#D95D39"/>
+    <path d="M133 193C140 180 160 180 167 193C171 201 169 211 161 218L150 228L139 218C131 211 129 201 133 193Z" fill="#FFF7F2"/>
+    <circle cx="145" cy="194" r="3.5" fill="#D95D39"/>
+    <circle cx="155" cy="194" r="3.5" fill="#D95D39"/>
+  </g>
+
+  <g>
+    <circle cx="150" cy="294" r="34" fill="#D9A441"/>
+    <path d="M128 303C139 281 161 273 173 288C182 300 177 318 162 325C149 331 137 323 131 314C128 310 127 306 128 303Z" fill="#FFF8EA"/>
+    <path d="M145 280C148 285 149 292 146 300" stroke="#D9A441" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <g>
+    <circle cx="150" cy="392" r="34" fill="#4C8C72"/>
+    <path d="M130 404C128 387 139 373 154 371C169 369 181 380 183 396C167 401 149 404 130 404Z" fill="#F2FBF6"/>
+    <path d="M144 374C150 383 153 393 153 405" stroke="#4C8C72" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <g>
+    <circle cx="150" cy="490" r="34" fill="#3B6EA8"/>
+    <path d="M132 498C134 482 145 472 160 472C171 472 179 478 182 488C171 496 154 503 132 498Z" fill="#F4F9FE"/>
+    <path d="M140 506C147 495 157 487 170 482" stroke="#3B6EA8" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="286" y="324" width="144" height="32" rx="16" fill="#FFF8F0" stroke="#E8D9C8"/>
+  </g>
+  <text x="358" y="344" text-anchor="middle" fill="#7A5A33" font-family="Avenir Next, Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="0.8">SPECIES INPUTS</text>
+
+  <g filter="url(#shadow)">
+    <rect x="548" y="164" width="212" height="312" rx="28" fill="url(#embed)" stroke="#D7E2DA" stroke-width="2"/>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="558" y="98" width="192" height="54" rx="20" fill="#FFFDFC" stroke="#D9E4DC"/>
+  </g>
+  <text x="654" y="121" text-anchor="middle" fill="#2B4136" font-family="Avenir Next, Segoe UI, Helvetica, Arial, sans-serif" font-size="21" font-weight="700">Shared Embedding</text>
+  <text x="654" y="139" text-anchor="middle" fill="#50645A" font-family="Avenir Next, Segoe UI, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="600">cross-species latent space</text>
+
+  <g opacity="0.92">
+    <circle cx="600" cy="300" r="10" fill="#D95D39"/>
+    <circle cx="644" cy="278" r="10" fill="#D9A441"/>
+    <circle cx="690" cy="308" r="10" fill="#4C8C72"/>
+    <circle cx="720" cy="270" r="10" fill="#3B6EA8"/>
+
+    <circle cx="602" cy="360" r="10" fill="#D9A441"/>
+    <circle cx="648" cy="330" r="10" fill="#4C8C72"/>
+    <circle cx="693" cy="356" r="10" fill="#3B6EA8"/>
+    <circle cx="726" cy="326" r="10" fill="#D95D39"/>
+
+    <circle cx="605" cy="422" r="10" fill="#4C8C72"/>
+    <circle cx="650" cy="394" r="10" fill="#3B6EA8"/>
+    <circle cx="696" cy="423" r="10" fill="#D95D39"/>
+    <circle cx="726" cy="390" r="10" fill="#D9A441"/>
+
+    <path d="M600 300L644 278L690 308L720 270" stroke="#BACCC2" stroke-width="3"/>
+    <path d="M602 360L648 330L693 356L726 326" stroke="#BACCC2" stroke-width="3"/>
+    <path d="M605 422L650 394L696 423L726 390" stroke="#BACCC2" stroke-width="3"/>
+    <path d="M600 300L602 360L605 422" stroke="#BACCC2" stroke-width="3"/>
+    <path d="M644 278L648 330L650 394" stroke="#BACCC2" stroke-width="3"/>
+    <path d="M690 308L693 356L696 423" stroke="#BACCC2" stroke-width="3"/>
+    <path d="M720 270L726 326L726 390" stroke="#BACCC2" stroke-width="3"/>
+  </g>
+
+  <g>
+    <path d="M760 321H798" stroke="#C7D6CD" stroke-width="8" stroke-linecap="round"/>
+    <path d="M780 297L798 321L780 345" stroke="#C7D6CD" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="798" y="164" width="262" height="312" rx="28" fill="url(#net)" stroke="#D7E2DA" stroke-width="2"/>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="841" y="98" width="176" height="54" rx="20" fill="#FFFDFC" stroke="#D9E4DC"/>
+  </g>
+  <text x="929" y="121" text-anchor="middle" fill="#2B4136" font-family="Avenir Next, Segoe UI, Helvetica, Arial, sans-serif" font-size="21" font-weight="700">Classifier</text>
+  <text x="929" y="139" text-anchor="middle" fill="#50645A" font-family="Avenir Next, Segoe UI, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="600">balanced prediction</text>
+
+  <g stroke="#AEBFB5" stroke-width="2.5">
+    <line x1="858" y1="260" x2="926" y2="242"/>
+    <line x1="858" y1="260" x2="926" y2="300"/>
+    <line x1="858" y1="340" x2="926" y2="242"/>
+    <line x1="858" y1="340" x2="926" y2="300"/>
+    <line x1="858" y1="340" x2="926" y2="380"/>
+    <line x1="858" y1="420" x2="926" y2="300"/>
+    <line x1="858" y1="420" x2="926" y2="380"/>
+    <line x1="926" y1="242" x2="1000" y2="276"/>
+    <line x1="926" y1="300" x2="1000" y2="276"/>
+    <line x1="926" y1="300" x2="1000" y2="404"/>
+    <line x1="926" y1="380" x2="1000" y2="404"/>
+  </g>
+
+  <g>
+    <circle cx="858" cy="260" r="15" fill="#D95D39"/>
+    <circle cx="858" cy="340" r="15" fill="#D9A441"/>
+    <circle cx="858" cy="420" r="15" fill="#4C8C72"/>
+    <circle cx="926" cy="242" r="15" fill="#F0BDAE"/>
+    <circle cx="926" cy="300" r="15" fill="#E7D08B"/>
+    <circle cx="926" cy="380" r="15" fill="#9EC6B2"/>
+    <circle cx="1000" cy="276" r="17" fill="#3B6EA8"/>
+    <circle cx="1000" cy="404" r="17" fill="#5D9078"/>
+  </g>
+
+  <g>
+    <rect x="855" y="499" width="193" height="48" rx="24" fill="#EEF5F1" stroke="#D4E0D8"/>
+    <circle cx="890" cy="523" r="7" fill="#D95D39"/>
+    <circle cx="926" cy="523" r="7" fill="#D9A441"/>
+    <circle cx="962" cy="523" r="7" fill="#4C8C72"/>
+    <circle cx="998" cy="523" r="7" fill="#3B6EA8"/>
+    <text x="1015" y="528" fill="#44584E" font-family="Avenir Next, Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600">4 species</text>
+  </g>
+
+</svg>
