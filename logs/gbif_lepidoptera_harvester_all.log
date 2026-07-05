@@ -1,0 +1,5 @@
+2026-07-05 16:44:51 | INFO | Output file: data/lepidoptera_taxa_with_old_names_all.csv
+2026-07-05 16:44:51 | INFO | Log file: logs/gbif_lepidoptera_harvester_all.log
+2026-07-05 16:44:51 | INFO | Root taxon key: 797
+2026-07-05 16:44:51 | INFO | Starting traversal from root taxon key: 797
+2026-07-05 16:44:51 | INFO | Fetching: https://api.gbif.org/v1/species/797/children | params={}

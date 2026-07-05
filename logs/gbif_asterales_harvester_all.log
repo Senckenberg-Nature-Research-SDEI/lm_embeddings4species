@@ -1,0 +1,13 @@
+2026-07-05 16:39:21 | INFO | Output file: data/asterales_taxa_with_current_names_all.csv
+2026-07-05 16:39:21 | INFO | Log file: logs/gbif_asterales_harvester_all.log
+2026-07-05 16:39:21 | INFO | Root taxon key: 722
+2026-07-05 16:39:21 | INFO | Starting traversal from root taxon key: 722
+2026-07-05 16:39:21 | INFO | Fetching: https://api.gbif.org/v1/species/722/children | params={}
+2026-07-05 16:39:22 | INFO | Finished: https://api.gbif.org/v1/species/722/children | total=0
+2026-07-05 16:39:22 | INFO | Fetching: https://api.gbif.org/v1/species/722/children | params={}
+2026-07-05 16:39:22 | INFO | Finished: https://api.gbif.org/v1/species/722/children | total=0
+2026-07-05 16:39:22 | INFO | Randomly selected 0/0 children for taxon 722
+2026-07-05 16:39:22 | INFO | Taxon key 722 has 0 children
+2026-07-05 16:39:22 | INFO | Total descendant taxa found: 0
+2026-07-05 16:39:22 | INFO | Saved CSV: data/asterales_taxa_with_current_names_all.csv
+2026-07-05 16:39:22 | INFO | Rows written: 0

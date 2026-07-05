@@ -40,13 +40,13 @@ def setup_logger(log_file, log_level):
 
 def paged_get(url, logger, params=None, sleep=0.1):
     params = params or {}
-    limit = 1000
+    limit = 2000
     offset = 0
     results = []
 
     logger.info("Fetching: %s | params=%s", url, params)
 
-    while offset <= limit:  # safety limit to prevent infinite loops
+    while offset <= 100000:  # safety limit to prevent infinite loops
         query = dict(params, limit=limit, offset=offset)
 
         try:
@@ -95,13 +95,13 @@ def get_all_descendants(root_key, logger):
     while stack:
         parent_key = stack.pop()
         children = get_children(parent_key, logger)
-        if len(children) > 100:
-            children = random.sample(children, 100)
+        if len(children) > 200:
+            children = random.sample(children, 200)
 
         logger.info(
             "Randomly selected %s/%s children for taxon %s",
             len(children),
-            min(len(get_children(parent_key, logger)), 100),
+            min(len(get_children(parent_key, logger)), 200),
             parent_key,
 )
         logger.info("Taxon key %s has %s children", parent_key, len(children))

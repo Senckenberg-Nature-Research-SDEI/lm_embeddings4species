@@ -1,0 +1,13 @@
+2026-07-05 15:27:22 | INFO | Output file: data/coleoptera_plant_taxa.csv
+2026-07-05 15:27:22 | INFO | Log file: logs/gbif_coleoptera_plant_harvester.log
+2026-07-05 15:27:22 | INFO | Root taxon key: 10313671
+2026-07-05 15:27:22 | INFO | Starting traversal from root taxon key: 10313671
+2026-07-05 15:27:22 | INFO | Fetching: https://api.gbif.org/v1/species/10313671/children | params={}
+2026-07-05 15:27:22 | INFO | Finished: https://api.gbif.org/v1/species/10313671/children | total=0
+2026-07-05 15:27:22 | INFO | Fetching: https://api.gbif.org/v1/species/10313671/children | params={}
+2026-07-05 15:27:22 | INFO | Finished: https://api.gbif.org/v1/species/10313671/children | total=0
+2026-07-05 15:27:22 | INFO | Randomly selected 0/0 children for taxon 10313671
+2026-07-05 15:27:22 | INFO | Taxon key 10313671 has 0 children
+2026-07-05 15:27:22 | INFO | Total descendant taxa found: 0
+2026-07-05 15:27:22 | INFO | Saved CSV: data/coleoptera_plant_taxa.csv
+2026-07-05 15:27:22 | INFO | Rows written: 0
