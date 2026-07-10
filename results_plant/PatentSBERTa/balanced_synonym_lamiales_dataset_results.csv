@@ -1,0 +1,493 @@
+species,oldSpeciesCanonicalName,similarity,prediction,model,threshold,label
+Melanerpes erythrocephalus,Picus erythrocephalus,0.7745,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Sphyrapicus varius,Picus varius,0.8219,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Dryobates pubescens,Dryobates affinis,0.7752,synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Veniliornis mixtus,Picoides lignarius,0.5705,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Picumnus limae,Picumnus fulvescens,0.7672,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Celeus galeatus,Hylatomus galeatus,0.6985,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Veniliornis cassini,Dryobates cassini,0.62,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Dryocopus lineatus,Hylatomus lineatus,0.6772,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Melanerpes striatus,Trachyphonus europeus,0.5363,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Galbula dea,Dryobates albolarvatus,0.3956,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Aulacorhynchus caeruleogularis,Aulacorhamphus caeruleogularis,0.8886,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Veniliornis dignus,Picus callonotus,0.5982,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Melanerpes formicivorus,Picus formicivorus,0.7176,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Dryobates pubescens,Dendrocopos pubescens,0.7162,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Colaptes auratus,Megalaima asiatica,0.4382,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Pardipicus caroli,Campethera caroli,0.6735,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Leuconotopicus arizonae,Dendrocopos arizonae,0.681,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Monasa nigrifrons,Bucco nigrifrons,0.7108,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Reinwardtipicus validus,Picus martius,0.5759,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Notharchus macrorhynchos,Pogonornis dubius,0.4662,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Galbula dea,Picus chrysochloros,0.3286,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Psilopogon faber,Megalaima faber,0.7249,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Dryocopus schulzii,Megalaima rubricapillus,0.5595,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dryobates minor,Cuculus tenebrosus,0.3908,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Melanerpes carolinus,Picus carolinus,0.6943,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Picus sharpei,Bucco collaris,0.4977,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dendrocoptes auriceps,Dendropicos pyrrhogaster,0.5965,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dryobates pubescens,Picoides pubescens,0.6964,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Picumnus dorbignyanus,Megalaima faiostricta,0.4488,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Melanerpes lewis,Picus spilogaster,0.4443,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Melanerpes lewis,Asyndesmus lewisi,0.7083,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Sphyrapicus varius,Picoides mixtus,0.5841,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Chelidoptera tenebrosa,Picus campestris,0.4477,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Colaptes auricularis,Pincus canus,0.6135,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Veniliornis dignus,Chloronerpes dignus,0.6889,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Psilopogon viridis,Dendrocopos kizuki,0.5761,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Selenidera nattereri,Pteroglossus spec,0.372,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Aulacorhynchus sulcatus,Pteroglossus sulcatus,0.7468,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Dendrocopos major,Dryocopus major,0.6715,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Psilopogon lineatus,Sapheopipo noguchii,0.5629,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Celeus torquatus,Picus torquatus,0.7476,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Dendrocoptes auriceps,Leiopicus auriceps,0.7553,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Leuconotopicus fumigatus,Venilornis fumigatus,0.7173,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Dendrocopos major,Picoides major,0.5929,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Dendrocopos major,Picus major,0.5662,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Jacamerops aureus,Alcedo aurea,0.4573,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Yungipicus maculatus,Dendrocopos maculatus,0.7276,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Veniliornis spilogaster,Picus undatus,0.5567,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Nesoctites micromegas,Picumnus micromegas,0.7442,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Melanerpes superciliaris,Cuculus ater,0.4249,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Chloropicus pyrrhogaster,Alcedo dea,0.2879,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Leuconotopicus albolarvatus,Dryobates albolarvatus,0.6485,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Selenidera piperivora,Megalaima nuchalis,0.4299,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Veniliornis lignarius,Dryobates lignarius,0.5946,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Psilopogon rubricapillus,Calorhamphus fuliginosus,0.6094,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dendrocopos hyperythrus,Hypopicus hyperythrus,0.7702,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Selenidera piperivora,Bucco rubecula,0.4294,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dendrocoptes auriceps,Mesopicos griseocephalus,0.4673,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Micropternus brachyurus,Celeus brachyurus,0.7513,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Melanerpes striatus,Picus striatus,0.6842,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Lybius melanopterus,Dendrocopos scalaris,0.4817,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Lybius melanopterus,Pogonornis melanopterus,0.7295,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Psilopogon flavifrons,Pogonornis melanopterus,0.5047,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dendrocoptes medius,Bucco zeylanicus,0.525,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dendrocoptes auriceps,Picus borealis,0.446,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Picoides arcticus,Picus arcticus,0.8886,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Celeus flavus,Picus principalis,0.4969,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Picus sharpei,Dendropicos xantholophus,0.4865,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Lybius dubius,Hypopicus hyperythrus,0.4896,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Monasa nigrifrons,Dryobates callonotus,0.4079,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Veniliornis mixtus,Galbula lugubris,0.457,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Veniliornis lignarius,Aulacorhamphus caeruleogularis,0.5187,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Psilopogon asiaticus,Picus lewis,0.5332,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Colaptes auratus,Picus galeatus,0.5717,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dryobates pubescens,Megalaima incognita,0.4611,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Melanerpes carolinus,Centurus carolinus,0.7232,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Veniliornis nigriceps,Picus kirkii,0.5135,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Celeus undatus,Picoides ramsayi,0.4383,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dryocopus pileatus,Campethera nivosa,0.4574,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Psilopogon chrysopogon,Megalaima chrysopogon,0.7548,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Psilopogon corvinus,Picoides villosus,0.5168,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Leuconotopicus fumigatus,Dryobates fumigatus,0.6432,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Nonnula rubecula,Picus syriacus,0.4471,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Leuconotopicus stricklandi,Picoides albolarvatus,0.5096,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Psilopogon asiaticus,Picoides maculatus,0.4974,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Gecinulus rafflesii,Nystactes noanamae,0.3881,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Leuconotopicus albolarvatus,Picoides arizonae,0.5051,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Melanerpes superciliaris,Centurus superciliaris,0.68,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Melanerpes candidus,Picus candidus,0.717,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Dryobates cathpharius,Picus grammicus,0.4337,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Yungipicus canicapillus,Picus canicapillus,0.845,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Celeus flavus,Picus flavus,0.7442,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Aulacorhynchus prasinus,Picoides obsoletus,0.591,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Yungipicus maculatus,Picoides maculatus,0.7993,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Veniliornis kirkii,Picumnus micromegas,0.5156,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dendrocoptes auriceps,Chloropicoides rafflesii,0.4143,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Sasia africana,Verreauxia africana,0.7447,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Lybius bidentatus,Pogonornis bidentatus,0.6678,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Capitonides europeus,Trachyphonus europeus,0.6659,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Aulacorhynchus sulcatus,Dendrocopos pubescens,0.4934,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dryobates cathpharius,Dendrocopos cathpharius,0.7207,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Psilopogon faber,Dendropicos namaquus,0.4393,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Veniliornis chocoensis,Picus mineaceus,0.5553,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Chrysophlegma miniaceum,Picus miniaceus,0.5846,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Xiphidiopicus percussus,Picus percussus,0.7799,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Buccanodon duchaillui,Thereiceryx zeylanicus,0.4392,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Yungipicus kizuki,Dendrocopos minor,0.3932,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Aulacorhynchus prasinus,Bathoceleus hyphalus,0.5637,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Psilopogon haemacephalus,Megalaima haemacephala,0.7258,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Veniliornis maculifrons,Dryobates maculifrons,0.676,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Psilopogon pulcherrimus,Megalaima pulcherrima,0.6927,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Celeus galeatus,Dryocopus galeatus,0.7564,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Dryobates minor,Dryobates comminutus,0.7356,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Buccanodon duchaillui,Barbatula duchaillui,0.7958,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Trachyphonus purpuratus,Trachylaemus purpuratus,0.9136,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Galbula dea,Alcedo dea,0.5272,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Psilopogon rubricapillus,Picus punctigula,0.4375,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dendrocopos noguchii,Cuculus auratus,0.4172,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Sasia africana,Centurus aurifrons,0.4466,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Yungipicus ramsayi,Picoides ramsayi,0.7197,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Melanerpes erythrocephalus,Centurus carolinus,0.5036,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Veniliornis mixtus,Picus mixtus,0.739,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Veniliornis cassini,Mesopicus cassini,0.7402,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Leiopicus mahrattensis,Picus mahrattensis,0.7457,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Psilopogon franklinii,Picoides stricklandi,0.5192,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dendropicos obsoletus,Dendrocopos obsoletus,0.8648,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Psilopogon corvinus,Megalaima corvina,0.5721,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Trachyphonus purpuratus,Campethera caroli,0.4649,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Reinwardtipicus validus,Chrysocolaptes validus,0.6118,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Sphyrapicus ruber,Dendrocopos moluccensis,0.4284,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Yungipicus temminckii,Picoides temminckii,0.7558,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Yungipicus kizuki,Picoides kizuki,0.7761,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Psilopogon haemacephalus,Megalaima faber,0.4866,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Piculus chrysochloros,Picus chrysochloros,0.9361,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Leuconotopicus fumigatus,Picus carolinus,0.5314,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Celeus undatus,Bucco chacuru,0.4116,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Leuconotopicus arizonae,Dryobates arizonae,0.5455,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Psilopogon australis,Picus elegans,0.4941,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Leuconotopicus fumigatus,Bucco fuscus,0.6174,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Yungipicus temminckii,Dendrocopos temminckii,0.707,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Psilopogon rubricapillus,Megalaima rubricapillus,0.773,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Psilopogon australis,Bucco dubius,0.4267,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Aulacorhynchus sulcatus,Piculus auricularis,0.6591,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Pteroglossus bailloni,Baillonius bailloni,0.7684,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Gecinulus rafflesii,Dinopium rafflesii,0.7239,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Veniliornis mixtus,Picoides mixtus,0.7103,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Yungipicus kizuki,Dendrocopos kizuki,0.6939,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Leuconotopicus fumigatus,Megalaima oorti,0.5339,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dryocopus martius,Dryobates stricklandi,0.7129,synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Selenidera piperivora,Selenidera culik,0.7067,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Colaptes punctigula,Hylatomus galeatus,0.3785,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Chloropicus pyrrhogaster,Dendropicos pyrrhogaster,0.7749,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Picus sharpei,Gecinus sharpei,0.7309,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Leuconotopicus villosus,Picoides villosus,0.7176,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Lybius melanopterus,Picus arcticus,0.4912,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dryobates cathpharius,Geopicus chrysoides,0.4777,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Veniliornis callonotus,Picus callonotus,0.7654,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Chloropicus pyrrhogaster,Thripias pyrrhogaster,0.7914,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Psilopogon rafflesii,Megalaima rafflesii,0.774,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Veniliornis affinis,Dryobates affinis,0.5893,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Aulacorhynchus albivitta,Pteroglossus albivitta,0.7398,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Celeus galeatus,Megalaima henricii,0.5319,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Leuconotopicus villosus,Dendrocopos villosus,0.7084,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Veniliornis kirkii,Dryobates kirkii,0.5834,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Dendrocopos noguchii,Sapheopipo noguchii,0.6622,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Lybius bidentatus,Bucco niger,0.3897,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dryocopus lineatus,Picus lineatus,0.7109,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Hemicircus concretus,Picus concretus,0.756,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Leuconotopicus borealis,Thripias xantholophus,0.494,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Chloropicus namaquus,Dendropicos namaquus,0.7258,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Dendrocoptes medius,Dendropicos medius,0.843,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Pteroglossus aracari,Megalaima franklinii,0.5221,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dendrocopos noguchii,Picoides minor,0.502,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Melanerpes lewis,Ramphastos aracari,0.5471,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Psilopogon lineatus,Megalaima lineata,0.5942,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Psilopogon lagrandieri,Picus arizonae,0.4371,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Yungipicus kizuki,Megalaima australis,0.4712,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dendrocoptes dorae,Dendrocopos dorae,0.9451,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Celeus undatus,Picus mentalis,0.4936,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Piculus flavigula,Picus flavigula,0.9235,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Campephilus principalis,Verreauxia africana,0.4692,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Colaptes rubiginosus,Picus rubiginosus,0.7939,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Micropternus brachyurus,Hylatomus schulzii,0.5983,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dendrocoptes medius,Picus pileatus,0.4956,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Chloropicus namaquus,Megalaima rafflesii,0.5358,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Leuconotopicus villosus,Dryobates villosus,0.6037,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Monasa atra,Cuculus ater,0.4511,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Dendrocoptes medius,Leiopicus medius,0.6754,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Leuconotopicus borealis,Pteroglossus albivitta,0.5147,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dendrocopos major,Dryobates major,0.5802,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Psilopogon oorti,Megalaima oorti,0.7172,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Brachygalba lugubris,Galbula lugubris,0.7448,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Melanerpes lewis,Picus lewis,0.6879,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Notharchus macrorhynchos,Bucco macrorhynchos,0.7144,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Colaptes punctigula,Picus punctigula,0.7878,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Psilopogon armillaris,Selenidera culik,0.4307,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Chrysophlegma miniaceum,Picus percussus,0.3845,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Melanerpes aurifrons,Centurus aurifrons,0.6348,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Piculus chrysochloros,Neanis kistneri,0.3921,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Psilopogon lagrandieri,Megalaima lagrandieri,0.7405,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Leuconotopicus fumigatus,Picus canicapillus,0.589,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dryocopus martius,Picus martius,0.6947,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Psilopogon faiostrictus,Dryobates chocoensis,0.4612,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Campephilus melanoleucos,Picus lecotos,0.5637,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Bucco noanamae,Nystactes noanamae,0.6856,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Capitonides europeus,Cyphos macrodactylus,0.5811,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dendropicos griseocephalus,Dryobates major,0.4386,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Bucco tamatia,Nystactes tamatia,0.6872,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Gecinulus rafflesii,Mesopicus cassini,0.6068,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Veniliornis chocoensis,Picoides nuttallii,0.6405,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Picumnus minutissimus,Dryocopus major,0.3826,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Veniliornis frontalis,Dryobates frontalis,0.6483,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Psilopogon faiostrictus,Megalaima faiostricta,0.6867,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Dendrocoptes auriceps,Dendrocopos auriceps,0.9639,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Colaptes auricularis,Dendrocopos mahrattensis,0.5535,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Leiopicus mahrattensis,Picus sanguineus,0.4734,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Pteroglossus viridis,Cloronerpes frontalis,0.4987,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dendrocoptes dorae,Megalaima corvina,0.5234,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Picus canus,Pincus canus,0.7715,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Leuconotopicus villosus,Picus villosus,0.7456,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Picumnus exilis,Pteroglossus culik,0.4993,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Aulacorhynchus atrogularis,Hylatomus pileatus,0.5697,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Pteroglossus viridis,Ramphastos viridis,0.6888,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Dendrocopos syriacus,Dendrocopos villosus,0.8203,synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Melanerpes herminieri,Dryobates arizonae,0.453,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dendrocopos major,Picus superciliaris,0.4675,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dendrocopos syriacus,Picus syriacus,0.6905,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Dendrocopos leucotos,Picus leucotos,0.6934,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Chloropicus xantholophus,Dendropicos xantholophus,0.8209,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Yungipicus temminckii,Picus flavinucha,0.608,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Celeus grammicus,Picus grammicus,0.758,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Colaptes rivolii,Dendropicos dorae,0.4576,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Aulacorhynchus prasinus,Pteroglossus prasinus,0.7267,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Psilopogon oorti,Picus minor,0.4034,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Leuconotopicus fumigatus,Veniliornis fumigatus,0.7479,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Melanerpes lewis,Asyndesmus lewis,0.7362,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Veniliornis kirkii,Picus kirkii,0.7463,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Veniliornis mixtus,Picus minutissimus,0.58,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Colaptes rubiginosus,Piculus rubiginosus,0.7664,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Veniliornis maculifrons,Megalaima zeylanica,0.5471,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dendrocopos major,Dryobates villosus,0.392,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Veniliornis passerinus,Picus maculifrons,0.5489,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Psilopogon franklinii,Megalaima franklinii,0.7267,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Melanerpes superciliaris,Bucco tectus,0.5163,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Chloropicus xantholophus,Leiopicus auriceps,0.6195,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Aulacorhynchus prasinus,Ramphastos piperivorus,0.568,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Psilopogon eximius,Megalaima eximia,0.6722,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Leuconotopicus albolarvatus,Dendrocopos albolarvatus,0.7393,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Dendrocoptes medius,Picoides medius,0.6746,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Colaptes campestris,Picus campestris,0.7884,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Selenidera piperivora,Dryobates fumigatus,0.4327,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dendrocoptes medius,Picus medius,0.6621,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Selenidera piperivora,Ramphastos piperivorus,0.6583,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Leuconotopicus albolarvatus,Picoides albolarvatus,0.7243,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Dryobates scalaris,Picus medius,0.3843,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Picoides tridactylus,Picus tridactylus,0.8942,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Campephilus melanoleucos,Picus torquatus,0.5074,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dryocopus schulzii,Hylatomus schulzii,0.7467,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Yungipicus temminckii,Dinopium rafflesii,0.4909,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Leuconotopicus arizonae,Picus arizonae,0.6618,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Dendrocoptes medius,Dendrocopos medius,0.9551,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Malacoptila fusca,Bucco fuscus,0.5655,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Dendropicos obsoletus,Picus noguchii,0.4765,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Leuconotopicus borealis,Dendrocopos borealis,0.7306,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Yungipicus temminckii,Picoides pubescens,0.5106,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dryocopus pileatus,Picus pileatus,0.7281,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Celeus galeatus,Picus galeatus,0.7358,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Psilopogon javensis,Megalaima javensis,0.6909,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Xiphidiopicus percussus,Pteroglossus spec,0.4827,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Psilopogon rafflesii,Picus varius,0.4232,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Pteroglossus viridis,Picus nigriceps,0.526,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dendrocoptes medius,Dryocopus galeatus,0.5325,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Capitonides europeus,Picus passerinus,0.6248,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Jacamerops aureus,Cryptolybia olivacea,0.4233,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dryobates minor,Dryobates dignus,0.7543,synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dryobates minor,Dendrocopos minor,0.5766,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Reinwardtipicus validus,Dryobates spilogaster,0.4229,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Lybius dubius,Bucco dubius,0.6561,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Melanerpes aurifrons,Piculus rivolii,0.4631,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Capitonides protractus,Trachyphonus protractus,0.7494,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Dryobates nuttallii,Dendrocopos nuttallii,0.6887,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Capito niger,Picus rubiginosus,0.4627,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Psilopogon zeylanicus,Picus aurulentus,0.4969,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Aulacorhynchus caeruleogularis,Picus erythrocephalus,0.6229,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Psilopogon eximius,Dendrocopos cathpharius,0.5068,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Veniliornis mixtus,Picus lignarius,0.5544,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Chloropicus xantholophus,Veniliornis fumigatus,0.4917,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dryobates pubescens,Dryobates mixtus,0.7336,synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Micropternus brachyurus,Picus concretus,0.5448,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Buccanodon duchaillui,Dendrocopos albolarvatus,0.5235,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Leiopicus mahrattensis,Dendrocopos mahrattensis,0.7392,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Celeus elegans,Picus elegans,0.7496,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Leuconotopicus borealis,Picoides major,0.486,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Bucco macrodactylus,Centurus uropygialis,0.4377,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Veniliornis chocoensis,Picus formicivorus,0.5928,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dryobates scalaris,Barbatula duchaillui,0.4473,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Veniliornis spilogaster,Picus stricklandi,0.5243,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Nystalus chacuru,Bucco chacuru,0.7463,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Dryocopus pileatus,Picumnus dorbygnianus,0.4512,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Colaptes chrysoides,Geopicus chrysoides,0.7446,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Dendropicos griseocephalus,Mesopicos griseocephalus,0.8204,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Psilopogon flavifrons,Megalaima flavifrons,0.7221,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Veniliornis mixtus,Aulacorhamphus whitelianus,0.5752,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Capito niger,Bucco niger,0.6593,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Gecinulus rafflesii,Chloropicoides rafflesii,0.741,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Dryocopus pileatus,Ceophloeus pileatus,0.7237,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Psilopogon armillaris,Dendrocopos nuttallii,0.5368,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Lybius dubius,Pogonornis dubius,0.6711,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Dendrocoptes medius,Picus leucotos,0.4957,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Xiphidiopicus percussus,Centurus superciliaris,0.598,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dryobates minor,Picoides minor,0.5268,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Monasa nigrifrons,Dryobates lignarius,0.4246,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Pteroglossus bailloni,Cyrilavis olsoni,0.4741,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Leuconotopicus stricklandi,Picus stricklandi,0.7264,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Yungipicus moluccensis,Picus lineatus,0.5731,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dendrocopos leucotos,Picus candidus,0.5755,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dryobates pubescens,Picus pubescens,0.6353,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Yungipicus maculatus,Picus villosus,0.6242,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Veniliornis mixtus,Dryobates mixtus,0.5747,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Leuconotopicus albolarvatus,Megalaima mystacophanos,0.5638,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Piculus aurulentus,Picus aurulentus,0.9328,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Melanerpes lewis,Dryobates kirkii,0.4372,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Melanerpes superciliaris,Bathoceleus hyphalus,0.5536,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Bucco macrodactylus,Argicus macrodactylus,0.7313,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Celeus undatus,Picus undatus,0.6948,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Primobucco olsoni,Cyrilavis olsoni,0.6722,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Aulacorhynchus whitelianus,Aulacorhamphus whitelianus,0.8905,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Veniliornis frontalis,Cloronerpes frontalis,0.6373,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Veniliornis callonotus,Dryobates callonotus,0.5841,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Chrysophlegma mentale,Picus mentalis,0.6109,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Dendrocoptes dorae,Dendropicos dorae,0.8406,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Stactolaema olivacea,Picoides medius,0.5551,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dendropicos griseocephalus,Leiopicus medius,0.6011,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Stactolaema olivacea,Cryptolybia olivacea,0.6884,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Leuconotopicus arizonae,Picoides arizonae,0.6693,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Veniliornis sanguineus,Picus sanguineus,0.7771,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Chelidoptera tenebrosa,Cuculus tenebrosus,0.6684,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Psilopogon incognitus,Dendropicos medius,0.5014,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dryobates minor,Alcedo spec,0.3725,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Chloropicus xantholophus,Thripias xantholophus,0.7723,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Veniliornis lignarius,Picus lignarius,0.7672,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Nonnula rubecula,Picoides scalaris,0.5187,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Psilopogon mystacophanos,Megalaima mystacophanos,0.7712,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Dryobates minor,Dryobates frontalis,0.8028,synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Leuconotopicus borealis,Pteroglossus atrogularis,0.4754,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Colaptes punctigula,Pulchrapollia olsoni,0.528,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Pteroglossus aracari,Ramphastos aracari,0.6765,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Dendrocoptes medius,Pteroglossus prasinus,0.5983,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Pteroglossus aracari,Megalaima eximia,0.4967,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Leuconotopicus borealis,Picus borealis,0.7321,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Lybius minor,Pogonornis minor,0.6065,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Veniliornis lignarius,Thripias namaquus,0.4795,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Psilopogon viridis,Megalaima viridis,0.6835,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Chrysophlegma miniaceum,Picus mineaceus,0.4306,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Leuconotopicus borealis,Dryobates borealis,0.6551,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Bucco macrodactylus,Picus mixtus,0.4864,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Psilopogon zeylanicus,Megalaima zeylanica,0.6444,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Picumnus dorbignyanus,Picumnus dorbygnianus,0.9365,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Veniliornis nigriceps,Dryobates nigriceps,0.6946,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Veniliornis chocoensis,Dryobates chocoensis,0.6567,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Psilopogon chrysopogon,Picoides moluccensis,0.511,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Lybius melanopterus,Asyndesmus lewis,0.5022,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Psilopogon henricii,Megalaima henricii,0.708,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Dendrocoptes auriceps,Megalaima chrysopogon,0.5714,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Veniliornis affinis,Picus affinis,0.7247,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Chrysophlegma miniaceum,Dendrocopos obsoletus,0.5005,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Galbula galbula,Alcedo spec,0.2857,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Chrysophlegma miniaceum,Picoides canicapillus,0.4232,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dryobates scalaris,Dryobates maculifrons,0.7372,synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Colaptes auricularis,Piculus auricularis,0.7624,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Dryobates minor,Picus miniaceus,0.4183,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dendropicos obsoletus,Picoides obsoletus,0.6672,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Picumnus exilis,Picus exilis,0.9006,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Dryobates scalaris,Picoides scalaris,0.6028,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Dryobates minor,Picus minor,0.4966,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Dendrocopos major,Pogonornis bidentatus,0.5103,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Aulacorhynchus atrogularis,Pteroglossus atrogularis,0.7307,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Psilopogon faber,Picus herminieri,0.3727,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dendrocoptes dorae,Megalaima pulcherrima,0.5162,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Picumnus minutissimus,Picus minutissimus,0.9354,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Melanerpes superciliaris,Picus ruber,0.4316,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Yungipicus canicapillus,Picoides canicapillus,0.8329,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Dendrocopos noguchii,Picus noguchii,0.6989,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Veniliornis lignarius,Picoides lignarius,0.7015,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Yungipicus kizuki,Picus pubescens,0.5152,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Pteroglossus viridis,Megalaima monticola,0.468,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Nystalus chacuru,Dendrocopos anglicus,0.4256,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Psilopogon zeylanicus,Thereiceryx zeylanicus,0.6637,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Psilopogon rafflesii,Chloronerpes dignus,0.4939,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dendrocopos major,Picus flavus,0.3936,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Lybius minor,Thripias pyrrhogaster,0.4768,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Yungipicus temminckii,Leuconerpes albolarvatus,0.408,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Nonnula rubecula,Bucco rubecula,0.6523,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Psilopogon nuchalis,Megalaima nuchalis,0.7078,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Psilopogon virens,Megalaima virens,0.6789,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Chelidoptera tenebrosa,Dryobates passerinus,0.4914,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Psilopogon mystacophanos,Megalaima lagrandieri,0.569,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Pteroglossus viridis,Baillonius bailloni,0.4141,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Bucco noanamae,Bucco macrorhynchos,0.6987,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Primobucco olsoni,Megalaima lineata,0.4399,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Galbula galbula,Chrysocolaptes validus,0.3301,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Psilopogon javensis,Venilornis fumigatus,0.4203,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Yungipicus moluccensis,Dendrocopos temminckii,0.6032,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Psilopogon incognitus,Megalaima incognita,0.6663,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Colaptes auratus,Cuculus auratus,0.7101,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Veniliornis maculifrons,Picus maculifrons,0.7894,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Caloramphus fuliginosus,Calorhamphus fuliginosus,0.8427,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Veniliornis callonotus,Picus major,0.4914,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Psilopogon asiaticus,Megalaima asiatica,0.6962,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Chelidoptera tenebrosa,Picumnus fulvescens,0.3898,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Chrysophlegma miniaceum,Dendrocopos canicapillus,0.5323,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Leuconotopicus stricklandi,Dryobates stricklandi,0.6605,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Veniliornis spilogaster,Picus spilogaster,0.7895,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Celeus galeatus,Dendrocopos medius,0.5548,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Selenidera piperivora,Pteroglossus culik,0.4769,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Veniliornis affinis,Picus melanoleucos,0.4383,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dendrocoptes medius,Alcedo aurea,0.435,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Veniliornis passerinus,Dryobates passerinus,0.6069,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Melanerpes herminieri,Picus herminieri,0.6908,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Psilopogon monticola,Megalaima monticola,0.7392,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Veniliornis dignus,Dryobates dignus,0.5962,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Psilopogon flavifrons,Picoides kizuki,0.3525,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Picus sharpei,Ceophloeus pileatus,0.4957,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Leuconotopicus albolarvatus,Leuconerpes albolarvatus,0.9038,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Colaptes auricularis,Dendrocopos arizonae,0.5897,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Leuconotopicus fumigatus,Trachyphonus protractus,0.537,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Veniliornis spilogaster,Dryobates spilogaster,0.6595,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Psilopogon nuchalis,Picoides borealis,0.4504,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dryobates scalaris,Dendrocopos maculatus,0.4266,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Bucco capensis,Bucco collaris,0.7952,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Yungipicus canicapillus,Dendrocopos canicapillus,0.7762,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Gecinulus rafflesii,Picus tridactylus,0.4648,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Melanerpes uropygialis,Centurus uropygialis,0.6824,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Leuconotopicus stricklandi,Dendrocopos dorae,0.4824,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Pardipicus caroli,Picus affinis,0.5426,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Colaptes rivolii,Piculus rivolii,0.7424,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Chloropicus namaquus,Asyndesmus lewisi,0.572,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Leuconotopicus fumigatus,Bucco nigrifrons,0.4889,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dryobates scalaris,Dendrocopos scalaris,0.6337,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Yungipicus kizuki,Gecinus sharpei,0.5263,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dryobates pubescens,Pogonornis minor,0.3873,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Veniliornis spilogaster,Celeus brachyurus,0.4928,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Bucco macrodactylus,Cyphos macrodactylus,0.7314,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Sphyrapicus ruber,Picus ruber,0.8328,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Veniliornis nigriceps,Hylatomus lineatus,0.4812,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Veniliornis passerinus,Picus passerinus,0.7559,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Psilopogon monticola,Megalaima javensis,0.5131,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Chloropicus namaquus,Thripias namaquus,0.6945,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Psilopogon eximius,Megalaima haemacephala,0.5244,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Psilopogon armillaris,Megalaima armillaris,0.7174,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Dryobates pubescens,Argicus macrodactylus,0.4411,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Campephilus melanoleucos,Picus melanoleucos,0.8339,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Chrysophlegma flavinucha,Picus flavinucha,0.6898,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Primobucco kistneri,Neanis kistneri,0.6969,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Veniliornis nigriceps,Picus nigriceps,0.8053,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Nystalus chacuru,Dryobates borealis,0.3395,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Notharchus tectus,Bucco tectus,0.5954,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Pardipicus nivosus,Ramphastos viridis,0.5977,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Yungipicus moluccensis,Picoides moluccensis,0.7993,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Psilopogon lagrandieri,Picus flavigula,0.5212,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dryobates cathpharius,Megalaima viridis,0.4329,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Primobucco olsoni,Pulchrapollia olsoni,0.7184,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Chelidoptera tenebrosa,Dryobates cassini,0.4059,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dendrocoptes dorae,Megalaima flavifrons,0.4891,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Psilopogon australis,Megalaima australis,0.7165,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Stactolaema olivacea,Dendrocopos auriceps,0.4958,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dryocopus schulzii,Dryobates nigriceps,0.6347,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Chloropicus xantholophus,Piculus rubiginosus,0.5948,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Melanerpes candidus,Dendrocopos borealis,0.5429,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Chelidoptera tenebrosa,Pteroglossus sulcatus,0.5139,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dendrocoptes dorae,Picus exilis,0.3924,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dendrocopos leucotos,Picus lecotos,0.569,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Dryobates nuttallii,Picoides nuttallii,0.6702,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Dendrocopos major,Dendrocopos anglicus,0.8142,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Leuconotopicus albolarvatus,Picus mahrattensis,0.5625,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Leuconotopicus borealis,Picoides borealis,0.7153,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Leiopicus mahrattensis,Dryobates comminutus,0.5232,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Melanerpes superciliaris,Picus superciliaris,0.7126,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Veniliornis mixtus,Megalaima virens,0.6492,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Colaptes rubiginosus,Picus striatus,0.6317,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Psilopogon zeylanicus,Bucco zeylanicus,0.6434,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Psilopogon javensis,Trachylaemus purpuratus,0.3968,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dryocopus pileatus,Hylatomus pileatus,0.7046,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Yungipicus moluccensis,Nystactes tamatia,0.4741,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Yungipicus moluccensis,Dendrocopos moluccensis,0.7504,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Campephilus principalis,Picus principalis,0.728,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Pardipicus nivosus,Campethera nivosa,0.5765,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Leuconotopicus stricklandi,Picoides stricklandi,0.7221,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Psilopogon corvinus,Picoides temminckii,0.5046,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dendrocoptes auriceps,Picus fumigatus,0.4218,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Xiphidiopicus percussus,Megalaima armillaris,0.4976,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Leuconotopicus fumigatus,Picus fumigatus,0.7338,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
