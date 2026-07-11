@@ -809,7 +809,7 @@ Calliandra rubescens,Anneslia xalapensis,0.5378,not synonym,AI-Growth-Lab/Patent
 Hebecarpa punctata,Phaseoloides zollingerianum,0.2668,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
 Carmichaelia australis,Carmichaelia ovata,0.8187,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
 Calliandra selloi,Millettia polystachya,0.3555,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
-Lotus cruentus,Julbernardia globifera,0.5088,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Lotus cruentus,Julbernardia globifera,0.5089,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
 Muraltia thymifolia,Polygala thymifolia,0.7465,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
 Inga stenoptera,Inga dumosa,0.7495,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
 Inga sapindoides,Inga similis,0.6818,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
@@ -1259,7 +1259,7 @@ Xanthophyllum papuanum,Xanthophyllum papuanum,1.0,synonym,AI-Growth-Lab/PatentSB
 Genista tenera,Teline congesta,0.5106,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
 Calliandra depauperata,Inga ochroclada,0.4985,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
 Millettia sericea,Phaseolodes zollingerianum,0.3346,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
-Dialium zenkeri,Genista lipskii,0.4142,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Dialium zenkeri,Genista lipskii,0.4143,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
 Angylocalyx talbotii,Angylocalyx talbotii,1.0,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
 Archidendron alternifoliolatum,Teline paivae,0.4535,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
 Millettia pulchra,Phaseolodes pulchrum,0.5451,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
@@ -1353,7 +1353,7 @@ Archidendron jiringa,Lovanafia capuroniana,0.4625,not synonym,AI-Growth-Lab/Pate
 Glycine clandestina,Calobota multiflora,0.445,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
 Cyclopia maculata,Ononis polymorpha,0.4617,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
 Caamembeca grandifolia,Polygala macrophylla,0.5216,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
-Angylocalyx oligophyllus,Racosperma inamabile,0.3681,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Angylocalyx oligophyllus,Racosperma inamabile,0.3682,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
 Monnina marginata,Monnina gaudroniana,0.704,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
 Muraltia macrocarpa,Xanthophyllum paniculatum,0.57,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
 Inga laevigata,Flemingia fluminalis,0.472,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
@@ -1838,7 +1838,7 @@ Monnina padifolia,Monnina floribunda,0.7399,synonym,AI-Growth-Lab/PatentSBERTa,0
 Ononis sieberi,Ononis polymorpha,0.543,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
 Gymnospora violoides,Ononis dumosa,0.5008,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
 Genista clavata,Racosperma microbotryum,0.3982,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
-Acanthocladus dichromus,Polygala bicolor,0.4441,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Acanthocladus dichromus,Polygala bicolor,0.4442,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
 Polygala sphenoptera,Polygala gagnebiniana,0.7303,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
 Polygala rosea,Moghania wangkii,0.4859,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
 Hoffmannseggia tenella,Hoffmanseggia tenella,0.9131,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
@@ -2592,7 +2592,7 @@ Asemeia violacea,Inga bubalina,0.4884,not synonym,AI-Growth-Lab/PatentSBERTa,0.7
 Gastrolobium linearifolium,Heistera longicuspis,0.5163,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
 Hebecarpa rivinifolia,Cylindrokelupha turgida,0.4514,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
 Genista cinerea,Elsota retusa,0.4846,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
-Errazurizia multifoliolata,Dalea multifolioliata,0.6733,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Errazurizia multifoliolata,Dalea multifolioliata,0.6734,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
 Berlinia grandiflora,Berlinia laurentii,0.8302,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
 Calobota cytisoides,Cytisus capensis,0.6477,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
 Coulteria cubensis,Caesalpinia violacea,0.6128,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
@@ -2669,7 +2669,7 @@ Polygala serpentaria,Millettia seretii,0.4958,not synonym,AI-Growth-Lab/PatentSB
 Aotus ericoides,Aotus ferruginea,0.6627,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
 Cyclopia laxiflora,Cyclopia latifolia,0.8186,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
 Ononis pedicellaris,Ononis pseudocintrana,0.7363,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
-Genista canariensis,Genista discolor,0.6617,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Genista canariensis,Genista discolor,0.6618,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
 Dialium kunstleri,Lupinus chilensis,0.3401,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
 Calpurnia aurea,Virgilia aurea,0.7667,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
 Eysenhardtia polystachya,Viborquia polystachya,0.7339,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
@@ -5561,7 +5561,7 @@ Lotus angustissimus,Lotus ciliatus,0.756,synonym,AI-Growth-Lab/PatentSBERTa,0.7,
 Campsiandra angustifolia,Campsiandra angustifolia,1.0,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
 Genista michelii,Telinaria albida,0.4573,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
 Bredemeyera floribunda,Bredemeyera lhotzkyana,0.6554,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
-Archidendron palauense,Pithecellobium palauense,0.667,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Archidendron palauense,Pithecellobium palauense,0.6671,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
 Genista triquetra,Genista triquetra,1.0,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
 Archidendron brevipes,Hansemannia brevipes,0.6639,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
 Machaerium aristulatum,Drepanocarpus aristulatus,0.7034,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
@@ -5655,7 +5655,7 @@ Amburana cearensis,Feuilleea vestita,0.3758,not synonym,AI-Growth-Lab/PatentSBER
 Hebecarpa americana,Asemeia rosea,0.4265,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
 Polygaloides paucifolia,Dialium aubrevillei,0.3552,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
 Millettia dubia,Millettia solheidii,0.7907,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
-Hippocrepis scabra,Hippocrepis commutata,0.7122,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Hippocrepis scabra,Hippocrepis commutata,0.7123,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
 Campsiandra laurifolia,Carpolobia delvauxii,0.5078,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
 Aphanocalyx jenseniae,Bonaga minutissima,0.4153,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
 Chorizema cordatum,Lebeckia candicans,0.4519,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
@@ -5825,7 +5825,7 @@ Dahlstedtia peckoltii,Nissolia acuminata,0.4267,not synonym,AI-Growth-Lab/Patent
 Securidaca cacumina,Monnina uaipanensis,0.5239,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
 Millettia sericea,Dalbergia sericea,0.6496,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
 Ononis alopecuroides,Bugranopsis alopecuroides,0.7055,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
-Bredemeyera myrtifolia,Dialium mossambicense,0.4493,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Bredemeyera myrtifolia,Dialium mossambicense,0.4492,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
 Hoita macrostachya,Psoralea douglasii,0.4101,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
 Berlinia giorgii,Berlinia cabrae,0.8177,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
 Chorizema racemosum,Chorizema ericifolium,0.7685,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
@@ -6149,7 +6149,7 @@ Genista linifolia,Telinaria linifolia,0.7268,synonym,AI-Growth-Lab/PatentSBERTa,
 Centrolobium tomentosum,Centrolobium tomentosum,1.0,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
 Muraltia capensis,Spartium tridens,0.475,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
 Securidaca divaricata,Anneslia speciosa,0.5512,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
-Muraltia macroceras,Machaerium acaciifolium,0.4859,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Muraltia macroceras,Machaerium acaciifolium,0.4858,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
 Flemingia macrophylla,Polygala grandis,0.5276,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
 Hoffmannseggia drepanocarpa,Eleiotis trifoliata,0.5381,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
 Hebecarpa costaricensis,Polygala hayesii,0.4886,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
@@ -6599,7 +6599,7 @@ Polygala smallii,Pilostaxis arenicola,0.5769,not synonym,AI-Growth-Lab/PatentSBE
 Archidendron quocense,Acacia leptoclada,0.4397,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
 Dimorphandra exaltata,Elsota lamarckii,0.5578,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
 Monnina conferta,Monnina myrtilloides,0.723,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
-Calliandra conferta,Feuilleea texana,0.5834,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Calliandra conferta,Feuilleea texana,0.5835,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
 Xanthophyllum vitellinum,Callistachys retusa,0.4878,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
 Monnina conferta,Ononis spinosiformis,0.4048,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
 Inga splendidissima,Inga splendidissima,1.0,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
@@ -7295,7 +7295,7 @@ Lotus tetragonolobus,Tetragonolobus tetragonolobus,0.8154,synonym,AI-Growth-Lab/
 Securidaca calophylla,Securidaca cristata,0.6706,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
 Bredemeyera brevifolia,Elsota marginata,0.4276,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
 Flemingia chappar,Flemingia chapper,0.8783,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
-Glycine latrobeana,Zichya latrobeana,0.7103,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Glycine latrobeana,Zichya latrobeana,0.7104,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
 Flemingia paniculata,Moghania sarmentosa,0.5484,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
 Genista anglica,Myroxylon toluiferum,0.4291,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
 Erythrostemon palmeri,Dorycnium amani,0.4543,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
@@ -7613,7 +7613,7 @@ Archidendron glomeriflorum,Abarema glomeriflora,0.7437,synonym,AI-Growth-Lab/Pat
 Acacia ampliata,Racosperma ampliatum,0.6566,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
 Muraltia lancifolia,Muraltia tenuifolia,0.9095,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
 Julbernardia globiflora,Julbernardia globifera,0.9232,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
-Hanslia ormocarpoides,Hedysarum adhaerens,0.4156,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Hanslia ormocarpoides,Hedysarum adhaerens,0.4157,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
 Julbernardia globiflora,Callistachys acuta,0.498,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
 Genista ferox,Genista salditana,0.7747,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
 Hebecarpa costaricensis,Polygala antillensis,0.4115,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
@@ -10561,7 +10561,7 @@ Machaerium parvifolium,Machaerium parvifolium,1.0,synonym,AI-Growth-Lab/PatentSB
 Humularia apiculata,Geissaspis apiculata,0.6576,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
 Acacia manipularis,Racosperma jamesianum,0.5576,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
 Inga longiflora,Solori pseudorobusta,0.3853,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
-Gastrolobium capitatum,Dialium engleranum,0.3638,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
+Gastrolobium capitatum,Dialium engleranum,0.3637,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
 Rhinotropis nudata,Retama webbii,0.422,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
 Polygala nambalensis,Polygala gypsophiloides,0.776,synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
 Gastrolobium calycinum,Senega equisetoides,0.4917,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
@@ -11189,7 +11189,7 @@ Lotus tetragonolobus,Tetragonolobus purpureus,0.7057,synonym,AI-Growth-Lab/Paten
 Lotus subbiflorus,Pedrosia neglecta,0.3708,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
 Glycine clandestina,Genista daurica,0.5406,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
 Archidendron bigeminum,Pithecellobium nicobaricum,0.4217,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
-Asemeia martiana,Polygala martiana,0.7256,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
+Asemeia martiana,Polygala martiana,0.7257,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
 Archidendron alternifoliolatum,Polygala lanceolata,0.4431,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,0
 Hanslia ormocarpoides,Desmodium pendulum,0.3927,not synonym,AI-Growth-Lab/PatentSBERTa,0.7,1
 Calliandra glomerulata,Feuilleea glomerulata,0.7771,synonym,AI-Growth-Lab/PatentSBERTa,0.7,1

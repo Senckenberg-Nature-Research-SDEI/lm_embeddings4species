@@ -753,7 +753,7 @@ Monnina amarella,Phaseolodes caeruleum,0.2287,not synonym,BAAI/bge-large-zh-v1.5
 Millettia xylocarpa,Millettia nana,0.6268,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
 Monnina xalapensis,Hebeandra evonymoides,0.4465,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
 Muraltia divaricata,Amphithalea spinosa,0.4623,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
-Dialium guineense,Indigofera depressa,0.3715,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dialium guineense,Indigofera depressa,0.3716,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
 Mundulea chapelieri,Millettia chapelieri,0.755,synonym,BAAI/bge-large-zh-v1.5,0.7,1
 Muraltia chamaepitys,Muraltia chamaepitys,1.0,synonym,BAAI/bge-large-zh-v1.5,0.7,1
 Salomonia cantoniensis,Muraltia metalasiaefolia,0.5032,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
@@ -794,7 +794,7 @@ Humularia drepanocephala,Geissaspis princei,0.4145,not synonym,BAAI/bge-large-zh
 Carmichaelia odorata,Carmichaelia pilosa,0.7474,synonym,BAAI/bge-large-zh-v1.5,0.7,1
 Polygala equisetoides,Monnina argentina,0.3311,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
 Brya ebenus,Flemingia ferruginea,0.3944,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
-Polygala mexicana,Derris scandens,0.2311,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Polygala mexicana,Derris scandens,0.231,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
 Genista spartioides,Genista mauritiana,0.6808,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
 Calliandra rubescens,Calliandra yunckeri,0.7094,synonym,BAAI/bge-large-zh-v1.5,0.7,1
 Acacia ampliata,Inga panurensis,0.425,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
@@ -6477,7 +6477,7 @@ Comesperma virgatum,Comesperma contractum,0.7662,synonym,BAAI/bge-large-zh-v1.5,
 Acacia cyclops,Hebeandra phillyreoides,0.4086,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
 Gastrolobium ebracteolatum,Callistachys parviflora,0.4026,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
 Polygala sphenoptera,Polygala persicariaefolia,0.8472,synonym,BAAI/bge-large-zh-v1.5,0.7,1
-Ononis arvensis,Pluchia curiosa,0.3718,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Ononis arvensis,Pluchia curiosa,0.3717,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
 Monnina herbacea,Monnina graminea,0.7596,synonym,BAAI/bge-large-zh-v1.5,0.7,1
 Bossiaea eriocarpa,Bossiaea gilbertii,0.7085,synonym,BAAI/bge-large-zh-v1.5,0.7,1
 Monnina parviflora,Monnina parviflora,1.0,synonym,BAAI/bge-large-zh-v1.5,0.7,1
@@ -7075,7 +7075,7 @@ Dahlstedtia glaziovii,Muellera glaziovii,0.6988,not synonym,BAAI/bge-large-zh-v1
 Acacia obtusata,Racosperma obtusatum,0.5221,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
 Comesperma nudiusculum,Cylindrokelupha dalatensis,0.4776,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
 Millettia piscidia,Racosperma courtii,0.4152,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
-Erythrostemon pannosus,Pithecellobium alatum,0.4901,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Erythrostemon pannosus,Pithecellobium alatum,0.49,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
 Machaerium punctatum,Lotus dioscoridis,0.3649,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
 Lotus graecus,Dalbergia sericea,0.3132,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
 Ononis euphrasiifolia,Genistella florida,0.3815,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
@@ -8649,7 +8649,7 @@ Bredemeyera disperma,Bredemeyera autranii,0.7773,synonym,BAAI/bge-large-zh-v1.5,
 Echinospartum lusitanicum,Echinospartum barnadesii,0.7656,synonym,BAAI/bge-large-zh-v1.5,0.7,1
 Securidaca retusa,Securidaca retusa,1.0,synonym,BAAI/bge-large-zh-v1.5,0.7,1
 Myroxylon balsamum,Toluifera balsamum,0.6286,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
-Muraltia stipulacea,Heisteria diffusa,0.5151,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Muraltia stipulacea,Heisteria diffusa,0.515,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
 Lotus hirsutus,Bonjeanea hirta,0.3408,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
 Gastrolobium vestitum,Nemcia vestita,0.4294,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
 Archidendron megaphyllum,Pithecellobium brassii,0.3967,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
@@ -9759,7 +9759,7 @@ Genista monspessulana,Flemingia kweichowensis,0.3727,not synonym,BAAI/bge-large-
 Bossiaea rhombifolia,Bossiaea rotundifolia,0.8097,synonym,BAAI/bge-large-zh-v1.5,0.7,1
 Archidendron havilandii,Cylindrokelupha havilandii,0.6406,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
 Glycine tabacina,Banisteroides rufum,0.2817,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
-Collaea speciosa,Scorpius spinosus,0.54,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Collaea speciosa,Scorpius spinosus,0.5399,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
 Dimorphandra macrostachya,Pteromonnina leptostachya,0.4865,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
 Calliandra bombycina,Calliandra bombycina,1.0,synonym,BAAI/bge-large-zh-v1.5,0.7,1
 Lotus herbaceus,Dorycnium kotschyanum,0.3156,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
@@ -10631,7 +10631,7 @@ Rhinotropis cornuta,Polygala fishiae,0.4028,not synonym,BAAI/bge-large-zh-v1.5,0
 Polygala cneorum,Adinobotrys filipes,0.374,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
 Inga brevipes,Bonjeanea kotschyi,0.3603,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
 Dialium guineense,Dialium nitidum,0.6716,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
-Muraltia mixta,Genista grossii,0.509,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Muraltia mixta,Genista grossii,0.5089,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
 Kotschya aeschynomenoides,Macrolobium ogoouense,0.4107,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
 Calobota angustifolia,Lebeckia canescens,0.3918,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
 Genista stenopetala,Cytisus racemosus,0.4278,not synonym,BAAI/bge-large-zh-v1.5,0.7,1

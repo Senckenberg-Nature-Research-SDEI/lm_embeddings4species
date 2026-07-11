@@ -69,7 +69,7 @@ Gastrolobium ovalifolium,Gastrolobium henfreyi,0.8527,synonym,sentence-transform
 Microcharis tritoides,Indigofera tritoides,0.5437,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Hoffmannseggia miranda,Indigofera microcharoides,0.4236,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Dialium hydnocarpoides,Dialium praetermissum,0.6805,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
-Gastrolobium dilatatum,Dialium evrardii,0.4596,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
+Gastrolobium dilatatum,Dialium evrardii,0.4595,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Millettia lecomtei,Calliandra stricta,0.2902,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Machaerium myrianthum,Machaerium sieberi,0.8247,synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Acacia idiomorpha,Acacia idiomorpha,1.0,synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
@@ -1900,7 +1900,7 @@ Rhamphopetalum microphyllum,Acanthocladus microphylla,0.5939,not synonym,sentenc
 Chorizema obtusifolium,Callistachys obtusifolia,0.4452,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Xanthophyllum flavescens,Microcharis pseudoindigofera,0.3457,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Bossiaea ornata,Ononis euphrasiaefolia,0.4923,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
-Betencourtia scarlatina,Camptosema scarlatinum,0.5843,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
+Betencourtia scarlatina,Camptosema scarlatinum,0.5844,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Archidendron occultatum,Pithecellobium occultatum,0.4061,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Archidendron novoguineense,Abarema novoguineensis,0.547,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Acacia cultriformis,Racosperma cultriforme,0.4811,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
@@ -2214,7 +2214,7 @@ Flemingia nana,Mundia montana,0.3926,not synonym,sentence-transformers/all-mpnet
 Eleiotis sororia,Drepanocarpus cuyabensis,0.382,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Hebecarpa buxifolia,Polygala pubescens,0.4952,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Acacia lasiopus,Acacia lasiopus,1.0,synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
-Inga stenoptera,Feuilleea stenoptera,0.6937,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
+Inga stenoptera,Feuilleea stenoptera,0.6936,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Inga sapindoides,Mundia scoparia,0.4542,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Calliandra purpurea,Calliandra coroensis,0.8304,synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Calliandra tergemina,Polygala durandii,0.5053,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
@@ -2476,7 +2476,7 @@ Polygala wettsteinii,Polygala rubiifolia,0.8423,synonym,sentence-transformers/al
 Coulteria pumila,Guaymasia pumila,0.5691,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Chesneya vaginalis,Affonsea dusenii,0.3224,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Calliandra tergemina,Anneslia tergemina,0.6348,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
-Lotus cytisoides,Humularia bakeriana,0.4086,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
+Lotus cytisoides,Humularia bakeriana,0.4085,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Polygala ludwigiana,Polygala laxa,0.582,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Lupinus pubescens,Lupinus tricolor,0.7711,synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Flemingia stricta,Callerya songgangensis,0.4102,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
@@ -2694,7 +2694,7 @@ Polygala major,Polygala nicaeensis,0.8178,synonym,sentence-transformers/all-mpne
 Muraltia spinosa,Coelidium spinosum,0.5215,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Salomonia cantoniensis,Salomonia subrotunda,0.6858,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Inga pilosula,Pithecellobium harmsii,0.2477,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
-Inga stenoptera,Pedrosia argentea,0.297,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
+Inga stenoptera,Pedrosia argentea,0.2969,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Genista aetnensis,Drymospartum aetnense,0.5159,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Muraltia ericoides,Muraltia stipulacea,0.7878,synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Polygaloides chamaebuxus,Polygala baccifera,0.839,synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
@@ -2755,7 +2755,7 @@ Muraltia rubeacea,Collaea velutina,0.572,not synonym,sentence-transformers/all-m
 Dysolobium dolichoides,Indigofera buchneri,0.4807,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Acanthocladus scleroxylon,Oxylobium ruscifolium,0.469,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Machaerium punctatum,Machaerium villosulum,0.6636,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
-Inga sapindoides,Inga hartii,0.6085,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
+Inga sapindoides,Inga hartii,0.6084,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Archidendron balansae,Polygala pedicellaris,0.3607,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Genista spachiana,Cytisus bracteolatus,0.3186,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Calobota lotononoides,Heterostemon corrugatus,0.4468,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
@@ -3970,7 +3970,7 @@ Archidendron ellipticum,Teline stenopetala,0.1393,not synonym,sentence-transform
 Acacia paradoxa,Mimosa armata,0.5174,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Ebenus sibthorpii,Vulneraria sericea,0.2837,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Aphanocalyx hedinii,Hoffmannseggia gracilis,0.4374,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
-Apios carnea,Apios bodinieri,0.6952,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
+Apios carnea,Apios bodinieri,0.6953,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Ononis hirta,Ononis ellipticifolia,0.4697,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Polygaloides chamaebuxus,Tertria chamaebuxus,0.4852,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Betencourtia neesii,Galactia macropoda,0.373,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
@@ -4152,7 +4152,7 @@ Polygala karensium,Polygala yunnanensis,0.807,synonym,sentence-transformers/all-
 Hoffmannseggia drepanocarpa,Pithecellobium lobatum,0.3773,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Calliandra rubescens,Calliandra xalapensis,0.824,synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Acacia prominens,Cylindrokelupha balansae,0.4455,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
-Calliandra rigida,Feuilleea rigida,0.6748,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
+Calliandra rigida,Feuilleea rigida,0.6747,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Julbernardia paniculata,Westia paniculata,0.6214,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Amphicarpaea ferruginea,Glycine ferruginea,0.5793,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Flemingia trifoliata,Lespedeza involucrata,0.21,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
@@ -4919,7 +4919,7 @@ Carmichaelia carmichaeliae,Notospartium carmichaeliae,0.7406,synonym,sentence-tr
 Lotus dorycnium,Dorycnium decumbens,0.699,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Genista ausetana,Genista javalambrensis,0.5586,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Calliandra sincorana,Calliandra exsudans,0.6572,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
-Lotus maritimus,Genista discolor,0.2107,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
+Lotus maritimus,Genista discolor,0.2108,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Hoffmannseggia glauca,Heisteria leptorhiza,0.4652,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Acacia leptophleba,Racosperma leptophlebum,0.5227,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Calobota halenbergensis,Lebeckia halenbergensis,0.552,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
@@ -5932,7 +5932,7 @@ Flemingia procumbens,Moghania vestita,0.2619,not synonym,sentence-transformers/a
 Genista monspessulana,Gastrolobium ovalifolium,0.3721,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Genista carinalis,Genista ottomanica,0.4375,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Amburana acreana,Nissolia robusta,0.2621,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
-Erythrostemon robinsonianus,Bugranopsis alopecuroides,0.3897,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
+Erythrostemon robinsonianus,Bugranopsis alopecuroides,0.3896,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Gilbertiodendron ogowense,Macrolobium ecoucense,0.4561,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Myroxylon peruiferum,Bonjeanea incana,0.519,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Monnina ciliolata,Polygala floribunda,0.4374,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
@@ -6079,7 +6079,7 @@ Gonocytisus angulatus,Xanthophyllum excelsum,0.2035,not synonym,sentence-transfo
 Polygaloides paucifolia,Polygala uniflora,0.7939,synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Muraltia lancifolia,Lupinus ccorilazensis,0.439,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Aotus ericoides,Pultenaea rosmarinifolia,0.3607,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
-Machaerium brasiliense,Machaerium ciliatum,0.665,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
+Machaerium brasiliense,Machaerium ciliatum,0.6649,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Calobota psiloloba,Millettia drastica,0.2336,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Acacia lacertensis,Genista triangularis,0.3854,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Ougeinia oojeinensis,Dalbergia oojeinensis,0.6261,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
@@ -6221,7 +6221,7 @@ Eysenhardtia polystachya,Feuilleea rubiginosa,0.2345,not synonym,sentence-transf
 Muraltia heisteria,Millettia bicolor,0.3137,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Millettia drastica,Solori thorelii,0.3034,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Inga rubiginosa,Monnina peruviana,0.4221,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
-Monnina marginata,Monnina huallagensis,0.7101,synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
+Monnina marginata,Monnina huallagensis,0.7102,synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Lotus herbaceus,Lotus crantzii,0.6545,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Lotus edulis,Krokeria oligoceratos,0.2509,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Hoffmannseggia intricata,Nemcia parviflora,0.4419,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
@@ -6864,7 +6864,7 @@ Inga cocleensis,Hippocrepis velutina,0.3294,not synonym,sentence-transformers/al
 Monnina sodiroana,Monnina pilgeri,0.6857,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Genista tridentata,Genistella tridentata,0.8011,synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Dialium orientale,Feuilleea myriophylla,0.3126,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
-Archidendron muricarpum,Pithecellobium muricatum,0.3605,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
+Archidendron muricarpum,Pithecellobium muricatum,0.3604,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Inga edwallii,Affonsea edwallii,0.6323,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Adenopodia scelerata,Entadopsis scelerata,0.4034,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Berlinia sapinii,Berlinia delevoyi,0.8247,synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
@@ -7455,7 +7455,7 @@ Gastrolobium pyramidale,Nemcia pyramidalis,0.5821,not synonym,sentence-transform
 Asemeia grandiflora,Polygala domingensis,0.4161,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Gastrolobium bilobum,Monnina piauhensis,0.3579,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Gilbertiodendron stipulaceum,Pithecellobium robinsonii,0.3421,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
-Archidendron borneense,Calliandra novaesae,0.3562,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
+Archidendron borneense,Calliandra novaesae,0.3563,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Flemingia gracilis,Lepidocoma gracilis,0.6046,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Genista triquetra,Moghania kerrii,0.3669,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Genista radiata,Lotus belgradicus,0.3636,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
@@ -8262,7 +8262,7 @@ Archidendron pauciflorum,Abarema pauciflora,0.6736,not synonym,sentence-transfor
 Muraltia lancifolia,Muraltia poiretii,0.7256,synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Berlinia bracteosa,Lotus mandonii,0.3885,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Angylocalyx oligophyllus,Angylocalyx wellensii,0.8007,synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
-Amphicarpaea edgeworthii,Muraltia mixta,0.383,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
+Amphicarpaea edgeworthii,Muraltia mixta,0.3831,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Inga laurina,Polygala squamifolia,0.2319,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Hoita macrostachya,Hoita longiloba,0.6135,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Cyclopia genistoides,Sophora genistifolia,0.4947,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
@@ -8334,7 +8334,7 @@ Securidaca planchoniana,Bituminaria acaulis,0.3671,not synonym,sentence-transfor
 Diclidanthera laurifolia,Caesalpinia regia,0.5731,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Calliandra californica,Anneslia mixta,0.474,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Kotschya recurvifolia,Smithia recurvifolia,0.6651,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
-Calliandra haematocephala,Feuilleea haematocephala,0.7126,synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
+Calliandra haematocephala,Feuilleea haematocephala,0.7125,synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Millettia rubiginosa,Phaseoloides rubiginosum,0.458,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Millettia comosa,Lonchocarpus comosus,0.4134,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Calliandra taxifolia,Calliandra expansa,0.604,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
@@ -8530,7 +8530,7 @@ Inga lallensis,Inga archeri,0.6971,not synonym,sentence-transformers/all-mpnet-b
 Lotus angustissimus,Lotus praetermissus,0.7872,synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Gilbertiodendron obliquum,Hoffmannseggia patagonica,0.3936,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Machaerium nigrum,Machaerium velutinum,0.8033,synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
-Hippocrepis constricta,Hippocrepis elongatula,0.8378,synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
+Hippocrepis constricta,Hippocrepis elongatula,0.8377,synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Lotus edulis,Cytisanthus nissanus,0.4127,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Carmichaelia australis,Carmichaelia violacea,0.7781,synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Acacia incrassata,Acacia vernicosa,0.7971,synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
@@ -10123,7 +10123,7 @@ Archidendron bigeminum,Xanthophyllum curtisii,0.2301,not synonym,sentence-transf
 Collaea speciosa,Lotus atropurpureus,0.3515,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Calliandra foliolosa,Dichosema racemosum,0.3346,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Erythrostemon glandulosus,Caesalpinia glandulosa,0.4802,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
-Brachypterum scandens,Ononis balearica,0.3333,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
+Brachypterum scandens,Ononis balearica,0.3334,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Xanthophyllum octandrum,Banisterodes macintyrii,0.3216,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Xanthophyllum vitellinum,Sophora genistifolia,0.5087,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Hoffmannseggia humilis,Galactia angustifolia,0.3808,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
@@ -10172,7 +10172,7 @@ Calliandra obesifolia,Machaerium puberulum,0.3704,not synonym,sentence-transform
 Genista aristata,Spartium hirsutum,0.3139,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Archidendron jiringa,Polygala amoenissima,0.1707,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Monnina salicifolia,Hebeandra phillyreoides,0.4726,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
-Monnina bonplandiana,Monnina nervosa,0.6578,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
+Monnina bonplandiana,Monnina nervosa,0.6579,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Calobota obovata,Lebeckia obovata,0.5788,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Inga stenoptera,Hebeandra hirta,0.3361,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Genista ramosissima,Racosperma aridum,0.1454,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
@@ -10270,7 +10270,7 @@ Carmichaelia curta,Huttonella curta,0.607,not synonym,sentence-transformers/all-
 Archidendron jiringa,Racosperma obtectum,0.1292,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Acacia filifolia,Archidendron vandersijdei,0.1408,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Chesneya parviflora,Dorycnium insulare,0.3498,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
-Acacia pickardii,Racosperma pickardii,0.5353,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
+Acacia pickardii,Racosperma pickardii,0.5354,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Amphiodon effusus,Amphilophium effusus,0.744,synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Glycine max,Hebeandra mucronata,0.344,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Genista micrantha,Genista bracteolata,0.621,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
@@ -10975,7 +10975,7 @@ Flemingia trifoliata,Flemingia capitata,0.8174,synonym,sentence-transformers/all
 Chorizema dicksonii,Feuilleea angustifolia,0.3957,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Inga ruiziana,Inga confusa,0.6582,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Archidendron utile,Abarema utilis,0.4513,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
-Ononis baetica,Ononis picardii,0.7132,synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
+Ononis baetica,Ononis picardii,0.7131,synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Flemingia macrophylla,Derris pseudoinvoluta,0.319,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Bredemeyera laurifolia,Mirbelia racemosa,0.513,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Erythrostemon angulatus,Heisteria squarrosa,0.3445,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
@@ -11187,7 +11187,7 @@ Muraltia obovata,Heisteria obovata,0.5957,not synonym,sentence-transformers/all-
 Archidendron jiringa,Pithecellobium lateriflorum,0.2203,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Lotus tetragonolobus,Tetragonolobus purpureus,0.5913,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Lotus subbiflorus,Pedrosia neglecta,0.186,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
-Glycine clandestina,Genista daurica,0.4291,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
+Glycine clandestina,Genista daurica,0.4292,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0
 Archidendron bigeminum,Pithecellobium nicobaricum,0.2414,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Asemeia martiana,Polygala martiana,0.6519,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,1
 Archidendron alternifoliolatum,Polygala lanceolata,0.0966,not synonym,sentence-transformers/all-mpnet-base-v2,0.7,0

@@ -944,7 +944,7 @@ Archidendron nervosum,Pithecellobium kostermansianum,0.8097,synonym,intfloat/e5-
 Calliandra quetzal,Anneslia quetzal,0.8739,synonym,intfloat/e5-base-v2,0.7,1
 Lotus dorycnium,Dorycnium dispermum,0.8777,synonym,intfloat/e5-base-v2,0.7,1
 Polygala longifolia,Anneslia mucronulata,0.7782,synonym,intfloat/e5-base-v2,0.7,0
-Monnina pterocarpa,Monnina chanduyensis,0.8919,synonym,intfloat/e5-base-v2,0.7,1
+Monnina pterocarpa,Monnina chanduyensis,0.8918,synonym,intfloat/e5-base-v2,0.7,1
 Archidendron calliandrum,Acacia biflora,0.8008,synonym,intfloat/e5-base-v2,0.7,0
 Machaerium isadelphum,Pithecolobium lucyi,0.7708,synonym,intfloat/e5-base-v2,0.7,0
 Millettia barteri,Millettia demeusei,0.9113,synonym,intfloat/e5-base-v2,0.7,1
@@ -1662,7 +1662,7 @@ Padbruggea filipes,Whitfordiodendron filipes,0.8595,synonym,intfloat/e5-base-v2,
 Carmichaelia petriei,Acacia pachyloma,0.8049,synonym,intfloat/e5-base-v2,0.7,0
 Asemeia monticola,Polygala monticola,0.8791,synonym,intfloat/e5-base-v2,0.7,1
 Flemingia grahamiana,Flemingia hockii,0.9048,synonym,intfloat/e5-base-v2,0.7,1
-Bossiaea hendersonii,Maughania strobilifera,0.7895,synonym,intfloat/e5-base-v2,0.7,0
+Bossiaea hendersonii,Maughania strobilifera,0.7894,synonym,intfloat/e5-base-v2,0.7,0
 Flemingia rollae,Lepidocoma rollae,0.873,synonym,intfloat/e5-base-v2,0.7,1
 Chesneya rytidosperma,Astragalus gibberosus,0.7835,synonym,intfloat/e5-base-v2,0.7,1
 Cyclopia genistoides,Feuilleea multifoliolata,0.7899,synonym,intfloat/e5-base-v2,0.7,0
@@ -2871,7 +2871,7 @@ Acacia leptophleba,Spartium hirsutum,0.7716,synonym,intfloat/e5-base-v2,0.7,0
 Ebenus sibthorpii,Anthyllis sericea,0.7511,synonym,intfloat/e5-base-v2,0.7,1
 Calliandra purdiei,Pithecolobium inundabile,0.7796,synonym,intfloat/e5-base-v2,0.7,0
 Gastrolobium coriaceum,Genista pomelii,0.7624,synonym,intfloat/e5-base-v2,0.7,0
-Millettia dubia,Inga asplenioides,0.7729,synonym,intfloat/e5-base-v2,0.7,0
+Millettia dubia,Inga asplenioides,0.7728,synonym,intfloat/e5-base-v2,0.7,0
 Inga laurina,Mimosa sinemariensis,0.7222,synonym,intfloat/e5-base-v2,0.7,1
 Archidendron lucidum,Feuilleea championii,0.7986,synonym,intfloat/e5-base-v2,0.7,1
 Gilbertiodendron aylmeri,Macrolobium aylmeri,0.8458,synonym,intfloat/e5-base-v2,0.7,1
@@ -3975,7 +3975,7 @@ Ononis hirta,Ononis ellipticifolia,0.8631,synonym,intfloat/e5-base-v2,0.7,1
 Polygaloides chamaebuxus,Tertria chamaebuxus,0.8369,synonym,intfloat/e5-base-v2,0.7,1
 Betencourtia neesii,Galactia macropoda,0.7746,synonym,intfloat/e5-base-v2,0.7,1
 Lotus purpureus,Muraltia satureioides,0.817,synonym,intfloat/e5-base-v2,0.7,0
-Calliandra squarrosa,Stiza psiloloba,0.7887,synonym,intfloat/e5-base-v2,0.7,0
+Calliandra squarrosa,Stiza psiloloba,0.7886,synonym,intfloat/e5-base-v2,0.7,0
 Acacia cyclops,Acacia eglandulosa,0.8826,synonym,intfloat/e5-base-v2,0.7,1
 Aphanocalyx hedinii,Nissolia dodgei,0.7711,synonym,intfloat/e5-base-v2,0.7,0
 Calliandra tergemina,Polygala lupulina,0.8011,synonym,intfloat/e5-base-v2,0.7,0
@@ -4229,7 +4229,7 @@ Gastrolobium acutum,Geissaspis katangensis,0.769,synonym,intfloat/e5-base-v2,0.7
 Xanthophyllum flavescens,Caesalpinia texana,0.7963,synonym,intfloat/e5-base-v2,0.7,0
 Muraltia macroceras,Muraltia macroceratia,0.9897,synonym,intfloat/e5-base-v2,0.7,1
 Polygala sphenoptera,Acacia bilaura,0.7927,synonym,intfloat/e5-base-v2,0.7,0
-Flemingia nilgheriensis,Inga quassiaefolia,0.8102,synonym,intfloat/e5-base-v2,0.7,0
+Flemingia nilgheriensis,Inga quassiaefolia,0.8101,synonym,intfloat/e5-base-v2,0.7,0
 Ebenus stellata,Polygala microloncha,0.7592,synonym,intfloat/e5-base-v2,0.7,0
 Coulteria glabra,Brasilettia glabra,0.8794,synonym,intfloat/e5-base-v2,0.7,1
 Comesperma calymega,Comesperma spathulatum,0.8898,synonym,intfloat/e5-base-v2,0.7,1
@@ -4266,7 +4266,7 @@ Inga lomatophylla,Feuilleea speciosa,0.7827,synonym,intfloat/e5-base-v2,0.7,1
 Genista sibirica,Polygala caracasana,0.7429,synonym,intfloat/e5-base-v2,0.7,0
 Nissolia tomentosa,Polygala dimorphophylla,0.7876,synonym,intfloat/e5-base-v2,0.7,0
 Acacia hamiltoniana,Mimosa tetraphylla,0.7895,synonym,intfloat/e5-base-v2,0.7,0
-Eysenhardtia orthocarpa,Viborquia orthocarpa,0.8578,synonym,intfloat/e5-base-v2,0.7,1
+Eysenhardtia orthocarpa,Viborquia orthocarpa,0.8577,synonym,intfloat/e5-base-v2,0.7,1
 Monnina martiana,Senega bonariensis,0.7604,synonym,intfloat/e5-base-v2,0.7,0
 Polygala malesiana,Brasilettia velutina,0.8033,synonym,intfloat/e5-base-v2,0.7,0
 Julbernardia paniculata,Polygala chloroptera,0.7835,synonym,intfloat/e5-base-v2,0.7,0
@@ -4516,7 +4516,7 @@ Daniellia pynaertii,Racosperma lacertense,0.7762,synonym,intfloat/e5-base-v2,0.7
 Carmichaelia australis,Carmichaelia acuminata,0.9338,synonym,intfloat/e5-base-v2,0.7,1
 Quillaja brasiliensis,Caesalpinia laxa,0.8182,synonym,intfloat/e5-base-v2,0.7,0
 Calliandra tergemina,Nissolia hirsuta,0.7767,synonym,intfloat/e5-base-v2,0.7,0
-Salomonia cantoniensis,Lupinus microphyllus,0.7896,synonym,intfloat/e5-base-v2,0.7,0
+Salomonia cantoniensis,Lupinus microphyllus,0.7895,synonym,intfloat/e5-base-v2,0.7,0
 Amphicarpaea ferruginea,Polygala mosquitiensis,0.7946,synonym,intfloat/e5-base-v2,0.7,0
 Calliandra tergemina,Dorycnium jordanii,0.7897,synonym,intfloat/e5-base-v2,0.7,0
 Nissolia klugii,Chaetocalyx klugii,0.8491,synonym,intfloat/e5-base-v2,0.7,1
@@ -5302,7 +5302,7 @@ Muraltia mitior,Mundtia kraussiana,0.7907,synonym,intfloat/e5-base-v2,0.7,1
 Genista falcata,Scorpius serpyllifolius,0.7788,synonym,intfloat/e5-base-v2,0.7,1
 Genista tenera,Genista virgata,0.9002,synonym,intfloat/e5-base-v2,0.7,1
 Monnina cuneata,Flemingia schultzii,0.7874,synonym,intfloat/e5-base-v2,0.7,0
-Calliandra umbellifera,Machaerium vellosianum,0.7712,synonym,intfloat/e5-base-v2,0.7,0
+Calliandra umbellifera,Machaerium vellosianum,0.7711,synonym,intfloat/e5-base-v2,0.7,0
 Lotus arabicus,Lotus arabicus,1.0,synonym,intfloat/e5-base-v2,0.7,1
 Lupinus luteus,Lupinus luteolus,0.9787,synonym,intfloat/e5-base-v2,0.7,1
 Securidaca diversifolia,Caesalpinia macrantha,0.8127,synonym,intfloat/e5-base-v2,0.7,0
@@ -5660,7 +5660,7 @@ Campsiandra laurifolia,Carpolobia delvauxii,0.7913,synonym,intfloat/e5-base-v2,0
 Aphanocalyx jenseniae,Bonaga minutissima,0.7783,synonym,intfloat/e5-base-v2,0.7,0
 Chorizema cordatum,Lebeckia candicans,0.776,synonym,intfloat/e5-base-v2,0.7,0
 Eutaxia microphylla,Sclerothamnus microphyllus,0.8778,synonym,intfloat/e5-base-v2,0.7,1
-Candolleodendron brachystachyum,Polygala smithii,0.8045,synonym,intfloat/e5-base-v2,0.7,0
+Candolleodendron brachystachyum,Polygala smithii,0.8044,synonym,intfloat/e5-base-v2,0.7,0
 Millettia barteri,Lonchocarpus barteri,0.8902,synonym,intfloat/e5-base-v2,0.7,1
 Lotus biflorus,Lotus conjugatus,0.9056,synonym,intfloat/e5-base-v2,0.7,1
 Calliandra crassipes,Feuilleea crassipes,0.88,synonym,intfloat/e5-base-v2,0.7,1
@@ -6043,7 +6043,7 @@ Genista hispanica,Nissolia aculeata,0.7482,synonym,intfloat/e5-base-v2,0.7,0
 Calliandra bombycina,Feuilleea leiocalycina,0.8075,synonym,intfloat/e5-base-v2,0.7,0
 Inga heterophylla,Maughania bracteata,0.7829,synonym,intfloat/e5-base-v2,0.7,0
 Lotus herbaceus,Feuilleea pachyloma,0.7799,synonym,intfloat/e5-base-v2,0.7,0
-Chesneya nubigena,Polygala zahlbruckneri,0.7978,synonym,intfloat/e5-base-v2,0.7,0
+Chesneya nubigena,Polygala zahlbruckneri,0.7977,synonym,intfloat/e5-base-v2,0.7,0
 Fairchildia panamensis,Tounatea panamensis,0.8689,synonym,intfloat/e5-base-v2,0.7,1
 Delonix brachycarpa,Poinciana brachycarpa,0.8873,synonym,intfloat/e5-base-v2,0.7,1
 Archidendron grandiflorum,Amblygonocarpus schweinfurthii,0.802,synonym,intfloat/e5-base-v2,0.7,0
@@ -6584,7 +6584,7 @@ Nissolia brasiliensis,Chaetocalyx matudai,0.7889,synonym,intfloat/e5-base-v2,0.7
 Muraltia alopecuroides,Heistera macroceras,0.7999,synonym,intfloat/e5-base-v2,0.7,0
 Machaerium seemannii,Zygia apoensis,0.7734,synonym,intfloat/e5-base-v2,0.7,0
 Securidaca planchoniana,Securidaca rufescens,0.9019,synonym,intfloat/e5-base-v2,0.7,1
-Archidendron oppositum,Albizia macrothyrsa,0.8011,synonym,intfloat/e5-base-v2,0.7,1
+Archidendron oppositum,Albizia macrothyrsa,0.801,synonym,intfloat/e5-base-v2,0.7,1
 Gastrolobium sericeum,Oxylobium sericeum,0.9246,synonym,intfloat/e5-base-v2,0.7,1
 Monnina ramosa,Hebeandra pubescens,0.7611,synonym,intfloat/e5-base-v2,0.7,0
 Lebruniodendron leptanthum,Cynometra leptantha,0.8768,synonym,intfloat/e5-base-v2,0.7,1
@@ -7324,7 +7324,7 @@ Millettia richardiana,Neodunnia atrocyanea,0.7713,synonym,intfloat/e5-base-v2,0.
 Muraltia serpylloides,Muraltia serpyllifolia,0.9777,synonym,intfloat/e5-base-v2,0.7,1
 Calliandra mollissima,Feuilleea mollissima,0.8751,synonym,intfloat/e5-base-v2,0.7,1
 Asemeia monninoides,Muraltia carnosa,0.7927,synonym,intfloat/e5-base-v2,0.7,0
-Acacia paradoxa,Racosperma filifolium,0.7855,synonym,intfloat/e5-base-v2,0.7,0
+Acacia paradoxa,Racosperma filifolium,0.7854,synonym,intfloat/e5-base-v2,0.7,0
 Archidendron ellipticum,Pithecellobium ellipticum,0.8916,synonym,intfloat/e5-base-v2,0.7,1
 Polygala ericifolia,Polygala mundiana,0.9103,synonym,intfloat/e5-base-v2,0.7,1
 Calliandra lanata,Ortholobium chevalieri,0.7788,synonym,intfloat/e5-base-v2,0.7,0
@@ -7938,7 +7938,7 @@ Xanthophyllum erythrostachyum,Cytisanthus sessilifolius,0.809,synonym,intfloat/e
 Inga velutina,Feuilleea velutina,0.86,synonym,intfloat/e5-base-v2,0.7,1
 Inga pilosula,Lupinus pinetorum,0.7634,synonym,intfloat/e5-base-v2,0.7,0
 Inga longipes,Feuilleea peruviana,0.7791,synonym,intfloat/e5-base-v2,0.7,1
-Amphicarpaea ferruginea,Shuteria ferruginea,0.8615,synonym,intfloat/e5-base-v2,0.7,1
+Amphicarpaea ferruginea,Shuteria ferruginea,0.8614,synonym,intfloat/e5-base-v2,0.7,1
 Muraltia acipetala,Securidaca densiflora,0.8049,synonym,intfloat/e5-base-v2,0.7,0
 Kartalinia acaulis,Aspalthium acaulis,0.8608,synonym,intfloat/e5-base-v2,0.7,1
 Apios carnea,Securidaca myrtifolia,0.7595,synonym,intfloat/e5-base-v2,0.7,0
@@ -9568,7 +9568,7 @@ Caamembeca andina,Cyclopia brachypoda,0.7787,synonym,intfloat/e5-base-v2,0.7,0
 Gastrolobium coriaceum,Podolobium coriaceum,0.9295,synonym,intfloat/e5-base-v2,0.7,1
 Lotus quinatus,Lotus brachycarpus,0.8947,synonym,intfloat/e5-base-v2,0.7,1
 Mora excelsa,Mora guianensis,0.8793,synonym,intfloat/e5-base-v2,0.7,1
-Archidendron bigeminum,Abarema monadelpha,0.8108,synonym,intfloat/e5-base-v2,0.7,1
+Archidendron bigeminum,Abarema monadelpha,0.8107,synonym,intfloat/e5-base-v2,0.7,1
 Hoffmannseggia glauca,Polygala natalensis,0.8181,synonym,intfloat/e5-base-v2,0.7,0
 Acacia auriculiformis,Smithia uguenensis,0.7969,synonym,intfloat/e5-base-v2,0.7,0
 Calliandra humilis,Polygala brachiata,0.8064,synonym,intfloat/e5-base-v2,0.7,0
@@ -10367,7 +10367,7 @@ Genista tribracteolata,Cytisus tribracteolatus,0.887,synonym,intfloat/e5-base-v2
 Coulteria pumila,Caesalpinia gracilis,0.831,synonym,intfloat/e5-base-v2,0.7,1
 Ononis hirta,Triclisperma grandiflora,0.7319,synonym,intfloat/e5-base-v2,0.7,0
 Calophaca grandiflora,Monnina spruceana,0.7837,synonym,intfloat/e5-base-v2,0.7,0
-Lotus arabicus,Derris taiwaniana,0.782,synonym,intfloat/e5-base-v2,0.7,0
+Lotus arabicus,Derris taiwaniana,0.7819,synonym,intfloat/e5-base-v2,0.7,0
 Machaerium hirtum,Polygala extraaxillaris,0.7649,synonym,intfloat/e5-base-v2,0.7,0
 Archidendron lucyi,Cylindrokelupha poilanei,0.7933,synonym,intfloat/e5-base-v2,0.7,0
 Myroxylon peruiferum,Chronanthos villaraii,0.7783,synonym,intfloat/e5-base-v2,0.7,0
@@ -10656,7 +10656,7 @@ Ononis bullonii,Mimosa parae,0.7666,synonym,intfloat/e5-base-v2,0.7,0
 Polygala subandina,Polygala oxyantha,0.9099,synonym,intfloat/e5-base-v2,0.7,1
 Polygala wattersii,Heterosamara wattersii,0.8984,synonym,intfloat/e5-base-v2,0.7,1
 Muraltia chamaepitys,Glycine mas,0.7489,synonym,intfloat/e5-base-v2,0.7,0
-Gilbertiodendron unijugum,Baryxylum brasiliense,0.802,synonym,intfloat/e5-base-v2,0.7,0
+Gilbertiodendron unijugum,Baryxylum brasiliense,0.8019,synonym,intfloat/e5-base-v2,0.7,0
 Muraltia macrocarpa,Teline monospessulana,0.7845,synonym,intfloat/e5-base-v2,0.7,0
 Lotus tetragonolobus,Tetragonolobus edulis,0.8981,synonym,intfloat/e5-base-v2,0.7,1
 Eutaxia myrtifolia,Acacia nigra,0.7835,synonym,intfloat/e5-base-v2,0.7,0
@@ -11156,7 +11156,7 @@ Dysolobium pilosum,Dolichovigna formosana,0.7973,synonym,intfloat/e5-base-v2,0.7
 Comesperma calymega,Zygia fagifolia,0.7787,synonym,intfloat/e5-base-v2,0.7,0
 Comesperma retusum,Maughania sootepensis,0.7884,synonym,intfloat/e5-base-v2,0.7,0
 Genista canariensis,Heistera incompta,0.7929,synonym,intfloat/e5-base-v2,0.7,0
-Gonocytisus angulatus,Retama parviflora,0.7677,synonym,intfloat/e5-base-v2,0.7,1
+Gonocytisus angulatus,Retama parviflora,0.7676,synonym,intfloat/e5-base-v2,0.7,1
 Inga cordistipula,Miediega suffruticosa,0.7839,synonym,intfloat/e5-base-v2,0.7,0
 Securidaca rivinifolia,Securidaca reticulata,0.9027,synonym,intfloat/e5-base-v2,0.7,1
 Inga maynensis,Millettia turgida,0.7815,synonym,intfloat/e5-base-v2,0.7,0

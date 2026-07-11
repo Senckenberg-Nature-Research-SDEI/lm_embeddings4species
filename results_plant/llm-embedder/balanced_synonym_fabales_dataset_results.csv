@@ -376,7 +376,7 @@ Lupinus andinus,Polygala vauthieri,0.715,synonym,BAAI/llm-embedder,0.7,0
 Lotus jordanii,Lotus sericeus,0.8424,synonym,BAAI/llm-embedder,0.7,1
 Calliandra rubescens,Polygala hayesii,0.7238,synonym,BAAI/llm-embedder,0.7,0
 Inga vulpina,Inga guilleminiana,0.9002,synonym,BAAI/llm-embedder,0.7,1
-Chesneya acaulis,Solori involuta,0.7352,synonym,BAAI/llm-embedder,0.7,0
+Chesneya acaulis,Solori involuta,0.7351,synonym,BAAI/llm-embedder,0.7,0
 Padbruggea dasyphylla,Racosperma manipulare,0.75,synonym,BAAI/llm-embedder,0.7,0
 Gastrolobium coriaceum,Oxylobium ovalifolium,0.7686,synonym,BAAI/llm-embedder,0.7,1
 Comesperma lhotzkyanum,Camptosema pentaphyllum,0.7895,synonym,BAAI/llm-embedder,0.7,0
@@ -556,7 +556,7 @@ Archidendron sessile,Ononis barbata,0.7245,synonym,BAAI/llm-embedder,0.7,0
 Hebecarpa costaricensis,Mimosa mollissima,0.71,synonym,BAAI/llm-embedder,0.7,0
 Cyclopia galioides,Inga hedgerae,0.734,synonym,BAAI/llm-embedder,0.7,0
 Genista cupanii,Spartium cupanii,0.8678,synonym,BAAI/llm-embedder,0.7,1
-Gastrolobium pyramidale,Hoffmannseggia pueblana,0.7473,synonym,BAAI/llm-embedder,0.7,0
+Gastrolobium pyramidale,Hoffmannseggia pueblana,0.7472,synonym,BAAI/llm-embedder,0.7,0
 Genista ferox,Cytisus ferox,0.8777,synonym,BAAI/llm-embedder,0.7,1
 Gastrolobium linearifolium,Thylacanthus ferrugineus,0.7681,synonym,BAAI/llm-embedder,0.7,0
 Lotus aegaeus,Cytiscus racemosus,0.7561,synonym,BAAI/llm-embedder,0.7,0
@@ -746,7 +746,7 @@ Genista canariensis,Teline canariensis,0.8902,synonym,BAAI/llm-embedder,0.7,1
 Dorycnium iberecum,Inga nitida,0.6976,not synonym,BAAI/llm-embedder,0.7,0
 Machaerium punctatum,Machaerium puberulum,0.8691,synonym,BAAI/llm-embedder,0.7,1
 Muraltia angulosa,Heistera angulosa,0.8883,synonym,BAAI/llm-embedder,0.7,1
-Ononis sicula,Polygala corbariensis,0.7146,synonym,BAAI/llm-embedder,0.7,0
+Ononis sicula,Polygala corbariensis,0.7145,synonym,BAAI/llm-embedder,0.7,0
 Acacia hockingsii,Heisteria macroceras,0.7812,synonym,BAAI/llm-embedder,0.7,0
 Nissolia latisiliqua,Hedysarum latisiliquum,0.859,synonym,BAAI/llm-embedder,0.7,1
 Monnina amarella,Phaseolodes caeruleum,0.726,synonym,BAAI/llm-embedder,0.7,0
@@ -901,7 +901,7 @@ Millettia dura,Millettia cyanantha,0.8488,synonym,BAAI/llm-embedder,0.7,1
 Xanthophyllum rufum,Glycine pescadrensis,0.7284,synonym,BAAI/llm-embedder,0.7,0
 Monnina linearifolia,Pteromonnina linearifolia,0.9078,synonym,BAAI/llm-embedder,0.7,1
 Lotus hirsutus,Bonjeanea incana,0.729,synonym,BAAI/llm-embedder,0.7,1
-Mundulea barclayi,Millettia bojeri,0.7496,synonym,BAAI/llm-embedder,0.7,1
+Mundulea barclayi,Millettia bojeri,0.7495,synonym,BAAI/llm-embedder,0.7,1
 Nissolia tomentosa,Chaetocalyx tomentosus,0.8609,synonym,BAAI/llm-embedder,0.7,1
 Kotschya strigosa,Smithia strigosa,0.8963,synonym,BAAI/llm-embedder,0.7,1
 Muraltia leptorhiza,Caesalpinia peninsularis,0.7608,synonym,BAAI/llm-embedder,0.7,0
@@ -1285,7 +1285,7 @@ Archidendron aruense,Meibomia ormocarpoides,0.7413,synonym,BAAI/llm-embedder,0.7
 Nissolia vincentina,Xanthophyllum undulatum,0.7367,synonym,BAAI/llm-embedder,0.7,0
 Muraltia ericifolia,Muraltia petraea,0.8623,synonym,BAAI/llm-embedder,0.7,0
 Monnina cuneata,Monnina diversifolia,0.851,synonym,BAAI/llm-embedder,0.7,1
-Polygala nicaeensis,Securidaca mollis,0.7431,synonym,BAAI/llm-embedder,0.7,0
+Polygala nicaeensis,Securidaca mollis,0.743,synonym,BAAI/llm-embedder,0.7,0
 Archidendron glandulosum,Archidendron glandulosum,1.0,synonym,BAAI/llm-embedder,0.7,1
 Millettia psilopetala,Craibia bequaertii,0.7024,synonym,BAAI/llm-embedder,0.7,1
 Chorizema aciculare,Monnina humahuaquensis,0.7411,synonym,BAAI/llm-embedder,0.7,0
@@ -1742,7 +1742,7 @@ Machaerium oblongifolium,Machaerium paraguariense,0.8404,synonym,BAAI/llm-embedd
 Carmichaelia australis,Carmichaelia cunninghamii,0.8434,synonym,BAAI/llm-embedder,0.7,1
 Ononis sicula,Ononis leptocarpa,0.8126,synonym,BAAI/llm-embedder,0.7,1
 Xanthophyllum lanceatum,Mimosa monadelpha,0.7064,synonym,BAAI/llm-embedder,0.7,0
-Asemeia acuminata,Polygala smithii,0.7039,synonym,BAAI/llm-embedder,0.7,1
+Asemeia acuminata,Polygala smithii,0.7038,synonym,BAAI/llm-embedder,0.7,1
 Securidaca welwitschii,Securidaca timboensis,0.8377,synonym,BAAI/llm-embedder,0.7,1
 Archidendron aruense,Maughania gracilis,0.7371,synonym,BAAI/llm-embedder,0.7,0
 Lotus aegaeus,Tetragonolobus aegaeus,0.8657,synonym,BAAI/llm-embedder,0.7,1
@@ -2021,7 +2021,7 @@ Archidendron contortum,Chaetocalyx vincentinus,0.7469,synonym,BAAI/llm-embedder,
 Acacia paradoxa,Meibomia dependens,0.7731,synonym,BAAI/llm-embedder,0.7,0
 Cyclopia falcata,Cyclopia latifolia,0.8312,synonym,BAAI/llm-embedder,0.7,1
 Eutaxia parvifolia,Epirixanthes aphylla,0.7792,synonym,BAAI/llm-embedder,0.7,0
-Polygala equisetoides,Notospartium carmichaelii,0.7104,synonym,BAAI/llm-embedder,0.7,0
+Polygala equisetoides,Notospartium carmichaelii,0.7103,synonym,BAAI/llm-embedder,0.7,0
 Genista aspalathoides,Genista umbellata,0.8522,synonym,BAAI/llm-embedder,0.7,1
 Rhinotropis cornuta,Polygala cornuta,0.8769,synonym,BAAI/llm-embedder,0.7,1
 Brachypterum scandens,Polygala rubioides,0.7427,synonym,BAAI/llm-embedder,0.7,0
@@ -2189,7 +2189,7 @@ Lotus jolyi,Comesperma pubescens,0.7052,synonym,BAAI/llm-embedder,0.7,0
 Dialium zenkeri,Glycine javanica,0.7608,synonym,BAAI/llm-embedder,0.7,0
 Lotus jolyi,Lotus capillipes,0.8412,synonym,BAAI/llm-embedder,0.7,1
 Calliandra peninsularis,Salomonia sessilifolia,0.7586,synonym,BAAI/llm-embedder,0.7,0
-Ononis diffusa,Polygala itatiaiae,0.7153,synonym,BAAI/llm-embedder,0.7,0
+Ononis diffusa,Polygala itatiaiae,0.7152,synonym,BAAI/llm-embedder,0.7,0
 Hippocrepis balearica,Polygala oleifolia,0.7299,synonym,BAAI/llm-embedder,0.7,0
 Gastrolobium spathulatum,Nemcia spathulata,0.8131,synonym,BAAI/llm-embedder,0.7,1
 Lupinus velutinus,Lotus suaveolens,0.7579,synonym,BAAI/llm-embedder,0.7,0
@@ -2435,7 +2435,7 @@ Archidendron oppositum,Xanthophyllum kunstleri,0.7742,synonym,BAAI/llm-embedder,
 Genista monspessulana,Ononis scariosa,0.7576,synonym,BAAI/llm-embedder,0.7,0
 Caamembeca martinellii,Desmodium dichotomum,0.7286,synonym,BAAI/llm-embedder,0.7,0
 Acacia microbotrya,Fusanus diversifolius,0.7437,synonym,BAAI/llm-embedder,0.7,1
-Comesperma ericinum,Ebenidium pinnatum,0.8318,synonym,BAAI/llm-embedder,0.7,0
+Comesperma ericinum,Ebenidium pinnatum,0.8317,synonym,BAAI/llm-embedder,0.7,0
 Inga tomentosa,Feuilleea tomentosa,0.8761,synonym,BAAI/llm-embedder,0.7,1
 Polygala wettsteinii,Racosperma leptophlebum,0.742,synonym,BAAI/llm-embedder,0.7,0
 Xanthophyllum incertum,Polygala wrightii,0.7475,synonym,BAAI/llm-embedder,0.7,0
@@ -2513,7 +2513,7 @@ Humularia welwitschii,Geissaspis welwitschii,0.8714,synonym,BAAI/llm-embedder,0.
 Millettia fruticosa,Polygala pilosa,0.7954,synonym,BAAI/llm-embedder,0.7,0
 Muraltia alopecuroides,Lotus allionii,0.7467,synonym,BAAI/llm-embedder,0.7,0
 Monnina ramosa,Lotus roseus,0.7403,synonym,BAAI/llm-embedder,0.7,0
-Lotus dorycnium,Dorycnium monspeliense,0.876,synonym,BAAI/llm-embedder,0.7,1
+Lotus dorycnium,Dorycnium monspeliense,0.8759,synonym,BAAI/llm-embedder,0.7,1
 Calliandra humilis,Racosperma armata,0.7373,synonym,BAAI/llm-embedder,0.7,0
 Bossiaea rhombifolia,Bossiaea lenticularis,0.8614,synonym,BAAI/llm-embedder,0.7,1
 Polygala amboniensis,Glycine filosa,0.7373,synonym,BAAI/llm-embedder,0.7,0
@@ -2624,7 +2624,7 @@ Flemingia lineata,Onobrychis lineata,0.8581,synonym,BAAI/llm-embedder,0.7,1
 Bredemeyera laurifolia,Banisterodes macintyrii,0.7679,synonym,BAAI/llm-embedder,0.7,0
 Ononis remotiflora,Ononis remotiflora,1.0,synonym,BAAI/llm-embedder,0.7,1
 Inga sapindoides,Inga biolleyana,0.837,synonym,BAAI/llm-embedder,0.7,1
-Amphicarpaea bracteata,Dolichos monticola,0.7314,synonym,BAAI/llm-embedder,0.7,0
+Amphicarpaea bracteata,Dolichos monticola,0.7313,synonym,BAAI/llm-embedder,0.7,0
 Muraltia rubeacea,Polygala rectipilis,0.7355,synonym,BAAI/llm-embedder,0.7,0
 Erythrostemon gilliesii,Ononis orygalis,0.7518,synonym,BAAI/llm-embedder,0.7,0
 Hebecarpa obscura,Podolobium sericeum,0.7075,synonym,BAAI/llm-embedder,0.7,0
@@ -3090,7 +3090,7 @@ Polygala caudata,Comesperma longifolium,0.7127,synonym,BAAI/llm-embedder,0.7,0
 Muraltia angulosa,Dorycnium monspeliense,0.7168,synonym,BAAI/llm-embedder,0.7,0
 Humularia mendoncae,Ononis praecox,0.7245,synonym,BAAI/llm-embedder,0.7,0
 Ononis cephalotes,Ononis montana,0.8632,synonym,BAAI/llm-embedder,0.7,1
-Xanthophyllum vitellinum,Xanthophyllum curtisii,0.8368,synonym,BAAI/llm-embedder,0.7,1
+Xanthophyllum vitellinum,Xanthophyllum curtisii,0.8367,synonym,BAAI/llm-embedder,0.7,1
 Echinospartum boissieri,Echinospartum webbii,0.8585,synonym,BAAI/llm-embedder,0.7,1
 Archidendron glabrum,Albizia hansemannii,0.7513,synonym,BAAI/llm-embedder,0.7,1
 Calliandra peninsularis,Anneslia lagunae,0.7554,synonym,BAAI/llm-embedder,0.7,1
@@ -3276,7 +3276,7 @@ Lotus jolyi,Cyclopia aurea,0.7161,synonym,BAAI/llm-embedder,0.7,0
 Chesneya nubigena,Astragalus larkyaensis,0.7586,synonym,BAAI/llm-embedder,0.7,1
 Lupinus andersonii,Polygala attenuata,0.7242,synonym,BAAI/llm-embedder,0.7,0
 Gastrolobium coriaceum,Oxylobium coriaceum,0.9287,synonym,BAAI/llm-embedder,0.7,1
-Salomonia ciliata,Salomonia arnottiana,0.8476,synonym,BAAI/llm-embedder,0.7,1
+Salomonia ciliata,Salomonia arnottiana,0.8475,synonym,BAAI/llm-embedder,0.7,1
 Dialium dinklagei,Ononis pyramidalis,0.732,synonym,BAAI/llm-embedder,0.7,0
 Monnina marginata,Monnina peruviana,0.862,synonym,BAAI/llm-embedder,0.7,1
 Kotschya eurycalyx,Smithia eurycalyx,0.8851,synonym,BAAI/llm-embedder,0.7,1
@@ -3456,7 +3456,7 @@ Securidaca longepedunculata,Lophostylis angustifolia,0.719,synonym,BAAI/llm-embe
 Dahlstedtia pentaphylla,Genista barnadesii,0.7692,synonym,BAAI/llm-embedder,0.7,0
 Ononis minutissima,Ononis barbata,0.8459,synonym,BAAI/llm-embedder,0.7,1
 Asemeia grandiflora,Archidendron kanehirae,0.7425,synonym,BAAI/llm-embedder,0.7,0
-Humularia welwitschii,Damapana welwitschii,0.8814,synonym,BAAI/llm-embedder,0.7,1
+Humularia welwitschii,Damapana welwitschii,0.8813,synonym,BAAI/llm-embedder,0.7,1
 Machaerium arboreum,Nissolia acuminata,0.7551,synonym,BAAI/llm-embedder,0.7,1
 Muraltia ononidifolia,Heisteria ononidifolia,0.9009,synonym,BAAI/llm-embedder,0.7,1
 Monnina cuneata,Ostryocarpus parviflorus,0.7079,synonym,BAAI/llm-embedder,0.7,0
@@ -3850,7 +3850,7 @@ Ancistrotropis firmula,Phaseolus crassifolius,0.7574,synonym,BAAI/llm-embedder,0
 Caamembeca oxyphylla,Inga monticola,0.744,synonym,BAAI/llm-embedder,0.7,0
 Daniellia oblonga,Phaseoloides rubiginosum,0.7331,synonym,BAAI/llm-embedder,0.7,0
 Delonix floribunda,Aprevalia perrieri,0.7673,synonym,BAAI/llm-embedder,0.7,1
-Calliandra bella,Feuilleea bella,0.8222,synonym,BAAI/llm-embedder,0.7,1
+Calliandra bella,Feuilleea bella,0.8221,synonym,BAAI/llm-embedder,0.7,1
 Calobota pungens,Acanthobotrya pungens,0.8975,synonym,BAAI/llm-embedder,0.7,1
 Calliandra falcata,Inga subvestita,0.7569,synonym,BAAI/llm-embedder,0.7,0
 Genista tenera,Acacia armata,0.7276,synonym,BAAI/llm-embedder,0.7,0
@@ -3948,7 +3948,7 @@ Nissolia latisiliqua,Planarium latisiliquum,0.8614,synonym,BAAI/llm-embedder,0.7
 Archidendron bigeminum,Abarema abeywickramae,0.7181,synonym,BAAI/llm-embedder,0.7,1
 Echinospartum ibericum,Lotus odoratus,0.7435,synonym,BAAI/llm-embedder,0.7,0
 Millettia lenneoides,Derris polyphylla,0.7457,synonym,BAAI/llm-embedder,0.7,1
-Dimorphandra exaltata,Cassia fluminensis,0.7228,synonym,BAAI/llm-embedder,0.7,1
+Dimorphandra exaltata,Cassia fluminensis,0.7227,synonym,BAAI/llm-embedder,0.7,1
 Lotus dorycnium,Flemingia hockii,0.739,synonym,BAAI/llm-embedder,0.7,0
 Machaerium isadelphum,Feuilleea gardneri,0.7229,synonym,BAAI/llm-embedder,0.7,0
 Gastrolobium plicatum,Polygala nicaeensis,0.7595,synonym,BAAI/llm-embedder,0.7,0
@@ -4184,7 +4184,7 @@ Calliandra laxa,Acacia laxa,0.8791,synonym,BAAI/llm-embedder,0.7,1
 Dialium kunstleri,Dialium trifoliolatum,0.9025,synonym,BAAI/llm-embedder,0.7,1
 Comesperma nudiusculum,Comesperma megapteryga,0.8325,synonym,BAAI/llm-embedder,0.7,1
 Calliandra tweedii,Calliandra foliosa,0.8597,synonym,BAAI/llm-embedder,0.7,1
-Genista pilosa,Telinaria pilosa,0.8716,synonym,BAAI/llm-embedder,0.7,1
+Genista pilosa,Telinaria pilosa,0.8715,synonym,BAAI/llm-embedder,0.7,1
 Brachypterum microphyllum,Acacia bella,0.7724,synonym,BAAI/llm-embedder,0.7,0
 Heterostemon impar,Mimosa subnervosa,0.7751,synonym,BAAI/llm-embedder,0.7,0
 Hoffmannseggia prostrata,Hoffmannseggia gracilis,0.8348,synonym,BAAI/llm-embedder,0.7,1
@@ -4591,7 +4591,7 @@ Polygala rugelii,Lonchocarpus macrostachyus,0.7357,synonym,BAAI/llm-embedder,0.7
 Gastrolobium racemosum,Bredemeyera ciliata,0.7372,synonym,BAAI/llm-embedder,0.7,0
 Amphicarpaea bracteata,Lotus intermedius,0.7264,synonym,BAAI/llm-embedder,0.7,0
 Genista hispanica,Telinaria hispanica,0.8772,synonym,BAAI/llm-embedder,0.7,1
-Lotus graecus,Bonjeanea kotschyi,0.7108,synonym,BAAI/llm-embedder,0.7,1
+Lotus graecus,Bonjeanea kotschyi,0.7107,synonym,BAAI/llm-embedder,0.7,1
 Muraltia serpylloides,Heisteria serpylloides,0.9043,synonym,BAAI/llm-embedder,0.7,1
 Bossiaea spinosa,Delonix leucantha,0.7363,synonym,BAAI/llm-embedder,0.7,0
 Acacia bynoeana,Acacia pumila,0.8245,synonym,BAAI/llm-embedder,0.7,1
@@ -4680,7 +4680,7 @@ Lotus hirsutus,Bonjeanea venusta,0.7438,synonym,BAAI/llm-embedder,0.7,1
 Acacia auronitens,Racosperma auronitens,0.9165,synonym,BAAI/llm-embedder,0.7,1
 Securidaca tomentosa,Racosperma botrydion,0.7499,synonym,BAAI/llm-embedder,0.7,0
 Gastrolobium capitatum,Poincianella acapulcensis,0.7301,synonym,BAAI/llm-embedder,0.7,0
-Archidendron minahassae,Phaseolodes aboense,0.7679,synonym,BAAI/llm-embedder,0.7,0
+Archidendron minahassae,Phaseolodes aboense,0.7678,synonym,BAAI/llm-embedder,0.7,0
 Polygala timoutoides,Teline tribracteolata,0.7267,synonym,BAAI/llm-embedder,0.7,0
 Ononis tridentata,Ononis crassifolia,0.8433,synonym,BAAI/llm-embedder,0.7,1
 Ononis stenophylla,Polygala heliostigma,0.7372,synonym,BAAI/llm-embedder,0.7,0
@@ -4752,7 +4752,7 @@ Calliandra glyphoxylon,Affonsea lucyi,0.754,synonym,BAAI/llm-embedder,0.7,0
 Calliandra taxifolia,Feuilleea prostrata,0.7104,synonym,BAAI/llm-embedder,0.7,1
 Ancylotropis insignis,Hebeandra euonymoides,0.7249,synonym,BAAI/llm-embedder,0.7,0
 Archidendron parviflorum,Archidendron warenense,0.8536,synonym,BAAI/llm-embedder,0.7,1
-Polygala sphenoptera,Polygala filifera,0.8464,synonym,BAAI/llm-embedder,0.7,1
+Polygala sphenoptera,Polygala filifera,0.8463,synonym,BAAI/llm-embedder,0.7,1
 Inga pilosula,Inga setifera,0.8637,synonym,BAAI/llm-embedder,0.7,1
 Dimorphandra macrostachya,Dimorphandra macrostachya,1.0,synonym,BAAI/llm-embedder,0.7,1
 Monnina pterocarpa,Geissaspis minima,0.7435,synonym,BAAI/llm-embedder,0.7,0
@@ -4875,7 +4875,7 @@ Lupinus angustifolius,Lupinus sylvestris,0.8296,synonym,BAAI/llm-embedder,0.7,1
 Muraltia crassifolia,Polygala polyphylla,0.7539,synonym,BAAI/llm-embedder,0.7,1
 Carmichaelia australis,Pithecellobium dewitianum,0.7415,synonym,BAAI/llm-embedder,0.7,0
 Salomonia ciliata,Dalea multifoliolata,0.7336,synonym,BAAI/llm-embedder,0.7,0
-Calliandra staminea,Skaphium lanceatum,0.7306,synonym,BAAI/llm-embedder,0.7,0
+Calliandra staminea,Skaphium lanceatum,0.7305,synonym,BAAI/llm-embedder,0.7,0
 Genista albida,Racosperma campylophyllum,0.7414,synonym,BAAI/llm-embedder,0.7,0
 Genista fasselata,Cytisus tragacanthiformis,0.7559,synonym,BAAI/llm-embedder,0.7,0
 Polygala hohenackeriana,Polygala jablotskiana,0.8361,synonym,BAAI/llm-embedder,0.7,1
@@ -5514,7 +5514,7 @@ Rhinotropis madrensis,Polygala madrensis,0.8732,synonym,BAAI/llm-embedder,0.7,1
 Xanthophyllum sylvestre,Cynometra glabra,0.7635,synonym,BAAI/llm-embedder,0.7,0
 Genista patens,Cytisus heterochrous,0.7452,synonym,BAAI/llm-embedder,0.7,1
 Inga maynensis,Isoberlinia magnistipulata,0.7347,synonym,BAAI/llm-embedder,0.7,0
-Millettia ebenifera,Fornasinia ebenifera,0.8752,synonym,BAAI/llm-embedder,0.7,1
+Millettia ebenifera,Fornasinia ebenifera,0.8751,synonym,BAAI/llm-embedder,0.7,1
 Inga sessilis,Genista scariosa,0.7823,synonym,BAAI/llm-embedder,0.7,0
 Hippocrepis emerus,Genista triquetra,0.7295,synonym,BAAI/llm-embedder,0.7,0
 Archidendron kunstleri,Pithecellobium kunstleri,0.8646,synonym,BAAI/llm-embedder,0.7,1
@@ -6033,7 +6033,7 @@ Calophaca grandiflora,Savia volubilis,0.7352,synonym,BAAI/llm-embedder,0.7,0
 Millettia fruticosa,Polygala portoricensis,0.7535,synonym,BAAI/llm-embedder,0.7,0
 Monnina ciliolata,Monnina schlechtendaliana,0.864,synonym,BAAI/llm-embedder,0.7,1
 Kotschya schweinfurthii,Smithia schweinfurthii,0.8906,synonym,BAAI/llm-embedder,0.7,1
-Monnina bonplandiana,Kostyczewa trifoliata,0.7562,synonym,BAAI/llm-embedder,0.7,0
+Monnina bonplandiana,Kostyczewa trifoliata,0.7561,synonym,BAAI/llm-embedder,0.7,0
 Nogra grahamii,Apios esquirolii,0.7647,synonym,BAAI/llm-embedder,0.7,1
 Muraltia divaricata,Muraltia incompta,0.8463,synonym,BAAI/llm-embedder,0.7,1
 Millettia weizhii,Huchimingia weizhii,0.8866,synonym,BAAI/llm-embedder,0.7,1
@@ -6131,7 +6131,7 @@ Lotus berthelotii,Tephrosia oraria,0.7339,synonym,BAAI/llm-embedder,0.7,0
 Kotschya parvifolia,Polygala pubescens,0.7718,synonym,BAAI/llm-embedder,0.7,0
 Asemeia mollis,Lalage stipularis,0.7289,synonym,BAAI/llm-embedder,0.7,0
 Errazurizia benthamii,Parosela benthamii,0.8882,synonym,BAAI/llm-embedder,0.7,1
-Inga multicaulis,Inga rhabdotocalyx,0.8733,synonym,BAAI/llm-embedder,0.7,1
+Inga multicaulis,Inga rhabdotocalyx,0.8732,synonym,BAAI/llm-embedder,0.7,1
 Acacia auronitens,Ononis canescens,0.7886,synonym,BAAI/llm-embedder,0.7,0
 Amphicarpaea bracteata,Abarema contorta,0.7514,synonym,BAAI/llm-embedder,0.7,0
 Brachypterum pseudinvolutum,Inga bonplandiana,0.7513,synonym,BAAI/llm-embedder,0.7,0
@@ -6327,7 +6327,7 @@ Berlinia sapinii,Galedupa piscidia,0.75,synonym,BAAI/llm-embedder,0.7,0
 Millettia grandis,Racosperma lentigineum,0.7564,synonym,BAAI/llm-embedder,0.7,0
 Machaerium uncinatum,Lotus montanus,0.791,synonym,BAAI/llm-embedder,0.7,0
 Millettia sericea,Dalbergia barclayi,0.7256,synonym,BAAI/llm-embedder,0.7,0
-Lotus ornithopodioides,Anil welwitschii,0.7379,synonym,BAAI/llm-embedder,0.7,0
+Lotus ornithopodioides,Anil welwitschii,0.7378,synonym,BAAI/llm-embedder,0.7,0
 Bredemeyera disperma,Bredemeyera sellowii,0.8431,synonym,BAAI/llm-embedder,0.7,1
 Dialium bipindense,Phaseoloides glaucescens,0.7336,synonym,BAAI/llm-embedder,0.7,0
 Erythrostemon exilifolius,Caesalpinia coulterioides,0.755,synonym,BAAI/llm-embedder,0.7,0
@@ -6393,7 +6393,7 @@ Padbruggea dasyphylla,Millettia dasyphylla,0.8906,synonym,BAAI/llm-embedder,0.7,
 Caamembeca spectabilis,Monnina chanduyensis,0.7483,synonym,BAAI/llm-embedder,0.7,0
 Hippocrepis scorpioides,Ononis glandulifera,0.7643,synonym,BAAI/llm-embedder,0.7,0
 Lotus pedunculatus,Maughania tuberosa,0.7434,synonym,BAAI/llm-embedder,0.7,0
-Polygaloides balansae,Chamaebuxus balansae,0.8727,synonym,BAAI/llm-embedder,0.7,1
+Polygaloides balansae,Chamaebuxus balansae,0.8726,synonym,BAAI/llm-embedder,0.7,1
 Millettia richardiana,Neodunnia edentata,0.7741,synonym,BAAI/llm-embedder,0.7,1
 Ononis arvensis,Ononis inermis,0.8571,synonym,BAAI/llm-embedder,0.7,1
 Monnina crassifolia,Archidendron chrysocarpum,0.7697,synonym,BAAI/llm-embedder,0.7,0
@@ -6416,7 +6416,7 @@ Calliandra humilis,Inga amazonica,0.7431,synonym,BAAI/llm-embedder,0.7,0
 Chesneya macrantha,Chesniella macrantha,0.9478,synonym,BAAI/llm-embedder,0.7,1
 Genista stenopetala,Aspalathus ebenus,0.7371,synonym,BAAI/llm-embedder,0.7,0
 Gilbertiodendron grandiflorum,Ortholobium bubalinum,0.7933,synonym,BAAI/llm-embedder,0.7,0
-Dysolobium dolichoides,Tetragonolobus bouteloui,0.7489,synonym,BAAI/llm-embedder,0.7,0
+Dysolobium dolichoides,Tetragonolobus bouteloui,0.7488,synonym,BAAI/llm-embedder,0.7,0
 Heterostemon conjugatus,Monopetalanthus hedinii,0.7343,synonym,BAAI/llm-embedder,0.7,0
 Carmichaelia arborea,Achyronia arborea,0.8763,synonym,BAAI/llm-embedder,0.7,1
 Microcharis microcharoides,Hippocrepis balearica,0.7313,synonym,BAAI/llm-embedder,0.7,0
@@ -6918,7 +6918,7 @@ Gastrolobium nervosum,Polygala ovatifolia,0.7293,synonym,BAAI/llm-embedder,0.7,0
 Ononis fruticosa,Chorizema chandleri,0.7572,synonym,BAAI/llm-embedder,0.7,0
 Caamembeca andina,Avornela linifolia,0.7381,synonym,BAAI/llm-embedder,0.7,0
 Genista tricuspidata,Genista longirostrata,0.8273,synonym,BAAI/llm-embedder,0.7,1
-Securidaca lanceolata,Elsota lanceolata,0.9042,synonym,BAAI/llm-embedder,0.7,1
+Securidaca lanceolata,Elsota lanceolata,0.9041,synonym,BAAI/llm-embedder,0.7,1
 Securidaca sylvestris,Elsota sylvestris,0.8913,synonym,BAAI/llm-embedder,0.7,1
 Flemingia macrophylla,Muraltia levynsiana,0.8014,synonym,BAAI/llm-embedder,0.7,0
 Lupinus sarmentosus,Lupinus gracilis,0.8435,synonym,BAAI/llm-embedder,0.7,1
@@ -7082,7 +7082,7 @@ Ononis euphrasiifolia,Genistella florida,0.7491,synonym,BAAI/llm-embedder,0.7,0
 Flemingia parviflora,Adenopodia patens,0.7534,synonym,BAAI/llm-embedder,0.7,0
 Asemeia grandiflora,Asemeia cumulicola,0.869,synonym,BAAI/llm-embedder,0.7,1
 Millettia barteri,Millettia urophylla,0.822,synonym,BAAI/llm-embedder,0.7,1
-Leptocyamus tabacina,Ononis littoralis,0.7012,synonym,BAAI/llm-embedder,0.7,0
+Leptocyamus tabacina,Ononis littoralis,0.7011,synonym,BAAI/llm-embedder,0.7,0
 Genista stenopetala,Pithecellobium muricatum,0.7355,synonym,BAAI/llm-embedder,0.7,0
 Dysolobium grande,Inga purpurea,0.703,synonym,BAAI/llm-embedder,0.7,0
 Erythrostemon epifanioi,Chesneya euphratensis,0.7441,synonym,BAAI/llm-embedder,0.7,0
@@ -7131,7 +7131,7 @@ Bouffordia dichotoma,Nemcia cuneata,0.742,synonym,BAAI/llm-embedder,0.7,0
 Inga laevigata,Maughania paniculata,0.7031,synonym,BAAI/llm-embedder,0.7,0
 Muraltia heisteria,Nemcia dilatata,0.7118,synonym,BAAI/llm-embedder,0.7,0
 Genista spartioides,Genista palmiformis,0.8337,synonym,BAAI/llm-embedder,0.7,1
-Angylocalyx oligophyllus,Uraria retrofructa,0.7097,synonym,BAAI/llm-embedder,0.7,0
+Angylocalyx oligophyllus,Uraria retrofructa,0.7096,synonym,BAAI/llm-embedder,0.7,0
 Calliandra sessilis,Calliandra tocatina,0.8485,synonym,BAAI/llm-embedder,0.7,1
 Apios carnea,Apios carnea,1.0,synonym,BAAI/llm-embedder,0.7,1
 Hebecarpa caracasana,Larrea pueblana,0.7716,synonym,BAAI/llm-embedder,0.7,0
@@ -7298,7 +7298,7 @@ Flemingia chappar,Flemingia chapper,0.9268,synonym,BAAI/llm-embedder,0.7,1
 Glycine latrobeana,Zichya latrobeana,0.8455,synonym,BAAI/llm-embedder,0.7,1
 Flemingia paniculata,Moghania sarmentosa,0.7144,synonym,BAAI/llm-embedder,0.7,1
 Genista anglica,Myroxylon toluiferum,0.7568,synonym,BAAI/llm-embedder,0.7,0
-Erythrostemon palmeri,Dorycnium amani,0.7714,synonym,BAAI/llm-embedder,0.7,0
+Erythrostemon palmeri,Dorycnium amani,0.7713,synonym,BAAI/llm-embedder,0.7,0
 Machaerium quinata,Quinata violacea,0.861,synonym,BAAI/llm-embedder,0.7,1
 Polygala sphenoptera,Lotus tingitanus,0.7456,synonym,BAAI/llm-embedder,0.7,0
 Millettia lenneoides,Millettia polystachya,0.8206,synonym,BAAI/llm-embedder,0.7,1
@@ -7803,7 +7803,7 @@ Inga heterophylla,Inga vouapifolia,0.8705,synonym,BAAI/llm-embedder,0.7,1
 Polygaloides paucifolia,Trichlisperma paucifolium,0.8516,synonym,BAAI/llm-embedder,0.7,1
 Ebenus cretica,Rhynchosia holubii,0.7166,synonym,BAAI/llm-embedder,0.7,0
 Flemingia parviflora,Flemingia racemosa,0.8516,synonym,BAAI/llm-embedder,0.7,1
-Padbruggea filipes,Afgekia filipes,0.875,synonym,BAAI/llm-embedder,0.7,1
+Padbruggea filipes,Afgekia filipes,0.8749,synonym,BAAI/llm-embedder,0.7,1
 Acacia concurrens,Acacia cunninghamii,0.8307,synonym,BAAI/llm-embedder,0.7,1
 Asemeia acuminata,Lonchocarpus glaziovii,0.7169,synonym,BAAI/llm-embedder,0.7,0
 Comesperma virgatum,Polygala graminifolia,0.7329,synonym,BAAI/llm-embedder,0.7,0
@@ -8186,7 +8186,7 @@ Securidaca longifolia,Feuilleea borneense,0.7453,synonym,BAAI/llm-embedder,0.7,0
 Muraltia heisteria,Phalseolus max,0.7044,synonym,BAAI/llm-embedder,0.7,0
 Gastrolobium heterophyllum,Genista sennenii,0.755,synonym,BAAI/llm-embedder,0.7,0
 Humularia apiculata,Acacia microacantha,0.7185,synonym,BAAI/llm-embedder,0.7,0
-Chorizema aciculare,Orthotropis pungens,0.7176,synonym,BAAI/llm-embedder,0.7,1
+Chorizema aciculare,Orthotropis pungens,0.7175,synonym,BAAI/llm-embedder,0.7,1
 Archidendron molle,Hansemannia molle,0.8582,synonym,BAAI/llm-embedder,0.7,1
 Berlinia auriculata,Westia auriculata,0.9065,synonym,BAAI/llm-embedder,0.7,1
 Machaerium isadelphum,Machaerium schunkei,0.8317,synonym,BAAI/llm-embedder,0.7,1
@@ -8896,7 +8896,7 @@ Lupinus andinus,Inga fagifolia,0.7126,synonym,BAAI/llm-embedder,0.7,0
 Gastrolobium dorrienii,Oxylobium dorrienii,0.9335,synonym,BAAI/llm-embedder,0.7,1
 Archidendron grandiflorum,Albizia tozeri,0.734,synonym,BAAI/llm-embedder,0.7,1
 Inga sapindoides,Eysenhardtia angustifolia,0.746,synonym,BAAI/llm-embedder,0.7,0
-Inga pezizifera,Inga subsericantha,0.8409,synonym,BAAI/llm-embedder,0.7,1
+Inga pezizifera,Inga subsericantha,0.8408,synonym,BAAI/llm-embedder,0.7,1
 Candolleodendron brachystachyum,Swartzia branchystachya,0.7345,synonym,BAAI/llm-embedder,0.7,1
 Calliandra tweediei,Mimosa yaguaronensis,0.7389,synonym,BAAI/llm-embedder,0.7,1
 Lotus subbiflorus,Polygala humilis,0.7491,synonym,BAAI/llm-embedder,0.7,0
@@ -8973,7 +8973,7 @@ Millettia xylocarpa,Millettia dehiscens,0.8561,synonym,BAAI/llm-embedder,0.7,1
 Amphicarpaea bracteata,Caesalpinia coccinea,0.7793,synonym,BAAI/llm-embedder,0.7,0
 Asemeia hirsuta,Polygala hirsuta,0.8604,synonym,BAAI/llm-embedder,0.7,1
 Archidendron bauchei,Feuilleea haematocephala,0.7291,synonym,BAAI/llm-embedder,0.7,0
-Hebecarpa obscura,Polygala puberula,0.7561,synonym,BAAI/llm-embedder,0.7,1
+Hebecarpa obscura,Polygala puberula,0.756,synonym,BAAI/llm-embedder,0.7,1
 Flemingia teysmanniana,Aotus drummondii,0.7201,synonym,BAAI/llm-embedder,0.7,0
 Acacia anomala,Racosperma anomalum,0.8798,synonym,BAAI/llm-embedder,0.7,1
 Chorizema dicksonii,Larrea gracilis,0.7272,synonym,BAAI/llm-embedder,0.7,0
@@ -9190,7 +9190,7 @@ Nissolia microptera,Kennedynella clandestina,0.7366,synonym,BAAI/llm-embedder,0.
 Hippocrepis balearica,Disynstemon madagascariense,0.7146,synonym,BAAI/llm-embedder,0.7,0
 Genista umbellata,Nefrakis ebenus,0.771,synonym,BAAI/llm-embedder,0.7,0
 Archidendron aruense,Smithia parvifolia,0.7563,synonym,BAAI/llm-embedder,0.7,0
-Comesperma ciliatum,Muraltia sulcata,0.7466,synonym,BAAI/llm-embedder,0.7,0
+Comesperma ciliatum,Muraltia sulcata,0.7465,synonym,BAAI/llm-embedder,0.7,0
 Ebenus bourgeaui,Dialium lacourtianum,0.7435,synonym,BAAI/llm-embedder,0.7,0
 Dimorphandra conjugata,Mora conjugata,0.8677,synonym,BAAI/llm-embedder,0.7,1
 Dysolobium pilosum,Senega stephaniana,0.7175,synonym,BAAI/llm-embedder,0.7,0
@@ -9361,7 +9361,7 @@ Calliandra calycina,Calliandra jacobiana,0.8889,synonym,BAAI/llm-embedder,0.7,1
 Erythrostemon gilliesii,Poinciana gilliesii,0.8746,synonym,BAAI/llm-embedder,0.7,1
 Xanthophyllum obscurum,Xanthophyllum insigne,0.807,synonym,BAAI/llm-embedder,0.7,1
 Archidendron glandulosum,Millettia claessensii,0.7732,synonym,BAAI/llm-embedder,0.7,0
-Adenopodia patens,Piptadenia patens,0.8664,synonym,BAAI/llm-embedder,0.7,1
+Adenopodia patens,Piptadenia patens,0.8663,synonym,BAAI/llm-embedder,0.7,1
 Dialium guianense,Comesperma spathulatum,0.7482,synonym,BAAI/llm-embedder,0.7,0
 Comesperma viscidulum,Bredemeyera viscidula,0.8651,synonym,BAAI/llm-embedder,0.7,1
 Atroxima afzeliana,Carpolobia zenkeri,0.7566,synonym,BAAI/llm-embedder,0.7,1
@@ -9539,7 +9539,7 @@ Chesneya cuneata,Monnina crotalariifolia,0.7561,synonym,BAAI/llm-embedder,0.7,0
 Monnina xalapensis,Dalbergia oojeinensis,0.7564,synonym,BAAI/llm-embedder,0.7,0
 Muraltia stipulacea,Anonis arvensis,0.7295,synonym,BAAI/llm-embedder,0.7,0
 Millettia nudiflora,Cylindrokelupha kerrii,0.7401,synonym,BAAI/llm-embedder,0.7,0
-Monnina weddelliana,Oxylobium atropurpureum,0.6981,not synonym,BAAI/llm-embedder,0.7,0
+Monnina weddelliana,Oxylobium atropurpureum,0.698,not synonym,BAAI/llm-embedder,0.7,0
 Ononis curtipendula,Ononis alpina,0.8002,synonym,BAAI/llm-embedder,0.7,0
 Monnina celastroides,Solori cumingii,0.7436,synonym,BAAI/llm-embedder,0.7,0
 Atroxima afzeliana,Carpolobia afzeliana,0.9235,synonym,BAAI/llm-embedder,0.7,1
@@ -9550,7 +9550,7 @@ Genista cinerea,Cytisus cinereus,0.8257,synonym,BAAI/llm-embedder,0.7,1
 Chesneya kopetdaghensis,Carmichaelia suteri,0.7133,synonym,BAAI/llm-embedder,0.7,0
 Badiera penaea,Badiera domingensis,0.826,synonym,BAAI/llm-embedder,0.7,1
 Discolobium paucijugum,Carmichaelia diffusa,0.7549,synonym,BAAI/llm-embedder,0.7,0
-Neoapaloxylon tuberosum,Polygala ilheotica,0.7625,synonym,BAAI/llm-embedder,0.7,0
+Neoapaloxylon tuberosum,Polygala ilheotica,0.7624,synonym,BAAI/llm-embedder,0.7,0
 Calliandra blanchetii,Feuilleea blanchetii,0.8947,synonym,BAAI/llm-embedder,0.7,1
 Gilbertiodendron demonstrans,Macrolobium demonstrans,0.8492,synonym,BAAI/llm-embedder,0.7,1
 Epirixanthes elongata,Salomonia parasitica,0.7282,synonym,BAAI/llm-embedder,0.7,1
@@ -9562,7 +9562,7 @@ Monnina xalapensis,Monnina bifurcata,0.8128,synonym,BAAI/llm-embedder,0.7,1
 Lupinus angustifolius,Lupinus linifolius,0.8674,synonym,BAAI/llm-embedder,0.7,1
 Bouffordia dichotoma,Desmodium sennaarense,0.7417,synonym,BAAI/llm-embedder,0.7,1
 Asemeia grandiflora,Feuilleea expansa,0.7575,synonym,BAAI/llm-embedder,0.7,0
-Asemeia grandiflora,Polygala krugii,0.7288,synonym,BAAI/llm-embedder,0.7,1
+Asemeia grandiflora,Polygala krugii,0.7287,synonym,BAAI/llm-embedder,0.7,1
 Muraltia ericoides,Muraltia burmanni,0.8412,synonym,BAAI/llm-embedder,0.7,1
 Caamembeca andina,Cyclopia brachypoda,0.68,not synonym,BAAI/llm-embedder,0.7,0
 Gastrolobium coriaceum,Podolobium coriaceum,0.9296,synonym,BAAI/llm-embedder,0.7,1
@@ -9587,7 +9587,7 @@ Erythrostemon exilifolius,Cytisus racemosus,0.7352,synonym,BAAI/llm-embedder,0.7
 Genista triquetra,Elsota sylvestris,0.7536,synonym,BAAI/llm-embedder,0.7,0
 Muraltia spinosa,Xanthophyllum pyrifolium,0.754,synonym,BAAI/llm-embedder,0.7,0
 Rhamphopetalum microphyllum,Bredemeyera microphylla,0.8377,synonym,BAAI/llm-embedder,0.7,1
-Muraltia ericoides,Polygala stipulaceae,0.7572,synonym,BAAI/llm-embedder,0.7,1
+Muraltia ericoides,Polygala stipulaceae,0.7571,synonym,BAAI/llm-embedder,0.7,1
 Flemingia parviflora,Psoralea luteosa,0.7391,synonym,BAAI/llm-embedder,0.7,1
 Eysenhardtia polystachya,Psoralea stipularis,0.7152,synonym,BAAI/llm-embedder,0.7,1
 Ononis serrata,Mundtia scoparia,0.7691,synonym,BAAI/llm-embedder,0.7,0
@@ -9601,7 +9601,7 @@ Millettia pachycarpa,Millettia taiwaniana,0.8669,synonym,BAAI/llm-embedder,0.7,1
 Errazurizia multifoliolata,Oxylobium genistoides,0.7515,synonym,BAAI/llm-embedder,0.7,0
 Machaerium inundatum,Drepanocarpus inundatus,0.8857,synonym,BAAI/llm-embedder,0.7,1
 Archidendron robinsonii,Albizia robinsonii,0.8942,synonym,BAAI/llm-embedder,0.7,1
-Polygala rosea,Acacia lancifolia,0.7513,synonym,BAAI/llm-embedder,0.7,0
+Polygala rosea,Acacia lancifolia,0.7512,synonym,BAAI/llm-embedder,0.7,0
 Gastrolobium oxylobioides,Hoffmannseggia nana,0.7106,synonym,BAAI/llm-embedder,0.7,0
 Inga sapindoides,Inga bonplandiana,0.8575,synonym,BAAI/llm-embedder,0.7,1
 Genista germanica,Genista heteroacantha,0.8513,synonym,BAAI/llm-embedder,0.7,1
@@ -9685,7 +9685,7 @@ Muraltia alopecuroides,Muraltia virgata,0.8345,synonym,BAAI/llm-embedder,0.7,1
 Polygala bonariensis,Lupinus sabinianus,0.7724,synonym,BAAI/llm-embedder,0.7,0
 Flemingia yunnanensis,Maughania yunnanensis,0.8537,synonym,BAAI/llm-embedder,0.7,1
 Amphicarpaea bracteata,Polygala fuertesii,0.7322,synonym,BAAI/llm-embedder,0.7,0
-Millettia griffoniana,Ostryocarpus parviflorus,0.7384,synonym,BAAI/llm-embedder,0.7,1
+Millettia griffoniana,Ostryocarpus parviflorus,0.7383,synonym,BAAI/llm-embedder,0.7,1
 Gonocytisus angulatus,Cytisus parviflorus,0.8003,synonym,BAAI/llm-embedder,0.7,1
 Muraltia flanaganii,Muraltia ecornuta,0.822,synonym,BAAI/llm-embedder,0.7,1
 Flemingia macrophylla,Polygala parva,0.7669,synonym,BAAI/llm-embedder,0.7,0
@@ -10410,7 +10410,7 @@ Acacia prominens,Acacia prominens,1.0,synonym,BAAI/llm-embedder,0.7,1
 Monnina polystachya,Ononis sieberi,0.7295,synonym,BAAI/llm-embedder,0.7,0
 Ancylotropis malmeana,Monnina malmeana,0.868,synonym,BAAI/llm-embedder,0.7,1
 Ancistrotropis clitorioides,Acacia bossiaeoides,0.7405,synonym,BAAI/llm-embedder,0.7,0
-Lotus subbiflorus,Lotus approximatus,0.8445,synonym,BAAI/llm-embedder,0.7,1
+Lotus subbiflorus,Lotus approximatus,0.8444,synonym,BAAI/llm-embedder,0.7,1
 Calliandra hymenaeoides,Inga hymenaeoides,0.8908,synonym,BAAI/llm-embedder,0.7,1
 Millettia letestui,Millettia mavoundiensis,0.8152,synonym,BAAI/llm-embedder,0.7,1
 Carmichaelia torulosa,Smithia goetzei,0.7472,synonym,BAAI/llm-embedder,0.7,0
@@ -10435,7 +10435,7 @@ Brachypterum philippinense,Deguelia philippinensis,0.8404,synonym,BAAI/llm-embed
 Salomonia ciliata,Amorpha pedalis,0.728,synonym,BAAI/llm-embedder,0.7,1
 Lotus alpinus,Machaerium bangii,0.7525,synonym,BAAI/llm-embedder,0.7,0
 Inga densiflora,Macrolobium letestui,0.7128,synonym,BAAI/llm-embedder,0.7,0
-Securidaca coriacea,Feuilleea elliptica,0.74,synonym,BAAI/llm-embedder,0.7,0
+Securidaca coriacea,Feuilleea elliptica,0.7399,synonym,BAAI/llm-embedder,0.7,0
 Polygala serpentaria,Muraltia micrantha,0.7513,synonym,BAAI/llm-embedder,0.7,0
 Acacia pachyphylla,Poecilanthe ovalifolia,0.7659,synonym,BAAI/llm-embedder,0.7,0
 Monnina crassifolia,Hebeandra revoluta,0.7781,synonym,BAAI/llm-embedder,0.7,1
@@ -10567,7 +10567,7 @@ Polygala nambalensis,Polygala gypsophiloides,0.8517,synonym,BAAI/llm-embedder,0.
 Gastrolobium calycinum,Senega equisetoides,0.7086,synonym,BAAI/llm-embedder,0.7,0
 Gonocytisus angulatus,Mundia candolleana,0.7599,synonym,BAAI/llm-embedder,0.7,0
 Polygala major,Teramnus grandiflorus,0.7394,synonym,BAAI/llm-embedder,0.7,0
-Calliandra foliolosa,Imbralyx acutiflorus,0.7494,synonym,BAAI/llm-embedder,0.7,0
+Calliandra foliolosa,Imbralyx acutiflorus,0.7493,synonym,BAAI/llm-embedder,0.7,0
 Muraltia spinosa,Ulex capensis,0.7511,synonym,BAAI/llm-embedder,0.7,1
 Genista osmariensis,Heistera phylicoides,0.7422,synonym,BAAI/llm-embedder,0.7,0
 Humularia elisabethvilleana,Geissaspis elisabethvilleana,0.8729,synonym,BAAI/llm-embedder,0.7,1
@@ -10945,7 +10945,7 @@ Gonocytisus angulatus,Spartium angulatum,0.8456,synonym,BAAI/llm-embedder,0.7,1
 Bossiaea bracteosa,Calliandra bicolor,0.7809,synonym,BAAI/llm-embedder,0.7,0
 Caamembeca insignis,Polygala insignis,0.8739,synonym,BAAI/llm-embedder,0.7,1
 Berlinia craibiana,Berlinia preussii,0.8218,synonym,BAAI/llm-embedder,0.7,1
-Lotus angustissimus,Polygala tweedyi,0.7161,synonym,BAAI/llm-embedder,0.7,0
+Lotus angustissimus,Polygala tweedyi,0.716,synonym,BAAI/llm-embedder,0.7,0
 Gastrolobium callistachys,Acacia fragrans,0.7684,synonym,BAAI/llm-embedder,0.7,0
 Lupinus covillei,Nissolia legalis,0.7292,synonym,BAAI/llm-embedder,0.7,0
 Flemingia chappar,Caesalpinia calycina,0.7596,synonym,BAAI/llm-embedder,0.7,0
@@ -10980,7 +10980,7 @@ Flemingia macrophylla,Derris pseudoinvoluta,0.7247,synonym,BAAI/llm-embedder,0.7
 Bredemeyera laurifolia,Mirbelia racemosa,0.7762,synonym,BAAI/llm-embedder,0.7,0
 Erythrostemon angulatus,Heisteria squarrosa,0.7228,synonym,BAAI/llm-embedder,0.7,0
 Ebenus stellata,Muraltia laxa,0.7988,synonym,BAAI/llm-embedder,0.7,0
-Caamembeca grandifolia,Polygala hilariana,0.7384,synonym,BAAI/llm-embedder,0.7,1
+Caamembeca grandifolia,Polygala hilariana,0.7383,synonym,BAAI/llm-embedder,0.7,1
 Muraltia ciliaris,Heistera anthospermifolia,0.7413,synonym,BAAI/llm-embedder,0.7,1
 Archidendron muricarpum,Abarema muricarpa,0.844,synonym,BAAI/llm-embedder,0.7,1
 Hoffmannseggia repens,Caesalpinia repens,0.8965,synonym,BAAI/llm-embedder,0.7,1
