@@ -1,5 +1,23 @@
 #!/bin/bash
+#SBATCH --job-name=corona_ner            
+#SBATCH --mail-user=sefie08@zedat.fu-berlin.de  
+#SBATCH --mail-type=end
+#SBATCH --nodes=1
+#SBATCH --ntasks=1                        
+#SBATCH --mem-per-cpu=20480                  
+#SBATCH --time=11:00:00                           
+#SBATCH --qos=standard                         
+#SBATCH --partition=gpu
+#SBATCH --gres=gpu:1
+#SBATCH --cpus-per-task=1
+cd /home/${USER}/projects/biodiv/lm_embeddings_4_species
 
+module add Python/3.9.5-GCCcore-10.3.0
+
+source ~/path/to/new/virtual/environment/bin/activate
+pip install --upgrade pip
+
+pip install -r requirements.txt
 INPUT_FILES=(
 #   "data/balanced_synonym_fabales_dataset.csv"
 #   "data/balanced_synonym_lamiales_dataset.csv"
