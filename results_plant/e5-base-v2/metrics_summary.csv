@@ -1,0 +1,5 @@
+model,file,accuracy,precision,recall,f1,tn,fp,fn,tp,total
+e5-base-v2,balanced_synonym_fabales_dataset_results.csv,0.5003512469265894,0.5001756851721715,1.0,0.6668228129757583,4,5690,0,5694,11388
+e5-base-v2,balanced_synonym_lamiales_dataset_results.csv,0.5,0.5,1.0,0.6666666666666666,0,246,0,246,492
+e5-base-v2,balanced_synonym_poales_dataset_results.csv,0.5002665245202559,0.5001332977872567,1.0,0.6667851430602453,7,13125,0,13132,26264
+e5-base-v2,balanced_synonym_rosales_dataset_results.csv,0.5000530898279889,0.5000265463233342,1.0,0.6666902629809224,1,9417,0,9418,18836

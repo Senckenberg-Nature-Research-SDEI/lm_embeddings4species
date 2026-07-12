@@ -1,0 +1,5 @@
+model,file,accuracy,precision,recall,f1,tn,fp,fn,tp,total
+ModernBERT-bio-large,balanced_synonym_fabales_dataset_results.csv,0.5000878117316474,0.5000439097216124,1.0,0.6667056963877993,1,5693,0,5694,11388
+ModernBERT-bio-large,balanced_synonym_lamiales_dataset_results.csv,0.5020325203252033,0.5010183299389002,1.0,0.6675712347354138,1,245,0,246,492
+ModernBERT-bio-large,balanced_synonym_poales_dataset_results.csv,0.5000380749314651,0.5000190381906103,1.0,0.6666835892879807,1,13131,0,13132,26264
+ModernBERT-bio-large,balanced_synonym_rosales_dataset_results.csv,0.5000530898279889,0.5000265463233342,1.0,0.6666902629809224,1,9417,0,9418,18836

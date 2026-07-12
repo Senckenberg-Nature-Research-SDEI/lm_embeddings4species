@@ -1,0 +1,3 @@
+model,file,accuracy,precision,recall,f1,tn,fp,fn,tp,total
+bge-reranker-large,balanced_synonym_fabales_dataset_results.csv,0.5056199508254303,0.502865329512894,0.9863013698630136,0.66611315383703,142,5552,78,5616,11388
+bge-reranker-large,balanced_synonym_lamiales_dataset_results.csv,0.5040650406504065,0.5020408163265306,1.0,0.6684782608695652,2,244,0,246,492
