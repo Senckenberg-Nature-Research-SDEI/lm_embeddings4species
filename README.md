@@ -165,6 +165,14 @@ semantic representations for biodiversity synonym detection.
 | llm-embedder | coleop | 0.5165 | 0.5084 | 0.9927 | 0.6725 | 11 | 262 | 2 | 271 | 546 |
 | llm-embedder | lepo | 0.5095 | 0.5048 | 0.9959 | 0.6700 | 34 | 1440 | 6 | 1468 | 2948 |
 
+
+## Plots
+```bash
+python src/evaluation/plot_plant_accuracies.py --results-root results_plant --metric f1 --separate-per-plant --score-rotation 0 --score-fontsize 9 --output-file figures/results_plant_f1.png --title "Plant Model F1 Score"
+
+
+python src/evaluation/plot_plant_accuracies.py --results-root results_plant --metric accuracy --separate-per-plant --score-rotation 0 --score-fontsize 9 --output-file figures/results_plant_accuracy.png --title "Plant Model Accuracy"
+```
 ## Citation
 
 If you use this repository in your research, please cite the associated publication and/or Zenodo record.
