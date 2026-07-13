@@ -1,6 +1,5 @@
 pandas==3.0.3
-matplotlib
-seaborn
+matplotlib seaborn
 torch
 scikit-learn
 transformers==5.10.2

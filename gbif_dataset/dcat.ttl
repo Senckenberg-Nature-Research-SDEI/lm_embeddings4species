@@ -1,0 +1,289 @@
+@prefix dcat:    <http://www.w3.org/ns/dcat#> .
+@prefix dct:     <http://purl.org/dc/terms/> .
+@prefix foaf:    <http://xmlns.com/foaf/0.1/> .
+@prefix owl:     <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema:  <https://schema.org/> .
+@prefix spdx:    <http://spdx.org/rdf/terms#> .
+@prefix xsd:     <http://www.w3.org/2001/XMLSchema#> .
+
+@prefix :        <https://github.com/Senckenberg-Nature-Research-SDEI/lm_embeddings_4_species/gbif_dataset/> .
+
+# ---------------------------------------------------------------------------
+# Catalog
+# ---------------------------------------------------------------------------
+
+:catalog
+    a                    dcat:Catalog ;
+    dct:title            "GBIF Taxonomic Synonym Datasets for LM Embedding Evaluation"@en ;
+    dct:description      "A collection of CSV datasets derived from GBIF (Global Biodiversity Information Facility) containing accepted species names paired with their synonyms across six taxonomic groups. Used to benchmark pretrained language-model embeddings for zero-shot species-synonym detection."@en ;
+    dct:publisher        <https://www.senckenberg.de/> ;
+    dct:license          <https://www.gnu.org/licenses/gpl-3.0.html> ;
+    dct:language         <http://id.loc.gov/vocabulary/iso639-1/en> ;
+    dct:issued           "2024-01-01"^^xsd:date ;
+    dcat:dataset
+        :ds-balanced-coleop ,
+        :ds-balanced-fabales ,
+        :ds-balanced-lamiales ,
+        :ds-balanced-lepidoptera ,
+        :ds-balanced-poales ,
+        :ds-balanced-rosales ,
+        :ds-taxa-coleoptera ,
+        :ds-taxa-fabales ,
+        :ds-taxa-lamiales ,
+        :ds-taxa-lepidoptera ,
+        :ds-taxa-lepidoptera-all ,
+        :ds-taxa-poales ,
+        :ds-taxa-rosales ;
+    foaf:homepage        <https://github.com/Senckenberg-Nature-Research-SDEI/lm_embeddings_4_species> .
+
+# ---------------------------------------------------------------------------
+# Balanced synonym datasets  (label = 1 → synonym, 0 → non-synonym)
+# Columns: oldSpeciesCanonicalName, species, key, label
+# ---------------------------------------------------------------------------
+
+:ds-balanced-coleop
+    a                    dcat:Dataset ;
+    dct:title            "Balanced Synonym Dataset – Coleoptera"@en ;
+    dct:description      "Balanced binary-labelled pairs of species canonical names (old/synonym vs. accepted) for the order Coleoptera (beetles), derived from GBIF. Suitable for evaluating embedding-based synonym classifiers."@en ;
+    dct:subject          <http://www.wikidata.org/entity/Q1351> ;   # Coleoptera
+    dct:license          <https://www.gnu.org/licenses/gpl-3.0.html> ;
+    dct:source           <https://www.gbif.org/> ;
+    schema:keywords      "Coleoptera", "beetles", "taxonomy", "synonym", "GBIF", "biodiversity" ;
+    dcat:distribution    :dist-balanced-coleop .
+
+:dist-balanced-coleop
+    a                    dcat:Distribution ;
+    dct:title            "balanced_synonym_coleop_dataset.csv"@en ;
+    dcat:mediaType       "text/csv" ;
+    dcat:byteSize        "0"^^xsd:nonNegativeInteger ;   # update if known
+    dcat:downloadURL     <balanced_synonym_coleop_dataset.csv> ;
+    schema:numberOfRows  546 ;
+    dct:description      "Columns: oldSpeciesCanonicalName, species, key, label"@en .
+
+:ds-balanced-fabales
+    a                    dcat:Dataset ;
+    dct:title            "Balanced Synonym Dataset – Fabales"@en ;
+    dct:description      "Balanced binary-labelled species-name pairs for the order Fabales (legumes and allies), derived from GBIF."@en ;
+    dct:subject          <http://www.wikidata.org/entity/Q25308> ;  # Fabales
+    dct:license          <https://www.gnu.org/licenses/gpl-3.0.html> ;
+    dct:source           <https://www.gbif.org/> ;
+    schema:keywords      "Fabales", "taxonomy", "synonym", "GBIF", "biodiversity" ;
+    dcat:distribution    :dist-balanced-fabales .
+
+:dist-balanced-fabales
+    a                    dcat:Distribution ;
+    dct:title            "balanced_synonym_fabales_dataset.csv"@en ;
+    dcat:mediaType       "text/csv" ;
+    dcat:downloadURL     <balanced_synonym_fabales_dataset.csv> ;
+    schema:numberOfRows  11388 ;
+    dct:description      "Columns: oldSpeciesCanonicalName, species, key, label"@en .
+
+:ds-balanced-lamiales
+    a                    dcat:Dataset ;
+    dct:title            "Balanced Synonym Dataset – Lamiales"@en ;
+    dct:description      "Balanced binary-labelled species-name pairs for the order Lamiales (mints, olives, and allies), derived from GBIF."@en ;
+    dct:subject          <http://www.wikidata.org/entity/Q25310> ;  # Lamiales
+    dct:license          <https://www.gnu.org/licenses/gpl-3.0.html> ;
+    dct:source           <https://www.gbif.org/> ;
+    schema:keywords      "Lamiales", "taxonomy", "synonym", "GBIF", "biodiversity" ;
+    dcat:distribution    :dist-balanced-lamiales .
+
+:dist-balanced-lamiales
+    a                    dcat:Distribution ;
+    dct:title            "balanced_synonym_lamiales_dataset.csv"@en ;
+    dcat:mediaType       "text/csv" ;
+    dcat:downloadURL     <balanced_synonym_lamiales_dataset.csv> ;
+    schema:numberOfRows  492 ;
+    dct:description      "Columns: oldSpeciesCanonicalName, species, key, label"@en .
+
+:ds-balanced-lepidoptera
+    a                    dcat:Dataset ;
+    dct:title            "Balanced Synonym Dataset – Lepidoptera"@en ;
+    dct:description      "Balanced binary-labelled species-name pairs for the order Lepidoptera (butterflies and moths), derived from GBIF."@en ;
+    dct:subject          <http://www.wikidata.org/entity/Q38577> ;  # Lepidoptera
+    dct:license          <https://www.gnu.org/licenses/gpl-3.0.html> ;
+    dct:source           <https://www.gbif.org/> ;
+    schema:keywords      "Lepidoptera", "butterflies", "moths", "taxonomy", "synonym", "GBIF", "biodiversity" ;
+    dcat:distribution    :dist-balanced-lepidoptera .
+
+:dist-balanced-lepidoptera
+    a                    dcat:Distribution ;
+    dct:title            "balanced_synonym_lepidoptera_dataset.csv"@en ;
+    dcat:mediaType       "text/csv" ;
+    dcat:downloadURL     <balanced_synonym_lepidoptera_dataset.csv> ;
+    schema:numberOfRows  2948 ;
+    dct:description      "Columns: oldSpeciesCanonicalName, species, key, label"@en .
+
+:ds-balanced-poales
+    a                    dcat:Dataset ;
+    dct:title            "Balanced Synonym Dataset – Poales"@en ;
+    dct:description      "Balanced binary-labelled species-name pairs for the order Poales (grasses, sedges, and allies), derived from GBIF."@en ;
+    dct:subject          <http://www.wikidata.org/entity/Q25291> ;  # Poales
+    dct:license          <https://www.gnu.org/licenses/gpl-3.0.html> ;
+    dct:source           <https://www.gbif.org/> ;
+    schema:keywords      "Poales", "grasses", "taxonomy", "synonym", "GBIF", "biodiversity" ;
+    dcat:distribution    :dist-balanced-poales .
+
+:dist-balanced-poales
+    a                    dcat:Distribution ;
+    dct:title            "balanced_synonym_poales_dataset.csv"@en ;
+    dcat:mediaType       "text/csv" ;
+    dcat:downloadURL     <balanced_synonym_poales_dataset.csv> ;
+    schema:numberOfRows  26264 ;
+    dct:description      "Columns: oldSpeciesCanonicalName, species, key, label"@en .
+
+:ds-balanced-rosales
+    a                    dcat:Dataset ;
+    dct:title            "Balanced Synonym Dataset – Rosales"@en ;
+    dct:description      "Balanced binary-labelled species-name pairs for the order Rosales (roses, figs, and allies), derived from GBIF."@en ;
+    dct:subject          <http://www.wikidata.org/entity/Q25305> ;  # Rosales
+    dct:license          <https://www.gnu.org/licenses/gpl-3.0.html> ;
+    dct:source           <https://www.gbif.org/> ;
+    schema:keywords      "Rosales", "roses", "taxonomy", "synonym", "GBIF", "biodiversity" ;
+    dcat:distribution    :dist-balanced-rosales .
+
+:dist-balanced-rosales
+    a                    dcat:Distribution ;
+    dct:title            "balanced_synonym_rosales_dataset.csv"@en ;
+    dcat:mediaType       "text/csv" ;
+    dcat:downloadURL     <balanced_synonym_rosales_dataset.csv> ;
+    schema:numberOfRows  18836 ;
+    dct:description      "Columns: oldSpeciesCanonicalName, species, key, label"@en .
+
+# ---------------------------------------------------------------------------
+# Full taxa datasets with synonym information
+# Columns: key, scientificName, canonicalName, rank, taxonomicStatus,
+#          kingdom, phylum, class, order, family, genus, species,
+#          numDescendants, oldSpeciesCanonicalName, oldSpeciesScientificName,
+#          oldSpeciesKey, oldSpeciesTaxonomicStatus,
+#          oldSpeciesNomenclaturalStatus, oldSpeciesAuthorship,
+#          oldSpeciesPublishedIn
+# ---------------------------------------------------------------------------
+
+:ds-taxa-coleoptera
+    a                    dcat:Dataset ;
+    dct:title            "Coleoptera Taxa with Synonym Names"@en ;
+    dct:description      "Full GBIF taxonomy extract for Coleoptera listing accepted species together with their associated synonym (old) names, authorship, and nomenclatural status."@en ;
+    dct:subject          <http://www.wikidata.org/entity/Q1351> ;
+    dct:license          <https://www.gnu.org/licenses/gpl-3.0.html> ;
+    dct:source           <https://www.gbif.org/> ;
+    schema:keywords      "Coleoptera", "beetles", "taxonomy", "GBIF", "synonym", "biodiversity" ;
+    dcat:distribution    :dist-taxa-coleoptera .
+
+:dist-taxa-coleoptera
+    a                    dcat:Distribution ;
+    dct:title            "coleoptera_taxa_with_old_names.csv"@en ;
+    dcat:mediaType       "text/csv" ;
+    dcat:downloadURL     <coleoptera_taxa_with_old_names.csv> ;
+    schema:numberOfRows  733 ;
+    dct:description      "Columns: key, scientificName, canonicalName, rank, taxonomicStatus, kingdom, phylum, class, order, family, genus, species, numDescendants, oldSpeciesCanonicalName, oldSpeciesScientificName, oldSpeciesKey, oldSpeciesTaxonomicStatus, oldSpeciesNomenclaturalStatus, oldSpeciesAuthorship, oldSpeciesPublishedIn"@en .
+
+:ds-taxa-fabales
+    a                    dcat:Dataset ;
+    dct:title            "Fabales Taxa with Current and Synonym Names"@en ;
+    dct:description      "Full GBIF taxonomy extract for Fabales listing accepted species together with their associated synonym (old) names, authorship, and nomenclatural status."@en ;
+    dct:subject          <http://www.wikidata.org/entity/Q25308> ;
+    dct:license          <https://www.gnu.org/licenses/gpl-3.0.html> ;
+    dct:source           <https://www.gbif.org/> ;
+    schema:keywords      "Fabales", "taxonomy", "GBIF", "synonym", "biodiversity" ;
+    dcat:distribution    :dist-taxa-fabales .
+
+:dist-taxa-fabales
+    a                    dcat:Distribution ;
+    dct:title            "fabales_taxa_with_current_names_all.csv"@en ;
+    dcat:mediaType       "text/csv" ;
+    dcat:downloadURL     <fabales_taxa_with_current_names_all.csv> ;
+    schema:numberOfRows  6299 ;
+    dct:description      "Columns: key, scientificName, canonicalName, rank, taxonomicStatus, kingdom, phylum, class, order, family, genus, species, numDescendants, oldSpeciesCanonicalName, oldSpeciesScientificName, oldSpeciesKey, oldSpeciesTaxonomicStatus, oldSpeciesNomenclaturalStatus, oldSpeciesAuthorship, oldSpeciesPublishedIn"@en .
+
+:ds-taxa-lamiales
+    a                    dcat:Dataset ;
+    dct:title            "Lamiales Taxa with Current and Synonym Names"@en ;
+    dct:description      "Full GBIF taxonomy extract for Lamiales listing accepted species together with their associated synonym (old) names, authorship, and nomenclatural status."@en ;
+    dct:subject          <http://www.wikidata.org/entity/Q25310> ;
+    dct:license          <https://www.gnu.org/licenses/gpl-3.0.html> ;
+    dct:source           <https://www.gbif.org/> ;
+    schema:keywords      "Lamiales", "taxonomy", "GBIF", "synonym", "biodiversity" ;
+    dcat:distribution    :dist-taxa-lamiales .
+
+:dist-taxa-lamiales
+    a                    dcat:Distribution ;
+    dct:title            "lamiales_taxa_with_current_names_all.csv"@en ;
+    dcat:mediaType       "text/csv" ;
+    dcat:downloadURL     <lamiales_taxa_with_current_names_all.csv> ;
+    schema:numberOfRows  248 ;
+    dct:description      "Columns: key, scientificName, canonicalName, rank, taxonomicStatus, kingdom, phylum, class, order, family, genus, species, numDescendants, oldSpeciesCanonicalName, oldSpeciesScientificName, oldSpeciesKey, oldSpeciesTaxonomicStatus, oldSpeciesNomenclaturalStatus, oldSpeciesAuthorship, oldSpeciesPublishedIn"@en .
+
+:ds-taxa-lepidoptera
+    a                    dcat:Dataset ;
+    dct:title            "Lepidoptera Taxa with Synonym Names"@en ;
+    dct:description      "GBIF taxonomy extract for Lepidoptera (subset) listing accepted species together with their associated synonym (old) names, authorship, and nomenclatural status."@en ;
+    dct:subject          <http://www.wikidata.org/entity/Q38577> ;
+    dct:license          <https://www.gnu.org/licenses/gpl-3.0.html> ;
+    dct:source           <https://www.gbif.org/> ;
+    schema:keywords      "Lepidoptera", "butterflies", "moths", "taxonomy", "GBIF", "synonym", "biodiversity" ;
+    dcat:distribution    :dist-taxa-lepidoptera .
+
+:dist-taxa-lepidoptera
+    a                    dcat:Distribution ;
+    dct:title            "lepidoptera_taxa_with_old_names.csv"@en ;
+    dcat:mediaType       "text/csv" ;
+    dcat:downloadURL     <lepidoptera_taxa_with_old_names.csv> ;
+    schema:numberOfRows  1675 ;
+    dct:description      "Columns: key, scientificName, canonicalName, rank, taxonomicStatus, kingdom, phylum, class, order, family, genus, species, numDescendants, oldSpeciesCanonicalName, oldSpeciesScientificName, oldSpeciesKey, oldSpeciesTaxonomicStatus, oldSpeciesNomenclaturalStatus, oldSpeciesAuthorship, oldSpeciesPublishedIn"@en .
+
+:ds-taxa-lepidoptera-all
+    a                    dcat:Dataset ;
+    dct:title            "Lepidoptera Taxa with Synonym Names (all)"@en ;
+    dct:description      "Full GBIF taxonomy extract for Lepidoptera listing accepted species together with their associated synonym (old) names, authorship, and nomenclatural status."@en ;
+    dct:subject          <http://www.wikidata.org/entity/Q38577> ;
+    dct:license          <https://www.gnu.org/licenses/gpl-3.0.html> ;
+    dct:source           <https://www.gbif.org/> ;
+    schema:keywords      "Lepidoptera", "butterflies", "moths", "taxonomy", "GBIF", "synonym", "biodiversity" ;
+    dcat:distribution    :dist-taxa-lepidoptera-all .
+
+:dist-taxa-lepidoptera-all
+    a                    dcat:Distribution ;
+    dct:title            "lepidoptera_taxa_with_old_names_all.csv"@en ;
+    dcat:mediaType       "text/csv" ;
+    dcat:downloadURL     <lepidoptera_taxa_with_old_names_all.csv> ;
+    schema:numberOfRows  661 ;
+    dct:description      "Columns: key, scientificName, canonicalName, rank, taxonomicStatus, kingdom, phylum, class, order, family, genus, species, numDescendants, oldSpeciesCanonicalName, oldSpeciesScientificName, oldSpeciesKey, oldSpeciesTaxonomicStatus, oldSpeciesNomenclaturalStatus, oldSpeciesAuthorship, oldSpeciesPublishedIn"@en .
+
+:ds-taxa-poales
+    a                    dcat:Dataset ;
+    dct:title            "Poales Taxa with Current and Synonym Names"@en ;
+    dct:description      "Full GBIF taxonomy extract for Poales listing accepted species together with their associated synonym (old) names, authorship, and nomenclatural status."@en ;
+    dct:subject          <http://www.wikidata.org/entity/Q25291> ;
+    dct:license          <https://www.gnu.org/licenses/gpl-3.0.html> ;
+    dct:source           <https://www.gbif.org/> ;
+    schema:keywords      "Poales", "grasses", "taxonomy", "GBIF", "synonym", "biodiversity" ;
+    dcat:distribution    :dist-taxa-poales .
+
+:dist-taxa-poales
+    a                    dcat:Distribution ;
+    dct:title            "poales_taxa_with_current_names_all.csv"@en ;
+    dcat:mediaType       "text/csv" ;
+    dcat:downloadURL     <poales_taxa_with_current_names_all.csv> ;
+    schema:numberOfRows  14475 ;
+    dct:description      "Columns: key, scientificName, canonicalName, rank, taxonomicStatus, kingdom, phylum, class, order, family, genus, species, numDescendants, oldSpeciesCanonicalName, oldSpeciesScientificName, oldSpeciesKey, oldSpeciesTaxonomicStatus, oldSpeciesNomenclaturalStatus, oldSpeciesAuthorship, oldSpeciesPublishedIn"@en .
+
+:ds-taxa-rosales
+    a                    dcat:Dataset ;
+    dct:title            "Rosales Taxa with Current and Synonym Names"@en ;
+    dct:description      "Full GBIF taxonomy extract for Rosales listing accepted species together with their associated synonym (old) names, authorship, and nomenclatural status."@en ;
+    dct:subject          <http://www.wikidata.org/entity/Q25305> ;
+    dct:license          <https://www.gnu.org/licenses/gpl-3.0.html> ;
+    dct:source           <https://www.gbif.org/> ;
+    schema:keywords      "Rosales", "taxonomy", "GBIF", "synonym", "biodiversity" ;
+    dcat:distribution    :dist-taxa-rosales .
+
+:dist-taxa-rosales
+    a                    dcat:Distribution ;
+    dct:title            "rosales_taxa_with_current_names_all.csv"@en ;
+    dcat:mediaType       "text/csv" ;
+    dcat:downloadURL     <rosales_taxa_with_current_names_all.csv> ;
+    schema:numberOfRows  10598 ;
+    dct:description      "Columns: key, scientificName, canonicalName, rank, taxonomicStatus, kingdom, phylum, class, order, family, genus, species, numDescendants, oldSpeciesCanonicalName, oldSpeciesScientificName, oldSpeciesKey, oldSpeciesTaxonomicStatus, oldSpeciesNomenclaturalStatus, oldSpeciesAuthorship, oldSpeciesPublishedIn"@en .
