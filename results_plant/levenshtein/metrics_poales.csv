@@ -1,0 +1,2 @@
+model,dataset,threshold,accuracy,precision,recall,f1,tn,fp,fn,tp,total
+Levenshtein,balanced_synonym_poales_dataset.csv,0.7,0.5692,0.9973,0.1388,0.2437,13127,5,11309,1823,26264

@@ -1,0 +1,2 @@
+model,dataset,threshold,accuracy,precision,recall,f1,tn,fp,fn,tp,total
+Levenshtein,balanced_synonym_lamiales_dataset.csv,0.7,0.5793,0.9535,0.1667,0.2837,244,2,205,41,492

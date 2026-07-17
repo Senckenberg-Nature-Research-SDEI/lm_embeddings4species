@@ -1,0 +1,493 @@
+species,oldSpeciesCanonicalName,similarity,prediction,label,model,threshold
+Melanerpes erythrocephalus,Picus erythrocephalus,0.6538,not synonym,synonym,Levenshtein,0.7
+Sphyrapicus varius,Picus varius,0.6667,not synonym,synonym,Levenshtein,0.7
+Dryobates pubescens,Dryobates affinis,0.5789,not synonym,not synonym,Levenshtein,0.7
+Veniliornis mixtus,Picoides lignarius,0.2222,not synonym,not synonym,Levenshtein,0.7
+Picumnus limae,Picumnus fulvescens,0.5789,not synonym,synonym,Levenshtein,0.7
+Celeus galeatus,Hylatomus galeatus,0.6667,not synonym,synonym,Levenshtein,0.7
+Veniliornis cassini,Dryobates cassini,0.4737,not synonym,synonym,Levenshtein,0.7
+Dryocopus lineatus,Hylatomus lineatus,0.6667,not synonym,synonym,Levenshtein,0.7
+Melanerpes striatus,Trachyphonus europeus,0.2857,not synonym,not synonym,Levenshtein,0.7
+Galbula dea,Dryobates albolarvatus,0.2273,not synonym,not synonym,Levenshtein,0.7
+Aulacorhynchus caeruleogularis,Aulacorhamphus caeruleogularis,0.9,synonym,synonym,Levenshtein,0.7
+Veniliornis dignus,Picus callonotus,0.1667,not synonym,not synonym,Levenshtein,0.7
+Melanerpes formicivorus,Picus formicivorus,0.6087,not synonym,synonym,Levenshtein,0.7
+Dryobates pubescens,Dendrocopos pubescens,0.619,not synonym,synonym,Levenshtein,0.7
+Colaptes auratus,Megalaima asiatica,0.2778,not synonym,not synonym,Levenshtein,0.7
+Pardipicus caroli,Campethera caroli,0.4706,not synonym,synonym,Levenshtein,0.7
+Leuconotopicus arizonae,Dendrocopos arizonae,0.6087,not synonym,synonym,Levenshtein,0.7
+Monasa nigrifrons,Bucco nigrifrons,0.6471,not synonym,synonym,Levenshtein,0.7
+Reinwardtipicus validus,Picus martius,0.3913,not synonym,not synonym,Levenshtein,0.7
+Notharchus macrorhynchos,Pogonornis dubius,0.1667,not synonym,not synonym,Levenshtein,0.7
+Galbula dea,Picus chrysochloros,0.0,not synonym,not synonym,Levenshtein,0.7
+Psilopogon faber,Megalaima faber,0.375,not synonym,synonym,Levenshtein,0.7
+Dryocopus schulzii,Megalaima rubricapillus,0.1304,not synonym,not synonym,Levenshtein,0.7
+Dryobates minor,Cuculus tenebrosus,0.1111,not synonym,not synonym,Levenshtein,0.7
+Melanerpes carolinus,Picus carolinus,0.55,not synonym,synonym,Levenshtein,0.7
+Picus sharpei,Bucco collaris,0.2143,not synonym,not synonym,Levenshtein,0.7
+Dendrocoptes auriceps,Dendropicos pyrrhogaster,0.375,not synonym,not synonym,Levenshtein,0.7
+Dryobates pubescens,Picoides pubescens,0.6842,not synonym,synonym,Levenshtein,0.7
+Picumnus dorbignyanus,Megalaima faiostricta,0.0,not synonym,not synonym,Levenshtein,0.7
+Melanerpes lewis,Picus spilogaster,0.0588,not synonym,not synonym,Levenshtein,0.7
+Melanerpes lewis,Asyndesmus lewisi,0.4706,not synonym,synonym,Levenshtein,0.7
+Sphyrapicus varius,Picoides mixtus,0.3333,not synonym,not synonym,Levenshtein,0.7
+Chelidoptera tenebrosa,Picus campestris,0.2273,not synonym,not synonym,Levenshtein,0.7
+Colaptes auricularis,Pincus canus,0.25,not synonym,not synonym,Levenshtein,0.7
+Veniliornis dignus,Chloronerpes dignus,0.4737,not synonym,synonym,Levenshtein,0.7
+Psilopogon viridis,Dendrocopos kizuki,0.2778,not synonym,not synonym,Levenshtein,0.7
+Selenidera nattereri,Pteroglossus spec,0.1,not synonym,synonym,Levenshtein,0.7
+Aulacorhynchus sulcatus,Pteroglossus sulcatus,0.5217,not synonym,synonym,Levenshtein,0.7
+Dendrocopos major,Dryocopus major,0.7059,synonym,synonym,Levenshtein,0.7
+Psilopogon lineatus,Sapheopipo noguchii,0.1579,not synonym,not synonym,Levenshtein,0.7
+Celeus torquatus,Picus torquatus,0.75,synonym,synonym,Levenshtein,0.7
+Dendrocoptes auriceps,Leiopicus auriceps,0.5714,not synonym,synonym,Levenshtein,0.7
+Leuconotopicus fumigatus,Venilornis fumigatus,0.5833,not synonym,synonym,Levenshtein,0.7
+Dendrocopos major,Picoides major,0.4706,not synonym,synonym,Levenshtein,0.7
+Dendrocopos major,Picus major,0.4706,not synonym,synonym,Levenshtein,0.7
+Jacamerops aureus,Alcedo aurea,0.4706,not synonym,synonym,Levenshtein,0.7
+Yungipicus maculatus,Dendrocopos maculatus,0.5714,not synonym,synonym,Levenshtein,0.7
+Veniliornis spilogaster,Picus undatus,0.2174,not synonym,not synonym,Levenshtein,0.7
+Nesoctites micromegas,Picumnus micromegas,0.619,not synonym,synonym,Levenshtein,0.7
+Melanerpes superciliaris,Cuculus ater,0.1667,not synonym,not synonym,Levenshtein,0.7
+Chloropicus pyrrhogaster,Alcedo dea,0.1667,not synonym,not synonym,Levenshtein,0.7
+Leuconotopicus albolarvatus,Dryobates albolarvatus,0.5926,not synonym,synonym,Levenshtein,0.7
+Selenidera piperivora,Megalaima nuchalis,0.1429,not synonym,not synonym,Levenshtein,0.7
+Veniliornis lignarius,Dryobates lignarius,0.5238,not synonym,synonym,Levenshtein,0.7
+Psilopogon rubricapillus,Calorhamphus fuliginosus,0.1667,not synonym,not synonym,Levenshtein,0.7
+Dendrocopos hyperythrus,Hypopicus hyperythrus,0.6087,not synonym,synonym,Levenshtein,0.7
+Selenidera piperivora,Bucco rubecula,0.1429,not synonym,not synonym,Levenshtein,0.7
+Dendrocoptes auriceps,Mesopicos griseocephalus,0.2917,not synonym,not synonym,Levenshtein,0.7
+Micropternus brachyurus,Celeus brachyurus,0.6522,not synonym,synonym,Levenshtein,0.7
+Melanerpes striatus,Picus striatus,0.5263,not synonym,synonym,Levenshtein,0.7
+Lybius melanopterus,Dendrocopos scalaris,0.1,not synonym,not synonym,Levenshtein,0.7
+Lybius melanopterus,Pogonornis melanopterus,0.6087,not synonym,synonym,Levenshtein,0.7
+Psilopogon flavifrons,Pogonornis melanopterus,0.2609,not synonym,not synonym,Levenshtein,0.7
+Dendrocoptes medius,Bucco zeylanicus,0.2632,not synonym,not synonym,Levenshtein,0.7
+Dendrocoptes auriceps,Picus borealis,0.2381,not synonym,not synonym,Levenshtein,0.7
+Picoides arcticus,Picus arcticus,0.7647,synonym,synonym,Levenshtein,0.7
+Celeus flavus,Picus principalis,0.2353,not synonym,not synonym,Levenshtein,0.7
+Picus sharpei,Dendropicos xantholophus,0.2917,not synonym,not synonym,Levenshtein,0.7
+Lybius dubius,Hypopicus hyperythrus,0.3333,not synonym,not synonym,Levenshtein,0.7
+Monasa nigrifrons,Dryobates callonotus,0.2,not synonym,not synonym,Levenshtein,0.7
+Veniliornis mixtus,Galbula lugubris,0.1111,not synonym,not synonym,Levenshtein,0.7
+Veniliornis lignarius,Aulacorhamphus caeruleogularis,0.2667,not synonym,not synonym,Levenshtein,0.7
+Psilopogon asiaticus,Picus lewis,0.25,not synonym,not synonym,Levenshtein,0.7
+Colaptes auratus,Picus galeatus,0.375,not synonym,not synonym,Levenshtein,0.7
+Dryobates pubescens,Megalaima incognita,0.1053,not synonym,not synonym,Levenshtein,0.7
+Melanerpes carolinus,Centurus carolinus,0.65,not synonym,synonym,Levenshtein,0.7
+Veniliornis nigriceps,Picus kirkii,0.2381,not synonym,not synonym,Levenshtein,0.7
+Celeus undatus,Picoides ramsayi,0.1875,not synonym,not synonym,Levenshtein,0.7
+Dryocopus pileatus,Campethera nivosa,0.0556,not synonym,not synonym,Levenshtein,0.7
+Psilopogon chrysopogon,Megalaima chrysopogon,0.5455,not synonym,synonym,Levenshtein,0.7
+Psilopogon corvinus,Picoides villosus,0.3158,not synonym,not synonym,Levenshtein,0.7
+Leuconotopicus fumigatus,Dryobates fumigatus,0.5417,not synonym,synonym,Levenshtein,0.7
+Nonnula rubecula,Picus syriacus,0.1875,not synonym,not synonym,Levenshtein,0.7
+Leuconotopicus stricklandi,Picoides albolarvatus,0.1923,not synonym,not synonym,Levenshtein,0.7
+Psilopogon asiaticus,Picoides maculatus,0.35,not synonym,not synonym,Levenshtein,0.7
+Gecinulus rafflesii,Nystactes noanamae,0.1053,not synonym,not synonym,Levenshtein,0.7
+Leuconotopicus albolarvatus,Picoides arizonae,0.2593,not synonym,not synonym,Levenshtein,0.7
+Melanerpes superciliaris,Centurus superciliaris,0.7083,synonym,synonym,Levenshtein,0.7
+Melanerpes candidus,Picus candidus,0.5263,not synonym,synonym,Levenshtein,0.7
+Dryobates cathpharius,Picus grammicus,0.1905,not synonym,not synonym,Levenshtein,0.7
+Yungipicus canicapillus,Picus canicapillus,0.7826,synonym,synonym,Levenshtein,0.7
+Celeus flavus,Picus flavus,0.6923,not synonym,synonym,Levenshtein,0.7
+Aulacorhynchus prasinus,Picoides obsoletus,0.2174,not synonym,not synonym,Levenshtein,0.7
+Yungipicus maculatus,Picoides maculatus,0.6,not synonym,synonym,Levenshtein,0.7
+Veniliornis kirkii,Picumnus micromegas,0.1579,not synonym,not synonym,Levenshtein,0.7
+Dendrocoptes auriceps,Chloropicoides rafflesii,0.3333,not synonym,not synonym,Levenshtein,0.7
+Sasia africana,Verreauxia africana,0.6316,not synonym,synonym,Levenshtein,0.7
+Lybius bidentatus,Pogonornis bidentatus,0.5714,not synonym,synonym,Levenshtein,0.7
+Capitonides europeus,Trachyphonus europeus,0.5238,not synonym,synonym,Levenshtein,0.7
+Aulacorhynchus sulcatus,Dendrocopos pubescens,0.1739,not synonym,not synonym,Levenshtein,0.7
+Dryobates cathpharius,Dendrocopos cathpharius,0.6522,not synonym,synonym,Levenshtein,0.7
+Psilopogon faber,Dendropicos namaquus,0.25,not synonym,not synonym,Levenshtein,0.7
+Veniliornis chocoensis,Picus mineaceus,0.2273,not synonym,not synonym,Levenshtein,0.7
+Chrysophlegma miniaceum,Picus miniaceus,0.4348,not synonym,synonym,Levenshtein,0.7
+Xiphidiopicus percussus,Picus percussus,0.6522,not synonym,synonym,Levenshtein,0.7
+Buccanodon duchaillui,Thereiceryx zeylanicus,0.1364,not synonym,not synonym,Levenshtein,0.7
+Yungipicus kizuki,Dendrocopos minor,0.1765,not synonym,not synonym,Levenshtein,0.7
+Aulacorhynchus prasinus,Bathoceleus hyphalus,0.2609,not synonym,not synonym,Levenshtein,0.7
+Psilopogon haemacephalus,Megalaima haemacephala,0.5,not synonym,synonym,Levenshtein,0.7
+Veniliornis maculifrons,Dryobates maculifrons,0.5652,not synonym,synonym,Levenshtein,0.7
+Psilopogon pulcherrimus,Megalaima pulcherrima,0.4783,not synonym,synonym,Levenshtein,0.7
+Celeus galeatus,Dryocopus galeatus,0.6111,not synonym,synonym,Levenshtein,0.7
+Dryobates minor,Dryobates comminutus,0.65,not synonym,synonym,Levenshtein,0.7
+Buccanodon duchaillui,Barbatula duchaillui,0.619,not synonym,synonym,Levenshtein,0.7
+Trachyphonus purpuratus,Trachylaemus purpuratus,0.8261,synonym,synonym,Levenshtein,0.7
+Galbula dea,Alcedo dea,0.5455,not synonym,synonym,Levenshtein,0.7
+Psilopogon rubricapillus,Picus punctigula,0.25,not synonym,not synonym,Levenshtein,0.7
+Dendrocopos noguchii,Cuculus auratus,0.15,not synonym,not synonym,Levenshtein,0.7
+Sasia africana,Centurus aurifrons,0.2778,not synonym,not synonym,Levenshtein,0.7
+Yungipicus ramsayi,Picoides ramsayi,0.5556,not synonym,synonym,Levenshtein,0.7
+Melanerpes erythrocephalus,Centurus carolinus,0.3077,not synonym,not synonym,Levenshtein,0.7
+Veniliornis mixtus,Picus mixtus,0.5,not synonym,synonym,Levenshtein,0.7
+Veniliornis cassini,Mesopicus cassini,0.5789,not synonym,synonym,Levenshtein,0.7
+Leiopicus mahrattensis,Picus mahrattensis,0.8182,synonym,synonym,Levenshtein,0.7
+Psilopogon franklinii,Picoides stricklandi,0.381,not synonym,not synonym,Levenshtein,0.7
+Dendropicos obsoletus,Dendrocopos obsoletus,0.8571,synonym,synonym,Levenshtein,0.7
+Psilopogon corvinus,Megalaima corvina,0.3684,not synonym,synonym,Levenshtein,0.7
+Trachyphonus purpuratus,Campethera caroli,0.1739,not synonym,not synonym,Levenshtein,0.7
+Reinwardtipicus validus,Chrysocolaptes validus,0.4348,not synonym,synonym,Levenshtein,0.7
+Sphyrapicus ruber,Dendrocopos moluccensis,0.2174,not synonym,not synonym,Levenshtein,0.7
+Yungipicus temminckii,Picoides temminckii,0.619,not synonym,synonym,Levenshtein,0.7
+Yungipicus kizuki,Picoides kizuki,0.5294,not synonym,synonym,Levenshtein,0.7
+Psilopogon haemacephalus,Megalaima faber,0.2083,not synonym,not synonym,Levenshtein,0.7
+Piculus chrysochloros,Picus chrysochloros,0.9048,synonym,synonym,Levenshtein,0.7
+Leuconotopicus fumigatus,Picus carolinus,0.3333,not synonym,not synonym,Levenshtein,0.7
+Celeus undatus,Bucco chacuru,0.1429,not synonym,not synonym,Levenshtein,0.7
+Leuconotopicus arizonae,Dryobates arizonae,0.5217,not synonym,synonym,Levenshtein,0.7
+Psilopogon australis,Picus elegans,0.25,not synonym,not synonym,Levenshtein,0.7
+Leuconotopicus fumigatus,Bucco fuscus,0.3333,not synonym,not synonym,Levenshtein,0.7
+Yungipicus temminckii,Dendrocopos temminckii,0.5909,not synonym,synonym,Levenshtein,0.7
+Psilopogon rubricapillus,Megalaima rubricapillus,0.5833,not synonym,synonym,Levenshtein,0.7
+Psilopogon australis,Bucco dubius,0.2,not synonym,not synonym,Levenshtein,0.7
+Aulacorhynchus sulcatus,Piculus auricularis,0.2609,not synonym,not synonym,Levenshtein,0.7
+Pteroglossus bailloni,Baillonius bailloni,0.619,not synonym,synonym,Levenshtein,0.7
+Gecinulus rafflesii,Dinopium rafflesii,0.6316,not synonym,synonym,Levenshtein,0.7
+Veniliornis mixtus,Picoides mixtus,0.5556,not synonym,synonym,Levenshtein,0.7
+Yungipicus kizuki,Dendrocopos kizuki,0.5,not synonym,synonym,Levenshtein,0.7
+Leuconotopicus fumigatus,Megalaima oorti,0.1667,not synonym,not synonym,Levenshtein,0.7
+Dryocopus martius,Dryobates stricklandi,0.3333,not synonym,not synonym,Levenshtein,0.7
+Selenidera piperivora,Selenidera culik,0.5714,not synonym,synonym,Levenshtein,0.7
+Colaptes punctigula,Hylatomus galeatus,0.2105,not synonym,not synonym,Levenshtein,0.7
+Chloropicus pyrrhogaster,Dendropicos pyrrhogaster,0.7917,synonym,synonym,Levenshtein,0.7
+Picus sharpei,Gecinus sharpei,0.7333,synonym,synonym,Levenshtein,0.7
+Leuconotopicus villosus,Picoides villosus,0.5652,not synonym,synonym,Levenshtein,0.7
+Lybius melanopterus,Picus arcticus,0.3684,not synonym,not synonym,Levenshtein,0.7
+Dryobates cathpharius,Geopicus chrysoides,0.2857,not synonym,not synonym,Levenshtein,0.7
+Veniliornis callonotus,Picus callonotus,0.5909,not synonym,synonym,Levenshtein,0.7
+Chloropicus pyrrhogaster,Thripias pyrrhogaster,0.75,synonym,synonym,Levenshtein,0.7
+Psilopogon rafflesii,Megalaima rafflesii,0.5,not synonym,synonym,Levenshtein,0.7
+Veniliornis affinis,Dryobates affinis,0.4737,not synonym,synonym,Levenshtein,0.7
+Aulacorhynchus albivitta,Pteroglossus albivitta,0.5417,not synonym,synonym,Levenshtein,0.7
+Celeus galeatus,Megalaima henricii,0.1667,not synonym,not synonym,Levenshtein,0.7
+Leuconotopicus villosus,Dendrocopos villosus,0.6087,not synonym,synonym,Levenshtein,0.7
+Veniliornis kirkii,Dryobates kirkii,0.4444,not synonym,synonym,Levenshtein,0.7
+Dendrocopos noguchii,Sapheopipo noguchii,0.6,not synonym,synonym,Levenshtein,0.7
+Lybius bidentatus,Bucco niger,0.1765,not synonym,not synonym,Levenshtein,0.7
+Dryocopus lineatus,Picus lineatus,0.6667,not synonym,synonym,Levenshtein,0.7
+Hemicircus concretus,Picus concretus,0.7,synonym,synonym,Levenshtein,0.7
+Leuconotopicus borealis,Thripias xantholophus,0.087,not synonym,not synonym,Levenshtein,0.7
+Chloropicus namaquus,Dendropicos namaquus,0.75,synonym,synonym,Levenshtein,0.7
+Dendrocoptes medius,Dendropicos medius,0.7368,synonym,synonym,Levenshtein,0.7
+Pteroglossus aracari,Megalaima franklinii,0.15,not synonym,not synonym,Levenshtein,0.7
+Dendrocopos noguchii,Picoides minor,0.15,not synonym,not synonym,Levenshtein,0.7
+Melanerpes lewis,Ramphastos aracari,0.1111,not synonym,not synonym,Levenshtein,0.7
+Psilopogon lineatus,Megalaima lineata,0.3684,not synonym,synonym,Levenshtein,0.7
+Psilopogon lagrandieri,Picus arizonae,0.2273,not synonym,not synonym,Levenshtein,0.7
+Yungipicus kizuki,Megalaima australis,0.1053,not synonym,not synonym,Levenshtein,0.7
+Dendrocoptes dorae,Dendrocopos dorae,0.8889,synonym,synonym,Levenshtein,0.7
+Celeus undatus,Picus mentalis,0.3571,not synonym,not synonym,Levenshtein,0.7
+Piculus flavigula,Picus flavigula,0.8824,synonym,synonym,Levenshtein,0.7
+Campephilus principalis,Verreauxia africana,0.2174,not synonym,not synonym,Levenshtein,0.7
+Colaptes rubiginosus,Picus rubiginosus,0.65,not synonym,synonym,Levenshtein,0.7
+Micropternus brachyurus,Hylatomus schulzii,0.2609,not synonym,not synonym,Levenshtein,0.7
+Dendrocoptes medius,Picus pileatus,0.2105,not synonym,not synonym,Levenshtein,0.7
+Chloropicus namaquus,Megalaima rafflesii,0.1,not synonym,not synonym,Levenshtein,0.7
+Leuconotopicus villosus,Dryobates villosus,0.5217,not synonym,synonym,Levenshtein,0.7
+Monasa atra,Cuculus ater,0.25,not synonym,synonym,Levenshtein,0.7
+Dendrocoptes medius,Leiopicus medius,0.5263,not synonym,synonym,Levenshtein,0.7
+Leuconotopicus borealis,Pteroglossus albivitta,0.1739,not synonym,not synonym,Levenshtein,0.7
+Dendrocopos major,Dryobates major,0.5294,not synonym,synonym,Levenshtein,0.7
+Psilopogon oorti,Megalaima oorti,0.375,not synonym,synonym,Levenshtein,0.7
+Brachygalba lugubris,Galbula lugubris,0.6,not synonym,synonym,Levenshtein,0.7
+Melanerpes lewis,Picus lewis,0.4375,not synonym,synonym,Levenshtein,0.7
+Notharchus macrorhynchos,Bucco macrorhynchos,0.625,not synonym,synonym,Levenshtein,0.7
+Colaptes punctigula,Picus punctigula,0.6316,not synonym,synonym,Levenshtein,0.7
+Psilopogon armillaris,Selenidera culik,0.2381,not synonym,not synonym,Levenshtein,0.7
+Chrysophlegma miniaceum,Picus percussus,0.1739,not synonym,not synonym,Levenshtein,0.7
+Melanerpes aurifrons,Centurus aurifrons,0.65,not synonym,synonym,Levenshtein,0.7
+Piculus chrysochloros,Neanis kistneri,0.1905,not synonym,not synonym,Levenshtein,0.7
+Psilopogon lagrandieri,Megalaima lagrandieri,0.5455,not synonym,synonym,Levenshtein,0.7
+Leuconotopicus fumigatus,Picus canicapillus,0.2917,not synonym,not synonym,Levenshtein,0.7
+Dryocopus martius,Picus martius,0.6471,not synonym,synonym,Levenshtein,0.7
+Psilopogon faiostrictus,Dryobates chocoensis,0.1739,not synonym,not synonym,Levenshtein,0.7
+Campephilus melanoleucos,Picus lecotos,0.375,not synonym,not synonym,Levenshtein,0.7
+Bucco noanamae,Nystactes noanamae,0.5556,not synonym,synonym,Levenshtein,0.7
+Capitonides europeus,Cyphos macrodactylus,0.2,not synonym,not synonym,Levenshtein,0.7
+Dendropicos griseocephalus,Dryobates major,0.1923,not synonym,not synonym,Levenshtein,0.7
+Bucco tamatia,Nystactes tamatia,0.5294,not synonym,synonym,Levenshtein,0.7
+Gecinulus rafflesii,Mesopicus cassini,0.3684,not synonym,not synonym,Levenshtein,0.7
+Veniliornis chocoensis,Picoides nuttallii,0.2273,not synonym,not synonym,Levenshtein,0.7
+Picumnus minutissimus,Dryocopus major,0.1429,not synonym,not synonym,Levenshtein,0.7
+Veniliornis frontalis,Dryobates frontalis,0.5238,not synonym,synonym,Levenshtein,0.7
+Psilopogon faiostrictus,Megalaima faiostricta,0.4783,not synonym,synonym,Levenshtein,0.7
+Dendrocoptes auriceps,Dendrocopos auriceps,0.9048,synonym,synonym,Levenshtein,0.7
+Colaptes auricularis,Dendrocopos mahrattensis,0.2917,not synonym,not synonym,Levenshtein,0.7
+Leiopicus mahrattensis,Picus sanguineus,0.4091,not synonym,not synonym,Levenshtein,0.7
+Pteroglossus viridis,Cloronerpes frontalis,0.2381,not synonym,not synonym,Levenshtein,0.7
+Dendrocoptes dorae,Megalaima corvina,0.1111,not synonym,not synonym,Levenshtein,0.7
+Picus canus,Pincus canus,0.9167,synonym,synonym,Levenshtein,0.7
+Leuconotopicus villosus,Picus villosus,0.6087,not synonym,synonym,Levenshtein,0.7
+Picumnus exilis,Pteroglossus culik,0.2778,not synonym,not synonym,Levenshtein,0.7
+Aulacorhynchus atrogularis,Hylatomus pileatus,0.3077,not synonym,not synonym,Levenshtein,0.7
+Pteroglossus viridis,Ramphastos viridis,0.5,not synonym,synonym,Levenshtein,0.7
+Dendrocopos syriacus,Dendrocopos villosus,0.7,synonym,not synonym,Levenshtein,0.7
+Melanerpes herminieri,Dryobates arizonae,0.2381,not synonym,not synonym,Levenshtein,0.7
+Dendrocopos major,Picus superciliaris,0.1053,not synonym,not synonym,Levenshtein,0.7
+Dendrocopos syriacus,Picus syriacus,0.55,not synonym,synonym,Levenshtein,0.7
+Dendrocopos leucotos,Picus leucotos,0.55,not synonym,synonym,Levenshtein,0.7
+Chloropicus xantholophus,Dendropicos xantholophus,0.7917,synonym,synonym,Levenshtein,0.7
+Yungipicus temminckii,Picus flavinucha,0.381,not synonym,not synonym,Levenshtein,0.7
+Celeus grammicus,Picus grammicus,0.75,synonym,synonym,Levenshtein,0.7
+Colaptes rivolii,Dendropicos dorae,0.1176,not synonym,not synonym,Levenshtein,0.7
+Aulacorhynchus prasinus,Pteroglossus prasinus,0.5217,not synonym,synonym,Levenshtein,0.7
+Psilopogon oorti,Picus minor,0.3125,not synonym,not synonym,Levenshtein,0.7
+Leuconotopicus fumigatus,Veniliornis fumigatus,0.5833,not synonym,synonym,Levenshtein,0.7
+Melanerpes lewis,Asyndesmus lewis,0.5,not synonym,synonym,Levenshtein,0.7
+Veniliornis kirkii,Picus kirkii,0.5,not synonym,synonym,Levenshtein,0.7
+Veniliornis mixtus,Picus minutissimus,0.2222,not synonym,not synonym,Levenshtein,0.7
+Colaptes rubiginosus,Piculus rubiginosus,0.65,not synonym,synonym,Levenshtein,0.7
+Veniliornis maculifrons,Megalaima zeylanica,0.1739,not synonym,not synonym,Levenshtein,0.7
+Dendrocopos major,Dryobates villosus,0.1667,not synonym,not synonym,Levenshtein,0.7
+Veniliornis passerinus,Picus maculifrons,0.2273,not synonym,not synonym,Levenshtein,0.7
+Psilopogon franklinii,Megalaima franklinii,0.5238,not synonym,synonym,Levenshtein,0.7
+Melanerpes superciliaris,Bucco tectus,0.1667,not synonym,not synonym,Levenshtein,0.7
+Chloropicus xantholophus,Leiopicus auriceps,0.4583,not synonym,not synonym,Levenshtein,0.7
+Aulacorhynchus prasinus,Ramphastos piperivorus,0.2174,not synonym,not synonym,Levenshtein,0.7
+Psilopogon eximius,Megalaima eximia,0.3333,not synonym,synonym,Levenshtein,0.7
+Leuconotopicus albolarvatus,Dendrocopos albolarvatus,0.6667,not synonym,synonym,Levenshtein,0.7
+Dendrocoptes medius,Picoides medius,0.5789,not synonym,synonym,Levenshtein,0.7
+Colaptes campestris,Picus campestris,0.6316,not synonym,synonym,Levenshtein,0.7
+Selenidera piperivora,Dryobates fumigatus,0.0952,not synonym,not synonym,Levenshtein,0.7
+Dendrocoptes medius,Picus medius,0.4737,not synonym,synonym,Levenshtein,0.7
+Selenidera piperivora,Ramphastos piperivorus,0.4545,not synonym,synonym,Levenshtein,0.7
+Leuconotopicus albolarvatus,Picoides albolarvatus,0.6296,not synonym,synonym,Levenshtein,0.7
+Dryobates scalaris,Picus medius,0.1667,not synonym,not synonym,Levenshtein,0.7
+Picoides tridactylus,Picus tridactylus,0.8,synonym,synonym,Levenshtein,0.7
+Campephilus melanoleucos,Picus torquatus,0.2917,not synonym,not synonym,Levenshtein,0.7
+Dryocopus schulzii,Hylatomus schulzii,0.6667,not synonym,synonym,Levenshtein,0.7
+Yungipicus temminckii,Dinopium rafflesii,0.3333,not synonym,not synonym,Levenshtein,0.7
+Leuconotopicus arizonae,Picus arizonae,0.6087,not synonym,synonym,Levenshtein,0.7
+Dendrocoptes medius,Dendrocopos medius,0.8947,synonym,synonym,Levenshtein,0.7
+Malacoptila fusca,Bucco fuscus,0.3529,not synonym,synonym,Levenshtein,0.7
+Dendropicos obsoletus,Picus noguchii,0.2381,not synonym,not synonym,Levenshtein,0.7
+Leuconotopicus borealis,Dendrocopos borealis,0.6087,not synonym,synonym,Levenshtein,0.7
+Yungipicus temminckii,Picoides pubescens,0.1905,not synonym,not synonym,Levenshtein,0.7
+Dryocopus pileatus,Picus pileatus,0.6667,not synonym,synonym,Levenshtein,0.7
+Celeus galeatus,Picus galeatus,0.7333,synonym,synonym,Levenshtein,0.7
+Psilopogon javensis,Megalaima javensis,0.4737,not synonym,synonym,Levenshtein,0.7
+Xiphidiopicus percussus,Pteroglossus spec,0.2609,not synonym,not synonym,Levenshtein,0.7
+Psilopogon rafflesii,Picus varius,0.25,not synonym,not synonym,Levenshtein,0.7
+Pteroglossus viridis,Picus nigriceps,0.3,not synonym,not synonym,Levenshtein,0.7
+Dendrocoptes medius,Dryocopus galeatus,0.4211,not synonym,not synonym,Levenshtein,0.7
+Capitonides europeus,Picus passerinus,0.35,not synonym,not synonym,Levenshtein,0.7
+Jacamerops aureus,Cryptolybia olivacea,0.05,not synonym,not synonym,Levenshtein,0.7
+Dryobates minor,Dryobates dignus,0.75,synonym,not synonym,Levenshtein,0.7
+Dryobates minor,Dendrocopos minor,0.5294,not synonym,synonym,Levenshtein,0.7
+Reinwardtipicus validus,Dryobates spilogaster,0.1304,not synonym,not synonym,Levenshtein,0.7
+Lybius dubius,Bucco dubius,0.5385,not synonym,synonym,Levenshtein,0.7
+Melanerpes aurifrons,Piculus rivolii,0.2,not synonym,not synonym,Levenshtein,0.7
+Capitonides protractus,Trachyphonus protractus,0.5652,not synonym,synonym,Levenshtein,0.7
+Dryobates nuttallii,Dendrocopos nuttallii,0.619,not synonym,synonym,Levenshtein,0.7
+Capito niger,Picus rubiginosus,0.1765,not synonym,not synonym,Levenshtein,0.7
+Psilopogon zeylanicus,Picus aurulentus,0.2857,not synonym,not synonym,Levenshtein,0.7
+Aulacorhynchus caeruleogularis,Picus erythrocephalus,0.2333,not synonym,not synonym,Levenshtein,0.7
+Psilopogon eximius,Dendrocopos cathpharius,0.3043,not synonym,not synonym,Levenshtein,0.7
+Veniliornis mixtus,Picus lignarius,0.2222,not synonym,not synonym,Levenshtein,0.7
+Chloropicus xantholophus,Veniliornis fumigatus,0.2083,not synonym,not synonym,Levenshtein,0.7
+Dryobates pubescens,Dryobates mixtus,0.5789,not synonym,not synonym,Levenshtein,0.7
+Micropternus brachyurus,Picus concretus,0.3478,not synonym,not synonym,Levenshtein,0.7
+Buccanodon duchaillui,Dendrocopos albolarvatus,0.2083,not synonym,not synonym,Levenshtein,0.7
+Leiopicus mahrattensis,Dendrocopos mahrattensis,0.6667,not synonym,synonym,Levenshtein,0.7
+Celeus elegans,Picus elegans,0.7143,synonym,synonym,Levenshtein,0.7
+Leuconotopicus borealis,Picoides major,0.2609,not synonym,not synonym,Levenshtein,0.7
+Bucco macrodactylus,Centurus uropygialis,0.2,not synonym,not synonym,Levenshtein,0.7
+Veniliornis chocoensis,Picus formicivorus,0.2273,not synonym,not synonym,Levenshtein,0.7
+Dryobates scalaris,Barbatula duchaillui,0.3,not synonym,not synonym,Levenshtein,0.7
+Veniliornis spilogaster,Picus stricklandi,0.2174,not synonym,not synonym,Levenshtein,0.7
+Nystalus chacuru,Bucco chacuru,0.5,not synonym,synonym,Levenshtein,0.7
+Dryocopus pileatus,Picumnus dorbygnianus,0.2381,not synonym,not synonym,Levenshtein,0.7
+Colaptes chrysoides,Geopicus chrysoides,0.6316,not synonym,synonym,Levenshtein,0.7
+Dendropicos griseocephalus,Mesopicos griseocephalus,0.8462,synonym,synonym,Levenshtein,0.7
+Psilopogon flavifrons,Megalaima flavifrons,0.5238,not synonym,synonym,Levenshtein,0.7
+Veniliornis mixtus,Aulacorhamphus whitelianus,0.2308,not synonym,not synonym,Levenshtein,0.7
+Capito niger,Bucco niger,0.5833,not synonym,synonym,Levenshtein,0.7
+Gecinulus rafflesii,Chloropicoides rafflesii,0.5,not synonym,synonym,Levenshtein,0.7
+Dryocopus pileatus,Ceophloeus pileatus,0.6316,not synonym,synonym,Levenshtein,0.7
+Psilopogon armillaris,Dendrocopos nuttallii,0.2381,not synonym,not synonym,Levenshtein,0.7
+Lybius dubius,Pogonornis dubius,0.4706,not synonym,synonym,Levenshtein,0.7
+Dendrocoptes medius,Picus leucotos,0.1579,not synonym,not synonym,Levenshtein,0.7
+Xiphidiopicus percussus,Centurus superciliaris,0.1739,not synonym,not synonym,Levenshtein,0.7
+Dryobates minor,Picoides minor,0.6,not synonym,synonym,Levenshtein,0.7
+Monasa nigrifrons,Dryobates lignarius,0.3158,not synonym,not synonym,Levenshtein,0.7
+Pteroglossus bailloni,Cyrilavis olsoni,0.381,not synonym,not synonym,Levenshtein,0.7
+Leuconotopicus stricklandi,Picus stricklandi,0.6538,not synonym,synonym,Levenshtein,0.7
+Yungipicus moluccensis,Picus lineatus,0.4091,not synonym,not synonym,Levenshtein,0.7
+Dendrocopos leucotos,Picus candidus,0.2,not synonym,not synonym,Levenshtein,0.7
+Dryobates pubescens,Picus pubescens,0.5789,not synonym,synonym,Levenshtein,0.7
+Yungipicus maculatus,Picus villosus,0.45,not synonym,not synonym,Levenshtein,0.7
+Veniliornis mixtus,Dryobates mixtus,0.4444,not synonym,synonym,Levenshtein,0.7
+Leuconotopicus albolarvatus,Megalaima mystacophanos,0.2222,not synonym,not synonym,Levenshtein,0.7
+Piculus aurulentus,Picus aurulentus,0.8889,synonym,synonym,Levenshtein,0.7
+Melanerpes lewis,Dryobates kirkii,0.1875,not synonym,not synonym,Levenshtein,0.7
+Melanerpes superciliaris,Bathoceleus hyphalus,0.2083,not synonym,synonym,Levenshtein,0.7
+Bucco macrodactylus,Argicus macrodactylus,0.7143,synonym,synonym,Levenshtein,0.7
+Celeus undatus,Picus undatus,0.7143,synonym,synonym,Levenshtein,0.7
+Primobucco olsoni,Cyrilavis olsoni,0.4706,not synonym,synonym,Levenshtein,0.7
+Aulacorhynchus whitelianus,Aulacorhamphus whitelianus,0.8846,synonym,synonym,Levenshtein,0.7
+Veniliornis frontalis,Cloronerpes frontalis,0.5714,not synonym,synonym,Levenshtein,0.7
+Veniliornis callonotus,Dryobates callonotus,0.5455,not synonym,synonym,Levenshtein,0.7
+Chrysophlegma mentale,Picus mentalis,0.3333,not synonym,synonym,Levenshtein,0.7
+Dendrocoptes dorae,Dendropicos dorae,0.7222,synonym,synonym,Levenshtein,0.7
+Stactolaema olivacea,Picoides medius,0.2,not synonym,not synonym,Levenshtein,0.7
+Dendropicos griseocephalus,Leiopicus medius,0.3846,not synonym,not synonym,Levenshtein,0.7
+Stactolaema olivacea,Cryptolybia olivacea,0.65,not synonym,synonym,Levenshtein,0.7
+Leuconotopicus arizonae,Picoides arizonae,0.5652,not synonym,synonym,Levenshtein,0.7
+Veniliornis sanguineus,Picus sanguineus,0.5909,not synonym,synonym,Levenshtein,0.7
+Chelidoptera tenebrosa,Cuculus tenebrosus,0.4091,not synonym,synonym,Levenshtein,0.7
+Psilopogon incognitus,Dendropicos medius,0.2857,not synonym,not synonym,Levenshtein,0.7
+Dryobates minor,Alcedo spec,0.0667,not synonym,not synonym,Levenshtein,0.7
+Chloropicus xantholophus,Thripias xantholophus,0.75,synonym,synonym,Levenshtein,0.7
+Veniliornis lignarius,Picus lignarius,0.5714,not synonym,synonym,Levenshtein,0.7
+Nonnula rubecula,Picoides scalaris,0.0588,not synonym,not synonym,Levenshtein,0.7
+Psilopogon mystacophanos,Megalaima mystacophanos,0.5833,not synonym,synonym,Levenshtein,0.7
+Dryobates minor,Dryobates frontalis,0.5789,not synonym,not synonym,Levenshtein,0.7
+Leuconotopicus borealis,Pteroglossus atrogularis,0.2917,not synonym,not synonym,Levenshtein,0.7
+Colaptes punctigula,Pulchrapollia olsoni,0.05,not synonym,not synonym,Levenshtein,0.7
+Pteroglossus aracari,Ramphastos aracari,0.5,not synonym,synonym,Levenshtein,0.7
+Dendrocoptes medius,Pteroglossus prasinus,0.3333,not synonym,not synonym,Levenshtein,0.7
+Pteroglossus aracari,Megalaima eximia,0.15,not synonym,not synonym,Levenshtein,0.7
+Leuconotopicus borealis,Picus borealis,0.6087,not synonym,synonym,Levenshtein,0.7
+Lybius minor,Pogonornis minor,0.4375,not synonym,synonym,Levenshtein,0.7
+Veniliornis lignarius,Thripias namaquus,0.3333,not synonym,not synonym,Levenshtein,0.7
+Psilopogon viridis,Megalaima viridis,0.4444,not synonym,synonym,Levenshtein,0.7
+Chrysophlegma miniaceum,Picus mineaceus,0.3913,not synonym,synonym,Levenshtein,0.7
+Leuconotopicus borealis,Dryobates borealis,0.5217,not synonym,synonym,Levenshtein,0.7
+Bucco macrodactylus,Picus mixtus,0.3158,not synonym,not synonym,Levenshtein,0.7
+Psilopogon zeylanicus,Megalaima zeylanica,0.4286,not synonym,synonym,Levenshtein,0.7
+Picumnus dorbignyanus,Picumnus dorbygnianus,0.9048,synonym,synonym,Levenshtein,0.7
+Veniliornis nigriceps,Dryobates nigriceps,0.5238,not synonym,synonym,Levenshtein,0.7
+Veniliornis chocoensis,Dryobates chocoensis,0.5455,not synonym,synonym,Levenshtein,0.7
+Psilopogon chrysopogon,Picoides moluccensis,0.1818,not synonym,not synonym,Levenshtein,0.7
+Lybius melanopterus,Asyndesmus lewis,0.2105,not synonym,not synonym,Levenshtein,0.7
+Psilopogon henricii,Megalaima henricii,0.4737,not synonym,synonym,Levenshtein,0.7
+Dendrocoptes auriceps,Megalaima chrysopogon,0.0476,not synonym,not synonym,Levenshtein,0.7
+Veniliornis affinis,Picus affinis,0.5263,not synonym,synonym,Levenshtein,0.7
+Chrysophlegma miniaceum,Dendrocopos obsoletus,0.1304,not synonym,not synonym,Levenshtein,0.7
+Galbula galbula,Alcedo spec,0.2,not synonym,synonym,Levenshtein,0.7
+Chrysophlegma miniaceum,Picoides canicapillus,0.1739,not synonym,not synonym,Levenshtein,0.7
+Dryobates scalaris,Dryobates maculifrons,0.6667,not synonym,not synonym,Levenshtein,0.7
+Colaptes auricularis,Piculus auricularis,0.65,not synonym,synonym,Levenshtein,0.7
+Dryobates minor,Picus miniaceus,0.0667,not synonym,not synonym,Levenshtein,0.7
+Dendropicos obsoletus,Picoides obsoletus,0.619,not synonym,synonym,Levenshtein,0.7
+Picumnus exilis,Picus exilis,0.8,synonym,synonym,Levenshtein,0.7
+Dryobates scalaris,Picoides scalaris,0.6667,not synonym,synonym,Levenshtein,0.7
+Dryobates minor,Picus minor,0.4667,not synonym,synonym,Levenshtein,0.7
+Dendrocopos major,Pogonornis bidentatus,0.1429,not synonym,not synonym,Levenshtein,0.7
+Aulacorhynchus atrogularis,Pteroglossus atrogularis,0.5769,not synonym,synonym,Levenshtein,0.7
+Psilopogon faber,Picus herminieri,0.1875,not synonym,not synonym,Levenshtein,0.7
+Dendrocoptes dorae,Megalaima pulcherrima,0.1429,not synonym,not synonym,Levenshtein,0.7
+Picumnus minutissimus,Picus minutissimus,0.8571,synonym,synonym,Levenshtein,0.7
+Melanerpes superciliaris,Picus ruber,0.2083,not synonym,not synonym,Levenshtein,0.7
+Yungipicus canicapillus,Picoides canicapillus,0.6522,not synonym,synonym,Levenshtein,0.7
+Dendrocopos noguchii,Picus noguchii,0.55,not synonym,synonym,Levenshtein,0.7
+Veniliornis lignarius,Picoides lignarius,0.619,not synonym,synonym,Levenshtein,0.7
+Yungipicus kizuki,Picus pubescens,0.1765,not synonym,not synonym,Levenshtein,0.7
+Pteroglossus viridis,Megalaima monticola,0.1,not synonym,not synonym,Levenshtein,0.7
+Nystalus chacuru,Dendrocopos anglicus,0.2,not synonym,not synonym,Levenshtein,0.7
+Psilopogon zeylanicus,Thereiceryx zeylanicus,0.5,not synonym,synonym,Levenshtein,0.7
+Psilopogon rafflesii,Chloronerpes dignus,0.15,not synonym,not synonym,Levenshtein,0.7
+Dendrocopos major,Picus flavus,0.1765,not synonym,not synonym,Levenshtein,0.7
+Lybius minor,Thripias pyrrhogaster,0.2381,not synonym,not synonym,Levenshtein,0.7
+Yungipicus temminckii,Leuconerpes albolarvatus,0.125,not synonym,not synonym,Levenshtein,0.7
+Nonnula rubecula,Bucco rubecula,0.5625,not synonym,synonym,Levenshtein,0.7
+Psilopogon nuchalis,Megalaima nuchalis,0.4737,not synonym,synonym,Levenshtein,0.7
+Psilopogon virens,Megalaima virens,0.4118,not synonym,synonym,Levenshtein,0.7
+Chelidoptera tenebrosa,Dryobates passerinus,0.1364,not synonym,not synonym,Levenshtein,0.7
+Psilopogon mystacophanos,Megalaima lagrandieri,0.0833,not synonym,not synonym,Levenshtein,0.7
+Pteroglossus viridis,Baillonius bailloni,0.25,not synonym,not synonym,Levenshtein,0.7
+Bucco noanamae,Bucco macrorhynchos,0.4211,not synonym,not synonym,Levenshtein,0.7
+Primobucco olsoni,Megalaima lineata,0.0,not synonym,not synonym,Levenshtein,0.7
+Galbula galbula,Chrysocolaptes validus,0.2273,not synonym,not synonym,Levenshtein,0.7
+Psilopogon javensis,Venilornis fumigatus,0.2,not synonym,not synonym,Levenshtein,0.7
+Yungipicus moluccensis,Dendrocopos temminckii,0.1364,not synonym,not synonym,Levenshtein,0.7
+Psilopogon incognitus,Megalaima incognita,0.4286,not synonym,synonym,Levenshtein,0.7
+Colaptes auratus,Cuculus auratus,0.625,not synonym,synonym,Levenshtein,0.7
+Veniliornis maculifrons,Picus maculifrons,0.6087,not synonym,synonym,Levenshtein,0.7
+Caloramphus fuliginosus,Calorhamphus fuliginosus,0.9583,synonym,synonym,Levenshtein,0.7
+Veniliornis callonotus,Picus major,0.2273,not synonym,not synonym,Levenshtein,0.7
+Psilopogon asiaticus,Megalaima asiatica,0.4,not synonym,synonym,Levenshtein,0.7
+Chelidoptera tenebrosa,Picumnus fulvescens,0.0909,not synonym,not synonym,Levenshtein,0.7
+Chrysophlegma miniaceum,Dendrocopos canicapillus,0.1667,not synonym,not synonym,Levenshtein,0.7
+Leuconotopicus stricklandi,Dryobates stricklandi,0.5769,not synonym,synonym,Levenshtein,0.7
+Veniliornis spilogaster,Picus spilogaster,0.6087,not synonym,synonym,Levenshtein,0.7
+Celeus galeatus,Dendrocopos medius,0.2222,not synonym,not synonym,Levenshtein,0.7
+Selenidera piperivora,Pteroglossus culik,0.0476,not synonym,synonym,Levenshtein,0.7
+Veniliornis affinis,Picus melanoleucos,0.0526,not synonym,not synonym,Levenshtein,0.7
+Dendrocoptes medius,Alcedo aurea,0.1053,not synonym,not synonym,Levenshtein,0.7
+Veniliornis passerinus,Dryobates passerinus,0.5455,not synonym,synonym,Levenshtein,0.7
+Melanerpes herminieri,Picus herminieri,0.5714,not synonym,synonym,Levenshtein,0.7
+Psilopogon monticola,Megalaima monticola,0.5,not synonym,synonym,Levenshtein,0.7
+Veniliornis dignus,Dryobates dignus,0.4444,not synonym,synonym,Levenshtein,0.7
+Psilopogon flavifrons,Picoides kizuki,0.2381,not synonym,not synonym,Levenshtein,0.7
+Picus sharpei,Ceophloeus pileatus,0.2105,not synonym,not synonym,Levenshtein,0.7
+Leuconotopicus albolarvatus,Leuconerpes albolarvatus,0.7778,synonym,synonym,Levenshtein,0.7
+Colaptes auricularis,Dendrocopos arizonae,0.2,not synonym,not synonym,Levenshtein,0.7
+Leuconotopicus fumigatus,Trachyphonus protractus,0.3333,not synonym,not synonym,Levenshtein,0.7
+Veniliornis spilogaster,Dryobates spilogaster,0.5652,not synonym,synonym,Levenshtein,0.7
+Psilopogon nuchalis,Picoides borealis,0.4211,not synonym,not synonym,Levenshtein,0.7
+Dryobates scalaris,Dendrocopos maculatus,0.381,not synonym,not synonym,Levenshtein,0.7
+Bucco capensis,Bucco collaris,0.6429,not synonym,synonym,Levenshtein,0.7
+Yungipicus canicapillus,Dendrocopos canicapillus,0.625,not synonym,synonym,Levenshtein,0.7
+Gecinulus rafflesii,Picus tridactylus,0.2105,not synonym,not synonym,Levenshtein,0.7
+Melanerpes uropygialis,Centurus uropygialis,0.6818,not synonym,synonym,Levenshtein,0.7
+Leuconotopicus stricklandi,Dendrocopos dorae,0.3077,not synonym,not synonym,Levenshtein,0.7
+Pardipicus caroli,Picus affinis,0.3529,not synonym,not synonym,Levenshtein,0.7
+Colaptes rivolii,Piculus rivolii,0.5625,not synonym,synonym,Levenshtein,0.7
+Chloropicus namaquus,Asyndesmus lewisi,0.15,not synonym,not synonym,Levenshtein,0.7
+Leuconotopicus fumigatus,Bucco nigrifrons,0.25,not synonym,not synonym,Levenshtein,0.7
+Dryobates scalaris,Dendrocopos scalaris,0.6,not synonym,synonym,Levenshtein,0.7
+Yungipicus kizuki,Gecinus sharpei,0.2941,not synonym,not synonym,Levenshtein,0.7
+Dryobates pubescens,Pogonornis minor,0.1053,not synonym,not synonym,Levenshtein,0.7
+Veniliornis spilogaster,Celeus brachyurus,0.1739,not synonym,not synonym,Levenshtein,0.7
+Bucco macrodactylus,Cyphos macrodactylus,0.75,synonym,synonym,Levenshtein,0.7
+Sphyrapicus ruber,Picus ruber,0.6471,not synonym,synonym,Levenshtein,0.7
+Veniliornis nigriceps,Hylatomus lineatus,0.2381,not synonym,not synonym,Levenshtein,0.7
+Veniliornis passerinus,Picus passerinus,0.5909,not synonym,synonym,Levenshtein,0.7
+Psilopogon monticola,Megalaima javensis,0.1,not synonym,not synonym,Levenshtein,0.7
+Chloropicus namaquus,Thripias namaquus,0.7,synonym,synonym,Levenshtein,0.7
+Psilopogon eximius,Megalaima haemacephala,0.0909,not synonym,not synonym,Levenshtein,0.7
+Psilopogon armillaris,Megalaima armillaris,0.5238,not synonym,synonym,Levenshtein,0.7
+Dryobates pubescens,Argicus macrodactylus,0.1429,not synonym,not synonym,Levenshtein,0.7
+Campephilus melanoleucos,Picus melanoleucos,0.7083,synonym,synonym,Levenshtein,0.7
+Chrysophlegma flavinucha,Picus flavinucha,0.5,not synonym,synonym,Levenshtein,0.7
+Primobucco kistneri,Neanis kistneri,0.4737,not synonym,synonym,Levenshtein,0.7
+Veniliornis nigriceps,Picus nigriceps,0.5714,not synonym,synonym,Levenshtein,0.7
+Nystalus chacuru,Dryobates borealis,0.2222,not synonym,not synonym,Levenshtein,0.7
+Notharchus tectus,Bucco tectus,0.4706,not synonym,synonym,Levenshtein,0.7
+Pardipicus nivosus,Ramphastos viridis,0.2778,not synonym,not synonym,Levenshtein,0.7
+Yungipicus moluccensis,Picoides moluccensis,0.6364,not synonym,synonym,Levenshtein,0.7
+Psilopogon lagrandieri,Picus flavigula,0.1818,not synonym,not synonym,Levenshtein,0.7
+Dryobates cathpharius,Megalaima viridis,0.1905,not synonym,not synonym,Levenshtein,0.7
+Primobucco olsoni,Pulchrapollia olsoni,0.45,not synonym,synonym,Levenshtein,0.7
+Chelidoptera tenebrosa,Dryobates cassini,0.1364,not synonym,not synonym,Levenshtein,0.7
+Dendrocoptes dorae,Megalaima flavifrons,0.1,not synonym,not synonym,Levenshtein,0.7
+Psilopogon australis,Megalaima australis,0.5,not synonym,synonym,Levenshtein,0.7
+Stactolaema olivacea,Dendrocopos auriceps,0.15,not synonym,not synonym,Levenshtein,0.7
+Dryocopus schulzii,Dryobates nigriceps,0.3158,not synonym,not synonym,Levenshtein,0.7
+Chloropicus xantholophus,Piculus rubiginosus,0.2917,not synonym,not synonym,Levenshtein,0.7
+Melanerpes candidus,Dendrocopos borealis,0.25,not synonym,not synonym,Levenshtein,0.7
+Chelidoptera tenebrosa,Pteroglossus sulcatus,0.1364,not synonym,not synonym,Levenshtein,0.7
+Dendrocoptes dorae,Picus exilis,0.1111,not synonym,not synonym,Levenshtein,0.7
+Dendrocopos leucotos,Picus lecotos,0.5,not synonym,synonym,Levenshtein,0.7
+Dryobates nuttallii,Picoides nuttallii,0.6842,not synonym,synonym,Levenshtein,0.7
+Dendrocopos major,Dendrocopos anglicus,0.6,not synonym,synonym,Levenshtein,0.7
+Leuconotopicus albolarvatus,Picus mahrattensis,0.2593,not synonym,not synonym,Levenshtein,0.7
+Leuconotopicus borealis,Picoides borealis,0.5652,not synonym,synonym,Levenshtein,0.7
+Leiopicus mahrattensis,Dryobates comminutus,0.1818,not synonym,not synonym,Levenshtein,0.7
+Melanerpes superciliaris,Picus superciliaris,0.625,not synonym,synonym,Levenshtein,0.7
+Veniliornis mixtus,Megalaima virens,0.2778,not synonym,not synonym,Levenshtein,0.7
+Colaptes rubiginosus,Picus striatus,0.25,not synonym,not synonym,Levenshtein,0.7
+Psilopogon zeylanicus,Bucco zeylanicus,0.5714,not synonym,synonym,Levenshtein,0.7
+Psilopogon javensis,Trachylaemus purpuratus,0.087,not synonym,not synonym,Levenshtein,0.7
+Dryocopus pileatus,Hylatomus pileatus,0.6667,not synonym,synonym,Levenshtein,0.7
+Yungipicus moluccensis,Nystactes tamatia,0.1818,not synonym,not synonym,Levenshtein,0.7
+Yungipicus moluccensis,Dendrocopos moluccensis,0.6087,not synonym,synonym,Levenshtein,0.7
+Campephilus principalis,Picus principalis,0.6957,not synonym,synonym,Levenshtein,0.7
+Pardipicus nivosus,Campethera nivosa,0.3889,not synonym,synonym,Levenshtein,0.7
+Leuconotopicus stricklandi,Picoides stricklandi,0.6154,not synonym,synonym,Levenshtein,0.7
+Psilopogon corvinus,Picoides temminckii,0.2105,not synonym,not synonym,Levenshtein,0.7
+Dendrocoptes auriceps,Picus fumigatus,0.2381,not synonym,not synonym,Levenshtein,0.7
+Xiphidiopicus percussus,Megalaima armillaris,0.087,not synonym,not synonym,Levenshtein,0.7
+Leuconotopicus fumigatus,Picus fumigatus,0.625,not synonym,synonym,Levenshtein,0.7

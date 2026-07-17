@@ -11,6 +11,14 @@ from sklearn.metrics.pairwise import cosine_similarity
 def load_model(model_name, device):
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     model = AutoModel.from_pretrained(model_name)
+
+    if tokenizer.pad_token is None:
+        if tokenizer.eos_token is not None:
+            tokenizer.pad_token = tokenizer.eos_token
+        else:
+            tokenizer.add_special_tokens({"pad_token": "[PAD]"})
+            model.resize_token_embeddings(len(tokenizer))
+
     model.to(device)
     model.eval()
     return tokenizer, model

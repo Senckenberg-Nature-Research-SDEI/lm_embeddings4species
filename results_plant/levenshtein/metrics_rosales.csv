@@ -1,0 +1,2 @@
+model,dataset,threshold,accuracy,precision,recall,f1,tn,fp,fn,tp,total
+Levenshtein,balanced_synonym_rosales_dataset.csv,0.7,0.5698,0.9977,0.1398,0.2453,9415,3,8101,1317,18836

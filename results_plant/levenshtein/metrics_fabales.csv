@@ -1,0 +1,2 @@
+model,dataset,threshold,accuracy,precision,recall,f1,tn,fp,fn,tp,total
+Levenshtein,balanced_synonym_fabales_dataset.csv,0.7,0.5681,0.9874,0.138,0.2422,5684,10,4908,786,11388

@@ -1,0 +1,5 @@
+model,file,accuracy,precision,recall,f1,tn,fp,fn,tp,total
+gpt2,balanced_synonym_fabales_dataset_results.csv,0.5,0.5,1.0,0.6666666666666666,0,5694,0,5694,11388
+gpt2,balanced_synonym_lamiales_dataset_results.csv,0.5,0.5,1.0,0.6666666666666666,0,246,0,246,492
+gpt2,balanced_synonym_poales_dataset_results.csv,0.5,0.5,1.0,0.6666666666666666,0,13132,0,13132,26264
+gpt2,balanced_synonym_rosales_dataset_results.csv,0.5,0.5,1.0,0.6666666666666666,0,9418,0,9418,18836

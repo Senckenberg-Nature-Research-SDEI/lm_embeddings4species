@@ -1,0 +1,493 @@
+species,oldSpeciesCanonicalName,similarity,prediction,model,threshold,label
+Melanerpes erythrocephalus,Picus erythrocephalus,0.6649,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Sphyrapicus varius,Picus varius,0.6839,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dryobates pubescens,Dryobates affinis,0.7887,synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Veniliornis mixtus,Picoides lignarius,0.5286,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Picumnus limae,Picumnus fulvescens,0.7474,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Celeus galeatus,Hylatomus galeatus,0.7027,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Veniliornis cassini,Dryobates cassini,0.7165,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dryocopus lineatus,Hylatomus lineatus,0.6431,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Melanerpes striatus,Trachyphonus europeus,0.4648,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Galbula dea,Dryobates albolarvatus,0.4424,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Aulacorhynchus caeruleogularis,Aulacorhamphus caeruleogularis,0.9217,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Veniliornis dignus,Picus callonotus,0.5135,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Melanerpes formicivorus,Picus formicivorus,0.6261,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dryobates pubescens,Dendrocopos pubescens,0.6871,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Colaptes auratus,Megalaima asiatica,0.4208,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Pardipicus caroli,Campethera caroli,0.7077,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Leuconotopicus arizonae,Dendrocopos arizonae,0.5646,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Monasa nigrifrons,Bucco nigrifrons,0.6724,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Reinwardtipicus validus,Picus martius,0.567,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Notharchus macrorhynchos,Pogonornis dubius,0.3904,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Galbula dea,Picus chrysochloros,0.2809,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Psilopogon faber,Megalaima faber,0.5626,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dryocopus schulzii,Megalaima rubricapillus,0.401,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dryobates minor,Cuculus tenebrosus,0.3547,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Melanerpes carolinus,Picus carolinus,0.6741,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Picus sharpei,Bucco collaris,0.3908,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dendrocoptes auriceps,Dendropicos pyrrhogaster,0.6523,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dryobates pubescens,Picoides pubescens,0.6416,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Picumnus dorbignyanus,Megalaima faiostricta,0.3805,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Melanerpes lewis,Picus spilogaster,0.3986,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Melanerpes lewis,Asyndesmus lewisi,0.6688,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Sphyrapicus varius,Picoides mixtus,0.4589,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Chelidoptera tenebrosa,Picus campestris,0.3686,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Colaptes auricularis,Pincus canus,0.4461,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Veniliornis dignus,Chloronerpes dignus,0.6032,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Psilopogon viridis,Dendrocopos kizuki,0.304,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Selenidera nattereri,Pteroglossus spec,0.3255,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Aulacorhynchus sulcatus,Pteroglossus sulcatus,0.5698,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dendrocopos major,Dryocopus major,0.7238,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Psilopogon lineatus,Sapheopipo noguchii,0.4309,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Celeus torquatus,Picus torquatus,0.7214,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dendrocoptes auriceps,Leiopicus auriceps,0.6649,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Leuconotopicus fumigatus,Venilornis fumigatus,0.6486,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dendrocopos major,Picoides major,0.6296,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dendrocopos major,Picus major,0.582,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Jacamerops aureus,Alcedo aurea,0.5264,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Yungipicus maculatus,Dendrocopos maculatus,0.6456,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Veniliornis spilogaster,Picus undatus,0.446,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Nesoctites micromegas,Picumnus micromegas,0.6503,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Melanerpes superciliaris,Cuculus ater,0.4494,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Chloropicus pyrrhogaster,Alcedo dea,0.2618,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Leuconotopicus albolarvatus,Dryobates albolarvatus,0.6354,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Selenidera piperivora,Megalaima nuchalis,0.4062,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Veniliornis lignarius,Dryobates lignarius,0.6296,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Psilopogon rubricapillus,Calorhamphus fuliginosus,0.4211,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dendrocopos hyperythrus,Hypopicus hyperythrus,0.7507,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Selenidera piperivora,Bucco rubecula,0.4143,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dendrocoptes auriceps,Mesopicos griseocephalus,0.4775,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Micropternus brachyurus,Celeus brachyurus,0.6748,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Melanerpes striatus,Picus striatus,0.6405,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Lybius melanopterus,Dendrocopos scalaris,0.3971,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Lybius melanopterus,Pogonornis melanopterus,0.6479,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Psilopogon flavifrons,Pogonornis melanopterus,0.4952,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dendrocoptes medius,Bucco zeylanicus,0.407,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dendrocoptes auriceps,Picus borealis,0.4591,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Picoides arcticus,Picus arcticus,0.8121,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Celeus flavus,Picus principalis,0.4723,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Picus sharpei,Dendropicos xantholophus,0.4689,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Lybius dubius,Hypopicus hyperythrus,0.4259,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Monasa nigrifrons,Dryobates callonotus,0.3378,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Veniliornis mixtus,Galbula lugubris,0.2763,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Veniliornis lignarius,Aulacorhamphus caeruleogularis,0.547,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Psilopogon asiaticus,Picus lewis,0.2774,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Colaptes auratus,Picus galeatus,0.4422,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dryobates pubescens,Megalaima incognita,0.2912,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Melanerpes carolinus,Centurus carolinus,0.6758,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Veniliornis nigriceps,Picus kirkii,0.3912,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Celeus undatus,Picoides ramsayi,0.3994,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dryocopus pileatus,Campethera nivosa,0.2698,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Psilopogon chrysopogon,Megalaima chrysopogon,0.6928,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Psilopogon corvinus,Picoides villosus,0.4781,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Leuconotopicus fumigatus,Dryobates fumigatus,0.5549,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Nonnula rubecula,Picus syriacus,0.3275,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Leuconotopicus stricklandi,Picoides albolarvatus,0.4529,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Psilopogon asiaticus,Picoides maculatus,0.5113,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Gecinulus rafflesii,Nystactes noanamae,0.3298,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Leuconotopicus albolarvatus,Picoides arizonae,0.6007,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Melanerpes superciliaris,Centurus superciliaris,0.6467,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Melanerpes candidus,Picus candidus,0.6352,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dryobates cathpharius,Picus grammicus,0.4277,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Yungipicus canicapillus,Picus canicapillus,0.7286,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Celeus flavus,Picus flavus,0.6623,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Aulacorhynchus prasinus,Picoides obsoletus,0.5448,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Yungipicus maculatus,Picoides maculatus,0.6816,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Veniliornis kirkii,Picumnus micromegas,0.4105,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dendrocoptes auriceps,Chloropicoides rafflesii,0.4642,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Sasia africana,Verreauxia africana,0.7148,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Lybius bidentatus,Pogonornis bidentatus,0.6914,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Capitonides europeus,Trachyphonus europeus,0.6113,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Aulacorhynchus sulcatus,Dendrocopos pubescens,0.406,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dryobates cathpharius,Dendrocopos cathpharius,0.6891,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Psilopogon faber,Dendropicos namaquus,0.3359,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Veniliornis chocoensis,Picus mineaceus,0.4798,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Chrysophlegma miniaceum,Picus miniaceus,0.4601,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Xiphidiopicus percussus,Picus percussus,0.6723,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Buccanodon duchaillui,Thereiceryx zeylanicus,0.3801,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Yungipicus kizuki,Dendrocopos minor,0.3744,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Aulacorhynchus prasinus,Bathoceleus hyphalus,0.5484,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Psilopogon haemacephalus,Megalaima haemacephala,0.6505,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Veniliornis maculifrons,Dryobates maculifrons,0.699,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Psilopogon pulcherrimus,Megalaima pulcherrima,0.574,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Celeus galeatus,Dryocopus galeatus,0.6676,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dryobates minor,Dryobates comminutus,0.7758,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Buccanodon duchaillui,Barbatula duchaillui,0.6892,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Trachyphonus purpuratus,Trachylaemus purpuratus,0.9279,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Galbula dea,Alcedo dea,0.57,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Psilopogon rubricapillus,Picus punctigula,0.4346,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dendrocopos noguchii,Cuculus auratus,0.3945,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Sasia africana,Centurus aurifrons,0.4073,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Yungipicus ramsayi,Picoides ramsayi,0.6738,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Melanerpes erythrocephalus,Centurus carolinus,0.4608,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Veniliornis mixtus,Picus mixtus,0.6477,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Veniliornis cassini,Mesopicus cassini,0.7522,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Leiopicus mahrattensis,Picus mahrattensis,0.7657,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Psilopogon franklinii,Picoides stricklandi,0.4423,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dendropicos obsoletus,Dendrocopos obsoletus,0.9304,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Psilopogon corvinus,Megalaima corvina,0.5384,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Trachyphonus purpuratus,Campethera caroli,0.2724,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Reinwardtipicus validus,Chrysocolaptes validus,0.6321,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Sphyrapicus ruber,Dendrocopos moluccensis,0.471,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Yungipicus temminckii,Picoides temminckii,0.6615,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Yungipicus kizuki,Picoides kizuki,0.6972,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Psilopogon haemacephalus,Megalaima faber,0.3583,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Piculus chrysochloros,Picus chrysochloros,0.906,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Leuconotopicus fumigatus,Picus carolinus,0.5312,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Celeus undatus,Bucco chacuru,0.352,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Leuconotopicus arizonae,Dryobates arizonae,0.5206,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Psilopogon australis,Picus elegans,0.3654,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Leuconotopicus fumigatus,Bucco fuscus,0.5942,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Yungipicus temminckii,Dendrocopos temminckii,0.6336,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Psilopogon rubricapillus,Megalaima rubricapillus,0.6418,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Psilopogon australis,Bucco dubius,0.3481,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Aulacorhynchus sulcatus,Piculus auricularis,0.6665,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Pteroglossus bailloni,Baillonius bailloni,0.7455,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Gecinulus rafflesii,Dinopium rafflesii,0.763,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Veniliornis mixtus,Picoides mixtus,0.6329,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Yungipicus kizuki,Dendrocopos kizuki,0.7097,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Leuconotopicus fumigatus,Megalaima oorti,0.3751,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dryocopus martius,Dryobates stricklandi,0.5235,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Selenidera piperivora,Selenidera culik,0.6837,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Colaptes punctigula,Hylatomus galeatus,0.4541,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Chloropicus pyrrhogaster,Dendropicos pyrrhogaster,0.7148,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Picus sharpei,Gecinus sharpei,0.6712,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Leuconotopicus villosus,Picoides villosus,0.7152,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Lybius melanopterus,Picus arcticus,0.5284,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dryobates cathpharius,Geopicus chrysoides,0.474,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Veniliornis callonotus,Picus callonotus,0.7185,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Chloropicus pyrrhogaster,Thripias pyrrhogaster,0.718,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Psilopogon rafflesii,Megalaima rafflesii,0.6524,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Veniliornis affinis,Dryobates affinis,0.5466,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Aulacorhynchus albivitta,Pteroglossus albivitta,0.7014,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Celeus galeatus,Megalaima henricii,0.3859,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Leuconotopicus villosus,Dendrocopos villosus,0.6474,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Veniliornis kirkii,Dryobates kirkii,0.6747,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dendrocopos noguchii,Sapheopipo noguchii,0.7342,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Lybius bidentatus,Bucco niger,0.3539,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dryocopus lineatus,Picus lineatus,0.6659,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Hemicircus concretus,Picus concretus,0.6763,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Leuconotopicus borealis,Thripias xantholophus,0.3884,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Chloropicus namaquus,Dendropicos namaquus,0.7145,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dendrocoptes medius,Dendropicos medius,0.8868,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Pteroglossus aracari,Megalaima franklinii,0.3637,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dendrocopos noguchii,Picoides minor,0.4132,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Melanerpes lewis,Ramphastos aracari,0.3108,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Psilopogon lineatus,Megalaima lineata,0.4853,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Psilopogon lagrandieri,Picus arizonae,0.3079,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Yungipicus kizuki,Megalaima australis,0.3524,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dendrocoptes dorae,Dendrocopos dorae,0.9246,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Celeus undatus,Picus mentalis,0.4687,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Piculus flavigula,Picus flavigula,0.8719,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Campephilus principalis,Verreauxia africana,0.3856,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Colaptes rubiginosus,Picus rubiginosus,0.7041,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Micropternus brachyurus,Hylatomus schulzii,0.4851,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dendrocoptes medius,Picus pileatus,0.3974,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Chloropicus namaquus,Megalaima rafflesii,0.4173,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Leuconotopicus villosus,Dryobates villosus,0.6131,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Monasa atra,Cuculus ater,0.4199,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dendrocoptes medius,Leiopicus medius,0.5847,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Leuconotopicus borealis,Pteroglossus albivitta,0.3816,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dendrocopos major,Dryobates major,0.6311,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Psilopogon oorti,Megalaima oorti,0.5634,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Brachygalba lugubris,Galbula lugubris,0.7976,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Melanerpes lewis,Picus lewis,0.6701,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Notharchus macrorhynchos,Bucco macrorhynchos,0.6801,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Colaptes punctigula,Picus punctigula,0.6481,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Psilopogon armillaris,Selenidera culik,0.327,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Chrysophlegma miniaceum,Picus percussus,0.3164,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Melanerpes aurifrons,Centurus aurifrons,0.6622,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Piculus chrysochloros,Neanis kistneri,0.3126,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Psilopogon lagrandieri,Megalaima lagrandieri,0.6584,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Leuconotopicus fumigatus,Picus canicapillus,0.6661,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dryocopus martius,Picus martius,0.685,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Psilopogon faiostrictus,Dryobates chocoensis,0.4913,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Campephilus melanoleucos,Picus lecotos,0.4796,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Bucco noanamae,Nystactes noanamae,0.6795,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Capitonides europeus,Cyphos macrodactylus,0.328,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dendropicos griseocephalus,Dryobates major,0.4137,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Bucco tamatia,Nystactes tamatia,0.6055,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Gecinulus rafflesii,Mesopicus cassini,0.4189,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Veniliornis chocoensis,Picoides nuttallii,0.4731,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Picumnus minutissimus,Dryocopus major,0.4308,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Veniliornis frontalis,Dryobates frontalis,0.5742,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Psilopogon faiostrictus,Megalaima faiostricta,0.5578,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dendrocoptes auriceps,Dendrocopos auriceps,0.9319,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Colaptes auricularis,Dendrocopos mahrattensis,0.5057,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Leiopicus mahrattensis,Picus sanguineus,0.5125,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Pteroglossus viridis,Cloronerpes frontalis,0.5058,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dendrocoptes dorae,Megalaima corvina,0.3914,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Picus canus,Pincus canus,0.8504,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Leuconotopicus villosus,Picus villosus,0.7594,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Picumnus exilis,Pteroglossus culik,0.5816,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Aulacorhynchus atrogularis,Hylatomus pileatus,0.626,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Pteroglossus viridis,Ramphastos viridis,0.6906,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dendrocopos syriacus,Dendrocopos villosus,0.7205,synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Melanerpes herminieri,Dryobates arizonae,0.3637,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dendrocopos major,Picus superciliaris,0.3905,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dendrocopos syriacus,Picus syriacus,0.688,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dendrocopos leucotos,Picus leucotos,0.7076,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Chloropicus xantholophus,Dendropicos xantholophus,0.7635,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Yungipicus temminckii,Picus flavinucha,0.3243,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Celeus grammicus,Picus grammicus,0.6752,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Colaptes rivolii,Dendropicos dorae,0.4351,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Aulacorhynchus prasinus,Pteroglossus prasinus,0.6049,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Psilopogon oorti,Picus minor,0.3471,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Leuconotopicus fumigatus,Veniliornis fumigatus,0.7487,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Melanerpes lewis,Asyndesmus lewis,0.7251,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Veniliornis kirkii,Picus kirkii,0.6525,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Veniliornis mixtus,Picus minutissimus,0.496,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Colaptes rubiginosus,Piculus rubiginosus,0.745,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Veniliornis maculifrons,Megalaima zeylanica,0.3983,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dendrocopos major,Dryobates villosus,0.495,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Veniliornis passerinus,Picus maculifrons,0.5055,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Psilopogon franklinii,Megalaima franklinii,0.6717,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Melanerpes superciliaris,Bucco tectus,0.384,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Chloropicus xantholophus,Leiopicus auriceps,0.4839,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Aulacorhynchus prasinus,Ramphastos piperivorus,0.5493,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Psilopogon eximius,Megalaima eximia,0.5502,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Leuconotopicus albolarvatus,Dendrocopos albolarvatus,0.6682,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dendrocoptes medius,Picoides medius,0.6535,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Colaptes campestris,Picus campestris,0.6962,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Selenidera piperivora,Dryobates fumigatus,0.3441,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dendrocoptes medius,Picus medius,0.6011,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Selenidera piperivora,Ramphastos piperivorus,0.7033,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Leuconotopicus albolarvatus,Picoides albolarvatus,0.7254,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dryobates scalaris,Picus medius,0.4117,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Picoides tridactylus,Picus tridactylus,0.8341,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Campephilus melanoleucos,Picus torquatus,0.4762,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dryocopus schulzii,Hylatomus schulzii,0.7058,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Yungipicus temminckii,Dinopium rafflesii,0.4471,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Leuconotopicus arizonae,Picus arizonae,0.7155,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dendrocoptes medius,Dendrocopos medius,0.9123,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Malacoptila fusca,Bucco fuscus,0.6089,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dendropicos obsoletus,Picus noguchii,0.4715,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Leuconotopicus borealis,Dendrocopos borealis,0.6458,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Yungipicus temminckii,Picoides pubescens,0.4721,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dryocopus pileatus,Picus pileatus,0.6702,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Celeus galeatus,Picus galeatus,0.7051,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Psilopogon javensis,Megalaima javensis,0.6759,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Xiphidiopicus percussus,Pteroglossus spec,0.4321,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Psilopogon rafflesii,Picus varius,0.3861,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Pteroglossus viridis,Picus nigriceps,0.5186,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dendrocoptes medius,Dryocopus galeatus,0.5522,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Capitonides europeus,Picus passerinus,0.4308,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Jacamerops aureus,Cryptolybia olivacea,0.4224,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dryobates minor,Dryobates dignus,0.7636,synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dryobates minor,Dendrocopos minor,0.6107,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Reinwardtipicus validus,Dryobates spilogaster,0.4679,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Lybius dubius,Bucco dubius,0.6516,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Melanerpes aurifrons,Piculus rivolii,0.4073,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Capitonides protractus,Trachyphonus protractus,0.5598,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dryobates nuttallii,Dendrocopos nuttallii,0.7423,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Capito niger,Picus rubiginosus,0.4371,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Psilopogon zeylanicus,Picus aurulentus,0.4319,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Aulacorhynchus caeruleogularis,Picus erythrocephalus,0.5839,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Psilopogon eximius,Dendrocopos cathpharius,0.4097,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Veniliornis mixtus,Picus lignarius,0.5389,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Chloropicus xantholophus,Veniliornis fumigatus,0.5469,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dryobates pubescens,Dryobates mixtus,0.748,synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Micropternus brachyurus,Picus concretus,0.5114,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Buccanodon duchaillui,Dendrocopos albolarvatus,0.4201,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Leiopicus mahrattensis,Dendrocopos mahrattensis,0.6354,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Celeus elegans,Picus elegans,0.6563,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Leuconotopicus borealis,Picoides major,0.3886,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Bucco macrodactylus,Centurus uropygialis,0.4426,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Veniliornis chocoensis,Picus formicivorus,0.4875,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dryobates scalaris,Barbatula duchaillui,0.4654,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Veniliornis spilogaster,Picus stricklandi,0.4262,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Nystalus chacuru,Bucco chacuru,0.59,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dryocopus pileatus,Picumnus dorbygnianus,0.5304,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Colaptes chrysoides,Geopicus chrysoides,0.7077,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dendropicos griseocephalus,Mesopicos griseocephalus,0.8341,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Psilopogon flavifrons,Megalaima flavifrons,0.6749,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Veniliornis mixtus,Aulacorhamphus whitelianus,0.4781,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Capito niger,Bucco niger,0.6459,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Gecinulus rafflesii,Chloropicoides rafflesii,0.701,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dryocopus pileatus,Ceophloeus pileatus,0.6054,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Psilopogon armillaris,Dendrocopos nuttallii,0.3561,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Lybius dubius,Pogonornis dubius,0.629,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dendrocoptes medius,Picus leucotos,0.4243,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Xiphidiopicus percussus,Centurus superciliaris,0.3963,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dryobates minor,Picoides minor,0.5648,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Monasa nigrifrons,Dryobates lignarius,0.3708,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Pteroglossus bailloni,Cyrilavis olsoni,0.3925,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Leuconotopicus stricklandi,Picus stricklandi,0.74,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Yungipicus moluccensis,Picus lineatus,0.4427,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dendrocopos leucotos,Picus candidus,0.5239,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dryobates pubescens,Picus pubescens,0.6031,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Yungipicus maculatus,Picus villosus,0.4566,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Veniliornis mixtus,Dryobates mixtus,0.6144,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Leuconotopicus albolarvatus,Megalaima mystacophanos,0.45,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Piculus aurulentus,Picus aurulentus,0.8726,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Melanerpes lewis,Dryobates kirkii,0.3587,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Melanerpes superciliaris,Bathoceleus hyphalus,0.4356,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Bucco macrodactylus,Argicus macrodactylus,0.6452,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Celeus undatus,Picus undatus,0.7322,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Primobucco olsoni,Cyrilavis olsoni,0.6916,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Aulacorhynchus whitelianus,Aulacorhamphus whitelianus,0.9371,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Veniliornis frontalis,Cloronerpes frontalis,0.6323,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Veniliornis callonotus,Dryobates callonotus,0.6369,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Chrysophlegma mentale,Picus mentalis,0.4564,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dendrocoptes dorae,Dendropicos dorae,0.8914,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Stactolaema olivacea,Picoides medius,0.3678,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dendropicos griseocephalus,Leiopicus medius,0.5519,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Stactolaema olivacea,Cryptolybia olivacea,0.6323,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Leuconotopicus arizonae,Picoides arizonae,0.6819,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Veniliornis sanguineus,Picus sanguineus,0.6974,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Chelidoptera tenebrosa,Cuculus tenebrosus,0.6848,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Psilopogon incognitus,Dendropicos medius,0.4159,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dryobates minor,Alcedo spec,0.3288,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Chloropicus xantholophus,Thripias xantholophus,0.7337,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Veniliornis lignarius,Picus lignarius,0.702,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Nonnula rubecula,Picoides scalaris,0.3903,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Psilopogon mystacophanos,Megalaima mystacophanos,0.735,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dryobates minor,Dryobates frontalis,0.7726,synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Leuconotopicus borealis,Pteroglossus atrogularis,0.5023,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Colaptes punctigula,Pulchrapollia olsoni,0.458,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Pteroglossus aracari,Ramphastos aracari,0.752,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dendrocoptes medius,Pteroglossus prasinus,0.5084,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Pteroglossus aracari,Megalaima eximia,0.4481,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Leuconotopicus borealis,Picus borealis,0.7309,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Lybius minor,Pogonornis minor,0.5001,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Veniliornis lignarius,Thripias namaquus,0.4529,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Psilopogon viridis,Megalaima viridis,0.6342,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Chrysophlegma miniaceum,Picus mineaceus,0.3408,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Leuconotopicus borealis,Dryobates borealis,0.6379,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Bucco macrodactylus,Picus mixtus,0.4424,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Psilopogon zeylanicus,Megalaima zeylanica,0.5678,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Picumnus dorbignyanus,Picumnus dorbygnianus,0.9604,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Veniliornis nigriceps,Dryobates nigriceps,0.6414,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Veniliornis chocoensis,Dryobates chocoensis,0.5988,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Psilopogon chrysopogon,Picoides moluccensis,0.4825,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Lybius melanopterus,Asyndesmus lewis,0.4734,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Psilopogon henricii,Megalaima henricii,0.6185,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dendrocoptes auriceps,Megalaima chrysopogon,0.3454,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Veniliornis affinis,Picus affinis,0.6343,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Chrysophlegma miniaceum,Dendrocopos obsoletus,0.3056,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Galbula galbula,Alcedo spec,0.2734,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Chrysophlegma miniaceum,Picoides canicapillus,0.3793,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dryobates scalaris,Dryobates maculifrons,0.7045,synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Colaptes auricularis,Piculus auricularis,0.7032,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dryobates minor,Picus miniaceus,0.3647,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dendropicos obsoletus,Picoides obsoletus,0.7369,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Picumnus exilis,Picus exilis,0.7958,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dryobates scalaris,Picoides scalaris,0.5732,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dryobates minor,Picus minor,0.5031,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dendrocopos major,Pogonornis bidentatus,0.4128,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Aulacorhynchus atrogularis,Pteroglossus atrogularis,0.6502,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Psilopogon faber,Picus herminieri,0.3323,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dendrocoptes dorae,Megalaima pulcherrima,0.3876,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Picumnus minutissimus,Picus minutissimus,0.837,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Melanerpes superciliaris,Picus ruber,0.3837,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Yungipicus canicapillus,Picoides canicapillus,0.7034,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dendrocopos noguchii,Picus noguchii,0.6833,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Veniliornis lignarius,Picoides lignarius,0.6749,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Yungipicus kizuki,Picus pubescens,0.4707,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Pteroglossus viridis,Megalaima monticola,0.3896,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Nystalus chacuru,Dendrocopos anglicus,0.4114,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Psilopogon zeylanicus,Thereiceryx zeylanicus,0.6655,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Psilopogon rafflesii,Chloronerpes dignus,0.422,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dendrocopos major,Picus flavus,0.4162,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Lybius minor,Thripias pyrrhogaster,0.3102,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Yungipicus temminckii,Leuconerpes albolarvatus,0.4007,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Nonnula rubecula,Bucco rubecula,0.6736,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Psilopogon nuchalis,Megalaima nuchalis,0.6413,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Psilopogon virens,Megalaima virens,0.6142,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Chelidoptera tenebrosa,Dryobates passerinus,0.4342,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Psilopogon mystacophanos,Megalaima lagrandieri,0.2646,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Pteroglossus viridis,Baillonius bailloni,0.356,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Bucco noanamae,Bucco macrorhynchos,0.6612,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Primobucco olsoni,Megalaima lineata,0.3114,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Galbula galbula,Chrysocolaptes validus,0.3514,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Psilopogon javensis,Venilornis fumigatus,0.476,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Yungipicus moluccensis,Dendrocopos temminckii,0.407,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Psilopogon incognitus,Megalaima incognita,0.6051,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Colaptes auratus,Cuculus auratus,0.7325,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Veniliornis maculifrons,Picus maculifrons,0.7197,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Caloramphus fuliginosus,Calorhamphus fuliginosus,0.9464,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Veniliornis callonotus,Picus major,0.3911,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Psilopogon asiaticus,Megalaima asiatica,0.665,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Chelidoptera tenebrosa,Picumnus fulvescens,0.3916,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Chrysophlegma miniaceum,Dendrocopos canicapillus,0.3511,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Leuconotopicus stricklandi,Dryobates stricklandi,0.634,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Veniliornis spilogaster,Picus spilogaster,0.6262,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Celeus galeatus,Dendrocopos medius,0.3433,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Selenidera piperivora,Pteroglossus culik,0.3778,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Veniliornis affinis,Picus melanoleucos,0.4644,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dendrocoptes medius,Alcedo aurea,0.3572,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Veniliornis passerinus,Dryobates passerinus,0.5901,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Melanerpes herminieri,Picus herminieri,0.6932,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Psilopogon monticola,Megalaima monticola,0.722,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Veniliornis dignus,Dryobates dignus,0.5338,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Psilopogon flavifrons,Picoides kizuki,0.2807,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Picus sharpei,Ceophloeus pileatus,0.5546,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Leuconotopicus albolarvatus,Leuconerpes albolarvatus,0.8705,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Colaptes auricularis,Dendrocopos arizonae,0.4893,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Leuconotopicus fumigatus,Trachyphonus protractus,0.5506,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Veniliornis spilogaster,Dryobates spilogaster,0.5913,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Psilopogon nuchalis,Picoides borealis,0.4753,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dryobates scalaris,Dendrocopos maculatus,0.5143,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Bucco capensis,Bucco collaris,0.7784,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Yungipicus canicapillus,Dendrocopos canicapillus,0.6502,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Gecinulus rafflesii,Picus tridactylus,0.4424,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Melanerpes uropygialis,Centurus uropygialis,0.6363,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Leuconotopicus stricklandi,Dendrocopos dorae,0.3487,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Pardipicus caroli,Picus affinis,0.4209,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Colaptes rivolii,Piculus rivolii,0.7361,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Chloropicus namaquus,Asyndesmus lewisi,0.3598,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Leuconotopicus fumigatus,Bucco nigrifrons,0.4548,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dryobates scalaris,Dendrocopos scalaris,0.6201,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Yungipicus kizuki,Gecinus sharpei,0.4155,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dryobates pubescens,Pogonornis minor,0.3651,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Veniliornis spilogaster,Celeus brachyurus,0.4399,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Bucco macrodactylus,Cyphos macrodactylus,0.744,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Sphyrapicus ruber,Picus ruber,0.6341,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Veniliornis nigriceps,Hylatomus lineatus,0.3915,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Veniliornis passerinus,Picus passerinus,0.6672,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Psilopogon monticola,Megalaima javensis,0.3835,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Chloropicus namaquus,Thripias namaquus,0.6978,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Psilopogon eximius,Megalaima haemacephala,0.4228,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Psilopogon armillaris,Megalaima armillaris,0.6352,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dryobates pubescens,Argicus macrodactylus,0.3874,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Campephilus melanoleucos,Picus melanoleucos,0.7231,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Chrysophlegma flavinucha,Picus flavinucha,0.6212,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Primobucco kistneri,Neanis kistneri,0.7124,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Veniliornis nigriceps,Picus nigriceps,0.7035,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Nystalus chacuru,Dryobates borealis,0.3006,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Notharchus tectus,Bucco tectus,0.5,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Pardipicus nivosus,Ramphastos viridis,0.4763,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Yungipicus moluccensis,Picoides moluccensis,0.6946,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Psilopogon lagrandieri,Picus flavigula,0.4015,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dryobates cathpharius,Megalaima viridis,0.3724,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Primobucco olsoni,Pulchrapollia olsoni,0.7329,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Chelidoptera tenebrosa,Dryobates cassini,0.4218,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dendrocoptes dorae,Megalaima flavifrons,0.385,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Psilopogon australis,Megalaima australis,0.5707,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Stactolaema olivacea,Dendrocopos auriceps,0.4515,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dryocopus schulzii,Dryobates nigriceps,0.5582,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Chloropicus xantholophus,Piculus rubiginosus,0.5269,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Melanerpes candidus,Dendrocopos borealis,0.458,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Chelidoptera tenebrosa,Pteroglossus sulcatus,0.4768,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dendrocoptes dorae,Picus exilis,0.4233,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dendrocopos leucotos,Picus lecotos,0.6556,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dryobates nuttallii,Picoides nuttallii,0.7184,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Dendrocopos major,Dendrocopos anglicus,0.7849,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Leuconotopicus albolarvatus,Picus mahrattensis,0.5845,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Leuconotopicus borealis,Picoides borealis,0.7098,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Leiopicus mahrattensis,Dryobates comminutus,0.3642,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Melanerpes superciliaris,Picus superciliaris,0.6306,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Veniliornis mixtus,Megalaima virens,0.4914,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Colaptes rubiginosus,Picus striatus,0.5138,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Psilopogon zeylanicus,Bucco zeylanicus,0.6398,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Psilopogon javensis,Trachylaemus purpuratus,0.5328,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dryocopus pileatus,Hylatomus pileatus,0.6224,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Yungipicus moluccensis,Nystactes tamatia,0.3884,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Yungipicus moluccensis,Dendrocopos moluccensis,0.6353,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Campephilus principalis,Picus principalis,0.6811,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Pardipicus nivosus,Campethera nivosa,0.5937,not synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Leuconotopicus stricklandi,Picoides stricklandi,0.7256,synonym,BAAI/bge-large-zh-v1.5,0.7,1
+Psilopogon corvinus,Picoides temminckii,0.469,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Dendrocoptes auriceps,Picus fumigatus,0.4131,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Xiphidiopicus percussus,Megalaima armillaris,0.317,not synonym,BAAI/bge-large-zh-v1.5,0.7,0
+Leuconotopicus fumigatus,Picus fumigatus,0.7321,synonym,BAAI/bge-large-zh-v1.5,0.7,1
