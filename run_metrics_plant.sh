@@ -82,20 +82,20 @@
 
 
 
-# python src/evaluation/metric.py \
-#   --input_folder results_plant/ModernBERT-large/ \
-#   --output_file results_plant/ModernBERT-large/metrics_summary.csv
+python src/evaluation/metric.py \
+  --input_folder results_plant/ModernBERT-large/ \
+  --output_file results_plant/ModernBERT-large/metrics_summary.csv
 
 
 # python src/evaluation/metric.py \
 #   --input_folder results_plant/ModernBERT-bio-large/ \
 #   --output_file results_plant/ModernBERT-bio-large/metrics_summary.csv
 
-python src/evaluation/metric.py \
-  --input_folder results_plant/gpt2/ \
-  --output_file results_plant/gpt2/metrics_summary.csv
+# python src/evaluation/metric.py \
+#   --input_folder results_plant/gpt2/ \
+#   --output_file results_plant/gpt2/metrics_summary.csv
 
 
-python src/evaluation/metric.py \
-  --input_folder results_plant/gpt2-medium/ \
-  --output_file results_plant/gpt2-medium/metrics_summary.csv
+# python src/evaluation/metric.py \
+#   --input_folder results_plant/gpt2-medium/ \
+#   --output_file results_plant/gpt2-medium/metrics_summary.csv

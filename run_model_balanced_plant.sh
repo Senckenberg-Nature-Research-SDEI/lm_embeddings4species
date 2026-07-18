@@ -39,7 +39,7 @@ MODELS=(
 # "BAAI/bge-large-zh-v1.5|bge-large-zh-v1.5"
 # "BAAI/bge-large-en|bge-large-en"
 # "BAAI/llm-embedder|llm-embedder"
-"BAAI/bge-reranker-v2-m3|bge-reranker-v2-m3"
+# "BAAI/bge-reranker-v2-m3|bge-reranker-v2-m3"
 # "BAAI/bge-reranker-v2-gemma|bge-reranker-v2-gemma"
 # "BAAI/bge-reranker-large|bge-reranker-large"
 # "BAAI/bge-reranker-base|bge-reranker-base"
