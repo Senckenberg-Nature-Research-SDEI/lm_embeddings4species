@@ -3,6 +3,8 @@
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![GBIF](https://img.shields.io/badge/Data-GBIF-orange.svg)](https://www.gbif.org/)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
+[![Zenodo](https://img.shields.io/badge/Zenodo-19650827-blue.svg)](https://zenodo.org/records/21335351)
+
 ![LM Embeddings 4 Species](assets/readme_logo.svg)
 
 This repository evaluates pretrained transformer-based language model embeddings for identifying synonym relationships between legacy and currently accepted species names in biodiversity datasets.
