@@ -7,12 +7,14 @@
 
 ![LM Embeddings 4 Species](assets/readme_logo.svg)
 
+
+* Note The paper on the experiments was accepted by the Ontology Matching Workshop co-located with ISWC'26 in Bari, Italy.
+
 This repository evaluates pretrained transformer-based language model embeddings for identifying synonym relationships between legacy and currently accepted species names in biodiversity datasets.
 
 Rather than training a task-specific classifier, species names are embedded using a variety of pretrained language models and compared using cosine similarity. Synonym detection is performed using a fixed similarity threshold, providing a simple zero-shot evaluation of embedding quality for taxonomic name matching.
 
 Experiments were conducted on balanced Coleoptera and Lepidoptera datasets derived from biodiversity taxonomic resources. The benchmark compares scientific, biomedical, retrieval-oriented, and general-purpose embedding models for their ability to distinguish synonym and non-synonym species name pairs without any fine-tuning.
-
 ## Features
 
 * Taxonomic name embedding generation
