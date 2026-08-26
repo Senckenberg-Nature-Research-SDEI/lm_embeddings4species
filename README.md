@@ -8,7 +8,7 @@
 ![LM Embeddings 4 Species](assets/readme_logo.svg)
 
 
-* Note The paper on the experiments was accepted by the Ontology Matching Workshop co-located with ISWC'26 in Bari, Italy.
+* Note: The paper on the experiments was accepted by the Ontology Matching Workshop co-located with ISWC'26 in Bari, Italy.
 
 This repository evaluates pretrained transformer-based language model embeddings for identifying synonym relationships between legacy and currently accepted species names in biodiversity datasets.
 
